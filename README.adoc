@@ -1,0 +1,29 @@
+= Library of Congress MODS in Ruby
+
+image:https://img.shields.io/gem/v/loc-mods.svg["Gem Version", link="https://rubygems.org/gems/loc-mods"]
+image:https://github.com/relaton/loc-mods/workflows/rake/badge.svg["Build Status", link="https://github.com/relaton/loc-mods/actions?workflow=rake"]
+image:https://codeclimate.com/github/relaton/loc-mods/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/loc-mods"]
+
+== Purpose
+
+This is a class-oriented Ruby library that parses LOC's MOD data.
+
+This gem is developed using the MODS 3.7 XSD schema.
+
+== Usage
+
+[source,ruby]
+----
+require 'loc-mods'
+
+# Single record under `<modsCollection>`
+LocMods::Collection.from_xml(File.read("spec/fixtures/record_1.xml"))
+
+# Full NIST Tech Pubs records
+# https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages/xml
+LocMods::Collection.from_xml(File.read("reference/allrecords-MODS.xml"))
+----
+
+== License
+
+Copyright Ribose.
