@@ -19,7 +19,7 @@ module LocMods
 
     xml do
       root "languageOfCataloging"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "objectPart", to: :object_part
       map_attribute "lang", to: :lang

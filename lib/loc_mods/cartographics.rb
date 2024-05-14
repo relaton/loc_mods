@@ -10,14 +10,14 @@ module LocMods
     attribute :authority, Shale::Type::String
     attribute :authority_uri, Shale::Type::Value
     attribute :value_uri, Shale::Type::Value
-    attribute :scale, StringPlusLanguage
-    attribute :projection, StringPlusLanguage
-    attribute :coordinates, StringPlusLanguage, collection: true
+    attribute :scale, Shale::Type::String
+    attribute :projection, Shale::Type::String
+    attribute :coordinates, Shale::Type::String, collection: true
     attribute :cartographic_extension, CartographicExtension, collection: true
 
     xml do
       root "cartographics"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "authority", to: :authority
       map_attribute "authorityURI", to: :authority_uri

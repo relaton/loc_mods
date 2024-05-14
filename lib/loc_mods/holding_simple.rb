@@ -10,7 +10,7 @@ module LocMods
 
     xml do
       root "holdingSimple"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_element "copyInformation", to: :copy_information
     end

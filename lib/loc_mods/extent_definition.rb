@@ -7,14 +7,14 @@ require_relative "string_plus_language"
 module LocMods
   class ExtentDefinition < Shale::Mapper
     attribute :unit, Shale::Type::String
-    attribute :start, StringPlusLanguage
-    attribute :end, StringPlusLanguage
+    attribute :start, Shale::Type::String
+    attribute :end, Shale::Type::String
     attribute :total, Shale::Type::Integer
-    attribute :list, StringPlusLanguage
+    attribute :list, Shale::Type::String
 
     xml do
       root "extentDefinition"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "unit", to: :unit
       map_element "start", to: :start

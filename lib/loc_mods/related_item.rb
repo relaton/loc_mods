@@ -54,7 +54,7 @@ module LocMods
 
     xml do
       root "relatedItem"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "type", to: :type
       map_attribute "otherType", to: :other_type

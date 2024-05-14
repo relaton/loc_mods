@@ -9,7 +9,7 @@ module LocMods
 
     xml do
       root "cartographicExtension"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_content to: :content
       map_attribute "displayLabel", to: :display_label

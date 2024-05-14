@@ -20,20 +20,25 @@ module LocMods
     attribute :display_label, Shale::Type::String
     attribute :alt_rep_group, Shale::Type::String
     attribute :name_title_group, Shale::Type::String
-    attribute :usage, Shale::Type::Value
+    attribute :usage, Shale::Type::String
     attribute :type, Shale::Type::String
     attribute :name_part, NamePart, collection: true
-    attribute :display_form, StringPlusLanguage, collection: true
-    attribute :affiliation, StringPlusLanguage, collection: true
+    attribute :display_form, Shale::Type::String, collection: true
+    attribute :affiliation, Shale::Type::String, collection: true
     attribute :role, Role, collection: true
-    attribute :description, StringPlusLanguage, collection: true
+    attribute :description, Shale::Type::String, collection: true
     attribute :name_identifier, Identifier, collection: true
     attribute :alternative_name, AlternativeName, collection: true
-    attribute :etal, StringPlusLanguage
+    attribute :etal, Shale::Type::String
+    attribute :href, Shale::Type::String
 
     xml do
       root "name"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
+
+      map_attribute "href", to: :href,
+        namespace: "http://www.w3.org/1999/xlink",
+        prefix: "xlink"
 
       map_attribute "ID", to: :id
       map_attribute "authority", to: :authority
@@ -47,6 +52,7 @@ module LocMods
       map_attribute "nameTitleGroup", to: :name_title_group
       map_attribute "usage", to: :usage
       map_attribute "type", to: :type
+
       map_element "namePart", to: :name_part
       map_element "displayForm", to: :display_form
       map_element "affiliation", to: :affiliation

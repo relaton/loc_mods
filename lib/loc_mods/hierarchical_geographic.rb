@@ -16,7 +16,7 @@ module LocMods
     attribute :extra_terrestrial_area, HierarchicalPart, collection: true
     attribute :continent, HierarchicalPart, collection: true
     attribute :country, HierarchicalPart, collection: true
-    attribute :province, StringPlusLanguage, collection: true
+    attribute :province, Shale::Type::String, collection: true
     attribute :region, Region, collection: true
     attribute :state, HierarchicalPart, collection: true
     attribute :territory, HierarchicalPart, collection: true
@@ -28,7 +28,7 @@ module LocMods
 
     xml do
       root "hierarchicalGeographic"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "authority", to: :authority
       map_attribute "authorityURI", to: :authority_uri

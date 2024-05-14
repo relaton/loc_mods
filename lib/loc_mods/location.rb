@@ -16,14 +16,14 @@ module LocMods
     attribute :display_label, Shale::Type::String
     attribute :alt_rep_group, Shale::Type::String
     attribute :physical_location, PhysicalLocation, collection: true
-    attribute :shelf_locator, StringPlusLanguage, collection: true
+    attribute :shelf_locator, Shale::Type::String, collection: true
     attribute :url, Url, collection: true
     attribute :holding_simple, HoldingSimple
     attribute :holding_external, CartographicExtension
 
     xml do
       root "location"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "lang", to: :lang
       map_attribute "script", to: :script

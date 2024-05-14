@@ -6,7 +6,7 @@ require_relative "string_plus_language"
 
 module LocMods
   class Date < Shale::Mapper
-    attribute :content, StringPlusLanguage
+    attribute :content, Shale::Type::String
     attribute :encoding, Shale::Type::String
     attribute :qualifier, Shale::Type::String
     attribute :point, Shale::Type::String
@@ -15,7 +15,7 @@ module LocMods
 
     xml do
       root "recordChangeDate"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_content to: :content
       map_attribute "encoding", to: :encoding

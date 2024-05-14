@@ -6,12 +6,12 @@ require_relative "string_plus_language"
 
 module LocMods
   class RecordIdentifier < Shale::Mapper
-    attribute :content, StringPlusLanguage
+    attribute :content, Shale::Type::String
     attribute :source, Shale::Type::String
 
     xml do
       root "recordIdentifier"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_content to: :content
       map_attribute "source", to: :source

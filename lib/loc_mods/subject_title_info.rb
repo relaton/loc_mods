@@ -15,15 +15,15 @@ module LocMods
     attribute :transliteration, Shale::Type::String
     attribute :display_label, Shale::Type::String
     attribute :type, Shale::Type::String
-    attribute :title, StringPlusLanguage, collection: true
-    attribute :sub_title, StringPlusLanguage, collection: true
-    attribute :part_number, StringPlusLanguage, collection: true
-    attribute :part_name, StringPlusLanguage, collection: true
-    attribute :non_sort, StringPlusLanguage, collection: true
+    attribute :title, Shale::Type::String, collection: true
+    attribute :sub_title, Shale::Type::String, collection: true
+    attribute :part_number, Shale::Type::String, collection: true
+    attribute :part_name, Shale::Type::String, collection: true
+    attribute :non_sort, Shale::Type::String, collection: true
 
     xml do
       root "subjectTitleInfo"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "ID", to: :id
       map_attribute "authority", to: :authority

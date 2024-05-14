@@ -10,7 +10,7 @@ module LocMods
 
     xml do
       root "role"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_element "roleTerm", to: :role_term
     end

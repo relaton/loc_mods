@@ -6,7 +6,7 @@ require_relative "string_plus_language_plus_authority"
 
 module LocMods
   class Classification < Shale::Mapper
-    attribute :content, StringPlusLanguagePlusAuthority
+    attribute :content, Shale::Type::String
     attribute :edition, Shale::Type::String
     attribute :display_label, Shale::Type::String
     attribute :alt_rep_group, Shale::Type::String
@@ -15,7 +15,7 @@ module LocMods
 
     xml do
       root "classification"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_content to: :content
       map_attribute "edition", to: :edition

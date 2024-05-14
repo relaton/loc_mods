@@ -24,7 +24,7 @@ module LocMods
 
     xml do
       root "part"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "ID", to: :id
       map_attribute "type", to: :type
