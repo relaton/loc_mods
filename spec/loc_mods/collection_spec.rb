@@ -6,6 +6,8 @@ RSpec.describe LocMods::Collection do
     expect(yaml).to_not be_nil
   end
 
+  # Only using limit of 100 for performance reasons, there are 20006 entries
+  # as of 2024-05-03
   limit = 100
   Dir.glob("spec/fixtures/allrecords-MODS-*.xml").each do |f|
     limit -= 1
