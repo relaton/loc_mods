@@ -6,7 +6,7 @@ require_relative "date"
 
 module LocMods
   class DateOther < Shale::Mapper
-    attribute :content, Date
+    attribute :content, Shale::Type::String
     attribute :type, Shale::Type::String
 
     xml do

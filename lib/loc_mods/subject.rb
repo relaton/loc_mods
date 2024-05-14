@@ -53,11 +53,12 @@ module LocMods
       map_attribute "displayLabel", to: :display_label
       map_attribute "altRepGroup", to: :alt_rep_group
       map_attribute "usage", to: :usage
+
+      map_element "name", to: :name
+      map_element "titleInfo", to: :title_info
       map_element "topic", to: :topic
       map_element "geographic", to: :geographic
       map_element "temporal", to: :temporal
-      map_element "titleInfo", to: :title_info
-      map_element "name", to: :name
       map_element "geographicCode", to: :geographic_code
       map_element "hierarchicalGeographic", to: :hierarchical_geographic
       map_element "cartographics", to: :cartographics

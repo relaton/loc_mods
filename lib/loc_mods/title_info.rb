@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require "shale"
+require_relative "non_sort"
 
 module LocMods
   class TitleInfo < Shale::Mapper
@@ -24,7 +25,7 @@ module LocMods
     attribute :sub_title, Shale::Type::String, collection: true
     attribute :part_number, Shale::Type::String, collection: true
     attribute :part_name, Shale::Type::String, collection: true
-    attribute :non_sort, Shale::Type::String, collection: true
+    attribute :non_sort, NonSort, collection: true
 
     xml do
       root "titleInfo"
@@ -46,11 +47,12 @@ module LocMods
       map_attribute "script", to: :script
       map_attribute "transliteration", to: :transliteration
       map_attribute "displayLabel", to: :display_label
+
+      map_element "nonSort", to: :non_sort
       map_element "title", to: :title
       map_element "subTitle", to: :sub_title
       map_element "partNumber", to: :part_number
       map_element "partName", to: :part_name
-      map_element "nonSort", to: :non_sort
     end
   end
 end

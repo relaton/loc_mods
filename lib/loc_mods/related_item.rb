@@ -40,7 +40,7 @@ module LocMods
     attribute :language, Language, collection: true
     attribute :location, Location, collection: true
     attribute :name, SubjectName, collection: true
-    attribute :note, PhysicalDescriptionNote, collection: true
+    attribute :note, Note, collection: true
     attribute :origin_info, OriginInfo, collection: true
     attribute :part, Part, collection: true
     attribute :physical_description, PhysicalDescription, collection: true
@@ -51,6 +51,7 @@ module LocMods
     attribute :target_audience, TargetAudience, collection: true
     attribute :title_info, TitleInfo, collection: true
     attribute :type_of_resource, TypeOfResource, collection: true
+    attribute :href, Shale::Type::String
 
     xml do
       root "relatedItem"
@@ -63,6 +64,10 @@ module LocMods
       map_attribute "otherTypeURI", to: :other_type_uri
       map_attribute "displayLabel", to: :display_label
       map_attribute "ID", to: :id
+      map_attribute "href", to: :href,
+                            namespace: "http://www.w3.org/1999/xlink",
+                            prefix: "xlink"
+
       map_element "abstract", to: :abstract
       map_element "accessCondition", to: :access_condition
       map_element "classification", to: :classification
