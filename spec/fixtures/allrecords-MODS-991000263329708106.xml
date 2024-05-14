@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Proceedings of the 11th Model-Based Enterprise Summit (MBE 2020)
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022027368">
+         <namePart>Hedberg, Thomas,</namePart>
+         <namePart type="termsOfAddress">Jr.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022027368</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022027368">
+         <namePart>Hedberg, Thomas,</namePart>
+         <namePart type="termsOfAddress">Jr.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022027368</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021149382">
+         <namePart>Carlisle, Mark.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021149382</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) hosted the
+                eleventh installment of the Model-Based Enterprise Summit (MBE 2020) on March 31
+                through April 2, 2020 in Gaithersburg, Maryland. The MBE 2020 witnessed another
+                year-over-year registration and attendance growth. The MBE Summit saw hundreds of
+                attendees gather over three days to share their experiences with Model-Based
+                Enterprise (MBE). This speaks to the continued growing interest of MBE within the
+                community and the importance of the Summit output. The goal of the MBE Summit is to
+                identify challenges, research, implementation issues, and lessons learned in design,
+                manufacturing, quality assurance, and sustainment of products and processes where a
+                digital three-dimensional (3D) model of the product serves as the authoritative
+                information source for all activities in a product's lifecycle. The theme of MBE
+                2020 was Increasing MBE Adoption and Implementation. There is no doubt that MBE
+                requires a complex organizational work design that recognizes the interaction
+                between people, skills, and technology in workplaces. The 11th MBE Summit is focused
+                on highlighting the organizational culture surrounding MBE, needs of people
+                operating in MBE, and real-world implementations of MBE in practice. Authors from
+                academia, government, and industry submitted papers on topics related to this year's
+                theme using the following tracks: 1) Business Processes; 2) Organization Culture; 3)
+                Technology; and 4) Workforce Skills. This volume contains the papers presented at
+                MBE 2020. The MBE 2020 program included four invited talks, five tutorials, five
+                panels, and 25 papers. In addition, the MBE 2020 program included a
+                vendor-demonstration track where solution providers and vendors demonstrated MBE
+                offerings.</abstract>
+      <note type="statement of responsibility">Thomas Hedberg, Jr.; Mark Carlisle.</note>
+      <note>April 2020.</note>
+      <note>Title from PDF title page (viewed May 2, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85131750">
+         <topic>Systems engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1141455">
+         <topic>Systems engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85037197">
+         <topic>Design</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/891253">
+         <topic>Design</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject>
+         <topic>Model-based enterprise</topic>
+      </subject>
+      <subject>
+         <topic>Digital transformation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-29</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-29</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858995</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200707054232.0</recordChangeDate>
+         <recordIdentifier>991000263329708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

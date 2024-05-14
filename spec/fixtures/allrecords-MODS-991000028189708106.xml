@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Model based enterprise / technical data package</title>
+         <subTitle>summit report</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113187">
+         <namePart>Lubell, Joshua.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021113187</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Chen, Kenway.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020102859">
+         <namePart>Horst, John.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020102859</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021110725">
+         <namePart>Frechette, Simon.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021110725</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015041998">
+         <namePart>Huang, Paul,</namePart>
+         <namePart type="date">1990-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015041998</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2012</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Department of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2012.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">This report summarizes the presentations, discussions and
+                recommendations of a workshop held at the National Institute of Standards and
+                Technology in December of 2011. The purpose of the workshop was to identify
+                challenges, research, and implementation issues in product design, manufacturing,
+                and quality assurance where a digital three-dimensional (3D) model of the product
+                serves as the authoritative information source for all activities in the product's
+                lifecycle. The report includes an overview of model-based engineering and its
+                technical challenges, summaries of the presentations given at the workshop, and
+                conclusions that emerged from the presentations and discussions.</abstract>
+      <note type="statement of responsibility">Joshua Lubell; Kenway Chen; John Horst; Simon Frechette; Paul
+                Huang.</note>
+      <note>August 2012</note>
+      <note>CODEN: NTNOEF</note>
+      <note type="bibliography">Includes bibliographical references pages 28-29.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85107216">
+         <topic>Production management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1078309">
+         <topic>Production management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1753</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1753</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">809273005</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">120906</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20120906044943.0</recordChangeDate>
+         <recordIdentifier>991000028189708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Wind-driven fire spread to a structure from fences and mulch
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Butler, Kathryn M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butler, Kathryn M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Johnsson, Erik L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Maranghides, Alexander.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nazare, Shonali.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fernandez, Marco.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zarzecki, Mariusz.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tang, Wei.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Auth, Eric.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McIntyre, Rachel.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pryor, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Saar, William.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McLaughlin, Colin.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-12-12.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource 363 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A series of field experiments was conducted to examine the effects on
+                fire spread toward a structure for combustible fences and mulch under conditions
+                that may be encountered in a wildland-urban interface (WUI) fire. The fire behavior
+                of a variety of materials, designs, and configurations were studied under various
+                wind conditions. The 187 experiments were split into five categories: mulch only,
+                fence only, fence plus mulch, parallel fences, and long range firebrand experiments.
+                Fence materials included western redcedar, California redwood, pine, vinyl, and
+                wood-plastic composites, and fence styles included privacy, lattice, and good
+                neighbor (board on board). The tested mulch types were shredded hardwood, mini pine
+                bark nuggets, pine straw, rubber, and artificial turf. A wind machine provided a
+                mean wind speed between 6 m/s and 14 m/s (13 mi/h to 31 mi/h). The fence and/or
+                mulch bed was ignited by a propane burner on the ground at the end farthest from the
+                structure. A small structure was located between 0 m and 1.83 m (0 ft to 6 ft)
+                downwind of the fence or mulch bed as a target for flames and firebrands. A target
+                mulch bed at the base of the structure tested the ability of firebrands produced by
+                the burning fence and mulch bed to ignite spot fires that threatened the
+                structure.</abstract>
+      <note type="statement of responsibility">Kathryn M. Butler; Erik L. Johnsson; Alexander Maranghides; Shonali
+                Nazare; Marco Fernandez; Mariusz Zarzecki; Wei Tang; Eric Auth; Rachel McIntyre;
+                Michael Pryor; William Saar; Colin McLaughlin.</note>
+      <note>December 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-12-12</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fences</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Mulching</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Wildland-urban interface</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fires</topic>
+      </subject>
+      <subject>
+         <topic>Fence fires</topic>
+      </subject>
+      <subject>
+         <topic>Parallel fences</topic>
+      </subject>
+      <subject>
+         <topic>Firebrands</topic>
+      </subject>
+      <subject>
+         <topic>Embers</topic>
+      </subject>
+      <subject>
+         <topic>Fire spread</topic>
+      </subject>
+      <subject>
+         <topic>Structural ignition</topic>
+      </subject>
+      <subject>
+         <topic>Structure vulnerability</topic>
+      </subject>
+      <subject>
+         <topic>Wildland-urban interface fires</topic>
+      </subject>
+      <subject>
+         <topic>Wind-driven fires</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2228-upd1</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.TN.2228" displayLabel="10.6028/NIST.TN.2228"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2228-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890314</identifier>
+      <identifier type="oclc">on1389890314</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111448.0</recordChangeDate>
+         <recordIdentifier>991000626243108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

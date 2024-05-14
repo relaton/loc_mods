@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Thermal calibration of commercial melt pool monitoring sensors on a
+                laser powder bed fusion system</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lane, Brandon.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lane, Brandon.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jacquemetton, Lars.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Piltch, Martin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Beckett, Darren.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (20 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Co-axial melt pool monitoring in laser powder bed fusion (LPBF)
+                additive manufacturing (AM) often utilizes various photodetectors to acquire signals
+                relatable to the dynamic thermal melt pool phenomena. In turn, it is expected that
+                these thermal signatures are relatable to the quality of the fabrication and can
+                therefore the final AM part. To relate these signal values to real, physical
+                temperatures, a thermal calibration must be done. However, the relatively high
+                temperatures and small size of typical LPBF melt pools cannot be easily replicated
+                by most thermal calibration sources. This paper describes a potential method for
+                thermal calibration, which uses a lower temperature, commercial off-the-shelf
+                calibration blackbody. The method calculates an ⁰́₈effective⁰́₉ temperature for a
+                hypothetical small source of any diameter, which would have the same radiance
+                temperature of the larger, lower temperature blackbody. The paper details the
+                theoretical rationale, provides a proof-of-concept calculation, then demonstrates
+                the procedures conducted on a commercial LPBF melt pool monitoring system. Finally,
+                while this method itself does not provide an absolute calibration nor ability to
+                ascribe real melt pool temperatures to the melt pool monitoring sensor signals,
+                discussion is provided that details the practical utility, details why the measured
+                calibration values are realistic, and describes future improvements to the
+                methodology.</abstract>
+      <note type="statement of responsibility">Brandon Lane; Lars Jacquemetton; Martin Piltch; Darren
+                Beckett.</note>
+      <note>July 2020.</note>
+      <note>Title from PDF title page (viewed July 16, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Additive manufacturing</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Temperature measuring instruments</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Fabrication additive</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Thermométrie</topic>
+         <topic>Instruments</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Additive manufacturing</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Temperature measuring instruments</topic>
+         <topic>Calibration</topic>
+      </subject>
+      <subject>
+         <topic>Laser powder bed fusion</topic>
+      </subject>
+      <subject>
+         <topic>Process monitoring</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-35</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-35</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1311601083</identifier>
+      <identifier type="oclc">on1311601083</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220421</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240212211032.4</recordChangeDate>
+         <recordIdentifier>991000625745308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

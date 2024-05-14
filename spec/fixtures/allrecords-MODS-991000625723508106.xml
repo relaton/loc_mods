@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Developing cyber-resilient systems</title>
+         <subTitle>a systems security engineering approach</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Ross, Ron.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ross, Ron.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pillitteri, Victoria.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Graubart, Richard.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bodeau, Deborah.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McQuaid, Rosalie.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-12-08.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (310 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST Special Publication (SP) 800-160, Volume 2, Revision 1, focuses
+                on cyber resiliency engineering an emerging specialty systems engineering discipline
+                applied in conjunction with systems security engineering and resilience engineering
+                to develop survivable, trustworthy secure systems. Cyber resiliency engineering
+                intends to architect, design, develop, implement, maintain, and sustain the
+                trustworthiness of systems with the capability to anticipate, withstand, recover
+                from, and adapt to adverse conditions, stresses, attacks, or compromises that use or
+                are enabled by cyber resources. From a risk management perspective, cyber resiliency
+                is intended to help reduce the mission, business, organizational, enterprise or
+                sector risk of depending on cyber resources. This publication can be used in
+                conjunction with ISO/IEC/IEEE 15288:2015, Systems and software engineering Systems
+                life cycle processes, NIST Special Publication (SP) 800-160, Volume 1, Systems
+                Security Engineering Considerations for a Multidisciplinary Approach in the
+                Engineering of Trustworthy Secure Systems, NIST SP 800-37, Risk Management Framework
+                for Information Systems and Organizations A System Life Cycle Approach for Security
+                and Privacy; and NIST SP 800-53, Security and Privacy Controls for Information
+                Systems and Organizations. It can be viewed as a handbook for achieving the
+                identified cyber resiliency outcomes based on a systems engineering perspective on
+                system life cycle and risk management processes, allowing the experience and
+                expertise of the implementing organization to help determine how the content will be
+                used for its purpose. Organizations can select, adapt, and use some or all of the
+                cyber resiliency constructs (i.e., goals, objectives, techniques, approaches, and
+                design principles) described in this publication and apply the constructs to the
+                technical, operational, and threat environments for which systems need to be
+                engineered.</abstract>
+      <note type="statement of responsibility">Ron Ross; Victoria Pillitteri; Richard Graubart; Deborah Bodeau;
+                Rosalie McQuaid.</note>
+      <note>December 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-12-08</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Trustworthiness</topic>
+      </subject>
+      <subject>
+         <topic>Advanced persistent threat</topic>
+      </subject>
+      <subject>
+         <topic>Cyber resiliency</topic>
+      </subject>
+      <subject>
+         <topic>Cyber resiliency approaches</topic>
+      </subject>
+      <subject>
+         <topic>Cyber resiliency design principles</topic>
+      </subject>
+      <subject>
+         <topic>Cyber resiliency engineering framework</topic>
+      </subject>
+      <subject>
+         <topic>Cyber resiliency goals</topic>
+      </subject>
+      <subject>
+         <topic>Cyber resiliency objectives</topic>
+      </subject>
+      <subject>
+         <topic>Cyber resiliency techniques</topic>
+      </subject>
+      <subject>
+         <topic>Risk management strategy</topic>
+      </subject>
+      <subject>
+         <topic>System life cycle</topic>
+      </subject>
+      <subject>
+         <topic>Systems security engineering</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-160v2r1</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.SP.800-160v2" displayLabel="10.6028/NIST.SP.800-160v2"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-160v2r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890154</identifier>
+      <identifier type="oclc">on1389890154</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111427.0</recordChangeDate>
+         <recordIdentifier>991000625723508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Trustworthy email</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2011193200">
+         <namePart>Rose, Scott.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011193200</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011193200">
+         <namePart>Rose, Scott.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011193200</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022064507">
+         <namePart>Nightingale, Stephen.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022064507</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Garfinkel, Simson L.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2003002931">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2003002931</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document gives recommendations and guidelines for enhancing
+                trust in email. The primary audience includes enterprise email administrators,
+                information security specialists and network managers. This guideline applies to
+                federal IT systems and will also be useful for small or medium sized organizations.
+                Technologies recommended in support of core Simple Mail Transfer Protocol (SMTP) and
+                the Domain Name System (DNS) include mechanisms for authenticating a sending domain:
+                Sender Policy Framework (SPF), Domain Keys Identified Mail (DKIM) and Domain based
+                Message Authentication, Reporting and Conformance (DMARC). Recommendations for email
+                transmission security include Transport Layer Security (TLS) and associated
+                certificate authentication protocols. Recommendations for email content security
+                include the encryption and authentication of message content using S/MIME
+                (Secure/Multipurpose Internet Mail Extensions) and associated certificate and key
+                distribution protocols.</abstract>
+      <note type="statement of responsibility">Scott Rose; Stephen Nightingale; Simson L. Garfinkel; Ramaswamy
+                Chandramouli.</note>
+      <note>Title from PDF title page (viewed September 27, 2016).</note>
+      <note>September 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh96007226">
+         <topic>Electronic mail messages</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/907328">
+         <topic>Electronic mail messages</topic>
+      </subject>
+      <subject>
+         <topic>Simple Mail Transfer Protocol (SMTP)</topic>
+      </subject>
+      <subject>
+         <topic>Transport Layer Security (TLS)</topic>
+      </subject>
+      <subject>
+         <topic>Sender Policy Framework (SPF)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-177</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-177</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662245</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120941.0</recordChangeDate>
+         <recordIdentifier>991000188489708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

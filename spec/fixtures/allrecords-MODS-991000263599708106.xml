@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Analysis of iris images from Twins Day</title>
+         <subTitle>2010</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Matey, James R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Matey, James R.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005043592">
+         <namePart>Grother, Patrick J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2005043592</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098146">
+         <namePart>Quinn, George W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84098146</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Each year since 1976, the town of Twinsburg, Ohio has held a Twins
+                Days Festival. Over the past 43 years over 77,000 sets of twins and multiples have
+                attended ⁰₃ with many repeat visits over the years. Prof. Jeremy Dawson and other
+                staff from the West Virginia University Biometrics Collection Lab have engaged with
+                the Twins Days organizers since 2010 to collect biometric data from twins attending
+                the festivals; the collections were carried out under Institutional Review Board
+                (IRB) protocols and with informed consent of the individuals participating. NIST
+                recently obtained copies of the Twins Day data for use in ongoing evaluations of
+                face, finger and iris recognition algorithms. This paper is an initial analysis of
+                the iris images taken at the 2010 festival. We see no evidence that the non-mated
+                distribution for identical twin pairs is significantly different from that for
+                unrelated individuals for two commercial iris recognition algorithms. This is not a
+                surprise; Daugman demonstrated, using iris2pi, that a non-mated distribution of
+                match scores from genetically identical left/right pairs from the same individual is
+                not significantly different from that for pairs from different individuals and
+                recently demonstrated results on twins similar to what we found. Analysis of iris
+                images from subsequent festivals as well as face and finger images are
+                planned.</abstract>
+      <note type="statement of responsibility">James R. Matey; Patrick J. Grother; George W. Quinn.</note>
+      <note>June 2020.</note>
+      <note>Title from PDF title page (viewed July 16, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n85081561">
+         <name type="corporate">
+            <namePart>Twinsburg (Ohio)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85014244">
+         <topic>Biometry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832611">
+         <topic>Biometry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001010964">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85139043">
+         <topic>Twins</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1159851">
+         <topic>Twins</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85068076">
+         <topic>Iris (Eye)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/978890">
+         <topic>Iris (Eye)</topic>
+      </subject>
+      <subject>
+         <topic>Iris recognition</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2097</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2097</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1175938260</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200719</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200719123943.0</recordChangeDate>
+         <recordIdentifier>991000263599708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Blockchain networks</title>
+         <subTitle>token design and management overview</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lesavre, Loïc.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lesavre, Loïc</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0751-5739">
+         <namePart>Varin, Priam</namePart>
+         <nameIdentifier>(orcid)0000-0003-0751-5739</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4058-3645">
+         <namePart>Yaga, Dylan</namePart>
+         <nameIdentifier>(orcid)0000-0003-4058-3645</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-02-08.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Blockchain technology has enabled a new software paradigm for
+                managing digital ownership in partial- or zero-trust environments. It uses tokens to
+                conduct transactions, exchange verifiable data, and achieve coordination across
+                organizations and on the web. Fundamental to this representation is that users can
+                independently control token custody in digital wallets through public-key
+                cryptography and interact with one another in a peer-to-peer manner. Blockchain
+                networks provide secure transaction reconciliation, linkage, and storage in
+                consolidated, integrity-protected distributed ledgers forming mutually operated
+                record-keeping execution environments. Data models with varied capabilities and
+                scopes have been defined to issue tokens, which additional protocols can help manage
+                while enabling separation of concerns. Security and recovery mechanisms allow users
+                to set up self-hosted, externally hosted, and hybrid account custody models. Scaling
+                schemes have been developed to accommodate transactions off-chain with deferred
+                on-chain settlement, as well as deposit contracts with built-in, self-enforceable
+                conditions to exchange tokens without intermediaries, transaction submission rules
+                to fit in with different deployment scenarios, and privacy-enhancing techniques to
+                protect user confidentiality. Software design patterns and infrastructure tools can
+                also make it easier to integrate blockchain networks, wallets, and external
+                resources in user interfaces. This document provides a high-level technical overview
+                and conceptual framework of token designs and management methods. It is built around
+                five views: the token view, wallet view, transaction view, user interface view, and
+                protocol view. The purpose is to lower the barriers to study, prototype, and
+                integrate token-related standards and protocols by helping readers understand the
+                building blocks involved both on-chain and off-chain.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Loïc Lesavre; Priam Varin; Dylan Yaga.</note>
+      <note>February 2021.</note>
+      <note>Title from PDF title page (viewed April 11,2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2024-01-29</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Blockchain.</topic>
+      </subject>
+      <subject>
+         <topic>Cryptoasset.</topic>
+      </subject>
+      <subject>
+         <topic>Cryptocurrency.</topic>
+      </subject>
+      <subject>
+         <topic>Data portability.</topic>
+      </subject>
+      <subject>
+         <topic>Decentralized governance.</topic>
+      </subject>
+      <subject>
+         <topic>Digital asset.</topic>
+      </subject>
+      <subject>
+         <topic>Digital token.</topic>
+      </subject>
+      <subject>
+         <topic>Distributed ledger.</topic>
+      </subject>
+      <subject>
+         <topic>Fintech.</topic>
+      </subject>
+      <subject>
+         <topic>Off-chain scaling.</topic>
+      </subject>
+      <subject>
+         <topic>Self-hosting.</topic>
+      </subject>
+      <subject>
+         <topic>Smart contract.</topic>
+      </subject>
+      <subject>
+         <topic>State channel.</topic>
+      </subject>
+      <subject>
+         <topic>Tokenization.</topic>
+      </subject>
+      <subject>
+         <topic>Transaction confidentiality.</topic>
+      </subject>
+      <subject>
+         <topic>Verifiable data.</topic>
+      </subject>
+      <subject>
+         <topic>Wallet.</topic>
+      </subject>
+      <subject>
+         <topic>Zero-knowledge proof.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8301</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8301</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8301</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240412</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240412112727.0</recordChangeDate>
+         <recordIdentifier>991000627209408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

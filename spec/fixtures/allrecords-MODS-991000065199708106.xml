@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Possible contributions of cement and concrete technology to energy
+                conservation</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79099154">
+         <namePart>Frohnsdorff, Geoffrey.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79099154</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79099154">
+         <namePart>Frohnsdorff, Geoffrey.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79099154</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79097782">
+         <namePart>Brown, Paul W. (Paul Wencil),</namePart>
+         <namePart type="date">1943-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79097782</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79099186">
+         <namePart>Clifton, James R.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79099186</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1979</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1979.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A workshop on possible contributions of cement and concrete
+                technology to energy conservation by the year 2000 was held at the National Bureau
+                of Standards on October 3 and 4, 1977. The purpose of the workshop was to identify
+                and record ideas on possible contributions of cement and concrete technology to
+                energy conservation in the near term and by the year 2000. This included
+                consideration of current technology as well as areas in which technological advances
+                might be realized. The workshop was divided into working groups on cement
+                composition, cement production, blending materials, concrete production, efficient
+                use of concrete, and institutional factors. The essential results from the six
+                working groups were statements of Energy-Saving Opportunities, Research Needs, and
+                Unresolved Issues. The statements, which are the major part of this report, are
+                presented without critical analysis. They suggest, however, that there are a large
+                number of possible opportunities which should be evaluated for their ability to
+                contribute to energy conservation in the cement and concrete industries.</abstract>
+      <note type="statement of responsibility">Geoffrey Frohnsdorff; Paul W. Brown; James R. Clifton.</note>
+      <note>1979.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.SP.542</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS special publication; NBS special pub; NBS SP</title>
+            <partNumber>542</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">926741936</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151026</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20151026025820.0</recordChangeDate>
+         <recordIdentifier>991000065199708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

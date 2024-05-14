@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Self-training of a fault-free model for residential air conditioner
+                fault detection and diagnostics</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022028296">
+         <namePart>Heo, Jaehyeok.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022028296</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022028296">
+         <namePart>Heo, Jaehyeok.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022028296</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003078668">
+         <namePart>Payne, W. Vance.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003078668</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022001138">
+         <namePart>Domanski, Piotr A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022001138</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2011024207">
+         <namePart>Du, Zhimin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2011024207</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2015</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2015.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This study is meant to be applied to residential, unitary,
+                air-source, single-speed, vapor compression air-conditioning systems with nominal
+                cooling capacities less than 19 kW (65,000 Btu h-1 or 5.4 tons). In this research, a
+                method for self-training FDD and the new concepts of zone density and operational
+                domain coverage rate are introduced. Various fault-free correlation techniques, such
+                as ANN (artificial neural network), MPR (multivariable polynomial regression), and
+                combined ANN-MPR, are demonstrated and compared for self-training FDD. For the
+                validation of this method, a full FDD algorithm was developed to include eight
+                scenarios (1- fault-free, 2-compressor valve leakage, 3-improper outdoor air flow,
+                4-improper indoor air flow, 5-liquid-line restriction, 6-refrigerant undercharge,
+                7-refrigerant overcharge, and 8- presence of non-condensable gases) using data from
+                72 fault-free and 84 faulty tests.</abstract>
+      <note type="statement of responsibility">Jaehyeok Heo; W. Vance Payne; Piotr A. Domanski; Zhimin
+                Du.</note>
+      <note>May 2015.</note>
+      <note>Title from PDF title page (viewed November 23, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85059801">
+         <topic>Heat pumps</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/953919">
+         <topic>Heat pumps</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043129">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/909986">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject>
+         <topic>Fault detection</topic>
+      </subject>
+      <subject>
+         <topic>Fault diagnosis</topic>
+      </subject>
+      <subject>
+         <topic>Building equipment efficiency</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1881</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1881</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967661349</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114118.0</recordChangeDate>
+         <recordIdentifier>991000187879708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

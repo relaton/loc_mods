@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST SI units card deck</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Jagoda, Dinelka.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3458-9418">
+         <namePart>Jagoda, Dinelka</namePart>
+         <nameIdentifier>(orcid)0000-0003-3458-9418</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2751-7881">
+         <namePart>Benham, Elizabeth</namePart>
+         <nameIdentifier>(orcid)0000-0002-2751-7881</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-11-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Welcome to the SI Units Card Deck! This interactive educational
+                activity offers a fun way for students to enhance their understanding of the
+                International System of Units (SI), including the Defining Constants, Base Units,
+                Derived Units with Special Names, and Prefixes. Play activities like those in this
+                activity, are an easy way to motivate students to learn, build self-confidence and
+                transfer SI measurement skills to other situations. Familiarity with the elements
+                and structure the SI prepare students to successfully make measurements in science,
+                technology, engineering, and mathematics (STEM) applications. With multiple game
+                variations, games may be differentiated for multiple instructional and skill levels.
+                The deck consists of 9 sets (142 cards), game instructions, game template, and
+                supplemental resources.</abstract>
+      <note type="statement of responsibility">Dinelka Jagoda; Elizabeth Benham.</note>
+      <note>October 2023</note>
+      <note>Title from PDF title page (viewed January 8, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-29.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Education</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Play</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Measurement</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Metric system</topic>
+      </subject>
+      <subject>
+         <topic>Stem</topic>
+      </subject>
+      <subject>
+         <topic>Classroom</topic>
+      </subject>
+      <subject>
+         <topic>Activity</topic>
+      </subject>
+      <subject>
+         <topic>Collaboration</topic>
+      </subject>
+      <subject>
+         <topic>Game</topic>
+      </subject>
+      <subject>
+         <topic>Individual</topic>
+      </subject>
+      <subject>
+         <topic>Team</topic>
+      </subject>
+      <subject>
+         <topic>Prefix</topic>
+      </subject>
+      <subject>
+         <topic>Derived</topic>
+      </subject>
+      <subject>
+         <topic>Unit</topic>
+      </subject>
+      <subject>
+         <topic>Base</topic>
+      </subject>
+      <subject>
+         <topic>Defining constan</topic>
+      </subject>
+      <subject>
+         <topic>International System of Units</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1297</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>1297</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1297</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1419200512</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240108</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401110404.0</recordChangeDate>
+         <recordIdentifier>991000623409808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

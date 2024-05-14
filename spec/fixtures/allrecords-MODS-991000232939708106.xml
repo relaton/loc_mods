@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Fading characteristics and bandwidth capability for
+                within-the-horizon propagation at 1040 and 9300 MC/s</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Barghausen, A. F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barghausen, A. F.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80006175">
+         <namePart>Barsis, A. P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n80006175</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Kirby, R. S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Bureau of Standards ;</publisher>
+         <dateIssued>1961.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">During the early months of 1961 the National Bureau of Standards
+                established a 113 km tropospheric within-the-horizon path in Eastern Colorado in
+                order to investigate propagation characteristics of signals in the 9300 Mc/s range
+                over such a path. Special attention was given to the short-term fading
+                characteristics of the received carrier envelopes, and to the bandwidth capability
+                of the medium. The latter was studied by comparing the amplitude variations of two
+                continuous-wave carriers separated by 100 Mc/s in the 9300 Mc/s frequency range.
+                Separate antennas were used in transmission and reception of the two carriers;
+                consequently, the results include the effects of space diversity. In addition to
+                studying the correlation of carrier envelopes as a measure of the bandwidth
+                capability, an analysis was also made of the distribution of the carrier amplitude
+                ratios, which is related to the correlation coefficient, and is believed to be a
+                better indicator, at least for line-of-sight paths, of selective fading phenomena.
+                Short-term fading in the 9300 Mc/s range can be characterized in terms of prolonged
+                space-wave fadeouts, which have previously been observed and described for lower
+                carrier frequencies over this and similar paths. Fadeouts appear to be well
+                correlated in time of occurrence on the two frequencies 9350 and 9350 Mc/s. The
+                fading durations range from a few tenths of a minute to 10 minutes, and the maximum
+                observed depth was 25 db below the median of a five-day observation period. The
+                cross-correlation coefficient of instantaneous carrier envelopes separated by 100
+                Me/s had an overall value of 0.91, as determined by sampling of the carrier
+                amplitudes at the rate of one per second. The standard deviation of the amplitude
+                ratios averaged 0.76 db, with a maximum hourly value of 1.81 db. These results
+                support the feasibility of wide-band modulation techniques for within- the-horizon
+                paths if evaluated by amplitude variations of discrete frequencies within the
+                bandwidth of interest. Sufficient margin in transmitter power has to be provided to
+                allow for the short-term signal variations observed. Supporting measurements on
+                1040.1 Mc/s over this path confirmed previously established fadeout characteristics
+                with regard to diurnal variations, depth, and duration of fadeouts. However, the
+                distribution of hourly median signal levels on this frequency showed a much larger
+                month-to-month variation than had previously been observed over this path. This is
+                attributed to the small sample size available in the current measurement
+                series.</abstract>
+      <note type="statement of responsibility">A. F. Barghausen; A. P. Barsis; R. S. Kirby.</note>
+      <note>August 1961.</note>
+      <note>Title from PDF title page (viewed September 24, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110585">
+         <topic>Radio wave propagation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087609">
+         <topic>Radio wave propagation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.RPT.6790</url>
+      </location>
+      <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="series" xlink:href="https://id.loc.gov/authorities/names/no2008092611">
+         <titleInfo>
+            <title>NBS report</title>
+            <partNumber>6790</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132808578</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20191223031151.0</recordChangeDate>
+         <recordIdentifier>991000232939708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

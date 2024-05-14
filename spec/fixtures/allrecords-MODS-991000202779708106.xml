@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Iris cameras</title>
+         <subTitle>standards relevant for camera selection - 2018</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Matey, James R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Matey, James R.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098146">
+         <namePart>Quinn, George W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84098146</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005043592">
+         <namePart>Grother, Patrick J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2005043592</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021005762">
+         <namePart>Watson, Craig.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021005762</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020043056">
+         <namePart>Orandi, Shahram.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020043056</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This paper is a summary of our current recommendations for iris
+                camera selection. NIST is developing these recommendations in collaboration with the
+                FBI, other US Government entities with interests in the use of iris recognition
+                technology, and the larger iris recognition community. It is intended to give brief,
+                practical guidance to persons planning to purchase iris recognition cameras,
+                particularly for use in law enforcement activities. It is also intended as a basis
+                for an ongoing discussion on camera selection that began at the Iris Expert Group
+                meeting in June 2018. The primary focus of these recommendations is compliance with
+                standards and processes that enable interchange of data between government entities,
+                as permitted by regulation and policy, and that enable cost effective improvements
+                as technology advances.</abstract>
+      <note type="statement of responsibility">James R. Matey; George W. Quinn; Patrick Grother; Craig Watson;
+                Shahram Orandi.</note>
+      <note>September 2018.</note>
+      <note>Title from PDF title page (viewed September 14, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85019133">
+         <topic>Cameras</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/844732">
+         <topic>Cameras</topic>
+      </subject>
+      <subject>
+         <topic>Image acquisition</topic>
+      </subject>
+      <subject>
+         <topic>Iris recognition</topic>
+      </subject>
+      <subject>
+         <topic>Iris recognition standards</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2018</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2018</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055660138</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004125113.0</recordChangeDate>
+         <recordIdentifier>991000202779708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

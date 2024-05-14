@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Camp Fire preliminary reconnaissance</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Maranghides, Alexander.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Maranghides, Alexander.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mell, William Ruddy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hawks, Steven.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wilson, Mike.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brewer, Will.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Link, Eric.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brown, Chris.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Murrill, Cartier.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ashley, Erin.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-08-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (26 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Camp Fire ignited on the morning of November 8, 2018, in Pulga,
+                CA. Fanned by high winds, the fire spread quickly through wildlands and burned into
+                the wildland-urban interface (WUI) communities of Concow, Paradise, and Magalia, CA.
+                Within hours, thousands of structures were destroyed as over 30,000 residents
+                evacuated the area. The Camp Fire burned for 18 days, consumed 62,053 ha (153,336
+                ac), destroyed or damaged 19,531 structures, and resulted in 85 fatalities. As part
+                of the NIST Disaster and Failure Studies Program, a reconnaissance team was deployed
+                to Butte County, CA to collect any perishable data, along with preliminary field
+                data which would be used to assess the need and ability to fully reconstruct this
+                fire. A multiagency team consisting of NIST, US Forest Service, and Federal
+                Emergency Management Agency members worked closely with the California Department of
+                Forestry and Fire Protection (CAL FIRE) incident command. Data collected from two
+                deployments, totaling 18 days in the field, were used in a preliminary assessment of
+                the incident to determine the need for a more comprehensive case study research
+                effort. The reconnaissance deployment team determined that the Camp Fire was unique
+                in terms of the extreme fire behavior, losses, evacuation and notification
+                challenges. Based on the unique opportunities to better understand the behavior and
+                response to wildland-urban interface fires, and the availability of data to support
+                in-depth studies, the team recommended that a more comprehensive study be
+                undertaken.</abstract>
+      <note type="statement of responsibility">Alexander Maranghides; William Ruddy Mell; Steven Hawks; Mike Wilson;
+                Will Brewer; Eric Link; Chris Brown; Cartier Murrill; Erin Ashley.</note>
+      <note>August 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Wildland-urban interface</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Disasters</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Wildfires</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Zones périurbaines</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Catastrophes</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Feux de friches</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>disasters</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Disasters</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Wildfires</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Wildland-urban interface</topic>
+      </subject>
+      <subject>
+         <topic>Field data collection</topic>
+      </subject>
+      <subject>
+         <topic>Disaster resilience</topic>
+      </subject>
+      <subject>
+         <topic>Large outdoor fires</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2105</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2105</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124505</identifier>
+      <identifier type="oclc">on1346124505</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111417.0</recordChangeDate>
+         <recordIdentifier>991000625685708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guide for environmentally sustainable investment analysis based on
+                ASTM E3200</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Thomas, Douglas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Thomas, Douglas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kandaswamy, Anand M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butry, David.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-03-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (47 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This guide presents techniques for evaluating manufacturing
+                investments from the perspective of environmentally sustainable manufacturing by
+                pairing economic methods of investment analysis with environmental aspect of
+                manufacturing, including manufacturing processes. The methods are based on ASTM
+                E3200 and, although the focus is on manufacturing, they can be applied under other
+                circumstances (e.g., construction industry investments, agriculture, or mining). The
+                economic techniques include net present value, internal rate of return, payback
+                period, and hurdle rate. The guide also includes sensitivity analyses with a focus
+                on Monte Carlo techniques. The methods presented can be used by manufacturers,
+                regardless of size or complexity, to make environmentally sustainable decisions,
+                including but not limited to whether to embark on an investment, discontinue a
+                manufacturing line, invest or re-invest in a new project or factory.</abstract>
+      <note type="statement of responsibility">Douglas Thomas; Anand Kandaswamy; David Butry.</note>
+      <note>March 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2020-12-17.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Investment analysis</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Sustainability</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.200-11</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>200-11</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427225140</identifier>
+      <identifier type="oclc">on1427225140</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111507.0</recordChangeDate>
+         <recordIdentifier>991000626386908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

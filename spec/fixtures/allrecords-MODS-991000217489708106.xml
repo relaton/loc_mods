@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>unit manufacturing process (UMP) builder</title>
+         <subTitle>user's guide</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lechevalier, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lechevalier, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bernstein, William Z.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The ASTM E3012 Standard Guide for Characterizing Environmental
+                Aspects of Manufacturing Processes provides guidelines for formally characterizing
+                manufacturing processes. However, the difficulty that has arisen in the early use of
+                the standard illustrates the need for intuitive tools for helping modeling experts
+                to conform to the specified information model. The Unit Manufacturing Process (UMP)
+                Builder was developed at the National Institute of Standards and Technology (NIST)
+                to provide a visual interface for helping modeling experts to conform to the
+                specified ASTM information model. The UMP Builder, a browser-based tool, integrates
+                symbolic mathematical and guided textual inputs, helping to consistently record
+                manufacturing process models for environmental sustainability into a repository. The
+                Builder also serves as a curator by providing capabilities to explore and visualize
+                models recorded in the Builder repository. The UMP Builder is adapted from of an
+                open source tool called the Configurable Data Curation System (CDCS) developed at
+                NIST. The CDCS was originally developed to capture, share, and transform materials
+                data, allowing users to upload an XML schema and create instances of that schema. In
+                the UMP Builder, the schema used for creating the models is frozen. The schema
+                follows the guidelines from the ASTM E3012 standard. The Builder also provides
+                unique features that are specific in order to facilitate the modelling of UMPs. This
+                user s guide aims to provide guidelines to use the UMP Builder. To obtain more
+                information (especially on the architecture), please refer to the CDCS
+                documentation.</abstract>
+      <note type="statement of responsibility">David Lechevalier; William Z. Bernstein.</note>
+      <note>July 2019.</note>
+      <note>Title from PDF title page (viewed July 3, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85066148">
+         <topic>Information retrieval</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/972619">
+         <topic>Information retrieval</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject>
+         <topic>Sustainable manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Manufacturing systems design and analysis</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8258</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8258</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1110020352</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190724</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190724022415.0</recordChangeDate>
+         <recordIdentifier>991000217489708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

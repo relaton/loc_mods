@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Properties and interactions of oral structures and restorative
+                materials</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Tesk, J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tesk, J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Antonucci, J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007076961">
+         <namePart>Brauer, G.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007076961</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>McKinney, J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021044902">
+         <namePart>Penn, R.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021044902</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82225848">
+         <namePart>Stansbury, George Frederick,</namePart>
+         <namePart type="date">1800-1845</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82225848</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>de Rijk, W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Venz, S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88620308">
+         <namePart>Iizuka, Hiroshi,</namePart>
+         <namePart type="date">1922-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88620308</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n89671798">
+         <namePart>Lee, S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n89671798</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Asaoka, K.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1987</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1987.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">J. Tesk; J. Antonucci; G. Brauer; J. McKinney; R. Penn; J. Stansbury;
+                W. de Rijk; S. Venz; H. Iizuka; S. Lee; K. Asaoka.</note>
+      <note>1987.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.IR.87-3539</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBSIR; NBS IR; NBS interagency report; NBS internal report
+</title>
+            <partNumber>87-3539</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">951907182</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20160620103604.0</recordChangeDate>
+         <recordIdentifier>991000157079708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

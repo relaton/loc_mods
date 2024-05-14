@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Cement paste reference material (SRM 2492) shelf-life extension
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022065425">
+         <namePart>Olivas, Alex.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022065425</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022065425">
+         <namePart>Olivas, Alex.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022065425</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2001019109">
+         <namePart>Ferraris, Chiara F.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2001019109</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n78068425">
+         <namePart>Lang, Brian.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n78068425</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2013007735">
+         <namePart>Richter, Jennifer.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2013007735</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ferron, Raissa P.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Cement-based materials (e.g. cement paste, mortar and concrete) are
+                complex rheological fluids that display time-dependent and shear-dependent
+                rheological behavior. Over the years, various concrete rheometers have been proposed
+                and made available commercially; however, there is no method to calibrate them.
+                Furthermore, typical calibration fluids used in commercial rheometers are not well
+                suited for the concrete rheometer calibration due to their high cost and they are
+                Newtonian (i.e., not a complex fluid). Therefore, there was a clear need for a
+                reference material specifically designed for concentrated, granular suspensions,
+                such as cement paste, mortar and concrete; this need led to the development of a new
+                series of reference materials for calibration of devices used in cement-based
+                suspension rheological testing. The reference material to simulate cement paste, SRM
+                2492, was composed of a fine limestone powder in a corn syrup matrix. While the
+                ranking of mixtures tested using these rheometers tend to match, the absolute values
+                for the rheological properties of the mixtures evaluated with different rheometers
+                are not well correlated [1, 2]. Additionally, due to microbial growth in the paste
+                matrix, the shelf life of standard reference material 2492 was limited to 7 d. This
+                paper presents the results of a study to analyze how to minimize microbial growth
+                within the paste matrix. Various biocides that extend the shelf-life of the
+                reference material were examined, with the most promising method being sodium
+                propionate, a non-toxic chemical. Furthermore, recommendations to improve the
+                storage of SRM are provided to extend the usable shelf life.</abstract>
+      <note type="statement of responsibility">Alex Olivas; Chiara F. Ferraris; Brian Lang; Jennifer Richter; Raissa
+                P. Ferron.</note>
+      <note>September 2016.</note>
+      <note>Title from PDF title page (viewed November 23, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n42029756">
+         <titleInfo>
+            <title>Standard reference materials</title>
+         </titleInfo>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85113619">
+         <topic>Rheology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1096929">
+         <topic>Rheology</topic>
+      </subject>
+      <subject>
+         <topic>Biocide</topic>
+      </subject>
+      <subject>
+         <topic>Microorganisms</topic>
+      </subject>
+      <subject>
+         <topic>Microbes</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1934</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1934</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662080</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114118.0</recordChangeDate>
+         <recordIdentifier>991000187889708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

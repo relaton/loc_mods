@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of standard reference material® 640g</title>
+         <subTitle>line position and line shape standard for powder diffraction (silicon
+                powder)</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Cline, James P.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0901-2473">
+         <namePart>Cline, James P.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0901-2473</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6236-8212">
+         <namePart>Mendenhall, Marcus H.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6236-8212</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3509-1275">
+         <namePart>Black, David R.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3509-1275</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid) 0000-0001-6236-8212">
+         <namePart>Henins, Albert.</namePart>
+         <nameIdentifier>(orcid) 0000-0001-6236-8212</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4766-1741">
+         <namePart>Prothero, Jack B.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4766-1741</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory (MML); Physical Measurement
+                Laboratory (PML); Information Technology Laboratory (ITL).</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-02-27.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (21 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST certifies a suite of Standard Reference Materials (SRMs) to be
+                used to evaluate specific aspects of the instrument performance and measurements via
+                the powder diffraction technique. This includes machines that utilize X-rays, both
+                synchrotron and laboratory-based sources, and neutron powder diffractometers. This
+                report describes the preparation and certification of SRM 640g, the eighth
+                generation of this powder diffraction SRM, which is designed to be used primarily
+                for calibrating powder diffractometers with respect to line position. A unit
+                consists of approximately 7.5 g of silicon powder prepared from intrinsic,
+                float-zone boules. The boules were crushed and ultimately jet milled to a narrow
+                particle size distribution centered on 4 micrometers, and with none smaller than 2.5
+                micrometers. The powder was then annealed at a temperature and time sufficient to
+                eliminate crystallographic defects. Given that the lower particle size limit and the
+                annealing process precluded sample induced line profile broadening, the SRM can also
+                be used for the determination of the instrument profile function on equipment
+                utilizing laboratory X-ray sources. It can also be used for evaluation of
+                high-resolution equipment; however, advanced data analysis strategies must be
+                employed. The SRM is certified with respect to the lattice parameter, with the SI
+                traceability of the measurements being through the Cu Kα emission spectrum of the
+                X-ray source that was used. A NIST-built diffractometer, incorporating many advanced
+                design features, was used to provide data for the certification of the lattice
+                parameter. Both statistical and systematic uncertainties have been assigned to yield
+                a certified value for the lattice parameter at 22.5 °C of a = 0.5431144 nm with an
+                expanded uncertainty (k = 2) interval of ± 0.000008 nm. Prior to comminution, the
+                lattice parameter of single-crystal silicon specimens cut from the boules was
+                measured using the NIST lattice comparator. A value of 0.543102055 nm ± 0.000000027
+                nm was obtained.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">James P. Cline; Marcus Mendenhall; David R. Black; Albert Henins;
+                Jack Prothero.</note>
+      <note>February 2024.</note>
+      <note>Title from PDF title page (viewed April 29, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2024-02-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Certification</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Silicon</topic>
+      </subject>
+      <subject>
+         <topic>Diffractometer</topic>
+      </subject>
+      <subject>
+         <topic>Lattice parameter</topic>
+      </subject>
+      <subject>
+         <topic>Powder diffraction</topic>
+      </subject>
+      <subject>
+         <topic>Standard Reference Material (SRM)</topic>
+      </subject>
+      <subject>
+         <topic>Système International (SI</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-245</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>260-245</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-245</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240429</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240429110635.0</recordChangeDate>
+         <recordIdentifier>991000627709208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

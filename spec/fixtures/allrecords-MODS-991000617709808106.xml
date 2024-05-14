@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>ICSSC biennial progress report for 2020</title>
+         <subTitle>report on progress towards implementation of executive order 13717:
+                establishing a federal earthquake risk management standard - reporting period:
+                February 2, 2018 to February 1, 2020</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Harris III, John L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Harris III, John L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McCabe, Steven L.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (74 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Executive Order (EO) 13717: Establishing a Federal Earthquake Risk
+                Management Standard establishes minimum seismic requirements for new and existing
+                buildings that will be constructed, altered, leased, financed, or regulated by the
+                Federal Government. These requirements help to enhance the seismic resilience of
+                agencies by reducing risk to lives of building occupants and improving the
+                probability of continued performance of buildings essential to agency mission
+                following future earthquakes. The EO rescinds EO 12941: Seismic Safety of Existing
+                Federally Owned or Leased Buildings and EO 12699: Seismic Safety of Federal and
+                Federally Assisted or Regulated New Building Construction. The EO requires that
+                agencies whose activities are covered by the order submit a biennial report to the
+                Director of the Office of Management and Budget (OMB) and the Director of the
+                National Institute of Standards and Technology (NIST) on their progress in
+                implementing the order, commencing two years from the date of the order. It is
+                assumed that agencies that are covered by the EO participate on the Interagency
+                Committee on Seismic Safety in Construction (ICSSC). NIST, as the lead agency of the
+                National Earthquake Hazards Reduction Program (NEHRP) and thus Secretariat of the
+                ICSSC, is required by the EO to summarize agency compliance of the order in the
+                biennial NEHRP report to Congress. This report serves as the summary of agency
+                progress in implementing the EO and covers the biennial reporting period of February
+                2, 2018 to February 1, 2020. Sixteen reports covering sixty-six agencies
+                (department, agency, bureau, office, institute, etc.) were received by NIST for this
+                reporting period.</abstract>
+      <note type="statement of responsibility">John L. Harris III; Steven L. McCabe.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed December 11, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-15</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Executive Order 13717</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2136-2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2136-2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111408.0</recordChangeDate>
+         <recordIdentifier>991000617709808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

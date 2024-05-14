@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>National fire research laboratory commissioning project</title>
+         <subTitle>testing steel beams under localized fire exposure</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021139159">
+         <namePart>Choe, Lisa.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139159</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139159">
+         <namePart>Choe, Lisa.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139159</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007044470">
+         <namePart>Ramesh, Selvarajah,</namePart>
+         <namePart type="date">1976-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007044470</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Hoehler, Matthew.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139146">
+         <namePart>Seif, Mina.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139146</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79112144">
+         <namePart>Gross, John.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79112144</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2001072344">
+         <namePart>Zhang, Chao.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2001072344</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021146338">
+         <namePart>Bundy, Matthew.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021146338</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report presents the experimental design and results of a series
+                of localized fire tests on structural steel I-shaped beams. A total of nine tests
+                were conducted in the National Fire Research Laboratory, including thermal tests
+                (Tests 1 through 5) and four-point bending tests at ambient (Test 6) and elevated
+                temperatures (Tests 7 through 9). The specimens were nominally 6.2-m long W16x26
+                beams made of ASTM A992 steel. Each specimen was vertically supported with either a
+                (i) simple support condition, or (ii) double-angles bolted to laterally braced
+                support columns. The thermally-loaded specimens were exposed to fire generated using
+                a natural gas burner. The burner had an area of 1 m2 and was located 1.1 m below the
+                bottom flange of the beam at midspan. A four-point flexural loading scheme was used
+                to apply concentrated forces at two locations 2.44 m apart around midspan. The
+                recorded data included temperatures, heat release rates from the burner, and
+                structural measurements including forces, displacements and strains. The
+                repeatability of several measurements was evaluated. The test results indicated that
+                the heating rate of the specimen was sensitive to the prescribed heat release rate
+                versus time relationship used in each test. However, the thermal gradient developed
+                in the fire-exposed cross sections of the beam never achieved linearity under the
+                localized fire exposure. When the exposed (bottom) flange temperature was maintained
+                to 616 °C, the load-bearing capacity of the simply-supported beam was reduced to 67
+                % of its room-temperature capacity. When the same simply-supported beam was
+                initially loaded to 67 % of its room-temperature capacity and then exposed to a
+                growing (t-squared) fire, the exposed flange temperature of the beam at failure was
+                663 °C. When the beam specimen was supported by double-angle connections and
+                subjected to the same bending moment, its fire resistance (failure temperature) was
+                decreased to 90 % of that of the simply-supported beam. Regardless of the connection
+                types and fire conditions (steady-state or transient-state fire), the beam specimens
+                failed by lateral torsional buckling with rapidly increasing vertical
+                displacements.</abstract>
+      <note type="statement of responsibility">Lisa Choe; Selvarajah Ramesh; Matthew Hoehler; Mina Seif; John Gross;
+                Chao Zhang; Matthew Bundy.</note>
+      <note>February 2018.</note>
+      <note>Title from PDF title page (viewed February 1, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048529">
+         <topic>Fire testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925555">
+         <topic>Fire testing</topic>
+      </subject>
+      <subject>
+         <topic>Structural fire resistance</topic>
+      </subject>
+      <subject>
+         <topic>Fire risk reduction</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1983</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1983</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1027219091</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180305</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180305121857.0</recordChangeDate>
+         <recordIdentifier>991000196409708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

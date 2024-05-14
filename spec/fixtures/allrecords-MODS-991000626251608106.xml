@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Seismic behavior and design of deep, slender wide-flange structural
+                steel beam-columns</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Chansuk, Piyachai.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chansuk, Piyachai.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ozkula, Gulen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Uang, Chia-Ming.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Harris III, John L.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-07-28.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (348 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Twenty-one W24 hot-rolled columns of ASTM A992 steel with five
+                different sections were tested in Phase 1 of this research program to investigate
+                the effects of slenderness parameters, constant axial load levels, lateral drift
+                loading sequences, and weak-axis bending on the column base responses. It was
+                observed that the webs of these sections with much larger â/
+                ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ratios were not as effective in restraining and delaying
+                flange local buckling as those of shallow and stocky (e.g., W12 or W14) columns.
+                Specimens with sections that satisfied the highly ductile requirement in the AISC
+                Seismic Provisions still experienced significant damage and axial shortening due to
+                the interactive flange and web local buckling. An unusual failure mode with local
+                buckling coupled with lateral-torsional buckling was also observed for the first
+                time. Based on these tests results, observed buckling modes were classified, and a
+                simplified procedure to predict the governing buckling mode was proposed. Additional
+                23 columns including W14, W18, W24, and W30 sections were tested to further evaluate
+                the effects of section depths, boundary conditions, and varying axial loads. Test
+                results revealed that findings from Phase 1 testing could be extrapolated to deeper
+                and shallower sections; the proposed procedure predicted very well the buckling mode
+                of Phase 2 specimens. Allowing the column top end to rotate increased the story
+                drift capacity but did not change the buckling mode. Results from varying axial load
+                tests showed that first-story exterior columns behave very differently from the
+                interior ones. W14 column test results showed that classifying a column as deep or
+                shallow based on the nominal section depth may be inappropriate; the deep column
+                phenomenon with significant interactive local buckling could develop in W14 columns
+                with relatively slender web and flanges.</abstract>
+      <note type="statement of responsibility">Piyachai Thansuk; Gulen Ozkula; Chia-Ming Uang; John L. Harris
+                III.</note>
+      <note>July 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-07-21</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Steel</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Seismic waves</topic>
+      </subject>
+      <subject>
+         <topic>Beam-column</topic>
+      </subject>
+      <subject>
+         <topic>Full-scale testing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2169</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2169</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890047</identifier>
+      <identifier type="oclc">on1389890047</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111503.0</recordChangeDate>
+         <recordIdentifier>991000626251608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

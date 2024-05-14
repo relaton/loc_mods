@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Forensic latent fingerprint preprocessing assessment</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n97096373">
+         <namePart>Lee, Paul.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n97096373</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n97096373">
+         <namePart>Lee, Paul.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n97096373</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1461-265X">
+         <namePart>Guan, Haiying.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1461-265X</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Dienstfrey, Andrew.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Theofanos, Mary.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2004111638">
+         <namePart>Stanton, Brian.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2004111638</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Schwarz, Matthew T.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology).</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Latent fingerprints are made visible from the surface of objects
+                using a variety of methods including physical and chemical processing, adapted
+                illumination sources, and photographs. Unfortunately, the prints collected directly
+                from a crime scene or from physical evidence may be incomplete or damaged, to the
+                point of being considered unsuitable to send directly to latent fingerprint
+                examiners for identification or to Automated Fingerprint Identification System
+                (AFIS) for recognition. As a result, most latent fingerprint images must be
+                preprocessed to enhance fingerprint information, at the same time suppressing
+                interference arising from noise and otherwise unwanted image features. This
+                preprocessing phase occurs after the latent print is collected from the crime scene
+                and digitalized by a scanner or camera, and before the image analysis and process
+                phase such as minutiae markup or latent print identification. The preprocessing
+                results can be extraordinary, transforming raw images with little or no value into
+                ones suitable for evidentiary analysis. Despite the importance of this step, there
+                exist few databases designed especially for the scientific study of latent
+                fingerprint image preprocessing, and even fewer standards to guide this workflow. To
+                address this research gap, we conducted a study in which a group of trained Latent
+                Print Examiners provided Extended Feature Set (EFS) markups of a series of latent
+                images. This report provides a brief introduction into fingerprint preprocessing,
+                discussion regarding the experimental design, structure, and contents of the latent
+                fingerprint image database, and details of proposed preprocessing efficacy metrics.
+                Additionally, we present preliminary analysis of these metrics when applied to
+                images in our database. Previously Guan et al. [6] presented the performance metrics
+                and analysis of the metrics as applied to a union minutiae set. In this report, we
+                comprehensively document the contents of the records database including the latent
+                images, the EFS markup files, metadata, markup logs, and region of interest masks.
+                Additionally, we present the results of the performance metrics as applied to the
+                intersection minutiae set of EFS markup data.</abstract>
+      <note type="statement of responsibility">Paul Lee; Haiying Guan; Andrew Dienstfrey; Mary Theofanos; Brian
+                Stanton; Matthew T. Schwarz.</note>
+      <note>June 2018.</note>
+      <note>Title from PDF title page (viewed June 7, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048337">
+         <topic>Fingerprints</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/924859">
+         <topic>Fingerprints</topic>
+      </subject>
+      <subject>
+         <topic>Digital and multimedia evidence</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8215</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8215</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1051460931</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180911</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180911022246.0</recordChangeDate>
+         <recordIdentifier>991000201949708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

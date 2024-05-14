@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>summary report on the model-based enterprise capability index and
+                guidebook workshop</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Pellegrino, Joan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pellegrino, Joan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tamm, Yannick.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002972">
+         <namePart>Barnard Feeney, Allison.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022002972</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Hedberg Jr., Thomas D.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) held a
+                Model-Based Enterprise Summit from April 12-14, 2016 with the intention of
+                identifying challenges, research, implementation issues, and lessons learned in
+                manufacturing and quality assurance where a digital three-dimensional (3D) model of
+                the product serves as the authoritative information source for all activities in the
+                product's lifecycle. This 3D model is considered a model-based definition (MBD) and
+                acts as a digital thread of sorts to weave and link all the phases of the product
+                lifecycle together. The U.S. Department of Defense (DoD) and NIST developed a tool
+                to help organizations assess whether they are ready for an MBE or smart
+                manufacturing platform. The tool was appropriately named: MBE Capability Index
+                Assessment Tool. As part of the summit, NIST was also interested in collecting input
+                specific to the MBE Capability Index Assessment Tool and the consideration for
+                developing a guidebook for the tool.</abstract>
+      <note type="statement of responsibility">Joan Pellegrino; Yannick Tamm; Allison Barnard Feeney; Thomas D.
+                Hedberg Jr.</note>
+      <note>Title from PDF title page (viewed September 19, 2016).</note>
+      <note>August 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312488420</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160921</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20160926090654.0</recordChangeDate>
+         <recordIdentifier>991000181759708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

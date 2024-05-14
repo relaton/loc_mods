@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Carbon dioxide biogenic vs anthropogenic sectoral contribution for
+                the Indianapolis Flux Experiment (INFLUX)</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022049578">
+         <namePart>Lopez-Coto, Israel.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022049578</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022049578">
+         <namePart>Lopez-Coto, Israel.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022049578</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Prasad, Kuldeep.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021060616">
+         <namePart>Whetstone, James R.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021060616</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Indianapolis Flux Experiment (INFLUX) aims to use a top-down
+                inversion methodology to quantify sources of Greenhouse Gas (GHG) emissions over an
+                urban domain with high spatial and temporal resolution. Analyzing the contribution
+                of different source types or sectors is a fundamental step in order to achieve an
+                accuracy level desired for such applications. To this end, the Weather Research and
+                Forecasting model (WRF-ARW) was used along with a modified version of the GHG
+                chemistry module for simulating the carbon dioxide (CO2) mole fraction transport
+                during September and October 2013. Sectoral anthropogenic CO2 emissions were
+                obtained from Hestia 2013 and from Vulcan 2002. Biogenic CO2 emissions were
+                simulated by using an augmented version of the Vegetation Photosynthesis and
+                Respiration Model (VPRM) included in WRF-CHEM. The atmospheric model performed well
+                in capturing day to day variability of the concentration. The errors were largely
+                reduced during the well-mixed conditions indicating that a large share of the errors
+                was due to the misrepresentation of nighttime stable conditions in the model,
+                causing an overestimation of the nighttime peaks. In general, the averaged daily
+                cycle was well represented by the model. In addition, 4 towers presented a slightly
+                delayed collapse of the nocturnal stable boundary layer. Last, the biogenic
+                contribution was important, being larger than the anthropogenic contribution for 7
+                out of 12 towers during this period. In general, the anthropogenic contribution was
+                dominated by the Electricity Production, 6.5 % to 39 %, Mobility, 11 % to 56 %, and
+                Industrial sectors, 4.8 % to 10 %.</abstract>
+      <note type="statement of responsibility">Israel Lopez-Coto; Kuldeep Prasad; James R. Whetstone.</note>
+      <note>January 2017.</note>
+      <note>Title from PDF title page (viewed June 25, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90000985">
+         <topic>Greenhouse gases</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/947707">
+         <topic>Greenhouse gases</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001881">
+         <topic>Atmospheric models</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/820440">
+         <topic>Atmospheric models</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85009279">
+         <topic>Atmospheric carbon dioxide</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/820368">
+         <topic>Atmospheric carbon dioxide</topic>
+      </subject>
+      <subject>
+         <topic>Greenhouse gas measurements</topic>
+      </subject>
+      <subject>
+         <topic>Carbon dioxide emissions</topic>
+      </subject>
+      <subject>
+         <topic>Biogenic carbon dioxide emissions</topic>
+      </subject>
+      <subject>
+         <topic>Anthropogenic carbon dioxide emissions</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1237</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1237</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1107700564</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190709</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161734.0</recordChangeDate>
+         <recordIdentifier>991000217409708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

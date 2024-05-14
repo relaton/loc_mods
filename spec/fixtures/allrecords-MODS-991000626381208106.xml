@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Recalibration intervals for radiation detection instruments
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Pibida, L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pibida, L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Estes, B.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mejias, M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Klemic, G.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-04-02.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (25 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In this work we provide a summary of the National Conference of
+                Standards Laboratories (NCSL) Recommended Practice RP-1 calibration interval
+                analysis method, and examples of the method applied to three sets of available NIST
+                data (two models of radiation survey meters and an electronic dosimeter).
+                Information is provided for how to develop control charts to monitor individual
+                instruments' performance over time in order to determine when instrument requires
+                recalibration; examples are provided for a survey meter and a gamma-ray
+                spectrometer.</abstract>
+      <note type="statement of responsibility">L. Pibida; B. Estes; M. Mejias; G. Klemic.</note>
+      <note>April 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-04-01.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Calibration</topic>
+      </subject>
+      <subject>
+         <topic>NCSL RP-1 calibration interval analysis</topic>
+      </subject>
+      <subject>
+         <topic>Calibration of radiation detection instruments</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2146</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2146</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228992</identifier>
+      <identifier type="oclc">on1427228992</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111508.0</recordChangeDate>
+         <recordIdentifier>991000626381208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

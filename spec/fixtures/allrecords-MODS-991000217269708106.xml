@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Estimating real-time infiltration for use in residential ventilation
+                control</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Ng, Lisa.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ng, Lisa.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zimmerman, Stephen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Good, Jeremy.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n95016249">
+         <namePart>Toll, Brian.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n95016249</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076634">
+         <namePart>Emmerich, Steven J. (Steven John)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003076634</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9542-3318">
+         <namePart>Persily, Andrew K.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9542-3318</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Minimum outdoor air ventilation rates specified in standards such as
+                ASHRAE Standard 62.2 are generally based on envelope airtightness, building floor
+                area, geographical location, and number of occupants. To meet ventilation
+                requirements in practice, simple on/off controls and operating schedules are most
+                commonly used to maintain the required ventilation rate. Ideally, minimum outdoor
+                ventilation rates should account for unintentional leakage through the building
+                envelope, or 'infiltration.' ASHRAE Standard 62.2-2016 allows for an infiltration
+                credit, which reduces the required mechanical ventilation. However, infiltration
+                rates vary based on the indoor-outdoor temperature difference, wind, and system
+                operation</abstract>
+      <note type="statement of responsibility">Lisa Ng; Stephen Zimmerman; Jeremy Good; Brian Toll; Steven J.
+                Emmerich; Andrew K. Persily.</note>
+      <note>June 2019.</note>
+      <note>Title from PDF title page (viewed June 18, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>ASHRAE standard.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85142747">
+         <topic>Ventilation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1165252">
+         <topic>Ventilation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040752">
+         <topic>Ecology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/901476">
+         <topic>Ecology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043129">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/909986">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Buildings</topic>
+         <topic>Design and construction</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007001498">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1742477">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <subject>
+         <topic>CONTAM</topic>
+      </subject>
+      <subject>
+         <topic>Simplified airflow modeling</topic>
+      </subject>
+      <subject>
+         <topic>Residential ventilation</topic>
+      </subject>
+      <subject>
+         <topic>Real-time infiltration</topic>
+      </subject>
+      <subject>
+         <topic>Energy use</topic>
+      </subject>
+      <subject>
+         <topic>Exposure factor</topic>
+      </subject>
+      <subject>
+         <topic>ASHRAE Standard 62.2</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2046</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2046</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1105038789</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190619</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190619104953.0</recordChangeDate>
+         <recordIdentifier>991000217269708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

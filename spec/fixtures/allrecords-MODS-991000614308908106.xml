@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Manufacturing USA Semiconductor Institute(s) summary of responses to
+                request for information</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Mani, Mahesh.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mani, Mahesh.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Office of Advanced Manufacturing.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-06-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document provides an overview of the stakeholder responses,
+                consensus and an overarching summary of some of the thematic areas that emerged from
+                the Request for Information (RFI). NIST's approach to summarizing the comments
+                received in the RFI was to capture the range and breadth of public input, including
+                common themes and points of divergence. NIST appreciates the richness of the input
+                received from and recognizes that detailed specific comments may not be included in
+                this summary. Readers who would like to see the comments in their entirety can find
+                those at regulations.gov. The RFI analysis and high-level summary was performed by
+                the NIST team by categorizing responses by the five RFI topic areas, individual
+                questions and corresponding responses when applicable, and respondent and
+                organization type. Where applicable, the NIST team also appropriately mapped
+                comments from the text of the general responses to specific RFI questions. Where
+                applicable, specific suggestions from the responses were reproduced as part of the
+                high-level summary.</abstract>
+      <note type="statement of responsibility">Mahesh Mani.</note>
+      <note>June 2023.</note>
+      <note>Title from PDF title page (viewed October 19, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-05-24</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Metrics and success.</topic>
+      </subject>
+      <subject>
+         <topic>Education and workforce development.</topic>
+      </subject>
+      <subject>
+         <topic>Strategies for driving co-investment and engagement.</topic>
+      </subject>
+      <subject>
+         <topic>Institute structure and governance.</topic>
+      </subject>
+      <subject>
+         <topic>Institute scope.</topic>
+      </subject>
+      <subject>
+         <topic>Request for information.</topic>
+      </subject>
+      <subject>
+         <topic>Manufacturing USA.</topic>
+      </subject>
+      <subject>
+         <topic>Semiconductor Institute.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.600-12</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series</title>
+            <partNumber>600-12</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>600-12</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253804</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111403.0</recordChangeDate>
+         <recordIdentifier>991000614308908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

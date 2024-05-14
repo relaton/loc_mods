@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Simulation of residential carbon monoxide exposure due to generator
+                operation in enclosed spaces</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2003076634">
+         <namePart>Emmerich, Steven J. (Steven John)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003076634</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076634">
+         <namePart>Emmerich, Steven J. (Steven John)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003076634</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021116837">
+         <namePart>Polidoro, Brian.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021116837</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003054410">
+         <namePart>Dols, W. Stuart.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003054410</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The U.S. Consumer Product Safety Commission (CPSC) and others are
+                concerned about the hazard of acute carbon monoxide (CO) exposures from portable
+                gasoline powered generators that can result in death or serious adverse health
+                effects in exposed individuals. As of May 15, 2015, the CPSC databases contain
+                records of at least 702 deaths (involving 523 incidents) from CO poisoning in the
+                U.S. caused by consumer use of a generator in the period of 2004 through 2014
+                (Hnatov 2015). There were an additional 49 CO poisoning deaths (involving 39
+                incidents) associated with consumer use of both a generator and at least one other
+                CO-producing consumer appliance, for a total of 751 CO poisoning deaths (involving
+                562 incidents) associated with generators for the same 11-year period. The majority
+                of these deaths occurred when consumers used a generator in an enclosed or partially
+                enclosed space or outdoors near an open door, window or vent. While avoiding the
+                operation of such generators in or near an enclosed space is expected to reduce
+                indoor CO exposures significantly, it may not be realistic to expect such usage to
+                be eliminated completely. Another means of reducing these exposures would be to
+                decrease the rate at which CO is emitted from these devices. A computer simulation
+                study was conducted to provide CPSC staff with information to support comparisons of
+                modeled residential CO exposures reflecting operation of current designs of portable
+                engine-driven electric generators, inside homes or in attached garages. These
+                results were compared to simulated operation of reduced emission generators meeting
+                a potential CO emission rate limit performance requirement being considered by CPSC
+                staff under portable generator rulemaking activities. These simulations employed the
+                multizone airflow and contaminant transport model CONTAM, which was applied to a set
+                of 40 buildings (consisting of 37 houses and 3 detached garages, considered broadly
+                representative of fatal CO poisoning incidents reported in CPSC databases) that are
+                primarily based on a collection of models representative of the U.S. housing stock.
+                This report presents sample CO and carboxyhemoglobin (COHb) simulation results for
+                three of the houses and one of the garages modeled. The results presented
+                demonstrate that generators with the reduced CO emission rates result in peak CO
+                concentrations that can be reduced by 40 % to more than 90 % depending on the
+                specific case being analyzed. The reduced CO emission rates also result in
+                significant reductions in COHb in many cases. Additionally, use of a thermal
+                building model coupled with the airflow and IAQ model to properly account for
+                thermal effects was shown to be important as the interaction of the generators heat
+                generation and the ambient weather conditions can significantly impact both air
+                change rates and interzone airflow patterns in the buildings.</abstract>
+      <note type="statement of responsibility">Steven J. Emmerich; Brian Polidoro; W. Stuart Dols.</note>
+      <note>Title from PDF title page (viewed September 27, 2016).</note>
+      <note>September 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85020121">
+         <topic>Carbon monoxide</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/846854">
+         <topic>Carbon monoxide</topic>
+      </subject>
+      <subject>
+         <topic>Emergency generators</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1925</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1925</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662338</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114119.0</recordChangeDate>
+         <recordIdentifier>991000188569708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

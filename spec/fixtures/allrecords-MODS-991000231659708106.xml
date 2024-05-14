@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST conference papers fiscal year 2017</title>
+         <subTitle>volume 2: Communications Technology Laboratory, Information
+                Technology Laboratory, Material Measurement Laboratory</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Medina-Smith, Andrea.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1217-701X">
+         <namePart>Medina-Smith, Andrea.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1217-701X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8005-089X">
+         <namePart>Miller, Kathryn.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8005-089X</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Wick, Karen.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST is committed to the idea that results of federally funded
+                research are a valuable national resource and a strategic asset. To the extent
+                feasible and consistent with law, agency mission, resource constraints, and U.S.
+                national, homeland, and economic security, NIST will promote the deposit of
+                scientific data arising from unclassified research and programs, funded wholly or in
+                part by NIST, except for Standard Reference Data, free of charge in publicly
+                accessible databases. Subject to the same conditions and constraints listed above,
+                NIST also intends to make freely available to the public, in publicly accessible
+                repositories, all peer-reviewed scholarly publications arising from unclassified
+                research and programs funded wholly or in part by NIST. This Special Publication
+                represents the work of Communications Technology Laboratory, Information Technology
+                Laboratory, and Material Measurement Laboratory researchers at professional
+                conferences, as reported in Fiscal Year 2017. More information on public access to
+                NIST research is available at https://www.nist.gov/open.</abstract>
+      <note type="statement of responsibility">Andrea Medina-Smith; Kathryn Miller; Karen Wick.</note>
+      <note>August 2019.</note>
+      <note>Title from PDF title page (viewed August 22, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>NIST research, public access to NIST research, NIST conference
+                papers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85113021">
+         <topic>Research</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1095153">
+         <topic>Research</topic>
+      </subject>
+      <subject>
+         <topic>NIST research</topic>
+      </subject>
+      <subject>
+         <topic>Public access to NIST research</topic>
+      </subject>
+      <subject>
+         <topic>NIST conference papers</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1239-2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1239-2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1117448321</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190905</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161815.0</recordChangeDate>
+         <recordIdentifier>991000231659708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

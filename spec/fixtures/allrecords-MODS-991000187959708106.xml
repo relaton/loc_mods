@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Specifications, tolerances, and other technical requirements for
+                weighing and measuring devices (HB 44 2017 ed)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Butcher, Tina G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butcher, Tina G.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006134842">
+         <namePart>Crown, Linda.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2006134842</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88614828">
+         <namePart>Harshman, Richard A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88614828</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2019028800">
+         <namePart>Physical Measurement Laboratory (National Institute of Standards and
+                Technology (U.S.))</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019028800</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Handbook 44 was first printed in 1949, having been preceded by
+                similar handbooks of various designations and in several forms. This 2016 edition
+                was developed by the Committee on Specifications and Tolerances of the National
+                Conference on Weights and Measures (NCWM) with the assistance of the Office of
+                Weights and Measures of the National Institute of Standards and Technology (NIST).
+                The handbook includes amendments adopted by the 100th Annual Meeting of the NCWM in
+                2015. NIST Handbook 44 is published in its entirety each year following the NCWM
+                Annual Meeting.</abstract>
+      <note type="statement of responsibility">Tina G. Butcher; Linda D. Crown; Richard A. Harshman.</note>
+      <note>December 2016.</note>
+      <note>Title from PDF title page (viewed December 6, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n2004033614">
+         <titleInfo>
+            <title>Vi︠e︡sy</title>
+         </titleInfo>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Meters</topic>
+      </subject>
+      <subject>
+         <topic>Liquid-measuring devices</topic>
+      </subject>
+      <subject>
+         <topic>Vehicle tank measures</topic>
+      </subject>
+      <subject>
+         <topic>EVFS systems</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.HB.44-2017</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook; NIST HB</title>
+            <partNumber>44-2017</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662129</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114118.0</recordChangeDate>
+         <recordIdentifier>991000187959708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

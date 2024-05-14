@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST micronutrients measurement quality assurance program: spring and
+                fall 1986 comparability studies results for round robins VII and VIII fat soluble
+                vitamins and carotenoids in human serum</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Craft, Neal E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Craft, Neal E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
+         <namePart>Duewer, David L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019178574</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020100705">
+         <namePart>Kline, Margaret C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020100705</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019187374">
+         <namePart>Paule, Robert C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019187374</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ruegg, Fillmer C.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88662487">
+         <namePart>Schaffer, Robert.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88662487</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Schonberger, Emil.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Thomas, Jeanice B.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.).</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">From 1984 to 2017, the National Institute of Standards and Technology
+                coordinated the Micronutrients Measurement Quality Assurance Program (MMQAP) for
+                laboratories that measure fat soluble vitamins and carotenoids in human serum and
+                plasma. This report describes the design of and results for the Spring and Fall 1986
+                MMQAP measurement comparability improvement studies: 1) Round Robin VII Fat Soluble
+                Vitamins and Carotenoids in Human Serum and 2) Round Robin VIII Fat Soluble Vitamins
+                and Carotenoids in Human Serum. The first participant results for Round Robin VII
+                were received March 5, 1986; the last results were received April 29, 1986. The
+                first participant results for Round Robin VIII were received October 30, 1986; the
+                last results were received February 6, 1987.</abstract>
+      <note type="statement of responsibility">Neal E. Craft; David L. Duewer; Margaret C. Kline; Robert C. Paule;
+                Fillmer C. Ruegg; Robert Schaffer; Emil Schonberger; Jeanice B. Thomas.</note>
+      <note>July 2018.</note>
+      <note>Title from PDF title page (viewed July 26, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85143952">
+         <topic>Vitamin A</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1168150">
+         <topic>Vitamin A</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85109438">
+         <topic>Quality assurance</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1084943">
+         <topic>Quality assurance</topic>
+      </subject>
+      <subject>
+         <topic>Human serum</topic>
+      </subject>
+      <subject>
+         <topic>Alpha-Tocopherol</topic>
+      </subject>
+      <subject>
+         <topic>Beta-Carotene</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.7880-38</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>7880-38</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055659194</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004111339.0</recordChangeDate>
+         <recordIdentifier>991000202509708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

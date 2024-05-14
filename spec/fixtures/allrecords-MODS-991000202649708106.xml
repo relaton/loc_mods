@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Research needs to support immediate occupancy building performance
+                objective following natural hazard events</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sattar, Siamak.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sattar, Siamak.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002021681">
+         <namePart>McAllister, Therese.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr2002021681</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85322039">
+         <namePart>Johnson, Katherine.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85322039</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Clavin, Christopher.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Segura, Christopher.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no98130261">
+         <namePart>McCabe, Steven.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no98130261</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Fung, Juan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003096723">
+         <namePart>Abrahams, Leslie.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003096723</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Sylak-Glassman, Emily.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Levitan, Marc.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85801363">
+         <namePart>Harrison, Kenneth.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85801363</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82002023">
+         <namePart>Harris, John.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82002023</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The performance of a building and its functionality after a natural
+                hazard event depend on multiple factors, including the original design and the
+                current condition and capacity of the building to resist the risks posed by hazards.
+                Building functionality also depends on the condition of the supporting
+                infrastructure and the availability of utilities supplied to the building. Rapid
+                recovery or uninterrupted operation of buildings can minimize disruptions to the
+                community, decrease costs associated with repair and rebuilding, and lessen the
+                overall economic burdens on communities and individuals impacted by natural hazards.
+                However, given the range of age and condition of buildings across a community, there
+                are often situations where the built environment does not perform well during
+                natural hazard events. To address this gap between current and desired performance
+                of buildings, Congress tasked the National Institute of Standards and Technology
+                (NIST) to identify research needs and implementation activities that would help
+                improve building performance in case of a natural hazard. This mandate would expand
+                the application of immediate occupancy performance beyond critical buildings, such
+                as hospitals, to other buildings that are important to residents, businesses, and
+                the broader community. With a longstanding focus on preserving lives, building codes
+                help reduce the likelihood of significant damage or structural collapse and provide
+                some degree of property protection. But current codes generally do not address
+                continued functionality after a hazard event. With the damage and losses the nation
+                and communities have been experiencing following natural hazard events, there is
+                interest in understanding what would be required to move beyond the current design
+                paradigm to include functionality. For example, an apartment building may be
+                uninhabitable after an earthquake due to expected structural damage or after a wind
+                hazard event due to damage to the building envelope. The resulting economic and
+                social disruption caused by the displacement of residents is significant and is
+                compounded when residential and commercial buildings across the community are
+                similarly damaged. To address this problem and move toward development of a new
+                immediate occupancy performance objective, this report identifies a large portfolio
+                of research and implementation activities that target enhanced performance
+                objectives for residential and commercial buildings. This exploratory report
+                provides information about steps that could be taken; NIST is not charged with
+                making recommendations about the desirability, practicality, or government or
+                private sector resources that would be needed to carry out these actions if a
+                decision is made to give immediate occupancy greater attention. These potential
+                activities developed by NIST were aided by a steering committee of individual
+                experts and informed by additional stakeholder input, including a national workshop
+                hosted by NIST in January 2018. Four primary topic areas were identified: 1)
+                building design, 2) community considerations, 3) economic and social considerations,
+                and 4) acceptance and adoption considerations. If a decision is made to advance
+                immediate occupancy performance goals, these topics need to be addressed
+                concurrently through cooperative efforts among researchers, engineers, standards and
+                code officials, and community stakeholders to reach the next level of building
+                design and performance.</abstract>
+      <note type="statement of responsibility">Siamak Sattar; Therese McAllister; Katherine Johnson; Christopher
+                Clavin; Christopher Segura; Steven McCabe; Juan Fung; Leslie Abrahams; Emily
+                Sylak-Glassman; Marc Levitan; Kenneth Harrison; John Harris.</note>
+      <note>August 2018.</note>
+      <note>Title from PDF title page (viewed August 21, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017693">
+         <topic>Building</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840551">
+         <topic>Building</topic>
+      </subject>
+      <subject>
+         <topic>Building functionality</topic>
+      </subject>
+      <subject>
+         <topic>Community impacts</topic>
+      </subject>
+      <subject>
+         <topic>Economic impacts</topic>
+      </subject>
+      <subject>
+         <topic>Immediate occupancy</topic>
+      </subject>
+      <subject>
+         <topic>Natural hazards</topic>
+      </subject>
+      <subject>
+         <topic>Performance objective</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1224</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1224</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055659143</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161705.0</recordChangeDate>
+         <recordIdentifier>991000202649708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Uncertainties for machine tool modeling</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Shao, Guodong.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shao, Guodong.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Stann, William.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (20 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Machine tool models play an important role to support decision-making
+                for machine tool procurement, process planning, and production scheduling in
+                manufacturing. However, it is challenging to have a machine model that is accurately
+                and dynamically representing the real machine due to modeling uncertainties.
+                Modeling uncertainties and errors can be introduced during the model development
+                process (i.e., when a machine model is created from scratch) and the model
+                conversion process (i.e., when a machine model in one format needs to be converted
+                into another format, e.g., from a vendor-specific format to a neutral format such as
+                STandard Exchange of Product Data (STEP)). This paper identifies these uncertainties
+                and particularly provides a methodology to help ensure correctly converting the
+                coordinate system from one definition to another. Examples are provided to explain
+                the methodology. We also discuss digital twins of machine tools, which would be an
+                integrated solution for addressing most of the modeling uncertainties to constantly
+                monitor the status of the machine tool, dynamically update the model parameters, and
+                in turn optimally control the machine tool.</abstract>
+      <note type="statement of responsibility">Guodong Shao; William Stann.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Machine-tools</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Measurement uncertainty (Statistics)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Machines-outils</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Incertitude de mesure</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>machine tools</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Machine-tools</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Measurement uncertainty (Statistics)</topic>
+      </subject>
+      <subject>
+         <topic>Machine tool modeling</topic>
+      </subject>
+      <subject>
+         <topic>Digital twin</topic>
+      </subject>
+      <subject>
+         <topic>Smart manufacturing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-36</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-36</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124469</identifier>
+      <identifier type="oclc">on1346124469</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111447.0</recordChangeDate>
+         <recordIdentifier>991000625739708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

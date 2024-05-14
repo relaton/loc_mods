@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>November 2022 NIST Premise Plumbing Research Workshop</title>
+         <subTitle>summary and findings</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Persily, Andrew K.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9542-3318">
+         <namePart>Persily, Andrew K.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9542-3318</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Batista, Marylia Duarte.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7711-7301">
+         <namePart>Healy, William M.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7711-7301</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5051-1819">
+         <namePart>Kedzierski, Mark A.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5051-1819</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0813-7613">
+         <namePart>Lin, Lingnan.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0813-7613</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Milesi-Ferretti, Natascha S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ullah, Tania</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yashar, David A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5254-278X">
+         <namePart>Zimmerman, Stephen.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5254-278X</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-07-28.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Premise plumbing systems need to meet a range of performance goals
+                including occupant health and comfort, energy and water efficiency, and reduced
+                environmental impacts. Pressures to improve water efficiency and building water
+                quality, combined with the use of new plumbing technologies and designs, have led to
+                the recognition that significant knowledge gaps exist in plumbing system design,
+                installation, operation, and maintenance. The research needed to address these gaps
+                was summarized in a 2020 NIST report Measurement Science Research Needs for Premise
+                Plumbing Systems. NIST also initiated an effort in 2020 to study several key
+                research topics identified in that report including: the pressure versus flow
+                relationships of plumbing fittings, the factors contributing to pathogen growth in
+                residential hot water systems, the development of standard plumbing systems for
+                comparing different design and operational approaches, and the improvement of
+                existing premise plumbing system simulation software. To obtain feedback from
+                industry and others in the premise plumbing community, NIST held a one-day workshop
+                in November 2022 to discuss these research efforts, strengthen ongoing dialogues
+                among the plumbing community, and develop a shared understanding of the research
+                needs.</abstract>
+      <note type="statement of responsibility">Andrew Persily; Marylia Duarte Batista; William Healy; Mark
+                Kedzierski; Lingnan Lin; Natascha Milesi Ferretti; Tania Ullah; David Yashar;
+                Stephen M. Zimmerman.</note>
+      <note>July 2023.</note>
+      <note>Title from PDF title page (viewed November 8, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-07-12</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Water</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Workshops</topic>
+      </subject>
+      <subject>
+         <topic>Research needs</topic>
+      </subject>
+      <subject>
+         <topic>Measurement science</topic>
+      </subject>
+      <subject>
+         <topic>Premise plumbing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2256</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2256</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210893</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111400.0</recordChangeDate>
+         <recordIdentifier>991000615209808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

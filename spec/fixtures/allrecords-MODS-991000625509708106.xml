@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>The impact of material composition on ignitability and fire growth.
+                volume 1</title>
+         <subTitle>full-scale burning behavior of combustible solids commonly found in
+                nuclear power plants</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Leventon, Isaac.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8835-8087">
+         <namePart>Leventon, Isaac T.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8835-8087</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6279-5908">
+         <namePart>Heck, Michael V.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6279-5908</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1135-1274">
+         <namePart>McGrattan, Kevin B.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1135-1274</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1138-0307">
+         <namePart>Bundy, Matthew F.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1138-0307</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2264-0490">
+         <namePart>Davis, Rick D.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2264-0490</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-02-13.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report provides an overview of quantitative measurement data and
+                visual observations obtained from a series of 52 full-scale fire growth experiments
+                conducted on 16 unique combustible solids including: natural and synthetic polymers,
+                copolymers, fiberglass-reinforced composite materials, porous polymer foams, and
+                electrical cables. Key measurement devices were incorporated into this test
+                apparatus in order to measure the primary mechanism controlling fire growth (flame
+                to surface heat transfer during upward flame spread over the surface of the
+                combustible solids) and to measure global quantities characterizing fire behavior
+                and development: heat release rate (HRR), soot and gaseous species (i.e., CO and
+                CO2) yields. This information can be used to improve the analysis and determination
+                of fuel loading in electrical enclosures, which in turn can be used to define peak
+                fire size (HRR) for use in PRAs. Additionally, measurements obtained from these
+                full-scale experiments provide a comprehensive source of reference data needed to
+                validate numerical models that can predict ignitability, fire growth rate, and peak
+                fire size of combustible solids (e.g., materials found in electrical
+                enclosures).</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Isaac Leventon; Michael Heck; Kevin B. McGrattan; Matthew Bundy; Rick
+                D. Davis.</note>
+      <note>February 2024.</note>
+      <note>Title from PDF title page (viewed March 07, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2024-02-02</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Flame spread</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Nuclear power plants</topic>
+      </subject>
+      <subject>
+         <topic>Electrical enclosures.</topic>
+      </subject>
+      <subject>
+         <topic>Fire model validation.</topic>
+      </subject>
+      <subject>
+         <topic>Flame heat flux.</topic>
+      </subject>
+      <subject>
+         <topic>Flame spread.</topic>
+      </subject>
+      <subject>
+         <topic>Heat release rate.</topic>
+      </subject>
+      <subject>
+         <topic>Ignitability.</topic>
+      </subject>
+      <subject>
+         <topic>Material flammability.</topic>
+      </subject>
+      <subject>
+         <topic>Nuclear Power Plant (NPP).</topic>
+      </subject>
+      <subject>
+         <topic>Oxygen consumption calorimetry.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2282</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2282</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240307</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111401.0</recordChangeDate>
+         <recordIdentifier>991000625509708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

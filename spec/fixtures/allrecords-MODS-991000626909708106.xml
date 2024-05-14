@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Workshop on quantifying methane emissions across natural gas
+                infrastructure in urban environments</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Karion, Anna.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6304-3513">
+         <namePart>Karion, Anna.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6304-3513</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1726-3291">
+         <namePart>Shepson, Paul.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1726-3291</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4122-9445">
+         <namePart>Butcher, Thomas.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4122-9445</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1373-1550">
+         <namePart>Commane, Roisin.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1373-1550</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5137-6620">
+         <namePart>Fernandez, Julianne.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5137-6620</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ferrara, Tom.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hajny, Kris.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8846-7147">
+         <namePart>Jackson, Robert B.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8846-7147</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7641-5227">
+         <namePart>Lamb, Brian.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7641-5227</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5621-9162">
+         <namePart>Lopez-Coto, Israel.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5621-9162</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Magavi, Zeyneb.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8600-5096">
+         <namePart>McDonald, Brian.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8600-5096</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8600-9193">
+         <namePart>Merrin, Zachary.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8600-9193</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Miller, Scot M.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3516-2259">
+         <namePart>Mueller, Kimberly.</namePart>
+         <nameIdentifier>(orcid)0000-0002-3516-2259</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3447-3952">
+         <namePart>Murray, Lee.</namePart>
+         <nameIdentifier>(orcid)0000-0002-3447-3952</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8660-5136">
+         <namePart>Pitt, Joe.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8660-5136</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Trieste, Rick.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8832-0604">
+         <namePart>Trojanowski, Rebecca.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8832-0604</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5508-6073">
+         <namePart>von Fischer, Joe.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5508-6073</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Special Programs Office.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-03-27.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A workshop was held at the EDF offices in Washington, DC, on June 15
+                and 16, 2022, to discuss the current state of knowledge and to define productive
+                courses of action in better determination and source apportionment of methane
+                emission rates, and specifically, natural gas emission rates, in urban environments.
+                The workshop involved 56 attendees from universities, government agencies, NGOs and
+                the private sector, including representatives from relevant utilities. This report
+                covers discussion of the knowledge base to date about urban sources of natural gas
+                (NG) methane emissions, their relative magnitudes, and areas of uncertainty.
+                Specific suggestions and ideas for future experiments to be conducted that could
+                improve our understanding are presented. Next steps, including the creation of
+                working groups for field experiments and/or a research coordination network are
+                discussed.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Anna Karion; Paul Shepson; Thomas Butcher; Roisin Commane; Julianne
+                Fernandez; Tom Ferrara; Kris Hajny; Robert B. Jackson; Brian Lamb; Israel
+                Lopez-Coto; Zeyneb Magavi; Brian McDonald; Zachary Merrin; Scot M. Miller; Kimberly
+                Mueller; Lee Murray; Joe Pitt; Rick Trieste; Rebecca Trojanowski; Joe von
+                Fischer.</note>
+      <note>March 2024.</note>
+      <note>Title from PDF title page (viewed April 10,2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2024-02-15</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Natural gas</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Methane</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Greenhouse gases</topic>
+      </subject>
+      <subject>
+         <topic>Natural gas urban.</topic>
+      </subject>
+      <subject>
+         <topic>Methane.</topic>
+      </subject>
+      <subject>
+         <topic>Urban.</topic>
+      </subject>
+      <subject>
+         <topic>Greenhouse gas.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1500-22</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>1500-22</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1500-22</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240410</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240423155039.0</recordChangeDate>
+         <recordIdentifier>991000626909708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

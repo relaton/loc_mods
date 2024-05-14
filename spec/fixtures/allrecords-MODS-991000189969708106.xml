@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Numerical modeling and analysis of heat transfer in composite slabs
+                with profiled steel decking</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2001064512">
+         <namePart>Jiang, Jian.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2001064512</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2001064512">
+         <namePart>Jiang, Jian.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2001064512</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011168767">
+         <namePart>Main, Joseph A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011168767</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Sadek, Fahim H.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015167354">
+         <namePart>Weigand, Jonathan M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015167354</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report presents detailed and reduced-order finite element
+                modeling of heat transfer in composite floor slabs with profiled steel decking. The
+                detailed modeling approach uses solid elements for the concrete slab and shell
+                elements for the steel decking. The reduced-order modeling approach represents the
+                thick and thin parts of a composite slab with alternating strips of layered shell
+                elements. In the reduced-order modeling approach, a linear gradient in the density
+                of concrete in the rib is used to represent the tapered profile of the rib. In order
+                to more accurately account for the heat input through web of the steel decking in
+                the reduced-order models, the specific heat of concrete in the rib is modified and a
+                dummy material with low specific heat and high thermal conductivity is added in the
+                thin part of the slab. The detailed modeling approach is validated against
+                experimental results available in the literature, and the reduced-order modeling
+                approach is calibrated against the detailed model results and validated against
+                experimental data. A parametric study using the detailed modeling approach is
+                carried out to investigate the influence of the thermal boundary conditions, thermal
+                properties of materials, and slab geometry on the temperature distribution in the
+                composite slab. The results show that the rib height of the decking and the width at
+                the top of the rib are key factors governing the temperature distribution in the
+                rib. In addition, a mesh-sensitivity analysis is performed to investigate the extent
+                to which the mesh size could be increased while maintaining sufficient
+                accuracy.</abstract>
+      <note type="statement of responsibility">Jian Jiang; Joseph A. Main; Fahim H. Sadek; Jonathan M.
+                Weigand.</note>
+      <note>April 2017.</note>
+      <note>Title from PDF title page (viewed April 24, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85059767">
+         <topic>Heat</topic>
+         <topic>Transmission</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/953826">
+         <topic>Heat</topic>
+         <topic>Transmission</topic>
+      </subject>
+      <subject>
+         <topic>Composite slab</topic>
+      </subject>
+      <subject>
+         <topic>Detailed model</topic>
+      </subject>
+      <subject>
+         <topic>Reduced-order model</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1958</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1958</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">988943915</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170605</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170606115832.0</recordChangeDate>
+         <recordIdentifier>991000189969708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

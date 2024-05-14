@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Laboratory tests of a prototype carbon dioxide ground-source air
+                conditioner</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022084007">
+         <namePart>Skye, Harrison.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022084007</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022084007">
+         <namePart>Skye, Harrison.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022084007</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86036607">
+         <namePart>Wu, Wei.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86036607</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Environmental concerns are driving regulations to reduce the use of
+                hydrofluorocarbons (HFCs) with high global warming potential (GWP) as refrigerants
+                in heat pumps. CO2 is an attractive alternative refrigerant because is it
+                environmentally friendly in terms of direct emissions, with GWP=1, and no ozone
+                depletion potential (ODP). However, CO2 heat pumps generally have a lower efficiency
+                than HFC-based systems, and therefore have higher indirect emissions, related to
+                generating the electricity that powers them. The indirect emissions dwarf the direct
+                emissions for most heating, air-conditioning and refrigeration applications, so it
+                is critical for the equipment to operate with high efficiency. CO2 air-source heat
+                pumps (ASHPs) provide cooling with particularly low efficiency at high ambient
+                temperatures where the CO2 operates in a transcritical cycle. Using CO2 in a
+                ground-source heat pump (GSHP) offers the potential to overcome the low efficiency
+                since a GSHP operates with lower heat-rejection temperature (for cooling), enabling
+                the system to operate some of the time in a more-efficient subcritical cycle. This
+                report details the laboratory tests of a prototype residential liquid-to-air
+                ground-source air conditioner (GSAC) using CO2 as the refrigerant. The tests were
+                performed in an environmental chamber and followed the ISO 13256-1 standard for
+                rating GSHPs. The CO2 GSAC operated either in a subcritical or a transcritical
+                cycle, depending on the entering liquid temperature (ELT). The test results included
+                the coefficient of performance (COP), capacity, sensible heat ratio (SHR), and
+                pressures. The system incorporated a liquid-line/suction-line heat exchanger
+                (LLSL-HX), which was estimated to cause a COP penalty of (0 to 2) % for ELTs ranging
+                (10 to 25) [degrees]C, and benefit of (0 to 5) % for ELTs ranging (30 to 39)
+                [degrees]C. The CO2 system was compared to a low-cost , commercially-available
+                R410A-based GSHP. With ELTs ranging (10 to 39) [degrees]C the CO2 system cooling COP
+                ranged (7.3 to 2.4), whereas the R410A system values ranged (6.1 to 3.2). At the
+                standard rating condition (ELT 25 [degrees]C), the CO2 GSAC cooling COP was 4.14 and
+                the R410A GSHP COP was 4.57. At part-load conditions (ELT 20 [degrees]C) both
+                systems had a COP of ?4.92. Further effort is needed to increase the CO2 system
+                efficiency at ELTs greater than 20 [degrees]C, since it underperformed the R410A
+                system in that temperature range.</abstract>
+      <note type="statement of responsibility">Harrison Skye; Wei Wu.</note>
+      <note>October 2019.</note>
+      <note>Title from PDF title page (viewed October 8, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85002610">
+         <topic>Air conditioning</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/802264">
+         <topic>Air conditioning</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85020108">
+         <topic>Carbon dioxide</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/846814">
+         <topic>Carbon dioxide</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh96004543">
+         <topic>Ground source heat pump systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/948168">
+         <topic>Ground source heat pump systems</topic>
+      </subject>
+      <subject>
+         <topic>Air conditioners</topic>
+      </subject>
+      <subject>
+         <topic>CO2</topic>
+      </subject>
+      <subject>
+         <topic>Subcritical and transcritical cycles</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2068</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2068</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132805808</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20191223014819.0</recordChangeDate>
+         <recordIdentifier>991000232289708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

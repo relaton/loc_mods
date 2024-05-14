@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Recommended modeling parameters and acceptance criteria for nonlinear
+                analysis in support of seismic evaluation, retrofit, and design</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n77018286">
+         <namePart>Applied Technology Council.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n77018286</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n77018286">
+         <namePart>Applied Technology Council.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n77018286</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In September 2014, the Applied Technology Council (ATC) commenced a
+                task order project under National Institute of Standards and Technology (NIST)
+                Contract SB1341-13-CQ-0009 to conduct comprehensive review of the generalized
+                component models published in the current ASCE/SEI standard and relevant research,
+                and develop recommendations for improvement (ATC-114 Project). The need for defining
+                parameters for nonlinear force-deformation models for components, elements, or
+                assemblies is identified as a high-priority research and development topic in NIST
+                GCR 14-917-27 report, Nonlinear Analysis Study and Development Program for
+                Performance-Based Seismic Engineering, (NIST, 2013) which outlines a research and
+                development program for addressing the gap between state-of-the-art academic
+                research and state-of-practice engineering applications for nonlinear structural
+                analysis, analytical structural modeling, and computer simulation in support of
+                performance-based seismic engineering. The current standard, ASCE/SEI 41-13, Seismic
+                Evaluation and Retrofit of Existing Buildings (ASCE, 2014), is widely used by
+                designers for evaluating and upgrading existing buildings. The component models in
+                the current standard were developed for use in existing building analysis, but they
+                have also become widely employed in new building analysis. The purpose of this
+                report is to recommend broad improvements to seismic nonlinear modeling and
+                acceptance criteria requirements for different structural systems.</abstract>
+      <note type="statement of responsibility">Applied Technology Council.</note>
+      <note>April 2017.</note>
+      <note>Title from PDF title page (viewed January 16, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n77018286">
+         <name type="corporate">
+            <namePart>Applied Technology Council.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/523729">
+         <name type="corporate">
+            <namePart>Applied Technology Council.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040493">
+         <topic>Earthquake resistant design</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/900877">
+         <topic>Earthquake resistant design</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.17-917-45</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract report
+</title>
+            <partNumber>17-917-45</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1027218978</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180305</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180305121855.0</recordChangeDate>
+         <recordIdentifier>991000196339708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

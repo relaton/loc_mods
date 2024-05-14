@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Report on visit to Panama</title>
+         <subTitle>subject - Weights and Measures Standards Program</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Wollin, H. F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wollin, H. F.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ob</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1965</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology,</publisher>
+         <dateIssued>1965.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">remote</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">H.F. Wollin.</note>
+      <note>September 30, 1965.</note>
+      <note>Title from PDF title page (viewed Febraury 22, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Weights and measures</topic>
+         <geographic>Latin America</geographic>
+         <geographic>Panama</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst01173497">
+         <topic>Weights and measures</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Latin America</geographic>
+         <topic>Standards</topic>
+      </subject>
+      <subject authority="rvm">
+         <geographic>Amérique latine</geographic>
+         <topic>Normes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst01245945">
+         <geographic>Latin America</geographic>
+      </subject>
+      <classification authority="lcc">QC100 .U843 no.8976 1965</classification>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.RPT.8976</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS report</title>
+            <partNumber>8976</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">994300718</identifier>
+      <identifier type="oclc">ocn994300718</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170724</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240202143715.5</recordChangeDate>
+         <recordIdentifier>991000625639108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

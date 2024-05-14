@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Identity and access management for electric utilities</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n92118514">
+         <namePart>McCarthy, Jim.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n92118514</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n92118514">
+         <namePart>McCarthy, Jim.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n92118514</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Faatz, Don.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Perper, Harry.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Peloquin, Chris.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wiltberger, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kauffman, Leah.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">To protect power generation, transmission, and distribution, energy
+                companies need to control physical and logical access to their resources, including
+                buildings, equipment, information technology (IT), and operational technology (OT).
+                They must authenticate authorized individuals to the devices and facilities to which
+                they are giving access rights with a high degree of certainty. In addition, they
+                need to enforce access control policies (e.g., allow, deny, inquire further)
+                consistently, uniformly, and quickly across all of their resources. This project
+                resulted from direct dialog among NCCoE staff and members of the electricity
+                subsector, mainly from electric power companies and those who provide equipment
+                and/or services to them. The goal of this project is to demonstrate a converged,
+                standards-based technical approach that unifies identity and access management
+                (IdAM) functions across OT networks, physical access control systems (PACS), and IT
+                systems. These networks often operate independently, which can result in identity
+                and access information disparity, increased costs, inefficiencies, and loss of
+                capacity and service delivery capability. This guide describes our collaborative
+                efforts with technology providers and electric utility stakeholders to address the
+                security challenges energy providers face in the core function of IdAM. It offers a
+                technical approach to meeting the challenge and also incorporates a business value
+                mind-set by identifying the strategic considerations involved in implementing new
+                technologies. This NIST Cybersecurity Practice Guide provides a modular, open,
+                end-to-end example solution that can be tailored and implemented by energy providers
+                of varying sizes and sophistication. It shows energy providers how we met the
+                challenge using open source and commercially available tools and technologies that
+                are consistent with cybersecurity standards.</abstract>
+      <note type="statement of responsibility">Jim McCarthy; Don Faatz; Harry Perper; Chris Peloquin; John
+                Wiltberger; Leah Kauffman.</note>
+      <note>July 2018.</note>
+      <note>Title from PDF title page (viewed July 13, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+         <topic>Computer security</topic>
+      </subject>
+      <subject>
+         <topic>Physical security</topic>
+      </subject>
+      <subject>
+         <topic>Operational security</topic>
+      </subject>
+      <subject>
+         <topic>Electricity subsector</topic>
+      </subject>
+      <subject>
+         <topic>Energy sector</topic>
+      </subject>
+      <subject>
+         <topic>Identity and access management</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055659188</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163201.0</recordChangeDate>
+         <recordIdentifier>991000202439708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

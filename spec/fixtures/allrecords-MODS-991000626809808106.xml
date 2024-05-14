@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Workshop summary report for "Building the Federal Profile for IoT
+                Device Cybersecurity" virtual workshop</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Megas, Katerina N.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2815-5448">
+         <namePart>Megas, Katerina N.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2815-5448</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1861-2609">
+         <namePart>Fagan, Michael.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1861-2609</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Lemire, David.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2021-01-06.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : tables (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report summarizes the feedback received on the work of the NIST
+                Cybersecurity for IoT program on device cybersecurity at a virtual workshop in July
+                2020. NISTIR 8259, Foundational Cybersecurity Activities for IoT Device
+                Manufacturers and NISTIR 8259A, IoT Device Cybersecurity Capability Core Baseline
+                provide general guidance on how manufacturers can understand and approach their role
+                in supporting customers’ cybersecurity needs and goals. As discussed in those
+                documents, specific sectors and use cases may require more specific guidance than
+                what is included in NISTIR 8259A’s core baseline for IoT devices. NIST conducted the
+                virtual workshop “Building the Federal Profile for IoT Device Cybersecurity” to
+                discuss and gather community input on the creation of a federal profile of the core
+                baseline for use by federal agencies. This publication provides a summary of the
+                workshop. The baseline will be published in NISTIR 8259D, Profile of the IoT Core
+                Baseline for the Federal Government.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Katerina N. Megas; Michael Fagan; David Lemire.</note>
+      <note>January 2021.</note>
+      <note>Title from PDF title page (viewed April 04, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-01-04</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity baseline</topic>
+      </subject>
+      <subject>
+         <topic>Securable computing devices</topic>
+      </subject>
+      <subject>
+         <topic>Security requirements</topic>
+      </subject>
+      <subject>
+         <topic>Risk Management Framework</topic>
+      </subject>
+      <subject>
+         <topic>Federal profile</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8322</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8322</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8322</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240404</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240418170314.0</recordChangeDate>
+         <recordIdentifier>991000626809808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

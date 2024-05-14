@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>FY24 soft robotics report</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Case, Jennifer C.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3264-0558">
+         <namePart>Case, Jennifer C.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3264-0558</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1855-2175">
+         <namePart>Marvel, Jeremy A.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1855-2175</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-02-29.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Advances in robotics research have begun incorporating
+                non-traditional materials, such as elastomers and smart materials (e.g., shape
+                memory alloys, responsive hydrogels, etc.), into the structure of robots giving them
+                new capabilities. This inclusion of soft materials has highlighted a number of
+                metrology challenges related to highly deformable objects or systems. The purpose of
+                this report is to identify the measurement challenges faced by the soft robotics
+                community and propose NIST research to help support these challenges. To accomplish
+                this goal, we surveyed literature including proposed roadmaps for the field, engaged
+                the community through workshops, and engaged industry. This report summarizes
+                challenges for the community and industry and provides a detailed survey of material
+                testing and modeling, including limitations in current practices. We conclude by
+                proposing steps that NIST can take to support metrology within the field which will,
+                in turn, improve industry’s ability to take advantage of this new
+                technology.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Jennifer C. Case; Jeremy A. Marvel.</note>
+      <note>February 2024.</note>
+      <note>Title from PDF title page (viewed April 29, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2024-02-27</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Roadmap</topic>
+      </subject>
+      <subject>
+         <topic>Soft robotics</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8508</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8508</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8508</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240429</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240429180203.0</recordChangeDate>
+         <recordIdentifier>991000627909508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

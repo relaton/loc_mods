@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Cryptographic Module Validation Program (CMVP)-approved sensitive
+                security parameter generation and establishment methods</title>
+         <subTitle>CMVP validation authority updates to ISO/IEC 24759</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Calis, Alexander.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1937-8129">
+         <namePart>Calis, Alexander.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1937-8129</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-07-25.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The approved sensitive security parameter generation and
+                establishment methods listed in this publication replace the ones listed in
+                International Organization for Standardization/International Electrotechnical
+                Commission (ISO/IEC) 19790 Annex D and ISO/IEC 24759 paragraph 6.16, within the
+                context of the Cryptographic Module Validation Program (CMVP). As a validation
+                authority, the CMVP may supersede Annex D in its entirety.</abstract>
+      <note type="statement of responsibility">Alexander Calis.</note>
+      <note>July 2023.</note>
+      <note>Title from PDF title page (viewed September 28, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-03-30</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Vendor documentation</topic>
+      </subject>
+      <subject>
+         <topic>Vendor evidence</topic>
+      </subject>
+      <subject>
+         <topic>Testing requirements</topic>
+      </subject>
+      <subject>
+         <topic>Sensitive security parameter generation</topic>
+      </subject>
+      <subject>
+         <topic>ISO/IEC 19790; ISO/IEC 24759</topic>
+      </subject>
+      <subject>
+         <topic>FIPS 140 testing</topic>
+      </subject>
+      <subject>
+         <topic>CMVP</topic>
+      </subject>
+      <subject>
+         <topic>Cryptographic Module Validation Program</topic>
+      </subject>
+      <subject>
+         <topic>Sensitive security parameter establishment methods</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-140Dr2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>800-140Dr2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.SP.800-140Dr1</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-140Dr2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253743</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111402.0</recordChangeDate>
+         <recordIdentifier>991000613908808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

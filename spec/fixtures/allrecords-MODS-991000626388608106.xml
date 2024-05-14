@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST-NOAA survey tool for business disruption and recovery associated
+                with extreme events</title>
+         <subTitle>general instrument applied to the Beaumont and Port Arthur, Texas
+                small- and medium-sized business and nonprofit organizations community
+                post-Hurricane Harvey</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Meyer, Michelle.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Meyer, Michelle.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Semien, Joy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Helgeson, Jennifer.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-08-12.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (90 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">To gather more in-depth information about how disasters affect
+                businesses and nonprofits, the National Institute of Standards and Technology (NIST)
+                and the National Oceanic and Atmospheric Administration (NOAA) launched a study of
+                business disruption and recovery related to several recent disasters. This report
+                outlines the survey instrument used as the basis for the research designed and
+                conducted in partnership between Texas Sea Grant and the Texas A&amp;M University
+                Hazard Reduction and Recovery Center (HRRC), NIST Applied Economics Office (AEO),
+                and the NOAA Regional Integrated Sciences and Assessment (RISA) Program. This
+                research protocol uses a mixed-method research approach to study businesses and
+                nonprofit organizations that were impacted by Hurricane Harvey in 2017 and their
+                long-term recovery process. The approach combines both quantitative and qualitative
+                data collection methods of in-person and telephone surveys to obtain organizational
+                disruption and recovery information from organizational owners and
+                managers.</abstract>
+      <note type="statement of responsibility">Michelle Meyer; Joy Semien; Jennifer Helgeson.</note>
+      <note>August 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-07-21</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Natural disasters</topic>
+      </subject>
+      <subject>
+         <topic>Nonprofit recovery</topic>
+      </subject>
+      <subject>
+         <topic>Business resilience</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.DCI.004</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST data collection instruments and best practices; NIST
+                DCI</title>
+            <partNumber>004</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890071</identifier>
+      <identifier type="oclc">on1389890071</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111505.0</recordChangeDate>
+         <recordIdentifier>991000626388608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

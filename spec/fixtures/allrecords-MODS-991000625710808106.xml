@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Performance measurement of a mobile manipulator-on-a-cart and
+                coordinate registration methods for manufacturing applications</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Aboul-Enein, Omar.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Aboul-Enein, Omar.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bostelman, Roger.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Li-Baboud, Ya-Shian.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shah, Mili.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>Withdrawal</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-11-18.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (101 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Mobile manipulators, which consist of a robotic manipulator arm on a
+                vehicular base, enable more flexible and dynamic workflows in manufacturing
+                processes by freeing the manipulator arm from the restriction of working on a
+                single, calibrated workspace. A mobile manipulator-on-cart further enhances job
+                concurrency since the manipulator arm is mounted to a detachable cart rather than
+                directly to the vehicle payload structure. With this increase in flexibility, there
+                is a need to understand new sources of position and orientation uncertainty. This
+                uncertainty can degrade the accuracy and precision of the mobile manipulator
+                position and orientation in addition to the coordination capability between the
+                manipulator and vehicle. To facilitate performance evaluation and uncertainty
+                characterization, the National Institute of Standards and Technology (NIST) has
+                developed an artifact-based measurement methodology for mobile manipulator-on-a-cart
+                systems. The artifact, which is re-configurable, simulates mock-assembly tasks for
+                manufacturing applications and is compared to a ground truth consisting of an
+                optical tracking system. In this paper, we document experimental procedures, data
+                analysis methods, and results in measuring the performance of the
+                manipulator-on-a-cart system. We also compare the speed and accuracy of two example
+                coordinate registration techniques to be used by the mobile manipulator-on-a-cart to
+                reduce position and orientation uncertainty.</abstract>
+      <note type="statement of responsibility">Omar Aboul-Enein; Roger Bostelman; Ya-Shian Li-Baboud; Mili
+                Shah.</note>
+      <note>November 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-04-05</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Experimental design</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Mobile robots</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Statistics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Systems integration</topic>
+      </subject>
+      <subject>
+         <topic>Coordinate registration</topic>
+      </subject>
+      <subject>
+         <topic>Ground truth</topic>
+      </subject>
+      <subject>
+         <topic>Mobile manipulators</topic>
+      </subject>
+      <subject>
+         <topic>Optical tracking system</topic>
+      </subject>
+      <subject>
+         <topic>Reconfigurable mobile manipulator artifact (RMMA)</topic>
+      </subject>
+      <subject>
+         <topic>Robotics in manufacturing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-45</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series</title>
+            <partNumber>100-45</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890184</identifier>
+      <identifier type="oclc">on1389890184</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111419.0</recordChangeDate>
+         <recordIdentifier>991000625710808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

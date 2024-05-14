@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Workshop summary report for Building on the NIST Foundations
+</title>
+         <subTitle>Next Steps in IoT Cybersecurity</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Megas, Katerina N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Megas, Katerina N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fagan, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cuthill, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hoehn, Brad.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lemire, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Herold, Rebecca.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-09-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (25 pages) : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report summarizes the feedback received on the work of the NIST
+                Cybersecurity for the Internet of Things (IoT) program on IoT product cybersecurity
+                criteria at a virtual workshop in June 2022. The purpose of this workshop was to
+                obtain feedback on specific considerations and techniques for addressing those
+                considerations around cybersecurity in IoT products. These considerations have broad
+                applicability across IoT product sectors, including the consumer IoT products sector
+                and the industrial IoT sector. For consumer IoT, these considerations arose in
+                moving the criteria presented in Recommended Criteria for Cybersecurity Labeling for
+                Consumer Internet of Things (IoT) Products into draft NIST IR 8425, Profile of the
+                IoT Core Baseline for Consumer IoT Products, along with a discussion paper on the
+                complexity of risk identification for IoT published before the workshop.</abstract>
+      <note type="statement of responsibility">Katerina N. Megas; Michael Fagan; Barbara Cuthill; Brad Hoehn; David
+                Lemire; Rebecca Herold.</note>
+      <note>September 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Internet of Things</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Consumer profiling</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Privacy</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Consumer IoT</topic>
+      </subject>
+      <subject>
+         <topic>Industrial IoT (IIoT)</topic>
+      </subject>
+      <subject>
+         <topic>IoT products</topic>
+      </subject>
+      <subject>
+         <topic>Risk Management Framework</topic>
+      </subject>
+      <subject>
+         <topic>Securable products</topic>
+      </subject>
+      <subject>
+         <topic>Security requirements</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8431</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8431</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890032</identifier>
+      <identifier type="oclc">on1389890032</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111505.0</recordChangeDate>
+         <recordIdentifier>991000626251708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

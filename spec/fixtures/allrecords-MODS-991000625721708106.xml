@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Load forecasting tool for NIST transactive energy market</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Omar, Farhad.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Omar, Farhad.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Holmberg, David.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-09-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (34 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Customers and transactive energy (TE) market managers may rely on
+                load forecasting algorithms to purchase or sell power in a forward market
+                environment, using day-ahead and real-time pricing structures. Accurate load
+                forecasting becomes necessary when a local controller or aggregator interacts with a
+                market to purchase energy for future use. This study introduces a load forecasting
+                tool (LFT) that estimates the next-day energy consumption of residential house
+                models in GridLAB D. The LFT is an integral part of the National Institute of
+                Standards and Technology (NIST) TE simulation testbed which provides a platform for
+                conducting TE experiments. The LFT is comprised of two main components, a learning
+                algorithm and a load forecasting algorithm utilizing a first-order lumped
+                capacitance model to forecast the next day indoor temperature and energy
+                consumption. The lumped capacitance model simulates the thermal characteristics of a
+                residential house in response to heat gains or losses due to the heat pump operation
+                and other environmental conditions, such as outdoor air temperature and solar
+                irradiance. The learning algorithm uses simulated indoor temperature from GridLAB-D
+                and historical weather data for Tucson Arizona to estimate critical parameters of a
+                residential house such as thermal time constant, solar heat gain coefficient,
+                effective window area, and the heat pump coefficient of performance. The load
+                forecasting algorithm utilizes these parameters to optimize the operation of a
+                residential heat pump while minimizing cost and maintaining thermal comfort. The
+                load forecasting algorithm resulted in average energy savings of 9.4 % and average
+                cost savings of 19.4 % compared to simulated baseline energy consumption in
+                GridLAB-D. The LFT s forecast temperature and energy consumption profiles have been
+                integrated into a co-simulation experiment for validation.</abstract>
+      <note type="statement of responsibility">Farhad Omar; David Holmberg.</note>
+      <note>September 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-27</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Heat pumps</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Heat Transmission</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Parameter estimation</topic>
+      </subject>
+      <subject>
+         <topic>Energy use forecasting</topic>
+      </subject>
+      <subject>
+         <topic>Heat pump controller</topic>
+      </subject>
+      <subject>
+         <topic>Heat pump energy consumption</topic>
+      </subject>
+      <subject>
+         <topic>Load forecasting</topic>
+      </subject>
+      <subject>
+         <topic>Lumped capacitance model</topic>
+      </subject>
+      <subject>
+         <topic>Multi-objective optimization</topic>
+      </subject>
+      <subject>
+         <topic>Optimization algorithm</topic>
+      </subject>
+      <subject>
+         <topic>Overall heat transfer conductance</topic>
+      </subject>
+      <subject>
+         <topic>Parameter learning</topic>
+      </subject>
+      <subject>
+         <topic>Parameter optimization</topic>
+      </subject>
+      <subject>
+         <topic>Solar heat gain</topic>
+      </subject>
+      <subject>
+         <topic>Thermal model</topic>
+      </subject>
+      <subject>
+         <topic>Thermal time constant</topic>
+      </subject>
+      <subject>
+         <topic>Transactive energy</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2181</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2181</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890117</identifier>
+      <identifier type="oclc">on1389890117</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111424.0</recordChangeDate>
+         <recordIdentifier>991000625721708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

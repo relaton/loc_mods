@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Manufacturing USA annual report 2018</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Rudnitsky, Robert G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rudnitsky, Robert G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Molnar, Michael F.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021137929">
+         <namePart>Gayle, Frank W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021137929</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr96004761">
+         <namePart>Liang, Hong.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr96004761</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Fronczek, Lisa Jean.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n92082176">
+         <namePart>Jahanmir, Said.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n92082176</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Brunner, Zahraha.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Office of Advanced Manufacturing.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This annual report documents the progress of the Manufacturing USA
+                program in meeting its goals and describes the major accomplishments of the
+                Manufacturing USA institutes in fiscal year 2018.</abstract>
+      <note type="statement of responsibility">Robert G. Rudnitsky; Michael F. Molnar; Frank W. Gayle; Hong Liang;
+                Lisa Jean Fronczek; Said Jahanmir; Zahraha Brunner.</note>
+      <note>September 2019.</note>
+      <note>Title from PDF title page (viewed September 18, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n79071034">
+         <name type="corporate">
+            <namePart>United States.</namePart>
+            <namePart>Department of Commerce.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1852419">
+         <name type="corporate">
+            <namePart>United States.</namePart>
+            <namePart>Department of Commerce.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <name type="corporate">
+            <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/643187">
+         <name type="corporate">
+            <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2013013736">
+         <name type="corporate">
+            <namePart>United States.</namePart>
+            <namePart>Advanced Manufacturing National Program Office.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029337">
+         <topic>Competition</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/871464">
+         <topic>Competition</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85133192">
+         <topic>Technology transfer</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1145295">
+         <topic>Technology transfer</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040804">
+         <topic>Economic development</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/901785">
+         <topic>Economic development</topic>
+      </subject>
+      <subject>
+         <topic>Manufacturing USA</topic>
+      </subject>
+      <subject>
+         <topic>America Makes</topic>
+      </subject>
+      <subject>
+         <topic>Advanced manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Valley of death</topic>
+      </subject>
+      <subject>
+         <topic>Missing middle</topic>
+      </subject>
+      <subject>
+         <topic>Workforce development</topic>
+      </subject>
+      <subject>
+         <topic>Digital Manufacturing and Design Innovation Institute
+                (DMDII)</topic>
+      </subject>
+      <subject>
+         <topic>Institute for Advanced Composites Manufacturing Innovation
+                (IACMI)</topic>
+      </subject>
+      <subject>
+         <topic>Power America</topic>
+      </subject>
+      <subject>
+         <topic>Nextflex</topic>
+      </subject>
+      <subject>
+         <topic>Lightweight Innovations for Tomorrow (LIFT)</topic>
+      </subject>
+      <subject>
+         <topic>AIM Photonics</topic>
+      </subject>
+      <subject>
+         <topic>Advanced Functional Fabrics of America (AFFOA)</topic>
+      </subject>
+      <subject>
+         <topic>Clean Energy Smart Manufacturing Innovation Institute
+                (CESMII)</topic>
+      </subject>
+      <subject>
+         <topic>Rapid Advancement in Process Intensification Deployment Institute
+                (RAPID)</topic>
+      </subject>
+      <subject>
+         <topic>Reducing EMbodied-energy And Decreasing Emissions (REMADE)</topic>
+      </subject>
+      <subject>
+         <topic>National Institute for Innovation in Manufacturing Biopharmaceuticals
+                (NIIMBL)</topic>
+      </subject>
+      <subject>
+         <topic>BioFabUSA</topic>
+      </subject>
+      <subject>
+         <topic>Advanced Robotics for Manufacturing (ARM)</topic>
+      </subject>
+      <subject>
+         <topic>National Network for Manufacturing Innovation (NNMI)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.600-5</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>600-5</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1120083297</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190919</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190919043258.0</recordChangeDate>
+         <recordIdentifier>991000231869708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

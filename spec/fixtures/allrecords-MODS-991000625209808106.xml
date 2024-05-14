@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Adversarial machine learning</title>
+         <subTitle>a taxonomy and terminology of attacks and mitigations</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Vassilev, Apostol.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4979-5292">
+         <namePart>Vassilev, Apostol.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4979-5292</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9081-3042">
+         <namePart>Oprea, Alina.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9081-3042</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Fordyce, Alie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Anderson, Hyrum.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New edition</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-01-04.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (106 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This NIST AI report develops a taxonomy of concepts and defines
+                terminology in the field of adversarial machine learning (AML). The taxonomy is
+                built on survey of the AML literature and is arranged in a conceptual hierarchy that
+                includes key types of ML methods and lifecycle stage of attack, attacker goals and
+                objectives, and attacker capabilities and knowledge of the learning process. The
+                report also provides corresponding methods for mitigating and managing the
+                consequences of attacks and points out relevant open challenges to take into account
+                in the lifecycle of AI systems. The terminology used in the report is consistent
+                with the literature on AML and is complemented by a glossary that defines key terms
+                associated with the security of AI systems and is intended to assist non-expert
+                readers. Taken together, the taxonomy and terminology are meant to inform other
+                standards and future practice guides for assessing and managing the security of AI
+                systems, by establishing a common language and understanding of the rapidly
+                developing AML landscape.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Apostol Vassilev; Alina Oprea; Alie Fordyce; Hyrum
+                Andersen.</note>
+      <note>January 2024.</note>
+      <note>Title from PDF title page (viewed March 04, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2024-01-02</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Artificial intelligence</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Machine learning</topic>
+      </subject>
+      <subject>
+         <topic>Attack taxonomy</topic>
+      </subject>
+      <subject>
+         <topic>Evasion</topic>
+      </subject>
+      <subject>
+         <topic>Data poisoning</topic>
+      </subject>
+      <subject>
+         <topic>Privacy breach</topic>
+      </subject>
+      <subject>
+         <topic>Attack mitigation</topic>
+      </subject>
+      <subject>
+         <topic>Data modality</topic>
+      </subject>
+      <subject>
+         <topic>Trojan attack</topic>
+      </subject>
+      <subject>
+         <topic>Backdoor attack</topic>
+      </subject>
+      <subject>
+         <topic>Generative models</topic>
+      </subject>
+      <subject>
+         <topic>Large language model</topic>
+      </subject>
+      <subject>
+         <topic>Chatbot</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AI.100-2e2023</url>
+      </location>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.AI.100-2</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST trustworthy and responsible AI; NIST AI</title>
+            <partNumber>100-2e2023</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240304</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111402.0</recordChangeDate>
+         <recordIdentifier>991000625209808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

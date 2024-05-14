@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Greenhouse gas emissions and dispersion</title>
+         <subTitle>4. quality control process of in-situ INFLUX tower-based
+                observational data</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022030666">
+         <namePart>Hu, Heming.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022030666</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022030666">
+         <namePart>Hu, Heming.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022030666</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Prasad, Kuldeep.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022049578">
+         <namePart>Lopez-Coto, Israel.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022049578</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ghosh, Subhomoy.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021060616">
+         <namePart>Whetstone, James R.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021060616</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2015</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2015.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Indianapolis Flux Experiment (INFLUX) was designed to develop
+                top-down methods for measurement and modeling of urban fluxes of greenhouse gases
+                (GHG) to the atmosphere with spatial and temporal scale of one km. and one hour
+                respectively. A small bias in the observation data relative to the background can
+                introduce significantly large bias in the computed fluxes if it is relatively high
+                to the emission enhancement. Hence, it is important to maintain accuracy of in situ
+                GHG data for unbiased estimation of urban fluxes. Accuracy of GHG observation data
+                can be influenced by quality control (QC) process used for error detection,
+                instrument calibration and error correction. Currently different organizations
+                employ different QC processes on the same raw data resulting in significantly
+                different QC ed data. This report introduces a standardized approach integrating all
+                present techniques. It consists of four major sequential steps: data screening, gas
+                source based data separation, calibration and time-lag correction, and data
+                averaging. QC ed data for a set of twelve towers are compared with that from other
+                organization for a period of two months. The influences of different methodologies
+                in the QC process were analyzed, and the important parameters were optimized to
+                reconcile the differences. Finally, recommendations in different phases of QC
+                process are presented to provide guidelines for tower observation.</abstract>
+      <note type="statement of responsibility">Heming Hu; Kuldeep Prasad; Israel Lopez-Coto; Subhomoy Ghosh; James
+                R. Whetstone.</note>
+      <note>Title from PDF title page (viewed September 30, 2015).</note>
+      <note>September 2015.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Greenhouse gas emissions</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85109440">
+         <topic>Quality control</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1084966">
+         <topic>Quality control</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8070</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8070</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">958885802</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160921</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20160926090654.0</recordChangeDate>
+         <recordIdentifier>991000181479708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

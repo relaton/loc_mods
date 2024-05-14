@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Characterization of emissions from a non-ideal spray polyurethane
+                foam sample: letter report to U.S. Consumer Product Safety Commission Interagency
+                Agreement CPSC-I-13-0016 MOD 1</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Poppendieck, Dustin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Poppendieck, Dustin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gong, Mengyan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lawson, Lauren.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076634">
+         <namePart>Emmerich, Steven J. (Steven John)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003076634</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Many homeowners and government programs are using insulating
+                products, such as SPF, at a growing rateto increase the energy efficiency of their
+                residences and other constructed buildings. Retrofitting or addition of foam
+                insulation in new construction is also supported in the United States by Federal
+                efforts, such as tax incentives, and programs like Environmental Protection Agency
+                (EPA) Energy Star and Design for the Environment. Because of these programs and
+                other drivers for more efficient buildings, the insulation foam industry expects
+                significant growth in the use of their products over the next few years. , SPF is
+                used as both an insulation and a sealant. It is formed onsite via an exothermic
+                chemical reaction between A-side and B-side chemicals and. The A-side typically
+                consists of monomeric or polymeric methylene diphenyl diisocyanate. Polyols are part
+                of the B-side chemicals, which also include amine and/or metal catalysts, blowing
+                agents, surfactants, and flame retardants. Amine and/or metal catalysts are used to
+                promote the reaction between polyols and A-side chemicals, which help polyurethane
+                foam cells develop sufficient strength to maintain their structure and resist
+                collapsing. CPSC, along with EPA and other federal agencies, has received a number
+                of complaints regarding health effects resulting from the installation of SPF in
+                homes. Residents have complained about a multitude of adverse effects including
+                severe respiratory irritation, breathing difficulties, dizziness and nausea. In some
+                cases, the reported effects are so severe that consumers report that they can no
+                longer live in their homes. These health effects are reported to occur several days
+                to months following the SPF installation in the home.</abstract>
+      <note type="statement of responsibility">Dustin Poppendieck; Mengyan Gong; Lauren Lawson; Steve
+                Emmerich.</note>
+      <note>September 2016.</note>
+      <note>Title from PDF title page (viewed November 23, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007001498">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1742477">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85062603">
+         <topic>Housing</topic>
+         <topic>Insulation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/962245">
+         <topic>Housing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8131</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8131</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662079</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240201155207.0</recordChangeDate>
+         <recordIdentifier>991000187869708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

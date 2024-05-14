@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guidance for NIST staff on using inclusive language in documentary
+                standards</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Miller, Kathryn.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Miller, Kathryn.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Alderman, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Carnahan, Lisa.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chen, Lily.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Foti, Jim.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Goldstein, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hogan, Mike.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Marshall, Jennifer.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Reczek, Karen K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rioux, Nathalie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Theofanos, Mary F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wollman, David.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-04-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (15 pages) : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document provides guidance to NIST staff regarding the use of
+                inclusive language in documentary standards and documents which support the
+                realization and dissemination of physical standards; Standards Developing
+                Organizations' (SDOs) policies and procedures; and standards development
+                participation. The document is intended to be used as guidance by NIST standards
+                participants seeking to be impactful in addressing these issues.</abstract>
+      <note type="statement of responsibility">Kathryn Miller; David Alderman; Lisa Carnahan; Lily Chen; Jim Foti;
+                Barbara Goldstein; Mike Hogan; Jennifer Marshall; Karen Reczek; Nathalie Rioux; Mary
+                F. Theofanos; David Wollman.</note>
+      <note>April 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-04-09.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Bias-free language</topic>
+      </subject>
+      <subject>
+         <topic>Standards developing organizations</topic>
+      </subject>
+      <subject>
+         <topic>Documentary standards</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8366</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8366</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228952</identifier>
+      <identifier type="oclc">on1427228952</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111507.0</recordChangeDate>
+         <recordIdentifier>991000626375108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

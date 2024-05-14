@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Public safety communications research division impact
+                report</title>
+         <subTitle>fiscal years 2017 - 2019</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015103431">
+         <namePart>Glenn, Jeremy.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015103431</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015103431">
+         <namePart>Glenn, Jeremy.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015103431</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2008012518">
+         <namePart>Shaw, Isabel.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2008012518</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022047038">
+         <namePart>Leh, Marc.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022047038</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Boulder, CO :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (23 pages) : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Public Safety Communications Research Division (PSCR) at NIST
+                plays a primary role in research and development to impact public safety operational
+                capabilities. PSCR's mission is to bring advanced capabilities to first responders
+                and have a measurable impact on their ability to protect and save lives and
+                property. This report details the impacts of PSCR's intramural and extramural
+                programs across five leading indicators: Increasing Research Capacity, Disruptive
+                Approaches and Technology, Standards, Products, and Public Safety Methods. As the
+                PSCR program enters its final three years of allocated funding under the Middle
+                Class Tax Relief and Job Creation Act of 2012, it aims to increase its dynamic
+                impact on the development of standards, methodologies, and technologies that will
+                make the next generation nationwide public safety broadband network a reality. PSCR
+                will continue to document and report on the outcomes of its diverse research to
+                ensure that technical advancements supported by the program are made available for
+                all stakeholders to maximize the operational effectiveness of first
+                responders.</abstract>
+      <note type="statement of responsibility">Jeremy Glenn; Isabel Shaw; Marc Leh.</note>
+      <note>March 2020.</note>
+      <note>Title from PDF title page (viewed April 30, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Communications</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007008878">
+         <topic>First responders</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1744217">
+         <topic>First responders</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85064599">
+         <topic>Impact</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/968053">
+         <topic>Impact</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008002399">
+         <topic>Public safety</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
+         <topic>Public safety</topic>
+      </subject>
+      <subject>
+         <topic>Research and development</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1248</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1248</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858842</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161917.0</recordChangeDate>
+         <recordIdentifier>991000263089708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

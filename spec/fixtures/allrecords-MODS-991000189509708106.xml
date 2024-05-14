@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Dietary supplement laboratory quality assurance program: exercise G
+                final report</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Phillips, Melissa M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Phillips, Melissa M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rimmer, Catherine A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022054622">
+         <namePart>Wood, Laura J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022054622</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The NIST Dietary Supplement Laboratory Quality Assurance Program
+                (DSQAP) was established in collaboration with the National Institutes of Health
+                (NIH) Office of Dietary Supplements (ODS) in 2007 to enable members of the dietary
+                supplements community to improve the accuracy of measurements made in compliance
+                with various regulations including the dietary supplement current good manufacturing
+                practices (cGMPs). Exercise G of this program offered the opportunity for
+                laboratories to assess their in-house measurements of nutritional elements (Na),
+                contaminants (Pb), water-soluble vitamins (folic acid), fat-soluble vitamins
+                (beta-carotene), and anthocyanins in foods and/or botanical dietary supplement
+                ingredients and finished products.</abstract>
+      <note type="statement of responsibility">Melissa M. Phillips; Catherine A. Rimmer; Laura J. Wood.</note>
+      <note>January 2017.</note>
+      <note>Title from PDF title page (viewed January 10, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85037861">
+         <topic>Dietary supplements</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/893336">
+         <topic>Dietary supplements</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85109438">
+         <topic>Quality assurance</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1084943">
+         <topic>Quality assurance</topic>
+      </subject>
+      <subject>
+         <topic>Quality assurance programs</topic>
+      </subject>
+      <subject>
+         <topic>DSQAP</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8163</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8163</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">982294379</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170413</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240201161122.0</recordChangeDate>
+         <recordIdentifier>991000189509708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

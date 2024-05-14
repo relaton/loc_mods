@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Timing challenges in the smart grid</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Allnutt, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Allnutt, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Anand, Dhananjay.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82049087">
+         <namePart>Arnold, Douglas.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82049087</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2016112646">
+         <namePart>Goldstein, Allen</namePart>
+         <namePart type="termsOfAddress">(Television writer)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2016112646</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Li-Baboud, Ya-Shian.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n93015298">
+         <namePart>Martin, Aaron.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n93015298</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Nguyen, Cuong.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Noseworthy, Robert.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Subramaniam, Ravi.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008000717">
+         <namePart>Weiss, Marc.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008000717</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology).</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Correct time and timing is one of the foundational elements in
+                enabling the communication and orchestration of technologies for accurate and
+                optimal wide area monitoring, protection and control in the power industry. NIST and
+                IEEE-SA conducted a workshop to gather inputs from stakeholders in order to
+                identify, analyze, and provide guidance on technologies, standards and methodologies
+                for addressing the practical challenges that are currently being experienced in wide
+                area time synchronization. One of the key drivers for the workshop is the need to
+                prioritize NIST efforts in addressing precision timing needs in power systems. NIST
+                has established a Smart Grid Testbed, which includes the Precision Timing module in
+                order to support the IEEE 1588 Power Profile efforts and to serve as a basis for
+                timing measurement and security research. The objective of the workshop is to
+                identify the challenges, the community of experts and potential collaborators as
+                well as key research priorities to guide future efforts is for ensuring the
+                integrity, availability, accuracy, and precision of timing requirements are met in
+                power systems.</abstract>
+      <note type="statement of responsibility">Jason Allnutt; Dhananjay Anand; Douglas Arnold; Allen Goldstein;
+                Ya-Shian Li-Baboud; Aaron Martin; Cuong Nguyen; Robert Noseworthy; Ravi Subramaniam;
+                Marc Weiss.</note>
+      <note>January 2017.</note>
+      <note>Title from PDF title page (viewed January 18, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n2001005871">
+         <titleInfo>
+            <title>Power systems</title>
+         </titleInfo>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85135395">
+         <topic>Time</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1151043">
+         <topic>Time</topic>
+      </subject>
+      <subject>
+         <topic>Time synchronization</topic>
+      </subject>
+      <subject>
+         <topic>Critical infrastructure</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1500-08</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1500-08</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">969907766</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170124</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163145.0</recordChangeDate>
+         <recordIdentifier>991000188709708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

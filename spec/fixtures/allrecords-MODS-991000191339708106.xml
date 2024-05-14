@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Further development of a conceptual framework for assessing
+                resilience at the community scale</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2016050368">
+         <namePart>Kwasinski, Alexis,</namePart>
+         <namePart type="date">1970-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2016050368</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2016050368">
+         <namePart>Kwasinski, Alexis,</namePart>
+         <namePart type="date">1970-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2016050368</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88648336">
+         <namePart>Trainor, Joseph.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88648336</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Francis, Royce.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012122249">
+         <namePart>Chen, Cynthia,</namePart>
+         <namePart type="date">1969-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012122249</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022046325">
+         <namePart>Lavelle, Francis M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022046325</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) is
+                sponsoring the Community Resilience Assessment Methodology (CRAM) project. The CRAM
+                project team is working in parallel with several other NIST initiatives, including:
+                the Community Resilience Planning Guide for Buildings and Infrastructure Systems
+                (https://www.nist.gov/el/resilience/community-resilience- planning-guides), the
+                Center for Risk-Based Community Resilience Planning
+                (https://resilience.colostate.edu/), and the Community Resilience Panel for
+                Buildings and Infrastructure Systems (https://www.crpanel.org/). The objective of
+                the CRAM project is to develop a foundation for assessing resilience at the
+                community scale. For the purposes of this project, community resilience is defined
+                as the ability to prepare for and adapt to changing conditions and to withstand and
+                recover rapidly from disruptions (PPD-21 2013), and a community is defined as a
+                place designated by geographical boundaries that functions under the jurisdiction of
+                a governance structure, such as a town, city, or county (NIST 2015). This report
+                continues the develop the concept of community dimensions and services and expands
+                the concept to the dimensions of sustenance, housing and shelter, relationships, and
+                education.</abstract>
+      <note type="statement of responsibility">Alexis Kwasinski; Joseph Trainor; Royce Francis; Cynthia Chen;
+                Francis M. Lavelle.</note>
+      <note>July 2017.</note>
+      <note>Title from PDF title page (viewed July 25, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2013066011">
+         <name type="personal">
+            <namePart>Hansen, Ed.</namePart>
+         </name>
+         <titleInfo>
+            <title>Shelter</title>
+         </titleInfo>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh86006788">
+         <topic>Resilience (Personality trait)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1095573">
+         <topic>Resilience (Personality trait)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029195">
+         <topic>Communities</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1430092">
+         <topic>Communities</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85062603">
+         <topic>Housing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/962245">
+         <topic>Housing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040989">
+         <topic>Education</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/902499">
+         <topic>Education</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Relationships</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hazards and disasters</topic>
+      </subject>
+      <subject>
+         <topic>Sustenance</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.17-013</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract report
+</title>
+            <partNumber>17-013</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1005356024</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">171005</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20171005031751.0</recordChangeDate>
+         <recordIdentifier>991000191339708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

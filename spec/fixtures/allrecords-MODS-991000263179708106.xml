@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST Instrumented Charpy Analysis Software (NICAS)</title>
+         <subTitle>user's manual</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lauria, Damian.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lauria, Damian.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015169004">
+         <namePart>Lucon, Enrico.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015169004</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The NIST Instrumented Charpy Analysis Software (NICAS) is a
+                standalone LabVIEW1 program that can be used to analyze instrumented impact tests in
+                accordance with the following international test standards: ASTM E2298-18 [1] and
+                ISO 14556:2015 [2]. It is also possible to perform some operations manually, i.e.,
+                not in strict accordance with the above cited standards. The software is provided
+                free of charge in both raw LabVIEW code and executable (*.EXE) formats with an
+                installer for PC platforms running Windows 7 or later.</abstract>
+      <note type="statement of responsibility">Damian Lauria; Enrico Lucon.</note>
+      <note>April 2020.</note>
+      <note>Title from PDF title page (viewed April 30, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>LabVIEW.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85092789">
+         <topic>Notched bar testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1039586">
+         <topic>Notched bar testing</topic>
+      </subject>
+      <subject>
+         <topic>Analysis software</topic>
+      </subject>
+      <subject>
+         <topic>ASTM E2298</topic>
+      </subject>
+      <subject>
+         <topic>Instrumented Charpy test</topic>
+      </subject>
+      <subject>
+         <topic>ISO 14556</topic>
+      </subject>
+      <subject>
+         <topic>LabVIEW code</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8302</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8302</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858919</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200707054229.0</recordChangeDate>
+         <recordIdentifier>991000263179708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

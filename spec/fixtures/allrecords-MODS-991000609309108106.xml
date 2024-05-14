@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Specifications, tolerances, and other technical requirements for
+                weighing and measuring devices</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Butcher, Tina G.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2711-9442">
+         <namePart>Butcher, Tina G.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2711-9442</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9171-5906">
+         <namePart>Harshman, Richard A.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9171-5906</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2592-873X">
+         <namePart>Konijnenburg, Jan</namePart>
+         <nameIdentifier>(orcid)0000-0003-2592-873X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8005-0758">
+         <namePart>Lee, G. Diane</namePart>
+         <nameIdentifier>(orcid)0000-0002-8005-0758</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4807-9005">
+         <namePart>Williams, Juana S.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4807-9005</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0576-8572">
+         <namePart>Warfield, Lisa</namePart>
+         <nameIdentifier>(orcid)0000-0003-0576-8572</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2751-7881">
+         <namePart>Benham, Elizabeth J.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2751-7881</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1902-362X">
+         <namePart>Bowers, Shelby L.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1902-362X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8651-8326">
+         <namePart>Lippa, Katrice A.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8651-8326</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>Erratum</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-07-28.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (581 pages) :</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST Handbook 44 includes specifications, tolerances, and other
+                technical requirements for weighing and measuring devices. These requirements are
+                intended to encourage the design, installation, testing, and use of weighing and
+                measuring devices that provide for accurate, repeatable measurements; facilitate
+                clear and transparent transactions for buyer and seller; and do not facilitate
+                fraud. NIST Handbook 44 is adopted by many state, local, and some federal weights
+                and measures authorities to apply to commercial weighing and measuring equipment and
+                associated equipment and for use in applications for law enforcement and the
+                collection of statistical information by government agencies. NIST has a statutory
+                responsibility for “cooperation with the states in securing uniformity of weights
+                and measures laws and methods of inspection” and publishes this and other NIST
+                Handbooks in partial fulfillment of this responsibility. NIST Handbook 44 was first
+                published in 1949, having been preceded by similar handbooks of various designations
+                and in several forms, beginning in 1918; the handbook is now typically published on
+                an annual basis. This 2023 edition includes amendments made through the Committee on
+                Specifications and Tolerances of the National Conference on Weights and Measures
+                (NCWM) with technical guidance from the Office of Weights and Measures (OWM) of the
+                National Institute of Standards and Technology (NIST) and input from weights and
+                measures officials and industry representatives. These amendments were adopted by
+                the NCWM at its 107th Annual Meeting in July 2022.</abstract>
+      <note type="statement of responsibility">Tina G. Butcher; Richard A. Harshman; Jan Konijnenburg; G. Diane Lee;
+                Juana S. Williams; Lisa Warfield; Elizabeth J. Benham; Shelby L. Bowers; Katrice A.
+                Lippa.</note>
+      <note>July 2023</note>
+      <note>Title from PDF title page (viewed August 7, 2023)</note>
+      <note type="bibliography">Includes bibliographical references</note>
+      <note type="system details">Mode of access: World Wide Web</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader</note>
+      <subject authority="lcsh">
+         <topic>Liquefied petroleum gas</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Electric vehicles</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hydrogen</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Ammonia</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Measurement</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Meter (Unit)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Odometers</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Scales (Weighing instruments)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Taximeters</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Automatic timers</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Vehicles</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Weight (Physics)</topic>
+         <topic>Measurement</topic>
+      </subject>
+      <subject>
+         <topic>Devices</topic>
+      </subject>
+      <subject>
+         <topic>Dry measures</topic>
+      </subject>
+      <subject>
+         <topic>Electric vehicle fueling systems</topic>
+      </subject>
+      <subject>
+         <topic>Grain analyzers</topic>
+      </subject>
+      <subject>
+         <topic>Grain moisture meters</topic>
+      </subject>
+      <subject>
+         <topic>Hydrogen gas-measuring devices</topic>
+      </subject>
+      <subject>
+         <topic>Liquid-measuring</topic>
+      </subject>
+      <subject>
+         <topic>Mass flow meters</topic>
+      </subject>
+      <subject>
+         <topic>Measure-containers</topic>
+      </subject>
+      <subject>
+         <topic>Measuring systems</topic>
+      </subject>
+      <subject>
+         <topic>Multiple dimension measuring devices</topic>
+      </subject>
+      <subject>
+         <topic>Transportation network measuring systems</topic>
+      </subject>
+      <subject>
+         <topic>Vehicle tanks</topic>
+      </subject>
+      <subject>
+         <topic>Weighing systems</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.HB.44-2023-upd1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook</title>
+            <partNumber>44-2023-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.HB.44-2023</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook; NIST HB</title>
+            <partNumber>44-2023-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253682</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111357.0</recordChangeDate>
+         <recordIdentifier>991000609309108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

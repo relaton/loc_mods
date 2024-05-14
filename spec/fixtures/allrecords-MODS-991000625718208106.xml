@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Voices of first responders</title>
+         <subTitle>nationwide public safety communication survey findings</subTitle>
+         <partName>day to day technology, phase 2, volume 3</partName>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Dawkins, Shan e.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dawkins, Shan e.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Buchanan, Kerrianne.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Prettyman, Sandra Spickard.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-10-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (227 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Nationwide Public Safety Broadband Network (NPSBN) is being
+                developed to provide a dedicated network for first responders use during incident
+                response. A wave of new communication technologies compatible with the NPSBN is on
+                the horizon, as major research and development efforts for these technologies are
+                ongoing. The aim of the NIST PSCR Usability Team is to gain a better understanding
+                of the usability of communication technology for first responders, by investigating
+                the contexts in which they work, their experiences with incident response, and their
+                problems with and needs for communication technology. To this end, NIST s PSCR
+                Usability Team conducted an exploratory, sequential, mixed-methods study to gather
+                insights into the experiences and needs of first responders. The multi-phase study
+                included in-depth interviews with 193 first responders, followed by a nationwide
+                survey of 7 182 first responders. This report is the third of the series of volumes
+                on Phase 2, presenting survey results related to first responder experiences with
+                their day-to-day devices: frequency of use of these devices, useful rankings of the
+                devices, and problems experienced with them. Four overarching themes that have
+                implications for R&amp;D of first responder communication technology are presented
+                in this report, reinforcing the six user-centered design guidelines identified in
+                the Phase 1, Volume 1 report. These themes and guidelines can aid researchers,
+                designers, and developers in the public safety domain in attending to those issues
+                that are most important to first responders.</abstract>
+      <note type="statement of responsibility">Shan e Dawkins; Kerrianne Buchanan; Sandra Spickard
+                Prettyman.</note>
+      <note>October 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-10-12</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>First responders</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Communication and technology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Public safety</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>User-centered system design</topic>
+      </subject>
+      <subject>
+         <topic>Public safety communication research</topic>
+      </subject>
+      <subject>
+         <topic>Survey research</topic>
+      </subject>
+      <subject>
+         <topic>User needs and requirements</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8400</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8400</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890095</identifier>
+      <identifier type="oclc">on1389890095</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111428.0</recordChangeDate>
+         <recordIdentifier>991000625718208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

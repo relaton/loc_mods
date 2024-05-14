@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Horizontal convective boiling of R1234yf, R134a, and R450A within a
+                micro-fin tube</title>
+         <subTitle>extensive measurement and analysis</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kedzierski, Mark A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kedzierski, Mark A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kang, Donggyu.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-04-21.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (97 pages) : illustrations (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report presents local convective boiling heat transfer and
+                Fanning friction factor measurements in a micro-fin tube for R134a and two possible
+                low global warming potential (GWP) refrigerant replacements for R134a: R1234yf and
+                R450A. Test section heating was achieved with water in either counterflow or in
+                parallel flow with the test refrigerant to provide for a range of heat fluxes for
+                each thermodynamic quality. An existing correlation from the literature for single
+                and multi-component mixtures was shown to not satisfactorily predict the convective
+                boiling measurements for flow qualities greater than 40 %. Accordingly, a new
+                correlation was developed specifically for the test fluids of this study so that a
+                fair comparison of the heat transfer performance of the low GWP refrigerants to that
+                of R134a could be made. The new correlation was used to compare the heat transfer
+                coefficient of the three test fluids at the same heat flux, saturated refrigerant
+                temperature, and refrigerant mass flux. The resulting example comparison, for the
+                same operating conditions, showed that the heat transfer coefficient of the
+                multi-component R450A and the single-component R1234yf were, on average, 15 % less
+                and 5 % less, respectively, than that of the single-component R134a. Friction factor
+                measurements were also compared to predictions from an existing correlation. A new
+                correlation for the friction factor was developed to provide a more accurate
+                prediction. The measurements and the new models are important for the evaluation of
+                potential low-GWP refrigerants replacements for R134a.</abstract>
+      <note type="statement of responsibility">Mark A. Kedzierski; Donggyu Kang.</note>
+      <note>April 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-04-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Refrigerants</topic>
+      </subject>
+      <subject>
+         <topic>Boiling</topic>
+      </subject>
+      <subject>
+         <topic>Enhanced heat transfer</topic>
+      </subject>
+      <subject>
+         <topic>Low-GWP</topic>
+      </subject>
+      <subject>
+         <topic>Micro-fin</topic>
+      </subject>
+      <subject>
+         <topic>Refrigerant mixtures</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1966r1</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.TN.1966r1" displayLabel="10.6028/NIST.TN.1966r1"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1966r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890364</identifier>
+      <identifier type="oclc">on1389890364</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111449.0</recordChangeDate>
+         <recordIdentifier>991000626246208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Resilient interdomain traffic exchange</title>
+         <subTitle>BGP security and DDos mitigation</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021120228">
+         <namePart>Sriram, Kotikalapudi.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021120228</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021120228">
+         <namePart>Sriram, Kotikalapudi.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021120228</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In recent years, numerous routing control plane anomalies, such as
+                Border Gateway Protocol (BGP) prefix hijacking and route leaks, have resulted in
+                denial-of-service (DoS), unwanted data traffic detours, and performance degradation.
+                Large-scale distributed denial-of-service (DDoS) attacks on servers using spoofed
+                internet protocol (IP) addresses and reflection-amplification in the data plane have
+                also been frequent, resulting in significant disruption of services and damages.
+                This special publication on Resilient Interdomain Traffic Exchange (RITE) includes
+                initial guidance on securing the interdomain routing control traffic, preventing IP
+                address spoofing, and certain aspects of DoS/DDoS detection and mitigation. Many of
+                the recommendations in this publication focus on the Border Gateway Protocol (BGP).
+                BGP is the control protocol used to distribute and compute paths between the tens of
+                thousands of autonomous networks that comprise the internet. Technologies
+                recommended in this document for securing the interdomain routing control traffic
+                include Resource Public Key Infrastructure (RPKI), BGP origin validation (BGP-OV),
+                and prefix filtering. Additionally, technologies recommended for mitigating DoS/DDoS
+                attacks focus on prevention of IP address spoofing using source address validation
+                (SAV) with access control lists (ACLs) and unicast Reverse Path Forwarding (uRPF).
+                Other technologies (including some application plane methods) such as remotely
+                triggered black hole (RTBH) filtering, flow specification (Flowspec), and response
+                rate limiting (RRL) are also recommended as part of the overall security
+                mechanisms.</abstract>
+      <note type="statement of responsibility">Kotikalapudi Sriram; Doug Montgomery.</note>
+      <note>December 2019.</note>
+      <note>Title from PDF title page (viewed December 23, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98006078">
+         <topic>BGP (Computer network protocol)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/824866">
+         <topic>BGP (Computer network protocol)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+         <topic>Computer security</topic>
+      </subject>
+      <subject>
+         <topic>Routing security and robustness</topic>
+      </subject>
+      <subject>
+         <topic>Internet infrastructure security</topic>
+      </subject>
+      <subject>
+         <topic>Prefix hijacks</topic>
+      </subject>
+      <subject>
+         <topic>IP address spoofing</topic>
+      </subject>
+      <subject>
+         <topic>Distributed denial-of-service (DDos)</topic>
+      </subject>
+      <subject>
+         <topic>Resource Public Key Infracture (RPK)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-189</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-189</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1139336488</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120950.0</recordChangeDate>
+         <recordIdentifier>991000256049708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

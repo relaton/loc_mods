@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Status report on the third round of the NIST Post-Quantum
+                Cryptography Standardization process</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Alagic, Gorjan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Alagic, Gorjan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Apon, Daniel.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cooper, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dang, Quynh.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dang, Thinh.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kelsey, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lichtinger, Jacob.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Liu, Yi-Kai.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Miller, Carl.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Moody, Dustin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Peralta, Rene.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Perlner, Ray.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Robinson, Angela.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Smith-Tone, Daniel.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-09-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (102 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology is in the process
+                of selecting public-key cryptographic algorithms through a public, competition-like
+                process. The new public-key cryptography standards will specify additional digital
+                signature, public-key encryption, and key-establishment algorithms to augment
+                Federal Information Processing Standard (FIPS) 186-4, Digital Signature Standard
+                (DSS), as well as NIST Special Publication (SP) 800-56A Revision 3, Recommendation
+                for Pair-Wise Key-Establishment Schemes Using Discrete Logarithm Cryptography, and
+                SP 800-56B Revision 2, Recommendation for Pair-Wise Key Establishment Using Integer
+                Factorization Cryptography. It is intended that these algorithms will be capable of
+                protecting sensitive information well into the foreseeable future, including after
+                the advent of quantum computers. The first round of the NIST Post-Quantum
+                Cryptography Standardization Process began in December 2017 with 69 candidate
+                algorithms that met both the minimum acceptance criteria and submission
+                requirements. The first round lasted until January 2019, during which candidate
+                algorithms were evaluated based on their security, performance, and other
+                characteristics. NIST selected 26 algorithms to advance to the second round for more
+                analysis. The second round continued until July 2020, after which seven 'finalist'
+                and eight 'alternate' candidate algorithms were selected to move into the third
+                round. This report describes the evaluation and selection process, based on public
+                feedback and internal review, of the third-round candidates. The report summarizes
+                each of the 15 third-round candidate algorithms and identifies those selected for
+                standardization, as well as those that will continue to be evaluated in a fourth
+                round of analysis. The public-key encryption and key-establishment algorithm that
+                will be standardized is CRYSTALS-Kyber. The digital signatures that will be
+                standardized are CRYSTALS-Dilithium, Falcon, and SPHINCS+. While there are multiple
+                signature algorithms selected, NIST recommends CRYSTALS-Dilithium as the primary
+                algorithm to be implemented. In addition, four of the alternate key-establishment
+                candidate algorithms will advance to a fourth round of evaluation: BIKE, Classic
+                McEliece, HQC, and SIKE. These candidates are still being considered for future
+                standardization. NIST will also issue a new Call for Proposals for public-key
+                digital signature algorithms to augment and diversify its signature
+                portfolio.</abstract>
+      <note type="statement of responsibility">Gorjan Alagic; Daniel Apon; David Cooper; Quynh Dang; Thinh Dang;
+                John Kelsey; Jacob Lichtinger; Yi-Kai Liu; Carl Miller; Dustin Moody; Rene Peralta;
+                Ray Perlner; Angela Robinson; Daniel Smith-Tone.</note>
+      <note>September 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Digital signatures</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Public key cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Key-encapsulation mechanism (KEM)</topic>
+      </subject>
+      <subject>
+         <topic>Key-establishment</topic>
+      </subject>
+      <subject>
+         <topic>Post-quantum cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Quantum resistant</topic>
+      </subject>
+      <subject>
+         <topic>Quantum safe</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8413-upd1</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.IR.8413" displayLabel="10.6028/NIST.IR.8413"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8413-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890497</identifier>
+      <identifier type="oclc">on1389890497</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111504.0</recordChangeDate>
+         <recordIdentifier>991000626252408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

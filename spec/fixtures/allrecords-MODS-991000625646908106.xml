@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Effects of scanner height on fingerprint capture</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Theofanos, Mary F.,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Orandi, Shahram,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Micheals, Ross J.,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Stanton, Brian C.,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Zhang, Nien Fan.</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="fast">Case studies.</genre>
+      <genre authority="fast">Databases.</genre>
+      <genre authority="lcgft">Case studies.</genre>
+      <genre authority="rvmgf">Études de cas.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ob</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2006</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology,</publisher>
+         <dateIssued>2006.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">remote</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Mary Theofanos ; Shahram Orandi ; Ross Micheals ; Brian Stanton ;
+                Nien-Fan Zhang.</note>
+      <note>December 1, 2006.</note>
+      <note>Title from PDF title page (viewed June 6, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fingerprints</topic>
+         <topic>Identification</topic>
+         <topic>Databases</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Empreintes digitales</topic>
+         <topic>Identification</topic>
+         <topic>Bases de données</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst01425293">
+         <topic>Fingerprints</topic>
+         <topic>Identification</topic>
+      </subject>
+      <classification authority="lcc">QC100 .U56 no.7382 2006</classification>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.7382</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>7382</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">994341998</identifier>
+      <identifier type="oclc">ocn994341998</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170724</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240227114712.8</recordChangeDate>
+         <recordIdentifier>991000625646908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

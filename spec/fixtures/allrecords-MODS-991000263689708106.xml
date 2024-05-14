@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Assessing Information Security Continuous Monitoring (ISCM)
+                programs</title>
+         <subTitle>developing an ISCM program assessment</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022000344">
+         <namePart>Dempsey, Kelley.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022000344</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022000344">
+         <namePart>Dempsey, Kelley.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022000344</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Pillitteri, Victoria Yan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Baer, Chad.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Niemeyer, Robert.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rudman, Ron.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no95029289">
+         <namePart>Urban, Susan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no95029289</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This publication describes an approach for the development of
+                Information Security Continuous Monitoring (ISCM) program assessments that can be
+                used to evaluate ISCM programs within federal, state, and local governmental
+                organizations and commercial enterprises. An ISCM program assessment provides
+                organizational leadership with information on the effectiveness and completeness of
+                the organization's ISCM program, including the review of ISCM strategies, policies,
+                procedures, operations, and analysis of continuous monitoring data. The ISCM
+                assessment approach can be used as presented or as the starting point for an
+                organization-specific methodology. It includes example evaluation criteria and
+                assessment procedures that can be applied to organizations.</abstract>
+      <note type="statement of responsibility">Kelley Dempsey; Victoria Yan Pillitteri; Chad Baer; Robert Niemeyer;
+                Ron Rudman; Susan Urban.</note>
+      <note>May 2020.</note>
+      <note>Title from PDF title page (viewed May 26, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85114200">
+         <topic>Risk management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1098164">
+         <topic>Risk management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh87002293">
+         <topic>Information technology</topic>
+      </subject>
+      <subject>
+         <topic>Assessment</topic>
+      </subject>
+      <subject>
+         <topic>Assessment element</topic>
+      </subject>
+      <subject>
+         <topic>Assessment methodology</topic>
+      </subject>
+      <subject>
+         <topic>Assessment procedure</topic>
+      </subject>
+      <subject>
+         <topic>Continuous monitoring</topic>
+      </subject>
+      <subject>
+         <topic>Information security continuous monitoring</topic>
+      </subject>
+      <subject>
+         <topic>ISCM program</topic>
+      </subject>
+      <subject>
+         <topic>ISCM program assessment</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-137A</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-137A</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163859227</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120953.0</recordChangeDate>
+         <recordIdentifier>991000263689708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

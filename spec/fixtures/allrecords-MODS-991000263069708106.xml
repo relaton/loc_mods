@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Summary</title>
+         <subTitle>workshop on machine learning for optical communication systems
+</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2017029288">
+         <namePart>Gordon, Josh.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2017029288</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2017029288">
+         <namePart>Gordon, Josh.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2017029288</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2002010614">
+         <namePart>Battou, Abdella.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2002010614</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Majurski, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kilper, Dan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Celine, Uiara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zibar, Darko.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tornatore, Massimo.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n94074638">
+         <namePart>Pedro, João.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n94074638</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Simsarian, Jesse.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Westdorp, Jim.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Optical communication systems are expected to find use in new
+                applications that require more intelligent and automated functionality. Optical
+                networks are needed to address the high speeds and low latency of 5G wireless
+                networks. The analog nature of optical transmission and the complexity of operation
+                and management remain an impediment to greater use of software controls. The optical
+                community at large has proposed many possible applications and avenues for using and
+                implementing artificial intelligence and machine learning to improve functionality
+                of optical systems for communications. However, broad agreement has yet to be
+                reached due to both technical and non-technical reasons. On August 2nd , 2019 The
+                National Institute of Standards and Technology (NIST) Communications Technology
+                Laboratory (CTL) hosted a Workshop on Machine Learning for Optical Communication
+                Systems to bring together industry, academia and government in order to discuss the
+                roll of AI and ML in optical communication systems. This document provides an
+                overview and summary of the workshop.</abstract>
+      <note type="statement of responsibility">Josh Gordon; Abdella Battou; Michael Majurski; Dan Kilper; Uiara
+                Celine; Darko Zibar; Massimo Tornatore; Joao Pedro; Jesse Simsarian; Jim
+                Westdorp.</note>
+      <note>March 2020.</note>
+      <note>Title from PDF title page (viewed March 31, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85008180">
+         <topic>Artificial intelligence</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/817247">
+         <topic>Artificial intelligence</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85079324">
+         <topic>Machine learning</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1004795">
+         <topic>Machine learning</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2014000092">
+         <topic>Software-defined networking (Computer network technology)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1910200">
+         <topic>Software-defined networking (Computer network technology)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85137016">
+         <topic>Transponders</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1154952">
+         <topic>Transponders</topic>
+      </subject>
+      <subject>
+         <topic>Disaggregation</topic>
+      </subject>
+      <subject>
+         <topic>Network defragmentation open line</topic>
+      </subject>
+      <subject>
+         <topic>Optical networks</topic>
+      </subject>
+      <subject>
+         <topic>Quality of transmission (QoT)</topic>
+      </subject>
+      <subject>
+         <topic>Reconfigurable optical add drop multiplexer (ROADM)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.2100-04</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>2100-04</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858576</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163356.0</recordChangeDate>
+         <recordIdentifier>991000263069708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

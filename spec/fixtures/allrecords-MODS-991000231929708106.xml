@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Workshop report</title>
+         <subTitle>consensus safety measurement methodologies for automated driving
+                system-equipped vehicles</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Greer, Christopher.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Greer, Christopher.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Griffor, Edward.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2011013120">
+         <namePart>Wollman, David.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2011013120</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">2 A workshop on Consensus Safety Measurement Methodologies for
+                Automated Driving System (ADS) - 3 Equipped Vehicles was held at NIST 25-26 June
+                2019 on the NIST Gaithersburg, Maryland campus, 4 sponsored by NIST and the U.S.
+                Department of Transportation and partners Intel, Intel Mobileye, Lyft, 5 Ricardo,
+                SAE International, and the Virginia Tech Transportation Institute. It was attended
+                by over 110 6 leaders from local, state and federal government; manufacturing and
+                technology industry; and 7 academia. 8 9 The workshop consisted of keynotes, panel
+                presentations and breakout sessions, addressing the topic 10 from the State and
+                Users, Developers, Standards and Testing, Methods and Frameworks and Innovation 11
+                perspectives. The scope of this workshop and this report is an assessment of the
+                need for measurement 12 methodologies for ADS-equipped vehicle safety. This document
+                reports on the views expressed by the 13 participants in these sessions and
+                summarizes the input on the steps that can accelerate progress 14 toward safe and
+                trusted Automated Driving System (ADS)-equipped vehicles.</abstract>
+      <note type="statement of responsibility">Christopher Greer; Edward Griffor; David Wollman.</note>
+      <note>September 2019.</note>
+      <note>Title from PDF title page (viewed September 25, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2014001434">
+         <topic>Automated vehicles</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1909261">
+         <topic>Automated vehicles</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85000371">
+         <topic>Accidents</topic>
+         <topic>Prevention</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/795276">
+         <topic>Accidents</topic>
+         <topic>Prevention</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85083608">
+         <topic>Measurement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1715944">
+         <topic>Measurement</topic>
+      </subject>
+      <subject>
+         <topic>Automated Driving</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1900-320</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1900-320</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1120940631</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190925</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163310.0</recordChangeDate>
+         <recordIdentifier>991000231929708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

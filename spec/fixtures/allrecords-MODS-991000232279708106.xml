@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Status report on the first round of the NIST lightweight cryptography
+                standardization process</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Turan, Meltem S nmez.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1950-7130">
+         <namePart>Turan, Meltem SoÌⁿnmez.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1950-7130</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>McKay, Kerry A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>CáI§al¿k, CáI§agáI⁶dasáI&amp;#x00a7.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chang, Donghoon.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bassham, Larry.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) is in the
+                process of selecting one or more authenticated encryption and hashing schemes
+                suitable for constrained environments through a public, competition-like process. In
+                February 2019, 57 candidate algorithms were submitted to NIST for consideration.
+                Among these, 56 were accepted as first-round candidates in April 2019, marking the
+                beginning of the first round of the NIST Lightweight Cryptography Standardization
+                Process. Due to the large number of submissions and the short timeline of the
+                process, NIST has decided to eliminate some of the algorithms from consideration
+                early in the first evaluation phase in order to focus analysis on the more promising
+                submissions. This report describes the evaluation criteria and selection process
+                based on public feedback and internal review of the first-round candidates and
+                provides the list of 32 candidate algorithms selected for the second round of the
+                evaluation process.</abstract>
+      <note type="statement of responsibility">Meltem SoáIⁿnmez Turan; Kerry A. McKay; CáI§agáI⁶dasáI§ CáI§al¿k;
+                Donghoon Chang; Larry Bassham.</note>
+      <note>October 2019.</note>
+      <note>Title from PDF title page (viewed October 17, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034453">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/884552">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Authenticated encryption</topic>
+      </subject>
+      <subject>
+         <topic>Hash functions</topic>
+      </subject>
+      <subject>
+         <topic>Lightweight cryptography</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8268</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8278</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132805807</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20191223014819.0</recordChangeDate>
+         <recordIdentifier>991000232279708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

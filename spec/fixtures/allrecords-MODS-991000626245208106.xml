@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Assessing the quality of as-received 4340 steel for the production of
+                NIST Charpy reference specimens</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lucon, Enrico.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lucon, Enrico.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Martin, May.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-09-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (38 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Charpy Machine Verification Program at NIST in Boulder uses
+                heat-treated 4340 steel for the production of indirect verification Charpy specimens
+                at low- and high-energy level. Recently, a batch of steel purchased for the program
+                turned out to be unacceptably inhomogeneous, causing several NIST Contractors to
+                produce specimen lots that did not fulfil our variability requirements, despite
+                repeated attempts at modifying the heat-treatment process. The whole batch of steel
+                had to be eventually scraped. In order to avoid such an occurrence in the future and
+                develop an investigation procedure that can detect variability issues in the
+                acceptance phase of newly purchased batches of 4340 steel, we have performed the
+                following investigations and measurements on samples from good and bad heats:
+                hardness measurements (Rockwell C and Vickers), instrumented Charpy tests, optical
+                investigations, and texture analyses (including grain size measurements). Of all the
+                parameters considered, we found that grain size can clearly differentiate between
+                acceptable (30 m 40 m) and unacceptable (60 m 70 m) heats, and should therefore
+                become the basis of future heat quality assessments. In support, hardness
+                measurements can also be performed, while Charpy tests are not recommended in view
+                of their relative experimental and economic burden.</abstract>
+      <note type="statement of responsibility">Enrico Lucon; May Martin.</note>
+      <note>September 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-14</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Steel</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hardness</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Notched bar testing</topic>
+      </subject>
+      <subject>
+         <topic>4340 steel</topic>
+      </subject>
+      <subject>
+         <topic>Grain size</topic>
+      </subject>
+      <subject>
+         <topic>Hardness measurements</topic>
+      </subject>
+      <subject>
+         <topic>NIST Charpy Program</topic>
+      </subject>
+      <subject>
+         <topic>Optical investigations</topic>
+      </subject>
+      <subject>
+         <topic>Steel variability</topic>
+      </subject>
+      <subject>
+         <topic>Texture analysis</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2177</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2177</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890102</identifier>
+      <identifier type="oclc">on1389890102</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111444.0</recordChangeDate>
+         <recordIdentifier>991000626245208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

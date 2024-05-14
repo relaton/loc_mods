@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Flexible resource controller</title>
+         <subTitle>A price and voltage-responsive device controller for gridlab-d
+                co-simulations</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Holmberg, David..</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1738-8190">
+         <namePart>Holmberg, David,</namePart>
+         <nameIdentifier>(orcid)0000-0002-1738-8190</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9986-7784">
+         <namePart>Roth, Thomas.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9986-7784</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-25.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Flexible Resource Controller (FRC) is a controller that manages
+                heat pumps (HP), electric water heaters (HWH) and batteries with multiple
+                objectives. The first objective is to manage energy use to save customer
+                money—charging storage when electricity prices are low and avoiding energy use (or
+                discharging battery) when prices are high, while maintaining comfort. A second
+                objective is to implement reactive power control at the battery inverter based on
+                local voltage levels (Volt-VAr) so as to minimize voltage excursions outside of
+                acceptable limits. The FRC has been developed as a federate for transactive energy
+                co-simulations to study the impact of price-responsive controls on voltage and other
+                building and grid metrics. It takes as inputs the house thermal properties, weather
+                and electricity price data and generates control variables (e.g., hot water
+                temperature setpoint, battery real and reactive power settings) that are input to
+                the GridLAB-D simulation engine on each time step. The FRC makes use of day-ahead
+                hourly prices in addition to optional adjustment of control parameters in response
+                to 5-min real-time prices. The FRC currently implements simple patterns that shift
+                power usage based on prices. The FRC HP controller implements pre-cooling prior to
+                the evening price peak and then a raised house setpoint temperature during the price
+                peak. The HWH controller lowers tank setpoint in the afternoon. The battery is set
+                to charge at night and discharge during the price peak. Battery inverter Volt-VAr
+                voltage control is implemented independently of price response, operating at all
+                hours of the day when activated.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">David Holmberg; Thomas Roth.</note>
+      <note>September 2023</note>
+      <note>Title from PDF title page (viewed January 31, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-25</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Volt-var</topic>
+      </subject>
+      <subject>
+         <topic>Voltage control</topic>
+      </subject>
+      <subject>
+         <topic>Price response</topic>
+      </subject>
+      <subject>
+         <topic>Gridlab-d</topic>
+      </subject>
+      <subject>
+         <topic>Dynamic price</topic>
+      </subject>
+      <subject>
+         <topic>Device controller</topic>
+      </subject>
+      <subject>
+         <topic>Der flexibility</topic>
+      </subject>
+      <subject>
+         <topic>Co-simulation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2268</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2268</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240131</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111405.0</recordChangeDate>
+         <recordIdentifier>991000624309808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Modeling of combustion of fluorine-containing refrigerants
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Babushok, Valeri I.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Babushok, Valeri I.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Burgess, Donald R. Jr.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kim, Dennis K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hegetschweiler, Michael J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Linteris, Gregory T.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-11-17.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (93 pages) : illustrations (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A gas-phase chemical kinetic model for the combustion of C1-C3
+                fluorine-containing refrigerants is presented, including a list of relevant species,
+                their thermodynamic and transport properties, and the Arrhenius parameters for their
+                reactions. Also included are tables of available experimental data in the literature
+                for the laminar burning velocities for these HFC refrigerants and their mixtures. A
+                comparison is made between the experimental data and predicted burning velocities as
+                a function of the fuel-air equivalence ratio for the refrigerants. The model has
+                been developed for the refrigerants: R-32, R-125, R-134a, R-152a, R-143, R-143a,
+                R-1234yf, R-1234ze(E), R-1243zf and their mixtures. Agreement between predicted and
+                measured burning velocity is very good for most of the refrigerant mixtures, and
+                reasonably good agreement for a few.</abstract>
+      <note type="statement of responsibility">Valeri I. Babushok; Donald R. Burgess Jr; Dennis K. Kim; Michael J.
+                Hegetschweiler; Gregory T. Linteris.</note>
+      <note>November 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-07-26</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Heat of formation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fluorohydrocarbons</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Refrigerants</topic>
+      </subject>
+      <subject>
+         <topic>Burning velocity</topic>
+      </subject>
+      <subject>
+         <topic>Flame speed</topic>
+      </subject>
+      <subject>
+         <topic>Global warming potential (GWP)</topic>
+      </subject>
+      <subject>
+         <topic>Chemical kinetic model</topic>
+      </subject>
+      <subject>
+         <topic>Low-GWP refrigerants</topic>
+      </subject>
+      <subject>
+         <topic>Refrigerant flammability</topic>
+      </subject>
+      <subject>
+         <topic>R-1234yf</topic>
+      </subject>
+      <subject>
+         <topic>R-1234ze(E)</topic>
+      </subject>
+      <subject>
+         <topic>R-1243yf</topic>
+      </subject>
+      <subject>
+         <topic>R-134a</topic>
+      </subject>
+      <subject>
+         <topic>R-152a</topic>
+      </subject>
+      <subject>
+         <topic>R-125, R-32</topic>
+      </subject>
+      <subject>
+         <topic>R-143</topic>
+      </subject>
+      <subject>
+         <topic>R-143a</topic>
+      </subject>
+      <subject>
+         <topic>Fluoropropenes</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2170</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2170</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890181</identifier>
+      <identifier type="oclc">on1389890181</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625711308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

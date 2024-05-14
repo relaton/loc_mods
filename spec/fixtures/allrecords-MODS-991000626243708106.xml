@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Voices of first responders</title>
+         <subTitle>how to facilitate adoption and usage of communication technology - an
+                integrated analysis of qualitative and quantitative findings</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Choong, Yee-Yin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Choong, Yee-Yin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Buchanan, Kerrianne.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dawkins, Shan e.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Prettyman, Sandra Spickard.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-11-28.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (32 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Nationwide Public Safety Broadband Network (NPSBN) is being
+                developed to provide a dedicated network for the use of first responders during
+                incident response. A wave of new communication technologies compatible with the
+                NPSBN is on the horizon, as major research and development efforts continue for
+                these technologies. The National Institute of Standards and Technology's (NIST)
+                Public Safety Communications Research (PSCR) Usability Team investigated the
+                contexts in which first responders work, their experiences with incident response,
+                and their problems with and needs for communication technology. The team conducted
+                an exploratory, sequential, mixed-methods study to gather insights into the
+                experiences and needs of first responders. The multi-phase study included in-depth
+                interviews with 193 first responders in Phase 1, followed by a nationwide survey of
+                7 182 first responders in Phase 2. This report is the tenth volume published from
+                this data and provides a holistic understanding of the usability of communication
+                technology for first responders. It is unique in that it combines results from both
+                Phase 1 and Phase 2 providing an integrated analysis of both the qualitative and
+                quantitative data. This integration allowed us to develop overarching themes about
+                the problems and needs of first responders, focusing specifically on the barriers
+                and facilitators to the adoption and use of communication technology. In this
+                report, we discuss how adoption and use of communication technology is impacted by
+                first responders' experiences across three themes: technology trustworthiness, user
+                autonomy, and frustration. Overarchingly, there is a lack of technology
+                trustworthiness combined with low autonomy that often results in frustration for
+                first responders. The development of trustworthy technology takes time and relies on
+                first responders knowing that their input and experiences matter (i.e., having
+                autonomy). The lack of trustworthiness and autonomy has an impact on the acceptance
+                and adoption of new technology and the ability of first responders to accomplish
+                their primary tasks. This work can be useful for the researchers, designers, and
+                developers (R&amp;D) community as it works to improve current and develop future
+                communication technology for first responders. It can also aid administrators and
+                decision makers (ADMs) in making purchasing decisions and developing policies
+                related to communication technology for first responders in their
+                departments.</abstract>
+      <note type="statement of responsibility">Yee-Yin Choong; Kerrianne Buchanan; ShaneÃÂ¹e Dawkins; Sandra
+                Spickard Prettyman.</note>
+      <note>November 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>First responders</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Communication and technology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Public safety</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Communication--Research</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>User-centered system design</topic>
+      </subject>
+      <subject>
+         <topic>User needs</topic>
+      </subject>
+      <subject>
+         <topic>User requirements</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8443</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8443</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890527</identifier>
+      <identifier type="oclc">on1389890527</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111448.0</recordChangeDate>
+         <recordIdentifier>991000626243708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Handbook for VVSG 2.0 usability and accessibility test strategies
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Laskowski, Sharon J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2024-868X">
+         <namePart>Laskowski, Sharon J.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2024-868X</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Quesenbery, Whitney.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-01-25.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (72 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document provides guidance and resources for how to test voting
+                systems against the usability and accessibility requirements in the Voluntary Voting
+                System Guidelines (VVSG) 2.0. The requirements include Principles 2.2 and 5 through
+                8. The goal of those requirements is to ensure that voting systems certified to VVSG
+                2.0 are accessible and usable for election workers and voters including voters with
+                disabilities so that every voter can mark, review, cast, and verify their ballot
+                independently and privately. The primary audiences for this guide are the voting
+                system test laboratory organizations who perform certification testing, to help them
+                understand some of the specialized tests required, and organizations in the design
+                and development process as they build and prepare a voting system for certification
+                testing.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Sharon J. Laskowski; Whitney Quesenbery.</note>
+      <note>January 2023.</note>
+      <note>Title from PDF title page (viewed June 1, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-01-24</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>User-centered system design</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Human-computer interaction</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Elections</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Voting</topic>
+      </subject>
+      <subject>
+         <topic>Accessibility testing</topic>
+      </subject>
+      <subject>
+         <topic>Voluntary Voting System Guidelines (VVSG)</topic>
+      </subject>
+      <subject>
+         <topic>Voting systems</topic>
+      </subject>
+      <subject>
+         <topic>Voting system certification</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.VTS.400-5</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST voting technology standard; NIST VTS</title>
+            <partNumber>400-5</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859167</identifier>
+      <identifier type="oclc">on1405859167</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240419161543.0</recordChangeDate>
+         <recordIdentifier>991000614603808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

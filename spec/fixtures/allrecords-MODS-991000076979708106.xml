@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Recommendation for block cipher modes of operation</title>
+         <subTitle>the CCM mode for authentication and confidentiality</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Dworkin, M. J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dworkin, M. J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2007</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2007.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This Recommendation defines a mode of operation, called Counter with
+                Cipher Block Chaining-Message Authentication Code (CCM), for a symmetric key block
+                cipher algorithm. CCM may be used to provide assurance of the confidentiality and
+                the authenticity of computer data by combining the techniques of the Counter (CTR)
+                mode and the Cipher Block Chaining-Message Authentication Code (CBC-MAC)
+                algorithm.</abstract>
+      <note type="statement of responsibility">M. J. Dworkin.</note>
+      <note>2007.</note>
+      <note>Originally published 2004.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Authenticated encryption</topic>
+      </subject>
+      <subject>
+         <topic>Authentication</topic>
+      </subject>
+      <subject>
+         <topic>Block cipher</topic>
+      </subject>
+      <subject>
+         <topic>Confidentiality</topic>
+      </subject>
+      <subject>
+         <topic>Cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Encryption</topic>
+      </subject>
+      <subject>
+         <topic>Information security</topic>
+      </subject>
+      <subject>
+         <topic>Message authentication code</topic>
+      </subject>
+      <subject>
+         <topic>Mode of operation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-38c</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-38c</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1255625367</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120957.0</recordChangeDate>
+         <recordIdentifier>991000076979708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

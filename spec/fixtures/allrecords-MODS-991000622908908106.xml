@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Cryptographic Module Validation Program (CMVP) security policy
+                requirements</title>
+         <subTitle>CMVP validation authority updates to ISO/IEC 24759 and ISO/IEC 19790
+                Annex B</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hawes, David.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0173-6795">
+         <namePart>Hawes, David.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0173-6795</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1937-8129">
+         <namePart>Calis, Alexander.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1937-8129</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Crombie, Roy.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New edition</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-11-13.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST Special Publication (SP) 800-140Br1 is to be used in conjunction
+                with ISO/IEC 19790 Annex B and ISO/IEC 24759 Section 6.14. This Special Publication
+                modifies only those requirements identified in this document. NIST SP 800-140Br1
+                also specifies the content of the information required in ISO/IEC 19790 Annex B. As
+                a validation authority, the Cryptographic Module Validation Program (CMVP) may
+                modify, add, or delete Vendor Evidence (VE) and/or Test Evidence (TE) specified
+                under paragraph 6.14 of the ISO/IEC 24759 and specify the order of the security
+                policy as stated in ISO/IEC 19790:2012 B.1.</abstract>
+      <note type="statement of responsibility">David Hawes; Alexander Calis; Roy Crombie.</note>
+      <note>November 2023.</note>
+      <note>Title from PDF title page (viewed January 02, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-11-13</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Cryptographic Module Validation Program.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>FIPS 140.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>ISO/IEC 19790.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>ISO/IEC 24759.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer security--Government policy--United States</topic>
+      </subject>
+      <subject>
+         <topic>CMVP.</topic>
+      </subject>
+      <subject>
+         <topic>Cryptographic Module Validation Program.</topic>
+      </subject>
+      <subject>
+         <topic>FIPS 140.</topic>
+      </subject>
+      <subject>
+         <topic>FIPS 140 testing.</topic>
+      </subject>
+      <subject>
+         <topic>ISO/IEC 19790.</topic>
+      </subject>
+      <subject>
+         <topic>ISO/IEC 24759.</topic>
+      </subject>
+      <subject>
+         <topic>Security policy.</topic>
+      </subject>
+      <subject>
+         <topic>Testing requirement.</topic>
+      </subject>
+      <subject>
+         <topic>Vendor documentation.</topic>
+      </subject>
+      <subject>
+         <topic>Vendor evidence.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-140Br1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>800-1400Br1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.SP.800-140B</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-140Br1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1419201042</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401110403.0</recordChangeDate>
+         <recordIdentifier>991000622908908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

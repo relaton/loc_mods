@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">An  </nonSort>
+         <title>exploration of the operational ramifications of lossless
+                compression of 1000 ppi fingerprint imagery</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020043056">
+         <namePart>Orandi, Shahram.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020043056</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2012</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Department of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2012.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations, tables.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">This paper presents the findings of a study initially conducted to
+                measure the operational impact of JPEG 2000 lossy compression on 1000 ppi
+                fingerprint imagery at various levels of compression, but later expanded to include
+                lossless compression. Lossless compression will have no impact on either Galton or
+                non-Galton based features of a fingerprint since the compressed image is identical
+                to the original once decompressed. The selection of a lossless compression algorithm
+                can have operational implications in terms of effective compression rate and
+                throughput; these implications are the focus. This study examines several such
+                compression algorithms and compares them using criteria used to measure the
+                effectiveness of the compression algorithm as well as its throughput using actual
+                fingerprint imagery.</abstract>
+      <note type="statement of responsibility">Shahram Orandi.</note>
+      <note>August 2012</note>
+      <note type="bibliography">Includes bibliographical references pages 41-42.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93007919">
+         <topic>Image compression</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/967485">
+         <topic>Image compression</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048337">
+         <topic>Fingerprints</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/924859">
+         <topic>Fingerprints</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.7779</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>7779</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">809279002</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">120906</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20120906044943.0</recordChangeDate>
+         <recordIdentifier>991000028199708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

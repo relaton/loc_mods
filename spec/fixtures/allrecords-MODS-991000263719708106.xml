@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Building secure microservices-based applications using service-mesh
+                architecture</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2003002931">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2003002931</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2003002931">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2003002931</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020013499">
+         <namePart>Butcher, Zack.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020013499</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The increasing trend in building microservices-based applications
+                calls for addressing security in all aspects of service-to-service interactions due
+                to their unique characteristics. The distributed cross-domain nature of
+                microservices needs secure token service (STS), key management and encryption
+                services for authentication and authorization, and secure communication protocols.
+                The ephemeral nature of clustered containers (by which microservices are
+                implemented) calls for secure service discovery. The availability requirement calls
+                for: (a) resiliency techniques, such as load balancing, circuit breaking, and
+                throttling, and (b) continuous monitoring (for the health of the service). The
+                service mesh is the best-known approach that can facilitate specification of these
+                requirements at a level of abstraction such that it can be uniformly and
+                consistently defined while also being effectively implemented without making changes
+                to individual microservice code. The purpose of this document is to provide
+                deployment guidance for proxy-based Service Mesh components that collectively form a
+                robust security infrastructure for supporting microservices-based
+                applications.</abstract>
+      <note type="statement of responsibility">Ramaswamy Chandramouli; Zack Butcher.</note>
+      <note>May 2020.</note>
+      <note>Title from PDF title page (viewed June 4, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98004527">
+         <topic>Application program interfaces (Computer software)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/811704">
+         <topic>Application program interfaces (Computer software)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98007144">
+         <topic>Gateways (Computer networks)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/938961">
+         <topic>Gateways (Computer networks)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85041608">
+         <topic>Electric circuit-breakers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/904535">
+         <topic>Electric circuit-breakers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh87002293">
+         <topic>Information technology</topic>
+      </subject>
+      <subject>
+         <topic>API gateway</topic>
+      </subject>
+      <subject>
+         <topic>Load balancing</topic>
+      </subject>
+      <subject>
+         <topic>Microservices</topic>
+      </subject>
+      <subject>
+         <topic>Service mesh</topic>
+      </subject>
+      <subject>
+         <topic>Service proxy</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-204A</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-204A</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163859230</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120951.0</recordChangeDate>
+         <recordIdentifier>991000263719708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

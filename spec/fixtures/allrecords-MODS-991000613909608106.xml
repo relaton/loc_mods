@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Per- and polyfluoroalkyl substances in new firefighter turnout gear
+                textiles</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Maizel, Andrew.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2981-5241">
+         <namePart>Maizel, Andrew.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2981-5241</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5717-6902">
+         <namePart>Thompson, Andre.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5717-6902</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8930-892X">
+         <namePart>Tighe, Meghanne.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8930-892X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0700-3250">
+         <namePart>Escobar Veras, Samuel.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0700-3250</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3990-2111">
+         <namePart>Rodowa, Alix.</namePart>
+         <nameIdentifier>(orcid)0000-0002-3990-2111</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7039-5835">
+         <namePart>Falkenstein-Smith, Ryan.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7039-5835</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7589-5625">
+         <namePart>Benner Jr, Bruce A.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7589-5625</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4320-0742">
+         <namePart>Hoffman, Kathleen.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4320-0742</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1800-5515">
+         <namePart>Donnelly, Michelle K.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1800-5515</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Hernandez, Olivia.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wetzler, Nadine.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ngu, Trung.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1419-6062">
+         <namePart>Reiner, Jessica.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1419-6062</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0953-5215">
+         <namePart>Place, Benjamin.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0953-5215</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0327-0519">
+         <namePart>Kucklick, John.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0327-0519</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6734-6629">
+         <namePart>Rimmer, Kate.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6734-6629</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href=".(orcid)0000-0003-2264-0490">
+         <namePart>Davis, Rick D.</namePart>
+         <nameIdentifier>.(orcid)0000-0003-2264-0490</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-05-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource: illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Turnout gear is increasingly recognized as a potential source of per-
+                and polyfluoroalkyl substance (PFAS) exposure to firefighters. To determine the
+                type, concentration, and prevalence of PFAS potentially present in new firefighter
+                turnout gear, fifty-three nonvolatile, semivolatile, and volatile PFAS were
+                quantified in twenty textiles used in the construction of firefighter turnout gear.
+                Between one and seventeen PFAS were observed and quantified in each textile, with
+                higher numbers of detections and higher concentrations of PFAS present in moisture
+                barrier and outer shell textiles compared with thermal liner textiles. Three
+                fluorotelomerization-derived PFAS with six perfluorinated carbons, 6:2 fluorotelomer
+                methacrylate, 6:2 fluorotelomer alcohol, and 6:2 fluorotelomer sulfonic acid, were
+                quantified at the highest concentrations of any individual PFAS, up to 1,570 µg/kg ±
+                140 µg/kg (mean ± standard deviation of triplicate measurements), 613 µg/kg ± 15
+                µg/kg and 393 µg/kg ± 98 µg/kg, respectively. These three PFAS were not detected in
+                outer shells that had not received fluoropolymer treatments which could indicate
+                they were remnant raw materials from side-chain fluorinated polymer manufacturing.
+                Also widely identified were two compounds with four perfluorinated carbons;
+                perfluorobutane sulfonic acid and perfluorobutane sulfonamide. Perfluorocarboxylic
+                acids, especially those with fewer than six perfluorinated carbons, were nearly
+                universally identified, but entirely at concentrations below 40 µg/kg. In contrast,
+                PFAS with eight or more perfluorinated carbons, such as perfluorooctanoic acid and
+                perfluorooctane sulfonic acid, were present at summed concentrations below 2 µg/kg
+                in all textiles. The wide variation in summed PFAS concentrations among each textile
+                type suggests that the amount of PFAS present in new turnout gear could vary widely
+                based on the specific textiles used in gear manufacturing.</abstract>
+      <note type="statement of responsibility">Andrew Maizel; Andre Thompson; Meghanne Tighe; Samuel Escobar Veras;
+                Alix Rodowa; Ryan Falkenstein-Smith; Bruce A Benner Jr; Kathleen Hoffman; Michelle
+                K. Donnelly; Olivia Hernandez; Nadine Wetzler; Trung Ngu; Jessica Reiner; Benjamin
+                Place; John Kucklick; Kate Rimmer; Rick D. Davis.</note>
+      <note>May 2023.</note>
+      <note>Title from PDF title page (viewed September 26, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-2-22</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Perfluorinated chemicals</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fire fighters</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Vapor barriers</topic>
+      </subject>
+      <subject>
+         <topic>Thermal line</topic>
+      </subject>
+      <subject>
+         <topic>Turnout gear</topic>
+      </subject>
+      <subject>
+         <topic>Outer shell</topic>
+      </subject>
+      <subject>
+         <topic>Durable water repellent</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2248</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note</title>
+            <partNumber>2248</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2248</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253754</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111402.0</recordChangeDate>
+         <recordIdentifier>991000613909608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

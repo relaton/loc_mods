@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guide to enterprise telework and remote access security</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Scarfone, K. A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scarfone, K. A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2012200428">
+         <namePart>Hoffman, P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2012200428</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Souppaya, M. P.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2009</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2009.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Many organizations employees and contractors use enterprise telework
+                technologies to perform work from external locations. Most teleworkers use remote
+                access technologies to interface with an organization's non-public computing
+                resources. The nature of telework and remote access technologies permitting access
+                to protected resources from external networks and often external hosts as well
+                generally places them at higher risk than similar technologies only accessed from
+                inside the organization, as well as increasing the risk to the internal resources
+                made available to teleworkers through remote access. This publication provides
+                information on security considerations for several types of remote access solutions,
+                and it makes recommendations for securing a variety of telework and remote access
+                technologies. It also gives advice on creating telework security
+                policies.</abstract>
+      <note type="statement of responsibility">K. A. Scarfone; P. Hoffman; M. P. Souppaya.</note>
+      <note>2009.</note>
+      <note>Superseded by NIST Special Publication 800-46r2.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Mobile device security</topic>
+      </subject>
+      <subject>
+         <topic>Remote access</topic>
+      </subject>
+      <subject>
+         <topic>Remote access security</topic>
+      </subject>
+      <subject>
+         <topic>Telework</topic>
+      </subject>
+      <subject>
+         <topic>Telework security</topic>
+      </subject>
+      <subject>
+         <topic>Virtual private networking</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-46r1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-46r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927735794</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120952.0</recordChangeDate>
+         <recordIdentifier>991000077089708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

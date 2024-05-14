@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Development of laboratory test methods for RF-Based electronic safety
+                equipment</title>
+         <subTitle>guide to the National Fire Protection Association 1982 standard
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Puls, Audrey K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Puls, Audrey K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Young, William F.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021143253">
+         <namePart>Remley, Kate A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021143253</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022027326">
+         <namePart>Healy, Jacob.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022027326</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003092028">
+         <namePart>González, Luis A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003092028</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016-10.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) with
+                support from the Department of Homeland Security has been working with the National
+                Fire Protection Association (NFPA) to develop standards and test methods for
+                radio-frequency personal alert safety systems (RF PASS). The RF PASS systems are
+                incorporated into a firefighter's gear and are used to alert a base station when the
+                firefighter is in distress, has been motionless for more than 30 seconds, or to
+                alert the firefighter in case an evacuation is necessary. The material here covers
+                the development of several test methods either already adopted by the NFPA or
+                targeted for future revisions of NFPA 1982 Personal Alert Safety Systems. These test
+                methods represent five RF PASS deployment conditions: a highly reflective (high
+                multipath) RF environment; a prescribed amount of attenuation in a point- to-point
+                communication link; a multi-hop connection path; in-band wireless activity; and
+                temporary exposure to high-power, in-band RF interference. The data and developed
+                testing are based on currently used RF PASS frequencies: 450 MHz, 900 MHz, and 2.4
+                GHz.</abstract>
+      <note type="statement of responsibility">Audrey K. Puls; William F. Young; Kate A. Remley; Jacob Healy; Luis
+                Gonzalez.</note>
+      <note>October 2016.</note>
+      <note>Title from PDF title page (viewed October 31, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048493">
+         <topic>Fire fighters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925379">
+         <topic>Fire fighters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh92006740">
+         <topic>Wireless communication systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1176209">
+         <topic>Wireless communication systems</topic>
+      </subject>
+      <subject>
+         <topic>Electronic safety equipment</topic>
+      </subject>
+      <subject>
+         <topic>Public safety communications</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1937</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1937</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">980304665</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170330</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111145.0</recordChangeDate>
+         <recordIdentifier>991000189399708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

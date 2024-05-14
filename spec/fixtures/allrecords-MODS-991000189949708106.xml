@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Public safety user interface R&amp;D roadmap</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022003498">
+         <namePart>Feldman, Harris.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022003498</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022003498">
+         <namePart>Feldman, Harris.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022003498</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022047038">
+         <namePart>Leh, Marc.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022047038</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022008920">
+         <namePart>Felts, Ryan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022008920</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Benson, Jeb E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">The public safety community is in a period of great transition. Over
+                the next 20 years, technology advancements will enable data, video, and eventually
+                voice communications to migrate from Land Mobile Radio (LMR) networks to a single
+                nationwide Long Term Evolution (LTE) broadband network, the Nationwide Public Safety
+                Broadband Network (NPSBN). Emerging technologies within this new infrastructure
+                present opportunities and challenges for public safety, and the process of
+                modernizing responder communications requires significant coordination and planning.
+                To facilitate the transition from LMR to LTE, the National Institute of Standards
+                and Technology⁰₉s (NIST) Public Safety Communications Research (PSCR) program
+                initiated a research and development (R&amp;D) planning process to determine what
+                technology investments are of highest priority to the public safety community. This
+                document summarizes the results of PSCR⁰₉s Public Safety Enhanced User Interface
+                R&amp;D Roadmap. This report is the third of several technology roadmaps that PSCR
+                has developed over the past several years to better inform the investment decisions
+                of R&amp;D organizations supporting the public safety community. This document aims
+                to assist in planning for public safety communications research and optimize the
+                allocation of the</abstract>
+      <note type="statement of responsibility">Harris Feldman; Marc Leh; Ryan Felts; Jeb E. Benson.</note>
+      <note>April 2017.</note>
+      <note>Title from PDF title page (viewed April 26, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008002399">
+         <topic>Public safety</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
+         <topic>Public safety</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029038">
+         <topic>Communication</topic>
+         <topic>Research</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/870003">
+         <topic>Communication</topic>
+         <topic>Research</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1961</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1961</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312483945</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170605</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170606115832.0</recordChangeDate>
+         <recordIdentifier>991000189949708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

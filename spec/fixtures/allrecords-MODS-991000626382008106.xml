@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Voices of NIST</title>
+         <subTitle>a study of gender and inclusivity, finding from in-depth interviews
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Theofanos, Mary F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Theofanos, Mary F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Prettyman, Sandra Spickard.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Evans, Jasmine.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Furman, Susanne.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-03-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (74 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In the fall of 2019, the National Institute of Standards and
+                Technology (NIST) funded threes studies to better understand equity and inclusivity.
+                This report documents phase two of a three phased sequential, exploratory mixed
+                methods study designed to provide an in-depth look at the population of NIST federal
+                employees to identify factors, attitudes, and processes that might result in gender-
+                specific barriers at NIST. Phase 1 analyzed human resources demographic data,
+                compensation data, and performance data of NIST federal employees from 2011 to 2019
+                to determine any relevant trends. Phase 1 informed the development of an in-depth
+                interview protocol designed to identify the differences, if any, in the ways in
+                which men and women experience work at NIST. A total of 40 (36 female and 4 male)
+                participants were interviewed. Three interconnected themes emerged in the data: 1) a
+                culture at NIST that creates a Chilly Climate for women; 2) gendered experiences
+                that contribute to and are outcomes of that chilly climate; and 3) gendered outcomes
+                that influence women s experiences in the organization. The culture has evolved from
+                NIST s scientific roots, scientific excellence, a strong belief in meritocracy, and
+                as a Federal agency. Each of these characteristics contribute to a gendered social
+                structure and the perception that change is not needed. This backdrop sets the stage
+                for the characterizations of NIST from the interviews as a Boys Club and an Elitist
+                environment. The radically different perspectives of men and women based in the
+                culture result in experiences and outcomes that provide advantages and opportunities
+                for men while erecting barriers to survival for women, including isolation and
+                possibly exclusion. These barriers result in consequences of discrimination as well
+                as lack of trust and resignation. Participant quotes are used as exemplars to
+                provide details related to each of these themes. Overall, the interviews demonstrate
+                that women and men experience a very different NIST.</abstract>
+      <note type="statement of responsibility">Mary F. Theofanos; Sandra Spickard Prettyman; Jasmine Evans; Susanne
+                Furman.</note>
+      <note>March 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-03-05.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Diversity in the workplace</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Gender</topic>
+      </subject>
+      <subject>
+         <topic>Inclusivity</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2143</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2143</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228989</identifier>
+      <identifier type="oclc">on1427228989</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111505.0</recordChangeDate>
+         <recordIdentifier>991000626382008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

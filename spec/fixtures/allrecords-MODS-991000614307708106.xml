@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Advanced Encryption Standard (AES)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Dworkin, Morris J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2745-9906">
+         <namePart>Dworkin, Morris J.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2745-9906</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-05-09.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In 2000, NIST announced the selection of the Rijndael block cipher
+                family as the winner of the Advanced Encryption Standard (AES) competition. Block
+                ciphers are the foundation for many cryptographic services, especially those that
+                provide assurance of the confidentiality of data. Three members of the Rijndael
+                family are specified in this Standard: AES-128, AES-192, and AES-256. Each of them
+                transforms data in blocks of 128 bits, and the numerical suffix indicates the bit
+                length of the associated cryptographic keys.</abstract>
+      <note type="statement of responsibility">Morris J. Dworkin.</note>
+      <note>May 2023.</note>
+      <note>Title from PDF title page (viewed November 02, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-05-01</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Federal information processing standards publication.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Confidential communications</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Data encryption (computer science)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject>
+         <topic>AES.</topic>
+      </subject>
+      <subject>
+         <topic>Advanced Encryption Standard.</topic>
+      </subject>
+      <subject>
+         <topic>Block cipher.</topic>
+      </subject>
+      <subject>
+         <topic>Confidentiality.</topic>
+      </subject>
+      <subject>
+         <topic>Cryptography.</topic>
+      </subject>
+      <subject>
+         <topic>Encryption.</topic>
+      </subject>
+      <subject>
+         <topic>Rijndael.</topic>
+      </subject>
+      <subject>
+         <topic>Standards.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.FIPS.197-upd1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST federal information processing standards publication</title>
+            <partNumber>197-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.FIPS.197</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST federal information processing standards publication; NIST
+                FIPS</title>
+            <partNumber>197-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411254048</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111402.0</recordChangeDate>
+         <recordIdentifier>991000614307708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

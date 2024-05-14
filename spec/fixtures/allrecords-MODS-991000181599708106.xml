@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Re-certification of SRM 2492</title>
+         <subTitle>Bingham Paste Mixture for rheological measurements</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022065425">
+         <namePart>Olivas, Alex.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022065425</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022065425">
+         <namePart>Olivas, Alex.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022065425</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2001019109">
+         <namePart>Ferraris, Chiara F.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2001019109</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021110731">
+         <namePart>Guthrie, William F.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021110731</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020055891">
+         <namePart>Toman, Blaza.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020055891</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2015</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2015.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Rheological measurements are often performed using a rotational
+                rheometer. In this type of rheometer, the tested fluid is sheared between two
+                surfaces, one of which is rotating [1]. Usually, an angular velocity is imposed on
+                the fluid (through the rotating surface) and this angular velocity determines the
+                shear rate the fluid is subjected to. The response of the material is monitored by
+                the measurement of the resultant torque on the shaft of the rheometer; this torque
+                can then be converted to shear stress. In order to calibrate a rheometer, a standard
+                oil of known viscosity should be tested in the rheometer to verify that the
+                instrument is operating correctly. However, these standard oils are expensive; which
+                makes it impractical for use in calibrating with the rheometer with a large capacity
+                as needed for concrete. Additional, these standard oils that are not suspensions
+                (i.e. they do not have solid particles suspended in the media), and thus using them
+                may not capture some issues that may occur in a suspension rheology. Therefore, a
+                relatively inexpensive, reference material is needed that incorporates aggregates
+                for concrete rheometers. As concrete and mortar are non-Newtonian, the reference
+                material should also be non-Newtonian. This report follows the development and
+                serves as re-certification of a Standard Reference Material (SRM) for cement paste
+                [2]. A multiscale approach will be utilized to develop SRMs for mortar and concrete
+                in the future. The SRM 2492 will be the matrix fluid for a mortar SRM that will in
+                turn become the matrix fluid for a concrete SRM. The report SP 260-174 Rev.2012 [2]
+                describes how this SRM 2492, a Bingham Paste Mixture for Rheological Measurements
+                was developed and provides all the details on the various ingredients. After an
+                inter-laboratory study under the sponsorship of the American Concrete Institute
+                (ACI) committee 238, Workability of Fresh Concrete, it was found that the
+                instructions provided to prepare the SRM were inadequate to obtain reproducible data
+                in all laboratories. Thus after establishing a better preparation method, new
+                instructions were drafted and it was found that the certified values were no longer
+                valid. Thus, it was necessary to redo a series of testing to obtain a new certified
+                value. This report provides all measurements obtained, the calculation of the new
+                rheological characteristics and the statistical analyses.</abstract>
+      <note type="statement of responsibility">Alex Olivas; Chiara F. Ferraris; William F. Guthrie; Blaza
+                Toman.</note>
+      <note>Title from PDF title page (viewed August 30, 2015).</note>
+      <note>August 2015.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n42029756">
+         <titleInfo>
+            <title>Standard reference materials</title>
+         </titleInfo>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-182</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-182</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">958885884</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160921</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102145511.0</recordChangeDate>
+         <recordIdentifier>991000181599708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Fire performance of upholstery materials</title>
+         <subTitle>correlation between cube test and full-scale chair mock-ups
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Zammarano, Mauro.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zammarano, Mauro.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-11-17.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (32 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In our previous work, the fire performance of seven upholstery
+                materials combinations - including six barrier fabrics, one cover fabric and one
+                flexible polyurethane foam - was assessed by (1) full-scale chair mock-up tests and
+                (2) a newly developed bench-scale test, referred to as the Cube test . Herein, we
+                investigate the correlation between the flaming performance observed in the Cube
+                tests and in the full-scale chair mock-ups. Two performance parameters are adopted
+                in the Cube test: (1) time to wetting, tw (i.e., time elapsed between test start and
+                the time at which flammable liquid products become first visible on the bottom
+                surface of the Cube test specimen), and (2) heat release at wetting, HRRw (i.e.,
+                value of heat release rate measured at t=tw). Three performance parameters are
+                adopted for full scale chair mock-ups: (1) peak of heat release rate, PHRR, (2) time
+                to PHRR, tPHRR, and (3) average heat release rate measured between test start and
+                the so-called bottom ignition , AHRRBI, where bottom ignition is defined as the
+                appearance of prolonged and localized flaming underneath the chair mock-up. Data
+                analysis revels that there is a strong linear correlation (coefficient of
+                determination R2 &gt; 0.9) between tPHRR and tw, PHRR and tw and AHRRBI and
+                HRRw.</abstract>
+      <note type="statement of responsibility">Mauro Zammarano.</note>
+      <note>November 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-11-16</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Upholstery</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Upholstered furniture</topic>
+      </subject>
+      <subject>
+         <topic>Cube test</topic>
+      </subject>
+      <subject>
+         <topic>Barrier fabric</topic>
+      </subject>
+      <subject>
+         <topic>Residential upholstered furniture</topic>
+      </subject>
+      <subject>
+         <topic>Flexible polyurethane foam</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2194</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2194</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890182</identifier>
+      <identifier type="oclc">on1389890182</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111421.0</recordChangeDate>
+         <recordIdentifier>991000625711108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

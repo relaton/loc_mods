@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of standard reference material® 3461</title>
+         <subTitle>reference cantilevers for AFM spring constant calibration
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Gates, Richard S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1097-8494">
+         <namePart>Gates, Richard S.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1097-8494</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4238-4893">
+         <namePart>Osborn, William A.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4238-4893</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0336-5972">
+         <namePart>McLean, Mark J.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0336-5972</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5881-5443">
+         <namePart>Shaw, Gordon A.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5881-5443</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2388-3198">
+         <namePart>Filliben, James J.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2388-3198</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>Erratum</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-10-16.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A batch of 94 silicon chips containing arrays of uniform rectangular
+                cantilevers was microfabricated from a single silicon wafer and their stiffnesses
+                and resonance frequencies calibrated using a laser Doppler vibrometer (LDV). The
+                cantilevers are 50 μm wide, (about the width of a human hair), and vary in length
+                from 600 μm to 300 μm. They have stiffness values nominally ranging from 0.03 N/m to
+                0.2 N/m and nominal first flexural resonance frequencies in the range of 5 kHz to 21
+                kHz respectively. The LDV cantilever stiffness calibration measurements proved very
+                reliable and combined expanded uncertainties better than ± 3% in stiffness were
+                obtained for individual devices. These devices can be used as reference artifacts to
+                validate atomic force microscopy (AFM) cantilever stiffness measurement methods as
+                well as directly calibrating AFM test cantilever stiffness using the reference
+                cantilever method. This NIST SP-260 provides details on the source and preparation
+                of the devices as well as the analytical approach of using a laser Doppler
+                vibrometer to accurately measure both stiffness (k), resonance frequency (f0), and
+                Quality factor (Q) of each cantilever. The statistical analysis applied to the data
+                sets is described. An example of the reference cantilever method is also provided
+                for individuals wishing to use these devices to make direct calibrations of AFM test
+                cantilevers.</abstract>
+      <note type="statement of responsibility">Richard S. Gates; William A. Osborn; Mark J. McLean; Gordon A. Shaw;
+                James J. Filliben.</note>
+      <note>October 2023.</note>
+      <note>Title from PDF title page (viewed January 11, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-10-16</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Calibration</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Cantilevers</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Microfabrication</topic>
+      </subject>
+      <subject>
+         <topic>Atomic Force Microscopy (AFM)</topic>
+      </subject>
+      <subject>
+         <topic>Electrostatic Force Balance (EFB)</topic>
+      </subject>
+      <subject>
+         <topic>Laser Doppler Vibrometer (LDV)</topic>
+      </subject>
+      <subject>
+         <topic>Reference Cantilever Method</topic>
+      </subject>
+      <subject>
+         <topic>Thermal Calibration Method</topic>
+      </subject>
+      <subject>
+         <topic>Resonance Frequency</topic>
+      </subject>
+      <subject>
+         <topic>Standard Reference Material (SRM)</topic>
+      </subject>
+      <subject>
+         <topic>Stiffness</topic>
+      </subject>
+      <subject>
+         <topic>Système International (SI)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-227-upd1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>260-227-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.SP.260-227</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-227-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1419199265</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240111</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401110405.0</recordChangeDate>
+         <recordIdentifier>991000623809808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

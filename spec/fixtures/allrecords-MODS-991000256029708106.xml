@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Measurement of airborne emissions from extinguished
+                cigarettes</title>
+         <subTitle>final report</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Poppendieck, Dustin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Poppendieck, Dustin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gong, Mengyan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Three series of experiments were conducted in this study. First,
+                studies were performed to the determine the relative distributions of the target
+                chemicals in freshly smoked butts by analyzing six types of samples consisting of
+                different parts of the butts, i.e. filter, tobacco and ash. Each sample was analyzed
+                using headspace-thermal desorption (TD) gas-chromatograph- mass spectrometry
+                (GC-MS). The goal of the headspace analysis was not to fully extract all chemicals
+                remaining on the cigarette butt, rather to provide a consistent basis to compare
+                chemical emissions into the air from the cigarette butts. Second, the butts were
+                placed in a range of controlled conditioning environments for 2 h to 144 h to
+                examine the influence of various factors on emissions: temperature, relative
+                humidity, ultraviolet (UV) radiation, water saturation and air change rate. Butts
+                were also conditioned outdoors in summer and winter seasons to understand butt
+                emissions in real environments. After conditioning, each cigarette butt was also
+                analyzed using headspace-TD-GC-MS. Lastly, a set of experiments was conducted to
+                measure the chemical emission rates from cigarette butts in a walk-in chamber. Air
+                samples were collected from the chamber up to 24 h after butts were placed in the
+                walk-in chamber and were analyzed using TD-GC-MS.</abstract>
+      <note type="statement of responsibility">Dustin Poppendieck; Mengyan Gong.</note>
+      <note>December 2019.</note>
+      <note>Title from PDF title page (viewed December 23, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040752">
+         <topic>Ecology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/901476">
+         <topic>Ecology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85044173">
+         <topic>Environmental health</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/912999">
+         <topic>Environmental health</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007001498">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1742477">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85059518">
+         <topic>Health</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/952743">
+         <topic>Health</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8256</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8256</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1139336459</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200205010826.0</recordChangeDate>
+         <recordIdentifier>991000256029708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

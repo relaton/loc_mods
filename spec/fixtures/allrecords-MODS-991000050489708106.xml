@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Tables of chemical kinetics homogeneous reactions (supplementary
+                tables)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Astin, A. V.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Astin, A. V.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85322315">
+         <namePart>Bigeleisen, J. (Jacob),</namePart>
+         <namePart type="date">1919-2010</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85322315</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50023329">
+         <namePart>Noyes, Robert.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n50023329</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Satterfield, C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Taube, H.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wallenstein, M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Amell, A. R.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80131947">
+         <namePart>Buncel, E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n80131947</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Feldman, H. B.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84800500">
+         <namePart>Johnston, Harold S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84800500</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Kern, D. M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kuivila, H. G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Merritt, P. E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1964</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1964.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">A. V. Astin; J. Bigeleisen; R. Noyes; C. Satterfield; H. Taube; M.
+                Wallenstein; A. R. Amell; E. Buncel; H. B. Feldman; H. S. Johnston; D. M. Kern; H.
+                G. Kuivila; P. E. Merritt.</note>
+      <note>1964.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.MONO.34v2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS monograph; NBS MONO</title>
+            <partNumber>34v2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">925473729</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151019</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20151019095113.0</recordChangeDate>
+         <recordIdentifier>991000050489708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

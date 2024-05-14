@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>summary of industrial verification, validation, and uncertainty
+                quantification procedures in computational fluid dynamics</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2018048920">
+         <namePart>Yeo, DongHun.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2018048920</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2018048920">
+         <namePart>Yeo, DongHun.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2018048920</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Within a variety of Computational Fluid Dynamics (CFD) applications,
+                maturity levels can vary significantly depending upon modeling approach and the
+                user's knowledge and skills. Recently, application of CFD techniques for
+                Computational Wind Engineering (CWE) has generated strong interest among wind and
+                structural engineers as a possible substitute for or supplement to wind tunnel
+                experimentation, even though CWE is still in a developmental stage. A necessary step
+                toward advancing CWE simulations in wind and structural engineering applications
+                credible is the development of reliable verification and validation (V&amp;V)
+                procedures. Fundamental factors that determine the degree to which CWE simulations
+                are the credible include: (i) the quality of the mathematical modeling of the
+                physics of interest; (ii) the depth of understanding by the users/analysts of the
+                details of the model and the simulation results; (iii) the quality of the
+                verification and validation (V&amp;V) procedures applied to the simulation results,
+                and (iv) the quality of the uncertainty quantification procedure applied to those
+                results. This report deals in detail with the sources of inaccuracy in CFD
+                simulations, and concepts and procedures used in V&amp;V and uncertainty
+                quantification.</abstract>
+      <note type="statement of responsibility">DongHun Yeo.</note>
+      <note>March 2020.</note>
+      <note>Title from PDF title page (viewed March 31, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007008173">
+         <topic>Computational fluid dynamics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745072">
+         <topic>Computational fluid dynamics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85044723">
+         <topic>Error</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/915026">
+         <topic>Error</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012002918">
+         <topic>Measurement uncertainty (Statistics)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894538">
+         <topic>Measurement uncertainty (Statistics)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029527">
+         <topic>Computer programs</topic>
+         <topic>Validation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872447">
+         <topic>Computer programs</topic>
+         <topic>Validation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029528">
+         <topic>Computer programs</topic>
+         <topic>Verification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872448">
+         <topic>Computer programs</topic>
+         <topic>Verification</topic>
+      </subject>
+      <subject>
+         <topic>Computational wind engineering</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8298</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8298</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858652</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200707053429.0</recordChangeDate>
+         <recordIdentifier>991000263039708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

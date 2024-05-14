@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Estimating instrument performance</title>
+         <subTitle>with confidence intervals and confidence bounds</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lu, Zhan-Qian John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lu, Zhan-Qian John.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (54 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Instrument performance is evaluated through performing a set of
+                tests, and the test results determine whether the instrument meets or fails the
+                standard requirements. The performance test data are analyzed and usually point
+                estimate and confidence bounds are calculated, on which a testing decision is made.
+                This chapter provides recipes of statistical analysis of the test data, including
+                estimation of probability of detection or identification, or false alarm rate, and
+                particularly on how various confidence intervals and confidence bounds are computed
+                based on sound statistical principles.</abstract>
+      <note type="statement of responsibility">Zhan-Qian John Lu.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Binomial distribution</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Confidence intervals</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Loi binomiale</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Intervalles de confiance</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Binomial distribution</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Confidence intervals</topic>
+      </subject>
+      <subject>
+         <topic>Probability of detection</topic>
+      </subject>
+      <subject>
+         <topic>Confidence bounds</topic>
+      </subject>
+      <subject>
+         <topic>Probability distribution estimation</topic>
+      </subject>
+      <subject>
+         <topic>Bayesian credible intervals</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2119</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2119</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124483</identifier>
+      <identifier type="oclc">on1346124483</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111420.0</recordChangeDate>
+         <recordIdentifier>991000625674608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

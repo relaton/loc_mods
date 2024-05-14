@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>DeepFit</title>
+         <subTitle>automated distribution fitting for building stochastic models
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Khoussi, Siham.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Khoussi, Siham.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Heckert, Alan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Battou, Abdella.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bensalem, Saddek.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-04-22.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (20 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Statistical model checking (SMC) is a formal verification method that
+                combines simulations with statistical techniques to provide quantitative answers on
+                whether a stochastic system satisfies some requirements with a controllable
+                accuracy. SMC takes three inputs: a stochastic model, a linear-time/Metric Temporal
+                Logic property to verify and a set of required confidence parameters. The stochastic
+                model is generally obtained by modeling the functional behavior of a system then
+                adding probabilistic variables to it, which are updated via probability
+                distributions (PD). The latter is, typically, obtained by analyzing measurements
+                from the system's execution using statistical tests to select the best fit
+                distribution. However, this task requires a good statistical background and
+                familiarity with several distributions which is beyond the expertise of some
+                analysts. Hence, in the case of SMC, assuming an incorrect distributional model for
+                the data can lead to inappropriate statistical analysis as well as inaccurate
+                verification of the system under study. As such, this paper presents DeepFit, a tool
+                that uses deep learning in addition to traditional statistics to automate the
+                distributional modeling process. DeepFit was evaluated against synthetic data and
+                real world data and it can perform comparably to using maximum likelihood estimation
+                with an Anderson-Darling, Kolmogorov-smirnov and Probability plot correlation
+                coefficient plot goodness of fit tests.</abstract>
+      <note type="statement of responsibility">Siham Khoussi; Alan Heckert; Abdella Battou; Saddek
+                Bensalem.</note>
+      <note>April 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-04-19</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Deep learning (Machine learning)</topic>
+      </subject>
+      <subject>
+         <topic>Statistical model checking</topic>
+      </subject>
+      <subject>
+         <topic>Data analysis</topic>
+      </subject>
+      <subject>
+         <topic>Distribution fitting</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2218</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2218</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890366</identifier>
+      <identifier type="oclc">on1389890366</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111446.0</recordChangeDate>
+         <recordIdentifier>991000626245808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

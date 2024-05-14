@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification Approaches for Weigh-In-Motion Systems in Law
+                Enforcement Applications</title>
+         <subTitle>subtitle</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Davis, Matthew</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Physical Measurement Laboratory</namePart>
+         <namePart>Lab Name.</namePart>
+      </name>
+      <typeOfResource/>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource :</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Every day, overweight and excessively heavy vehicles cause damage to
+                roads, bridges, and other vehicle-based infrastructure. To protect the vital
+                transportation infrastructure for the U.S., states have imposed weight limits for
+                commercial and fleet transport vehicles. A common way for enforcing these weight
+                limits is to guide trucks off the road to weigh stations where the vehicles can be
+                weighed using static truck scales. A disadvantage of these dedicated weigh stations
+                is that they take up a substantial amount of space (which is not always available)
+                and time to conduct weighments, as well as cause delays to traffic flow that may
+                impede commerce based on truck transport. A solution to these problems is the use of
+                high-speed weigh-in-motion (WIM) systems that are installed in the road and weigh
+                vehicles as they pass by while maintaining their speed. For jurisdictions to
+                effectively use a WIM system for direct enforcement of weight limits, the system
+                must be evaluated against a recognized standard to establish suitability for its
+                intended application. The vast majority of weighing instruments used for legal
+                metrology purposes (including law enforcement) need to comply with the requirements
+                in NIST Handbook 44 Specifications, Tolerances, and Other Technical Requirements for
+                Weighing and Measuring Devices. However, the NIST Handbook 44 does not (yet) cover
+                WIM systems for direct enforcement. Although state and local jurisdictions use NIST
+                Handbook 44 to certify legal metrological instruments, it does not exclude
+                jurisdictions from using additional technical standards to certify certain
+                instruments. New York City recently certified a WIM system to protect a critical
+                section of the Brooklyn-Queens Expressway (BQE) by designating it as a pilot project
+                while efforts were made to amend NIST Handbook 44 to include WIM systems for direct
+                enforcement. This publication discusses the main characteristics of WIM systems and
+                how they can be used for direct enforcement. An overview of several alternative
+                documentary standards that can be applied for certification of WIM systems is also
+                provided, with further explanation regarding how the New York City Department of
+                Transportation (NYCDOT) implemented the certification of the WIM system to begin
+                issuing citations to overweight vehicles in an effort to protect the BQE.</abstract>
+      <note type="statement of responsibility">Firstname Lastname; Firstname Lastname.</note>
+      <note>Month YYYY.</note>
+      <note>Title from PDF title page (viewed Month DD, YYYY).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 03/22/2024</note>
+      <note type="funding">123 Contract # 123 Grant #</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <note type="acquisition">Deposit. Terms: By submitting the deposited item to the Institutional
+                Repository you warrant that: The information you provided above is full and correct
+                and that you are either the copyright holder of the deposited item or you are
+                authorized by the copyright holder to submit the item to the Institutional
+                Repository. The deposited Material doesn't violate any copyright law. By submitting
+                the deposited item to the Institutional Repository you also agree to provide the
+                Institutional Repository with perpetual, nonexclusive, non transferable right to
+                take the necessary preservation actions to keep the deposited item accessible,
+                including but not limited to conversion of the deposited material to other formats
+                and making copies of the deposited material.</note>
+      <subject>
+         <topic>ASTM E1318</topic>
+      </subject>
+      <subject>
+         <topic>axle load</topic>
+      </subject>
+      <subject>
+         <topic>BQE</topic>
+      </subject>
+      <subject>
+         <topic>Brooklyn-Queens Expressway</topic>
+      </subject>
+      <subject>
+         <topic>certification</topic>
+      </subject>
+      <subject>
+         <topic>COST 323</topic>
+      </subject>
+      <subject>
+         <topic>direct enforcement</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.2100-####</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>SP</title>
+            <partNumber>2200-05</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>2100-####</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240403</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240403155741.0</recordChangeDate>
+         <recordIdentifier>991000626609708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

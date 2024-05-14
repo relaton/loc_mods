@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Digital image correlation measurements during gusset plate connection
+                testing to structural failure</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Iadicola, Mark.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Iadicola, Mark.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2012</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Department of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2012.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations, tables.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">This report describes 3-dimensional (3D) digital image correlation to
+                measure the 3D shape, displacement, and in-plane strain field, during testing of
+                gusset plate structural connections. Twelve full-scale bridge gusset plate
+                connections of various geometries and boundary conditions were tested at the the
+                Federal Highway Administration (FHWA) Turner-Fairbank Highway Research Center (Ocel
+                et al., 2012). These experiments are part of the verification of numerical models as
+                part of NCHRP Project 12-84 Guidelines for the Load and Resistance Factor Design and
+                Rating of Riveted and Bolted Gusset Plate Connections for Steel Bridge. The
+                measurements described here are in regards to the tests performed to failure (i.e.,
+                maximum load carrying capacity of the connection). During each of the twelve tests
+                to failure, a series (typically about 150) of image pairs were taken for subsequent
+                digital image correlation analysis. Although all of the image pairs were processed,
+                only a very small portion of the results are presented here. It is intended to give
+                general access to the overall data set for use by other researchers. Overall the
+                measurements, showed reasonable uncertainties on the order of 150 ?m/m of maximum
+                in-plane shear strain, and the measured out of plane initial shapes of the plates
+                typically matched qualitative inspections of the connections. The layout,
+                calibration, and measurement procedure associated with the digital image correlation
+                system are described in detail to aid in understanding of the results. The results
+                shown here include a sample of the measured and derived variables for one experiment
+                at two conditions to inform the reader of the type of data that is available. The
+                results also include an abbreviated set of results that show the evolution of the
+                out of plane shape and maximum shear strain field at four points in loading from the
+                initial condition to failure.</abstract>
+      <note type="statement of responsibility">Mark A. Iadicola.</note>
+      <note>August 2012</note>
+      <note>CODEN: NTNOEF</note>
+      <note type="bibliography">Includes bibliographical references pages 117-118.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005648">
+         <topic>Gusset plates</topic>
+         <topic>Testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1747532">
+         <topic>Gusset plates</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1148240">
+         <topic>Testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85129201">
+         <topic>Structural failures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1135679">
+         <topic>Structural failures</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1752</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1752</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312488981</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">120906</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20120906044943.0</recordChangeDate>
+         <recordIdentifier>991000028179708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

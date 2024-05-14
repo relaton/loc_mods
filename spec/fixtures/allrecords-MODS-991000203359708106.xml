@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Temperature field measurements using thin filament pyrometry in a
+                medium-scale methanol pool fire</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n84226449">
+         <namePart>Wang, Zhigang.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84226449</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84226449">
+         <namePart>Wang, Zhigang.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84226449</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Tam, Wai Cheong.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lee, Ki Yong.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87136328">
+         <namePart>Hamins, Anthony,</namePart>
+         <namePart type="date">1956-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87136328</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Measurements were made to characterize the time-varying temperature
+                field in a medium-sized methyl alcohol (methanol; CH3OH) pool fire steadily burning
+                in a quiescent environment. A digital camera fitted with optical filters and a zoom
+                lens was used to record the high temperature emission intensity of 14 ℗ÿm diameter
+                Type S Silicon-Carbide filaments oriented horizontally at various heights above a
+                central cross-section of a steadily burning 0.30 m diameter methanol pool fire. The
+                camera optics focused on the filaments with a field of view of approximately 0.3 m
+                wide by 0.6 m high. Using the optical camera, the filament was observable only for
+                temperatures larger than 1150 K. Experiments were conducted to collect thousands of
+                frames of 30 Hz video. In a separate experiment, a 50 ℗ÿm diameter thermocouple was
+                used to acquire 3400 independent temperature measurements at several locations in
+                the high temperature zone of the fire. A correlation was developed between the
+                probability density functions of the radiation-corrected thermocouple measurements
+                and the camera grayscale pixel intensity of the filament for the same fire
+                locations. Assuming a Gaussian temperature distribution, a fitting routine was used
+                to determine the mean temperature and its variance from the calculated filament
+                temperature. The mean temperatures compared favorably to previously reported
+                measurements. False color maps of temperature were produced characterizing the
+                entire high temperature flow field as a function of time. The time-averaged
+                temperature field for each phase of the pulsing methanol fire was also determined.
+                The results provide insight into the dynamic character of turbulent pool
+                fires.</abstract>
+      <note type="statement of responsibility">Zhigang Wang; Wai Cheong Tam; Ki Yong Lee; Anthony Hamins.</note>
+      <note>November 2018.</note>
+      <note>Title from PDF title page (viewed November 28, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85084383">
+         <topic>Methanol</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1018589">
+         <topic>Methanol</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh89005795">
+         <topic>Pyrometry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1084691">
+         <topic>Pyrometry</topic>
+      </subject>
+      <subject>
+         <topic>Temperature field measurements</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2031</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2031</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1084487119</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190205022340.0</recordChangeDate>
+         <recordIdentifier>991000203359708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

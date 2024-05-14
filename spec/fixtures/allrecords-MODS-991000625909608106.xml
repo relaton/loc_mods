@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Implementation of a particle tracking method to study particle
+                spreading in powder bed fusion systems</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Whitenton, Eric.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8706-7413">
+         <namePart>Whitenton, Eric.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8706-7413</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0264-1349">
+         <namePart>Whiting, Justin.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0264-1349</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1324-1642">
+         <namePart>Donmez, Alkan.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1324-1642</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6451-1657">
+         <namePart>Das, Aniruddha.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6451-1657</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0483-1990">
+         <namePart>Tondare, Vipin.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0483-1990</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-02-08.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Additive manufacturing is a rapidly growing and increasingly
+                important set of manufacturing techniques. One of those techniques, powder bed
+                fusion, is often used when making metal parts. The part is built up by spreading a
+                thin layer of metal powder, melting that layer, and repeating. However, how that
+                powder flows as it is spread can affect the ultimate part quality. Powder flow
+                characteristics during spreading are poorly understood. This paper describes an
+                image-based powder particle tracking method to better understand the motions of the
+                particles during the powder spreading process. It presents preliminary data obtained
+                from two prototype powder spreading testbeds. Such measurements should ultimately
+                enable the validation of physics-based models for powder spreading as well as an
+                understanding of the effects of bulk powder characteristics on the spreading
+                performance.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Eric Whitenton; Justin Whiting; Alkan Donmez; Aniruddha Das; Vipin
+                Tondare.</note>
+      <note>February 2024.</note>
+      <note>Title from PDF title page (viewed March 14, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2024-02-05</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Additive manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Additive manufacturing.</topic>
+      </subject>
+      <subject>
+         <topic>Particle tracking.</topic>
+      </subject>
+      <subject>
+         <topic>Powder bed fusion.</topic>
+      </subject>
+      <subject>
+         <topic>Spreadability.</topic>
+      </subject>
+      <subject>
+         <topic>Spreading testbed.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-58</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series</title>
+            <partNumber>100-58</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-58</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240314</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111441.0</recordChangeDate>
+         <recordIdentifier>991000625909608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

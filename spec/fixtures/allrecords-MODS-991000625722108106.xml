@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of Standard Reference Material 1936 Great Lakes
+                sediment</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bangma, Jacqueline T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bangma, Jacqueline T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ellisor, Debra.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ellisor, Michael B.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Heckert, N. Alan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hoguet, Jennifer.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Huncik, Kevin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ness, Jennifer.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Reiner, Jessica L.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-09-23.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (41 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Standard Reference Material (SRM) 1936 Great Lakes Sediment is
+                intended for 1) use in validating calibration and validation materials for sediment
+                analysis methods and 2) value assigning in house produced control materials analyzed
+                using those methods. A unit of SRM 1936 consists of one bottle containing
+                approximately 50 g of radiation-sterilized, dried sediment from Milwaukee Bay, WI,
+                USA. This publication documents the production, analytical methods, and statistical
+                evaluations used to characterize this material.</abstract>
+      <note type="statement of responsibility">Jacqueline T. Bangma; Debra Ellisor; Michael B. Ellisor; N. Alan
+                Heckert; Jennifer Hoguet; Kevin Huncik; Jennifer Ness; Jessica L. Reiner.</note>
+      <note>September 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-22</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Perfluorooctane sulfonate</topic>
+      </subject>
+      <subject>
+         <topic>Fresh-water sediment</topic>
+      </subject>
+      <subject>
+         <topic>Polyaromatic hydrocarbons (PAHs)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-215</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-215</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890112</identifier>
+      <identifier type="oclc">on1389890112</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111421.0</recordChangeDate>
+         <recordIdentifier>991000625722108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Voices of first responders-nationwide public safety communication
+                survey methodology</title>
+         <subTitle>development, dissemination, and demographics phase 2, volume 1
+</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020085049">
+         <namePart>Greene, Kristen K.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085049</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085049">
+         <namePart>Greene, Kristen K.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085049</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Dawkins, Shanee.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2005072199">
+         <namePart>Prettyman, Sandra Spickard,</namePart>
+         <namePart type="date">1957-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2005072199</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2015009620">
+         <namePart>Konkol, Pamela.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2015009620</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085028">
+         <namePart>Theofanos, Mary F.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085028</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020151052">
+         <namePart>Mangold, Kevin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020151052</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Furman, Susanne.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2012016196">
+         <namePart>Choong, Yee-Yin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2012016196</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085981">
+         <namePart>Steves, Michelle P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085981</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">With the newly created Nationwide Public Safety Broadband Network
+                (NPSBN), the public safety community is in the process of supplementing the use of
+                land mobile radios (LMR) to a technology ecosystem that will include a variety of
+                new communication tools, including a range of broadband data sharing platforms. It
+                is imperative to have a clear understanding of first responder needs, requirements,
+                and contexts of use in order for successful deployment and adoption of new
+                communication technology. This report is part of a multi-phase mixed methods project
+                that is designed to provide an in-depth look at the population of first responders,
+                along with their work environments, their tasks, and their communication needs, with
+                particular focus on their technology problems. In the current project phase, a
+                large-scale, online nationwide survey of first responders in 911/Dispatch, Emergency
+                Medical Services (EMS), Fire Service, and Law Enforcement was conducted. This report
+                details the survey methodology, including survey development and dissemination, and
+                summarizes nationwide participant demographics. A total of 7 182 completed survey
+                responses were received, with responses from all 50 states and the District of
+                Columbia (D.C.). The survey sampling priorities were mirrored in the data, with good
+                representation from the four public safety disciplines surveyed (911/Dispatch, EMS,
+                Fire Service, and Law Enforcement), and a good mixture of responses from urban,
+                suburban, and rural areas. Other demographic variables of interest,such as
+                jurisdictional level, years of service, and age,also showed good variability,
+                mapping well to national numbers. Such a largescale survey, with over 7 000
+                completed responses across the United States, represents a dataset of great
+                relevance for the public safety community. This multi-phase, mixed methods project
+                provides direct input from first responders about the communication technology used
+                and needed by first responders.</abstract>
+      <note type="statement of responsibility">Kristen K. Greene; Shanee Dawkins; Sandra Spickard Prettyman; Pamela
+                Konkol; Mary F. Theofanos; Kevin Mangold; Susanne Furman; Yee-Yin Choong; Michelle
+                P. Steves.</note>
+      <note>March 2020.</note>
+      <note>Title from PDF title page (viewed March 31, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007008878">
+         <topic>First responders</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1744217">
+         <topic>First responders</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh94003061">
+         <topic>Communication and technology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/870044">
+         <topic>Communication and technology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008002399">
+         <topic>Public safety</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
+         <topic>Public safety</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85130875">
+         <topic>Surveys</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1139635">
+         <topic>Surveys</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2006002024">
+         <topic>User-centered system design</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1740021">
+         <topic>User-centered system design</topic>
+      </subject>
+      <subject>
+         <topic>Public safety communication research</topic>
+      </subject>
+      <subject>
+         <topic>Survey research</topic>
+      </subject>
+      <subject>
+         <topic>User needs and requirements</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8288</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8288</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858558</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200707053429.0</recordChangeDate>
+         <recordIdentifier>991000263009708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

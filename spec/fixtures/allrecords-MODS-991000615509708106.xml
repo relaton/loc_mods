@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>ASCE-NOAA leadership summit on climate-ready
+                infrastructure</title>
+         <subTitle>summary report from a summit held February 2, 2023 at ASCE
+                Headquarters, Reston, VA</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Parris, Adam.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7496-7666">
+         <namePart>Parris, Adam.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7496-7666</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Heitsch, Samantha.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Carlson, D’Arcy.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-04-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : tables (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document summarizes presentations and discussions from the
+                February 2023 ASCE-NOAA Leadership Summit. It also presents key takeaways from the
+                Summit for NIST to consider in advancing community resilience planning and
+                assessment through community user guidance, particularly via updates to NIST’s
+                Community Resilience Program published the Community Resilience Planning Guide
+                (CRPG).</abstract>
+      <note type="statement of responsibility">Adam Parris; Samantha Heitsch; D’Arcy Carlson.</note>
+      <note>April 2023.</note>
+      <note>Title from PDF title page (viewed November 10, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>National Oceanic and Atmospheric Administration.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Climatic changes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Climatology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Engineering</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Equity</topic>
+      </subject>
+      <subject>
+         <topic>American Society of Civil Engineers</topic>
+      </subject>
+      <subject>
+         <topic>Climate change.</topic>
+      </subject>
+      <subject>
+         <topic>Climate resilience.</topic>
+      </subject>
+      <subject>
+         <topic>Climate science.</topic>
+      </subject>
+      <subject>
+         <topic>Engineering.</topic>
+      </subject>
+      <subject>
+         <topic>Equity.</topic>
+      </subject>
+      <subject>
+         <topic>National Oceanic and Atmospheric Administration.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.23-042</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR</title>
+            <partNumber>23-042</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract
+                report</title>
+            <partNumber>23-042</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210897</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111402.0</recordChangeDate>
+         <recordIdentifier>991000615509708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

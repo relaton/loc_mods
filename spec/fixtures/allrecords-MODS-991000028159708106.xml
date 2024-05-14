@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Conformance testing methodology for ANSI/NIST-ITL 1-2011, data format
+                for the interchange of fingerprint, facial &amp; other biometric information
+                (release 1.0)</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Conformance testing methodology for ANSI/NIST-ITL 1-2011, data format
+                for the interchange of fingerprint, facial and other biometric information (release
+                1.0)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Podio, Fernando.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Podio, Fernando.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141697">
+         <namePart>Yaga, Dylan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011141697</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021043974">
+         <namePart>McGinnis, Christofer J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021043974</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2012</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Department of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2012.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : tables.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Conformance testing measures whether an implementation faithfully
+                implements the technical requirements defined in a standard. Conformance testing
+                provides developers, users, and purchasers with increased levels of confidence in
+                product quality and increases the probability of successful interoperability. The
+                Information Technology Laboratory of NIST (NIST/ITL) sponsored the development of a
+                conformance testing methodology for ANSI/NIST-ITL 2011, Data Format for the
+                Interchange of Fingerprint, Facial &amp; Other Biometric Information(AN-2011) under
+                the NIST/ITL Conformance Testing Methodology Working Group. This testing methodology
+                supports the development of conformance test tools designed to test implementations
+                of AN-2011 transactions and promotes biometrics conformity assessment efforts. The
+                first release includes comprehensive tables of AN-2011 requirements and test
+                assertions for a set of supported AN-2011 Record Types. The tables of requirements
+                and assertions indicate which assertions apply to the traditional encoding format,
+                the National Information Exchange Model (NIEM)-compliant encoding format, or both
+                encoding formats. The testing methodology makes use of specific test assertion
+                syntax to clearly define the assertions associated with each requirement.</abstract>
+      <note type="statement of responsibility">Fernando L. Podio; Dylan Yaga; Christofer J. McGinnis.</note>
+      <note>August 2012</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005674">
+         <topic>Biometric identification</topic>
+         <topic>Evaluation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/916975">
+         <topic>Evaluation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.500-295</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>no. 500-295</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">809273000</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">120906</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102155351.0</recordChangeDate>
+         <recordIdentifier>991000028159708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

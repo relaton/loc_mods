@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Multifactor authentication for e-commerce</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020058100">
+         <namePart>Newhouse, William.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020058100</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020058100">
+         <namePart>Newhouse, William.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020058100</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">As retailers in the United States have adopted chip-and-signature and
+                chip-and-PIN (personal identification number) point-of-sale (POS) security measures,
+                there have been increases in fraudulent online card-not-present (CNP) electronic
+                commerce (e-commerce) transactions. The risk of increased fraudulent online shopping
+                became more widely known following the adoption of chip-and-PIN technology that
+                increased security at the POS in Europe. The NCCoE at NIST built a laboratory
+                environment to explore methods to implement multifactor authentication (MFA) for
+                online retail environments for the consumer and the e-commerce platform
+                administrator. The NCCoE also implemented logging and reporting to display
+                authentication-related system activity. This NIST Cybersecurity Practice Guide
+                demonstrates to online retailers that it is possible to implement open
+                standards-based technologies to enable Universal Second Factor (U2F) authentication
+                at the time of purchase when risk thresholds are exceeded. The example
+                implementations outlined in this guide encourage online retailers to adopt effective
+                MFA implementations by using standard components and custom applications that are
+                composed of open- source and commercially available components.</abstract>
+      <note type="statement of responsibility">William Newhouse.</note>
+      <note>July 2019.</note>
+      <note>Title from PDF title page (viewed July 29, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh96008434">
+         <topic>Electronic commerce</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/906906">
+         <topic>Electronic commerce</topic>
+      </subject>
+      <subject>
+         <topic>E-commerce security</topic>
+      </subject>
+      <subject>
+         <topic>Internet shopping security</topic>
+      </subject>
+      <subject>
+         <topic>Multifactor authentication (MFA)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-17</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-17</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1117448301</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190905</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163304.0</recordChangeDate>
+         <recordIdentifier>991000231509708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

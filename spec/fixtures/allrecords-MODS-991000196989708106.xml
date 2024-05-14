@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>influence of spreading metal powders with different particle size
+                distributions on the powder bed density in laser-based powder bed fusion processes
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Jacob, Gregor.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jacob, Gregor.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brown, Christopher U.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Donmez, Alkan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In laser powder bed fusion (LPBF) processes, the powder size
+                characteristics, like particle shape, particle size (PS), particle size distribution
+                (PSD), and the resulting powder bed density (PBD), are key influencing factors of
+                the built material properties. To better understand the correlations between the
+                powder size characteristics and the powder properties influencing the LPBF process,
+                apparent density (AD), flowability, and PBD were measured corresponding to two
+                commercial metal powders with different PS and PSD. The powder samples were taken
+                from different locations on the build platform to also investigate the variations of
+                these powder characteristics resulting from the spreading process by the stiff
+                recoater blade. It was shown that the PS and PSD had a significant effect on the AD
+                and the PBD. Powders with a wide PSD and with particle sizes in the range of the
+                effective powder layer thickness, led to a higher PBD than powder with a high
+                proportion of finer particles. No significant differences in PS and PSD were
+                observed as powder was pushed across a build plate by the recoater blade.</abstract>
+      <note type="statement of responsibility">Gregor Jacob; Christopher U. Brown; Alkan Donmez.</note>
+      <note>March 2018.</note>
+      <note>Title from PDF title page (viewed March 28, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85084071">
+         <topic>Metal powders</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1017651">
+         <topic>Metal powders</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Particle size distribution</topic>
+      </subject>
+      <subject>
+         <topic>Additive manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Apparent density</topic>
+      </subject>
+      <subject>
+         <topic>Powder bed fusion</topic>
+      </subject>
+      <subject>
+         <topic>Selective laser melting</topic>
+      </subject>
+      <subject>
+         <topic>Selective laser sintering</topic>
+      </subject>
+      <subject>
+         <topic>Powder bed density</topic>
+      </subject>
+      <subject>
+         <topic>Powder layer</topic>
+      </subject>
+      <subject>
+         <topic>Powder spreading</topic>
+      </subject>
+      <subject>
+         <topic>Powder layer thickness</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-17</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-17</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1038801180</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180606</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180606020943.0</recordChangeDate>
+         <recordIdentifier>991000196989708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

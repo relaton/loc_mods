@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Economic Evaluation Engine (E3) technical manual</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Webb, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Donmoyer, Luke.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kim, Tasha.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-05-19.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (142 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Engineering Laboratory (EL) of the National Institute of
+                Standards and Technology (NIST) has developed a variety of tools that provide some
+                level of economic analysis, many of which have been developed by EL s Applied
+                Economics Office (AEO). AEO-developed tools range across topic areas and economic
+                metrics. Each tool is targeting government agencies and organizations that fall
+                under NIST s mission. Stakeholders need different levels of details and
+                functionality because of the diverse backgrounds across stakeholders. As a result,
+                AEO has developed these software tools in a one-off approach on an as needed basis.
+                As a result, each software has its own unique set of code even though these tools
+                have some key underlying components that are common across tools, including
+                methodology documented in standards. To improve the efficiency of the tools
+                developed by AEO and its stakeholders, AEO has developed an economic service/engine
+                with an associated Application Programming Interface (API) that provides consistent,
+                standardized, transparent, reproducible economic analysis calculations should be
+                developed, maintained, and made publicly available for internal and external
+                researchers, analysts, and software developers called the Economic Evaluation Engine
+                (E3). E3 provides economic evaluation capabilities based on ASTM building economic
+                standards including life-cycle cost analysis, benefit-cost analysis, profit
+                maximization / cost-minimization, and risk-cost analysis. E3 could be leveraged by
+                NIST as well as other federal agencies and national laboratories, state and local
+                governments, academia, and the private sector to improve their tool development by
+                using a federally developed and validated calculations to provide
+                standard-consistent analysis. E3 is publicly accessible on a NIST server as well as
+                on GitHub for anyone to use for economic analysis, whether it s through a basic
+                script calling on the E3 API, online interface that connects to the E3 API, or an
+                executable program that is built on E3 s capabilities. Additionally, users of E3
+                could provide expansions to the capabilities by developing the code and submitting
+                it to NIST for review and incorporation. This technical manual describes E3,
+                including the underlying standards on which its based, the data flow through the
+                tool, details on the code libraries, classes, and file structure, development tools
+                used, guidance on how to use the tool, limitations, planned release, and the
+                development of its future capabilities.</abstract>
+      <note type="statement of responsibility">Joshua Kneifel; David Webb; Luke Donmoyer; Tasha Kim.</note>
+      <note>May 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-05-17</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Life cycle costing</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Cost effectiveness</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Sustainability</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer software</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards, Engineering</topic>
+      </subject>
+      <subject>
+         <topic>Building economics</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2225</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2225</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890405</identifier>
+      <identifier type="oclc">on1389890405</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111420.0</recordChangeDate>
+         <recordIdentifier>991000625722208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

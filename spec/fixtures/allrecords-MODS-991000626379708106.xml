@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Challenge design and lessons learned from the 2018 differential
+                privacy challenges</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Ridgeway, Diane.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ridgeway, Diane.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Theofanos, Mary F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Manley, Terese W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Task, Christine.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-04-12.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (55 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The push for open data has made a multitude of datasets available
+                enabling researchers to analyze publicly available information using various
+                statistical and machine learning methods in support of policy development. An area
+                of increasing interest that is being made available is public safety data, which can
+                include both sensitive information and Personally Identifiable Information (PII).
+                Release of sensitive data and PII can lead to individual and organizational harm.
+                However, the removal of PII alone is an insufficient approach to preventing linkage
+                attacks -- the process of combining unrelated data to identify individuals and
+                entities. A growing body of academic research in the field of differential privacy
+                exists which claims strict mathematical guarantees of data privacy, but with a
+                potentially greater loss of dataset utility. In 2017 National Institute of Standards
+                and Technology (NIST) Public Safety Communications Research (PSCR) Division
+                initiated efforts to test, evaluate and strengthen research in differential privacy
+                and add to its growing body of knowledge by making available open source algorithms
+                for public safety use. This publication describes the design and results of PSCR's
+                multi-phased innovation prize challenge and makes recommendations for conducting
+                future challenges in differential privacy.</abstract>
+      <note type="statement of responsibility">Diane Ridgeway; Mary F. Theofanos; Terese W. Manley; Christine
+                Task.</note>
+      <note>April 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-04-08.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Public Safety Communications Research Program (U.S.)</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Public safety</topic>
+      </subject>
+      <subject>
+         <topic>Differential privacy</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2151</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2151</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228997</identifier>
+      <identifier type="oclc">on1427228997</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111509.0</recordChangeDate>
+         <recordIdentifier>991000626379708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

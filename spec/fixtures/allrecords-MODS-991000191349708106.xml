@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Nanoparticle released from consumer products</title>
+         <subTitle>flooring nanocoatings and interior nanopaints</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sung, Lipiin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sung, Lipiin.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021153114">
+         <namePart>Nguyen, Tinh.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021153114</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Persily, Andrew.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2014.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Nanoparticles are increasingly incorporated in flooring coatings and
+                interior paints to improve their abrasion and microbial resistance. One particular
+                concern of this application is the release of nanoparticles from these surfaces due
+                to repeated mechanical forces acted upon them, such as walking, mopping, cleaning,
+                scratching, and furniture moving. Such release of the nanosize material is
+                potentially harmful to the occupants particularly children. Because of this serious
+                concern, CPSC and NIST has an agreement to develop testing and measurement protocols
+                for determining the quantities and properties of nanoparticles released from
+                flooring coatings and interior paints. The first year of this research was to
+                develop instrumentation, protocols, and analytical methods to measure released
+                particles resulting abrasion in air from coatings and paint containing a known
+                amount of nanoparticles. The 2nd year of the research has investigated the
+                development of methods and protocols for abrasion of flooring coatings and interior
+                in liquid and to measure and identify the particles remained on the surface and in
+                liquid. This report summarizes Year 2 research, which used commercial flooring
+                nanocoating and interior nanopaint. It includes 1) Characterizations of inorganic
+                materials in the commercial nanoproducts and initial properties before and after
+                immersion in water, 2) development of methods and protocols for abrasion in liquid
+                of flooring nanocoating and interior nanopaint, 3) measurement and identification of
+                released particles remained on the abraded surfaces and suspended in liquid, and 4)
+                investigation to develop an appropriate wheel that can reproducibly abrade
+                nanocoating and nanopaint surfaces in air and in liquid. The Year 2 research also
+                investigated the fabrication of a chamber and methods to quantify the number and
+                size of nanoparticles aerosolized during abrasion in air.</abstract>
+      <note type="statement of responsibility">Lipiin Sung; Tinh Nguyen; Andrew Persily.</note>
+      <note>July 2014.</note>
+      <note>Title from PDF title page (viewed July 25, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85089689">
+         <topic>Nanoparticles</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1032624">
+         <topic>Nanoparticles</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85027504">
+         <topic>Coatings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/865859">
+         <topic>Coatings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001543">
+         <topic>Confocal microscopy</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/875028">
+         <topic>Confocal microscopy</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85148744">
+         <topic>X-ray spectroscopy</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1181847">
+         <topic>X-ray spectroscopy</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>EDS</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh97005959">
+         <topic>Inductively coupled plasma mass spectrometry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/970757">
+         <topic>Inductively coupled plasma mass spectrometry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85117990">
+         <topic>Scanning electron microscopes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1106478">
+         <topic>Scanning electron microscopes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85134795">
+         <topic>Thermogravimetry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1149872">
+         <topic>Thermogravimetry</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>TGA</topic>
+      </subject>
+      <subject>
+         <topic>SEM</topic>
+      </subject>
+      <subject>
+         <topic>Abrasion</topic>
+      </subject>
+      <subject>
+         <topic>Mass loss</topic>
+      </subject>
+      <subject>
+         <topic>Nanoparticle release</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1835</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1835</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1005356079</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">171005</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20171005031751.0</recordChangeDate>
+         <recordIdentifier>991000191349708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

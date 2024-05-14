@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Theory of discrete event logistics systems (DELS)
+                specification</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sprock, Timothy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sprock, Timothy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Thiers, George.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86821984">
+         <namePart>McGinnis, Leon F. (Leon Franklin),</namePart>
+         <namePart type="date">1948-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86821984</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87943852">
+         <namePart>Bock, C. (Conrad)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87943852</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">System models and model-based engineering methods have the promise of
+                transforming the way that industrial engineers interact with production and
+                logistics systems. Model-based methods play a role in improving communication
+                between stakeholders, interoperability between systems, automated access to
+                consistent analysis models, and multi-disciplinary design methods for complex
+                systems. However, there remains a need for a foundation for modeling these kinds of
+                systems ⁰₃ a foundation that tailors methods and tools developed in other
+                engineering domains to the unique concepts and semantics of production and
+                logistics. This foundation is the topic of this report. This report documents a
+                framework and model libraries for modeling discrete event logistics systems (DELS),
+                an abstraction that covers manufacturing plants, material handling and
+                transportation systems, warehouses, supply chains, etc. The DELS abstraction was
+                created by identifying and modeling commonalities across the kinds of systems that
+                industrial engineers typically encounter, and analysis models they use to analyze
+                those system. It extends well-known product, process, and resource (PPR) ontologies
+                to incorporate a library of operational control model components, and is connected
+                to Commodity Flow Network (CFN), modeling networks, flow networks, and process
+                networks. The relationship between DELS and CFN formally links system models to
+                abstractions used to create analysis models, such as discrete event simulation. This
+                report is the first public release of models and documentation capturing many years
+                of refinement and application by the authors. As a first release, the goal is to
+                solicit additional use cases and feedback from the community to improve the models
+                and make them the foundation for the model-based industrial and systems engineering
+                community.</abstract>
+      <note type="statement of responsibility">Timothy Sprock; George Thiers; Leon F. McGinnis; Conrad
+                Bock.</note>
+      <note>June 2020.</note>
+      <note>Title from PDF title page (viewed July 16, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject>
+         <topic>Smart manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>System modeling</topic>
+      </subject>
+      <subject>
+         <topic>Model-based engineering</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8262</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8262</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1175927755</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200719</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200719123943.0</recordChangeDate>
+         <recordIdentifier>991000263489708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

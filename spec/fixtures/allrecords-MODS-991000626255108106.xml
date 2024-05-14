@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Using a single-zone residential model to evaluate virus particle
+                exposure</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Zimmerman, Stephen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zimmerman, Stephen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Polidoro, Brian.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ng, Lisa.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dols, W. Stuart.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Emmerich, Steven.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-09-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (54 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">On March 11, 2020, the World Health Organization declared the novel
+                coronavirus (COVID-19) outbreak a global pandemic. As noted by ASHRAE and the
+                Centers for Disease Control and Prevention (CDC), engineering and other controls
+                should be part of a broader, layered risk reduction strategy that includes hand
+                washing, surface cleaning, social distancing, and reduced occupant density (ASHRAE
+                2020; CDC 2021). To date, many recommendations for operating buildings during and
+                re-opening them post-pandemic have been based upon limited or no data. Much of the
+                public discussion of re-opening buildings has focused on commercial and
+                institutional buildings in the U.S., but there are almost 20 times more residences
+                in the U.S. than there are commercial buildings. Major questions exist regarding the
+                development of recommendations targeting residences, in part because dwellings can
+                be a major source of virus transmission. To help more people leverage ventilation
+                and filtration in their homes effectively, the authors used the Fate and Transport
+                of Indoor Microbial Particles (FaTIMA) tool to evaluate the effects of ventilation
+                and filtration strategies on particle exposure in homes of various sizes, with
+                different ventilation systems, and with a contagious visitor in the home for various
+                durations. After comparing particle exposure in a set of base cases for all home
+                sizes and ventilation systems, a 297 CADR portable air cleaner was most effective
+                for reducing particle exposure compared to the other mitigation measures simulated
+                (average 45 % reduction in exposure).</abstract>
+      <note type="statement of responsibility">Stephen Zimmerman; Brian Polidoro; Lisa Ng; W. Stuart Dols; Steven
+                Emmerich.</note>
+      <note>September 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-13</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>COVID-19 (Disease)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2234</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2234</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890328</identifier>
+      <identifier type="oclc">on1389890328</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111514.0</recordChangeDate>
+         <recordIdentifier>991000626255108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

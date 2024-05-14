@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>IREX validation dataset 2019</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Matey, James R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Matey, James R.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098146">
+         <namePart>Quinn, George W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84098146</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005043592">
+         <namePart>Grother, Patrick J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2005043592</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Data sets.</genre>
+      <genre authority="fast">Data sets.</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The IRis EXchange (IREX) program at NIST employs best measurement
+                practices to support the development, standardization, and interoperability of
+                iris-based technology through ongoing evaluations of that technology; IREX
+                evaluations provide information that helps advance the development of a marketplace
+                of iris-based applications based on standardized interoperable iris imagery and
+                provides decision makers with information critical to their decisions about
+                deployment of the technology. IREX has conducted a series of evaluations of iris
+                algorithms which are documented on the IREX website at
+                https://www.nist.gov/programs-projects/iris-exchange-irex-overview. To assure that
+                algorithms submitted for evaluation produce the same results in the NIST evaluation
+                environment that they do in the developer/vendor environment, we need to compare
+                results on a common set of iris images in the two environments. IREX-Validation-2019
+                is a dataset developed to facilitate such comparisons. In brief: The images in the
+                dataset were collected under protocols approved by the NIST Institutional Review
+                Board. The images are from subjects who provided model releases that permit use of
+                the images in publications and datasets that are distributed by NIST. The dataset is
+                distributed under user agreements associated with IREX evaluations. Inquiries
+                regarding the IREX program may be directed to the IREX Liaison at irex@nist.gov. Any
+                papers or reports making use of the dataset should cite this report as discussed in
+                section 2.1 Carried out under NIST IRB Approved protocol ITL-16-0002.</abstract>
+      <note type="statement of responsibility">James R. Matey; George W. Quinn; Patrick J. Grother.</note>
+      <note>September 2019.</note>
+      <note>Title from PDF title page (viewed September 18, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001010964">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85068076">
+         <topic>Iris (Eye)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/978890">
+         <topic>Iris (Eye)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85045926">
+         <topic>Evaluation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/916975">
+         <topic>Evaluation</topic>
+      </subject>
+      <subject>
+         <topic>IREX</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2058</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2058</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1120083296</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190919</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190919043258.0</recordChangeDate>
+         <recordIdentifier>991000231859708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Outdoor siren systems: a review of technology, usage, and public
+                response during emergencies</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
+         <namePart>Kuligowski, Erica D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011141182</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
+         <namePart>Kuligowski, Erica D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011141182</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Wakeman, Katrina.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The NIST Technical Investigation of the 2011 Joplin, MO tornado
+                identified that no widely accepted standards exist for emergency communications in
+                tornado events and more specifically, policies involving the use of outdoor siren
+                systems to alert the public in advance of tornadoes. As a result, siren usage,
+                testing, education and training, and all-clear procedures vary widely across the
+                U.S.; leading to distrust and confusion among community residents surrounding
+                emergency communications. This Technical Note is the first in a series to develop
+                evidence-based guidance for communities on the creation and provision of public
+                alerts, including both outdoor siren (warning) systems and social media (including
+                mobile alerts). It is the hope that this guidance can eventually be used as a basis
+                for standardization, through codes and standards, of the procedures and policies for
+                outdoor siren systems and social media used by communities across the United States.
+                Standardization of emergency communication policies and procedures could occur at
+                multiple levels, including among multiple jurisdictions, state-wide, regionally, or
+                even nationally. This document focuses on outdoor siren systems, specifically
+                presenting a review on technology, usage and public response. First, this document
+                provides an overview on the current status of siren systems in the United States,
+                i.e., the current siren technology available to communities and the ways in which
+                this technology is used in communities across the United States. Second, this
+                document presents a review of the literature on the ways in which people respond to
+                alerting signals (including siren systems) and the current limitations of siren
+                systems in light of these findings. This document ends with a discussion on the key
+                findings and recommendations from the literature on the ways in which to improve
+                current outdoor siren systems, based on the methods by which people receive and
+                process alerts.</abstract>
+      <note type="statement of responsibility">Erica D. Kuligowski; Katrina Wakeman.</note>
+      <note>February 2017.</note>
+      <note>Title from PDF title page (viewed February 2, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85136123">
+         <topic>Tornadoes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1152763">
+         <topic>Tornadoes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85042738">
+         <topic>Emergency communication systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/908473">
+         <topic>Emergency communication systems</topic>
+      </subject>
+      <subject>
+         <topic>Outdoor siren systems</topic>
+      </subject>
+      <subject>
+         <topic>Public response</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1950</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1950</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">973934314</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170228</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170228021840.0</recordChangeDate>
+         <recordIdentifier>991000188919708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

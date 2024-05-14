@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST Outdoor Structure Separation Experiments (NOSSE) with wind
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Maranghides, Alexander.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Maranghides, Alexander.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0407-584">
+         <namePart>Nazare, Shonali.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0407-584</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7784-5023">
+         <namePart>Link, Eric.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7784-5023</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7163-4623">
+         <namePart>Butler, Kathryn.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7163-4623</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1170-7370">
+         <namePart>Johnsson. Erik L.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1170-7370</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1138-0307">
+         <namePart>Bundy, Matthew.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1138-0307</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1215-7350">
+         <namePart>Chernovsky, Artur A.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1215-7350</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Bigelow, Frank.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hawks, Steven.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mell, William (Ruddy).</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bova, Anthony.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Milac, Thomas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Walton, William.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Raymer, Bob.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Frievalt, Frank.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Lab Name.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-05-31.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource: illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The NIST Outdoor Structure Separation Experiments are part of the
+                NIST Structure Separation Experiments project, which is designed to assess
+                structure-to-structure fire spread in the wildland-urban interface. In the first
+                phase of this project, fire exposures from small source structures (sheds) were
+                quantified in terms of mass loss rate and peak heat release rate in the absence of
+                wind. The performance of a target structure representing a residential façade was
+                assessed in response to exposures from a variety of sheds (differing in
+                construction, size, and fuel loading) and separation distances. These experiments
+                were conducted indoors at the National Fire Research Laboratory at NIST. The
+                knowledge gained from the indoor shed burn experiments was used to develop the
+                outdoor shed burn experiments.This report describes a series of outdoor shed burn
+                experiments conducted at NIST to study the effects of applied wind on thermal
+                (radiant and convective) exposures from variety of sheds to a target structure. The
+                results were used to determine the minimum Structure Separation Distance (SSDmin),
+                which is defined as the shortest distance between the source (storage shed) and
+                target structure (residence) to prevent ignition and flame spread. Experiments were
+                conducted with combustible (wood) and noncombustible (steel) sheds, each containing
+                a set of wood cribs and ignited to generate typical radiative and convective heat
+                exposures to the target structure. The target structure was an assembly including an
+                exterior wall with a window and a roof with a vented eave. Effects of shed
+                orientation, shed size, SSD, and shed type on thermal exposure to the target
+                structure were studied. The thermal exposure was quantified in each case by
+                measuring the peak heat flux and temperature at the target structure. Based on
+                target structure performances due to thermal exposure from the burning of different
+                source structures, a SSDmin was identified. The experiments in this study
+                demonstrated good reproducibility of experimental data. The wind had complex effects
+                on the burning behavior of wood sheds, affecting flame lengths and convective heat
+                transfer to the target structure. For combustible sheds, the peak heat flux measured
+                at the target structure corresponded with the total amount of fuel was not affected
+                by orientation (i.e., door opening facing downwind or upwind). In the case of steel
+                sheds with the door opening facing the target structure, the applied wind had
+                minimal or no effect on thermal exposure to the target structure. The steel sheds
+                contained the fire effectively – thus reducing, but not eliminating, the thermal
+                exposure to the target structure. For the scenarios evaluated, peak heat flux at the
+                target structure could be reduced by half by changing the orientation of the door
+                opening for noncombustible sheds. The SSDmin was identified as 10 ft for combustible
+                and noncombustible sheds with floor area less than 26 ft2 in scenarios with a fire
+                hardened target structure. For sheds with floor area between 26 ft2 and 64 ft², the
+                minimum SSDmin was found to be 15 ft. Because the local winds during a WUI fire are
+                unpredictable, SSD should be omnidirectional, i.e., the same SSD in all directions.
+                12 out of the 13 experiments were conducted with a fire hardened target structure.
+                Experiment conducted with a non-fire hardened target structure to demonstrate the
+                effectiveness of fire hardening revealed that the non-fire hardened structure
+                ignited within 6 mins when exposed to a Very Small wood shed with total fuel of 212
+                kg and SSD of 10 ft. With similar thermal exposure, and SSD, the fire hardened
+                target structure exhibited minimal thermal damage and significant ignition
+                resistance. Acknowledging the limitations of the experimental series, implementation
+                of the minimum separation distance identified from the experimental measurements in
+                this study is expected to improve community resilience to WUI.</abstract>
+      <note type="statement of responsibility">Alexander Maranghides; Shonali Nazare; Kathryn M. Butler; Erik L.
+                Johnsson; Eric Link; Matthew Bundy; Artur Chernovsky; William D. Walton; Steven
+                Hawks; Frank Bigelow; William (Ruddy) Mell; Anthony Bova; Derek McNamara; Thomas
+                Milac; Robert Raymer; Frank Frievalt,</note>
+      <note>May 2023.</note>
+      <note>Title from PDF title page (viewed November 01, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-05-22.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Sheds</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Temperature measurements</topic>
+      </subject>
+      <subject>
+         <topic>Wind-driven fires</topic>
+      </subject>
+      <subject>
+         <topic>Wildland-urban interface fire spread</topic>
+      </subject>
+      <subject>
+         <topic>Auxiliary structures</topic>
+      </subject>
+      <subject>
+         <topic>Structure separation distance</topic>
+      </subject>
+      <subject>
+         <topic>Heat flux measurements</topic>
+      </subject>
+      <subject>
+         <topic>Radiant heat exposure</topic>
+      </subject>
+      <subject>
+         <topic>Convective heat exposure</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2253</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2253</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411254057</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111359.0</recordChangeDate>
+         <recordIdentifier>991000614708708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

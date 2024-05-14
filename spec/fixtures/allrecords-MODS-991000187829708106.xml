@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Proposed recommended practice for the representation of schematic
+                symbols in STEP AP 210 (ISO 10303-210)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Stori, James.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Stori, James.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Thurman, Tom R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lanning, Craig.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Benda, Mike.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The purpose of this document is to propose a recommended practice for
+                the representation of schematic symbols and the integration of schematic symbols
+                with functional and physical representations of packaged electronic component models
+                in ISO 10303-210 (STEP AP 210). While the representation of AP 210 packages and
+                packaged parts has been previously validated through existing implementations, the
+                representation of component functional models and associated schematic symbols has
+                been less thoroughly exercised. AP 210 has dedicated concepts for the representation
+                of a functional element, as well as the association of a functional element with a
+                physical realization through a packaged part and associated package model. The
+                intent in the development of this recommended practice was to leverage existing
+                draughting capabilities within the STEP standards for the presentation of a
+                schematic symbol in AP 210. The schematic symbol is a presentation of the functional
+                model for human visualization, interpretation, and manipulation - the schematic
+                symbol should be a draughting representation of a functional element.</abstract>
+      <note type="statement of responsibility">James Stori; Tom R. Thurman; Craig Lanning; Mike Benda.</note>
+      <note>April 2015.</note>
+      <note>Title from PDF title page (viewed November 23, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85042383">
+         <topic>Electronics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/907538">
+         <topic>Electronics</topic>
+      </subject>
+      <subject>
+         <topic>STEP</topic>
+      </subject>
+      <subject>
+         <topic>ISO 10303</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.15-990</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract report
+</title>
+            <partNumber>15-990</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967661956</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114118.0</recordChangeDate>
+         <recordIdentifier>991000187829708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

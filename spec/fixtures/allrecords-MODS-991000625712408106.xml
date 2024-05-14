@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Workshop report</title>
+         <subTitle>novel and emerging test methods and metrics for effective HRI,
+                ACM/IEEE Conference on Human-Robot Interaction, 2021</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bagchi, Shelly.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bagchi, Shelly.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Marvel, Jeremy A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zimmerman, Megan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Aksu, Murat.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Antonishek, Brian.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Li, Xiang.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Amor, Heni Ben.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fong, Terry.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mead, Ross.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wang, Yue.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-02-24.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (15 pages) : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report details the third annual, full-day workshop exploring the
+                state-of-practice in the metrology necessary for repeatably and independently
+                assessing the performance of robotic systems in real-world human-robot interaction
+                (HRI) scenarios. This workshop continues the aims of shortening the lead time
+                between the theory and applications of HRI, enabling reproducible studies, and
+                accelerating the adoption of cutting-edge technologies as the industry
+                state-of-practice. The workshop was held on March 12, 2021, as part of the virtual
+                ACM/IEEE International Conference on Human-Robot Interaction. This third installment
+                of the annual workshop, 'Test Methods and Metrics for Effective HRI,' seeks to
+                identify novel and emerging test methods and metrics for the holistic assessment and
+                assurance of HRI performance. The focus is on identifying innovative metrics and
+                test methods for the evaluation of HRI performance, and to advance the growth of the
+                HRI community based on the principles of collaboration, data sharing, and
+                repeatability. The goal of this workshop is to aid in the advancement of HRI
+                technologies through the development of experimental design, test methods, and
+                metrics for assessing interaction and interface designs.</abstract>
+      <note type="statement of responsibility">Shelly Bagchi; Jeremy A. Marvel; Megan Zimmerman; Murat Aksu; Brian
+                Antonishek; Xiang Li; Heni Ben Amor; Terry Fong; Ross Mead; Yue Wang.</note>
+      <note>February 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Human-robot interaction</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Workshops</topic>
+      </subject>
+      <subject>
+         <topic>Metrics</topic>
+      </subject>
+      <subject>
+         <topic>Test methods</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8417</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8417</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389889945</identifier>
+      <identifier type="oclc">on1389889945</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111424.0</recordChangeDate>
+         <recordIdentifier>991000625712408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

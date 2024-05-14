@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Complex event resilience of small- and medium-sized
+                enterprises</title>
+         <subTitle>natural disaster planning during the COVID-19 pandemic</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Helgeson, Jennifer F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Helgeson, Jennifer F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fung, Juan F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Roa Henriquez, Alfredo R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zhang, Yating.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zycherman, Ariela.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nierenberg, Claudia.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butry, David T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ramkissoon, Donna.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (10 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Researchers at NIST and NOAA launched a longitudinal effort to assess
+                Complex Event Resilience of Small- and Medium-sized Enterprises (SMEs). As a first
+                step, a national survey of SMEs was conducted to better understand: 1. Past SME
+                experience with natural disasters; 2. Current SME experience with COVID-19; 3.
+                Current SME experience with natural disasters during the COVID-19 pandemic; and 4.
+                Future plans to cope with COVID-19 and natural disasters. This effort fills the gap
+                in research on the experiences of SMEs dealing with complex events generally and
+                those that arise during a pandemic, specifically. Initial findings from over 1300
+                SMEs indicate that: 29 % have already experienced a natural disaster during the
+                pandemic; 76 % implemented some adaptation/coping strategies during the COVID-19
+                pandemic. 66 % implemented natural disaster resilience planning in the past
+                (pre-COVID-19), of which 23 % note use of natural disaster resilience actions to
+                address COVID-19. 72 % are concerned about future complex events in the context of
+                COVID-19, of which 31 % identify their concern as arising from natural disaster(s)
+                during a pandemic. Four categories of resources and information are identified by
+                respondents to help them address complex event risks arising from natural hazards
+                during the COVID-19 pandemic: 1. Assistance navigating deep uncertainty, 2. Clear,
+                detailed information and training, 3. Assistance with personal protective equipment
+                (PPE) and other equipment, and 4. Access to financial assistance and financial
+                information.</abstract>
+      <note type="statement of responsibility">Jennifer F. Helgeson; Juan F. Fung; Alfredo R. Roa Henriquez; Yating
+                Zhang; Ariela Zycherman; Claudia Nierenberg; David T. Butry; Donna
+                Ramkissoon.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Complex event (Computer science)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Event processing (Computer science)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>COVID-19 (Disease)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hazard mitigation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Natural disasters</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Surveys</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Pandemics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Small business</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Traitement d'événements (Informatique)</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>COVID-19</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Catastrophes</topic>
+         <topic>Réduction</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Catastrophes naturelles</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Levés</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Pandémies</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>natural disasters</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>land surveys</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>pandemics</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>COVID-19 (Disease)</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Event processing (Computer science)</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Hazard mitigation</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Natural disasters</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Pandemics</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Small business</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Surveys</topic>
+      </subject>
+      <subject>
+         <topic>Business resilience</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience</topic>
+      </subject>
+      <subject>
+         <topic>Coping</topic>
+      </subject>
+      <subject>
+         <topic>Online surveys</topic>
+      </subject>
+      <subject>
+         <topic>Resilience planning</topic>
+      </subject>
+      <subject>
+         <topic>Recovery</topic>
+      </subject>
+      <subject>
+         <topic>Survey instrument</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1258</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1258</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124454</identifier>
+      <identifier type="oclc">on1346124454</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111444.0</recordChangeDate>
+         <recordIdentifier>991000625741508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

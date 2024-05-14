@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Report of the 105th &amp; 106th National Conference on Weights and
+                Measures</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Barton, John W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barton, John W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bowers, Shelby L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Branden, Yvonne A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butcher, Tina G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Harshman, Richard A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lee, Diane.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sefcik, David A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Warfield, Lisa.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lippa, Katrice A.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-06-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (777 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The 105th Annual Meeting of the National Conference on Weights and
+                Measures (NCWM) was held virtually July 12 - 16, 2020. The 106th Annual Meeting of
+                the National Conference on Weights and Measures (NCWM) was held July 18 - 23, 2021,
+                at the Hyatt Regency Rochester in Rochester, New York. The theme of the meeting was
+                Measuring Up to a New Normal. Reports by the NCWM Board of Directors, Standing
+                Committees, and Special Purpose Committees constitute the major portion of this
+                publication, along with the addresses delivered by Conference officials and other
+                authorities from government and industry. Special meetings included those of the
+                Meter Manufacturers Association, Packaging and Labeling Subcommittee, Fuels and
+                Lubricants Subcommittee, Associate Membership Committee, Regional Association
+                Meetings, and the Weigh-in-Motion Task Group.</abstract>
+      <note type="statement of responsibility">John W. Barton, editor; Shelby L. Bowers, editor; Yvonne A. Branden,
+                editor; Tina G. Butcher, editor; Richard A. Harshman, editor; G. Diane Lee, editor;
+                David A. Sefcik, editor; Lisa Warfield, editor; Katrice A. Lippa, Chief.</note>
+      <note>June 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-12-07</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Metrology--Congresses</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Meter (Unit)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Scales (Weighing instruments)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Specifications</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Training</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Weights and measures</topic>
+      </subject>
+      <subject>
+         <topic>Laws and regulations</topic>
+      </subject>
+      <subject>
+         <topic>Legal metrology</topic>
+      </subject>
+      <subject>
+         <topic>Tolerances</topic>
+      </subject>
+      <subject>
+         <topic>Type evaluation</topic>
+      </subject>
+      <subject>
+         <topic>Uniform laws</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1281</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1281</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890437</identifier>
+      <identifier type="oclc">on1389890437</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625717408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

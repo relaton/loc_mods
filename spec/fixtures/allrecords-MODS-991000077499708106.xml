@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Cryptographic algorithms and key sizes for personal identity
+                verification</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Polk, W. T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Polk, W. T.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021110726">
+         <namePart>Dodson, Donna F.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021110726</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Burr, W. E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2007</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2007.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">SP 800-78-1 has been modified to enhance interoperability, simplify
+                the development of relying party applications, and enhance alignment with the
+                National Security Agency's Suite B Cryptography [SUITE B]. Revision 1 reduces the
+                set of elliptic curves approved for use with PIV cards and the supporting
+                infrastructure from six curves to two. Also, SHA-384 has been added for use with
+                Curve P-384 in this revision. And finally, this revision eliminates the largest size
+                of RSA keys (3072 bits) on PIV cards. These changes simplify applications that
+                require maximum interoperability: the number of OIDs that must be recognized (e.g.,
+                in certificates) has been significantly reduced; and elliptic curve implementations
+                of elliptic curve cryptography can be optimized for operations over two specific
+                curves.</abstract>
+      <note type="statement of responsibility">W. T. Polk; D. F. Dodson; W. E. Burr.</note>
+      <note>2007.</note>
+      <note>Superseded by NIST Special Publication 800-78-2.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Conformance test</topic>
+      </subject>
+      <subject>
+         <topic>Cryptographic algorithms</topic>
+      </subject>
+      <subject>
+         <topic>FIPS 201</topic>
+      </subject>
+      <subject>
+         <topic>Key sizes</topic>
+      </subject>
+      <subject>
+         <topic>Personal Identity Verification</topic>
+      </subject>
+      <subject>
+         <topic>PKI</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-78-1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-78-1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927736500</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120954.0</recordChangeDate>
+         <recordIdentifier>991000077499708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

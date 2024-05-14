@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Sucrose density gradient centrifugation for efficient separation of
+                engineered nanoparticles from a model organism, Caenorhabditis elegans</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n81113033">
+         <namePart>Johnson, M. E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81113033</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81113033">
+         <namePart>Johnson, M. E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81113033</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Montoro Bustos, A. R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hanna, S. K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Petersen, E. J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015003879">
+         <namePart>Murphy, K. E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015003879</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Yu, L. L.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84022893">
+         <namePart>Nelson, Bruce C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84022893</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021120229">
+         <namePart>Winchester, M. R.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021120229</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This protocol describes a strategy for separating Caenorhabditis
+                elegans (C. elegans) from engineered nanomaterials, a critical step for accurate
+                quantification in uptake studies. Conventional rinsing procedures, typically
+                comprised of water or buffer rinsing steps followed by centrifugation, have been
+                previously tested and deemed unsuitable for this purpose, even at environmentally
+                relevant exposure concentrations. Therefore, this protocol details the development
+                and assessment of a unique sucrose gradient density centrifugation procedure for the
+                efficient separation of nanoparticles and C. elegans at the end of an exposure
+                protocol. The example outlined in this SP pertains to the measurement of gold
+                nanoparticles (AuNPs) and C. elegans. However, this method can potentially be
+                implemented in bioaccumulation studies involving other organisms and with different
+                metallonanoparticles. Visit https://nist.gov/mml/np-measurement-protocols.cfm to
+                check for revisions and additions to this protocol or for new protocols in the
+                series. We also encourage users to report citations to published work in which this
+                protocol has been applied.</abstract>
+      <note type="statement of responsibility">M. E. Johnson; A. R. Montoro Bustos; S. K. Hanna; E. J. Petersen; K.
+                E. Murphy; L. L. Yu; B. C. Nelson; M. R. Winchester.</note>
+      <note>October 2017.</note>
+      <note>Title from PDF title page (viewed October 11, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85023011">
+         <topic>Analytical chemistry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/853459">
+         <topic>Analytical chemistry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2006005257">
+         <topic>Nanochemistry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1741250">
+         <topic>Nanochemistry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85018675">
+         <topic>Caenorhabditis elegans</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/843844">
+         <topic>Caenorhabditis elegans</topic>
+      </subject>
+      <subject>
+         <topic>Sucrose density gradient separation</topic>
+      </subject>
+      <subject>
+         <topic>Gold nanoparticles</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1200-24</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1200-24</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1006510897</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">171017</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163204.0</recordChangeDate>
+         <recordIdentifier>991000192499708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

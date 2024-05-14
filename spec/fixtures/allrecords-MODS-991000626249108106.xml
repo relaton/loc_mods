@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>roadmap for LIMS at NIST Material Measurement Laboratory
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Greene, Gretchen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Greene, Gretchen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ragland, Jared.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Trautt, Zachary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lau, June.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Plante, Raymond.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Taillon, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Creuziger, Adam.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Becker, Chandler.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bennett, Joseph.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Blonder, Niksa.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Borsuk, Lisa.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Campbell, Carelyn.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Friss, Adam.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hale, Lucas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Halter, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hanisch, Robert.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hardin, Gary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Levine, Lyle.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Maragh, Samantha.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Miller, Sierra.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Muzny, Christopher.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Newrock, Marcus.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Perkins, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Plant, Anne.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ravel, Bruce.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ross, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scott, John Henry.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Szakal, Chris.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tona, Alessandro.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Vallone, Peter.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-04-11.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (23 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Instrumentation generates data faster and in higher quantity than
+                ever before, and interlaboratory research is in historic demand domestically and
+                internationally to stimulate economic innovation. Strategic mission needs of the
+                NIST Material Measurement Laboratory (MML) to support a wide array of research
+                disciplines therefore compel our organization to adopt advanced strategies for
+                research data management. Laboratory Information Management Systems (LIMS) provide a
+                framework for managing data from the outset of the research life cycle delivering
+                new capabilities for machine learning, data analysis, collaboration, and
+                dissemination. This roadmap describes our current understanding and strategy for
+                adapting our research workflows for LIMS throughout MML by embracing the use of
+                standards and best practices from data science communities. The NIST research data
+                cyber infrastructure complements these goals for MML by providing a secure
+                environment to host LIMS solutions. Additionally, integration of scientific
+                workflows requires ongoing collaboration to bridge organizational LIMS with external
+                scientific communities. Thus, MML LIMS will evolve overtime in synergy with the
+                technology and experimental environments delivering new science. LIMS will broaden
+                our mission impact through adoption of FAIR data principles.</abstract>
+      <note type="statement of responsibility">Gretchen Greene; Jared Ragland; Zachary Trautt; June Lau; Raymond
+                Plante; Joshua Taillon; Adam Creuziger; Chandler Becker; Joseph Bennett; Niksa
+                Blonder; Lisa Borsuk; Carelyn Campbell; Adam Friss; Lucas Hale; Michael Halter;
+                Robert Hanisch; Gary Hardin; Lyle Levine; Samantha Maragh; Sierra Miller;
+                Christopher Muzny; Marcus Newrock; John Perkins; Anne Plant; Bruce Ravel; David
+                Ross; John Henry Scott; Chris Szakal; Alessandro Tona; Peter Vallone.</note>
+      <note>April 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-04-10</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Quantitative research</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Data processing</topic>
+      </subject>
+      <subject>
+         <topic>Data</topic>
+      </subject>
+      <subject>
+         <topic>Laboratory information management systems</topic>
+      </subject>
+      <subject>
+         <topic>Experimental data</topic>
+      </subject>
+      <subject>
+         <topic>Research data</topic>
+      </subject>
+      <subject>
+         <topic>Research workflows</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2216</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2216</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890350</identifier>
+      <identifier type="oclc">on1389890350</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111507.0</recordChangeDate>
+         <recordIdentifier>991000626249108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

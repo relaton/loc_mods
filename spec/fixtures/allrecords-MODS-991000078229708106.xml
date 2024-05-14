@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Information technology security training requirements</title>
+         <subTitle>a role- and performance-based model</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85331008">
+         <namePart>Wilson, Mark,</namePart>
+         <namePart type="date">1954 August 23-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85331008</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85331008">
+         <namePart>Wilson, Mark,</namePart>
+         <namePart type="date">1954 August 23-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85331008</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no99037075">
+         <namePart>De Zafra, Dorothea E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no99037075</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Pitcher, Sadie I.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tressler, John D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ippolito, John B.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1998</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1998.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document supersedes NIST SP 500-172, Computer Security Training
+                Guidelines, published in 1989. The new document supports the Computer Security Act
+                (Public Law 100-235) and OMB Circular A-130 Appendix III requirements that NIST
+                develop and issue computer security training guidance. This publication presents a
+                new conceptual framework for providing information technology (IT) security
+                training. This framework includes the IT security training requirements appropriate
+                for today's distributed computing environment and provides flexibility for extension
+                to accommodate future technologies and the related risk management
+                decisions.</abstract>
+      <note type="statement of responsibility">Mark Wilson; Dorothea E. de Zafra; Sadie I. Pitcher; John D.
+                Tressler; Ippolito; John B.</note>
+      <note>1998.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Awareness</topic>
+      </subject>
+      <subject>
+         <topic>Behavioral objectives</topic>
+      </subject>
+      <subject>
+         <topic>Education</topic>
+      </subject>
+      <subject>
+         <topic>Individual accountability</topic>
+      </subject>
+      <subject>
+         <topic>Job function</topic>
+      </subject>
+      <subject>
+         <topic>Management and technical controls</topic>
+      </subject>
+      <subject>
+         <topic>Rules of behavior</topic>
+      </subject>
+      <subject>
+         <topic>Training</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-16</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-16</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">227962666</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120948.0</recordChangeDate>
+         <recordIdentifier>991000078229708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

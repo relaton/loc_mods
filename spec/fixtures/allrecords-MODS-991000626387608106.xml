@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Community resilience-focused technical investigation of the 2016
+                Lumberton, North Carolina flood</title>
+         <subTitle>community recovery one year later</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sutley, Elaina J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sutley, Elaina J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dillard, Maria K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>van de Lindt, John W.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-04-21.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (141 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In early October 2016 Hurricane Matthew crossed North Carolina as a
+                category 1 storm with some areas receiving 15-18 inches of rainfall on already
+                saturated soil. The NIST-funded Center for Risk-Based Community Resilience Planning
+                (Center) teamed with researchers from NIST's Community Resilience, Disaster Failure
+                Studies, and Applied Economics programs to conduct a quick response field study
+                focused on the small city of Lumberton, NC and the flooding experienced from the
+                Lumber River. Approximately one year later, the Center and NIST team returned to
+                Lumberton to document and better understand Lumberton's recovery progress with an
+                emphasis on housing, businesses, schools, community and state-level decisions, and
+                the intersection of these sectors in community recovery. This type of investigation
+                is critical for the study of community resilience as it will ultimately provide
+                longitudinal recovery data and analyses to support guidance and recommendations on
+                what is needed to enable communities the ability to recover more quickly and
+                equitably, and more generally, what attributes make most communities more resilient
+                to natural hazards. This second in a series of community resilience-focused field
+                studies is presented herein as Wave 2 of the on-going Lumberton, North Carolina
+                Flood of 2016 report series. Wave 2 had two major objectives: First, to document
+                community interdependencies ; and secondly, to document the progress of Lumberton's
+                recovery. Both of these objectives support data needs for understanding resilience
+                and recovery. Wave 2 dealt primarily with the recovery process of the most heavily
+                affected households and businesses through systematic surveys. Analysis revealed
+                that even after 14 months, Lumberton is only in the early stages of
+                recovery.</abstract>
+      <note type="statement of responsibility">Elaina J. Sutley; Maria K. Dillard; John W. van de Lindt.</note>
+      <note>April 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-04-15.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Buildings</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Natural disasters</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1230-2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1230-2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228961</identifier>
+      <identifier type="oclc">on1427228961</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111504.0</recordChangeDate>
+         <recordIdentifier>991000626387608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

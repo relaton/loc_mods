@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Organizational views of NIST cryptographic standards and testing and
+                validation programs</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Haney, Julie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Haney, Julie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Theofanos, Mary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Acar, Yasemin.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2005072199">
+         <namePart>Prettyman, Sandra Spickard,</namePart>
+         <namePart type="date">1957-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2005072199</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology).</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Cryptography is an essential component of modern computing.
+                Unfortunately, implementing cryptography correctly is a non-trivial undertaking.
+                Past research studies have supported this observation by revealing a multitude of
+                errors and pitfalls in the cryptographic implementations of software products.
+                However, the emphasis of these studies was on the practices of less-experienced,
+                individual developers. Therefore, there is little understanding of the cryptographic
+                development practices of organizations, including the benefits and challenges of
+                using cryptographic resources such as standards specifications and libraries. To
+                address this gap, a research team led by the National Institute of Standards and
+                Technology (NIST) Information Technology Laboratory Visualization and Usability
+                Group conducted a qualitative investigation into the processes and resources that
+                organizations employ in the development and testing of cryptographic products. The
+                study involved 21 in-depth interviews of 29 participants representing organizations
+                that develop either a security product that uses cryptography or a non-security
+                product that heavily relies on cryptography. This report categorizes and enumerates
+                a subset of findings that document participant comments specific to NIST
+                cryptographic publications and testing/validation programs, with a goal of informing
+                future decisions of NIST and other standards bodies working in this
+                space.</abstract>
+      <note type="statement of responsibility">Julie Haney; Mary Theofanos; Yasemin Acar; Sandra Spickard
+                Prettyman.</note>
+      <note>December 2018.</note>
+      <note>Title from PDF title page (viewed December 13, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034453">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/884552">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85134146">
+         <topic>Testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1148240">
+         <topic>Testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029527">
+         <topic>Computer programs</topic>
+         <topic>Validation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872447">
+         <topic>Computer programs</topic>
+         <topic>Validation</topic>
+      </subject>
+      <subject>
+         <topic>Cryptography development</topic>
+      </subject>
+      <subject>
+         <topic>Cryptography standards</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8241</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8241</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1084487328</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190205022340.0</recordChangeDate>
+         <recordIdentifier>991000203469708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

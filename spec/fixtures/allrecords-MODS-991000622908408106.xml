@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>The NIST plan for providing public access to results of federally
+                funded research</title>
+         <subTitle>2023 edition</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sharpless, Katherine E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6569-198X">
+         <namePart>Sharpless, Katherine E.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6569-198X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4340-2558">
+         <namePart>Avila, Regina.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4340-2558</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4445-1044">
+         <namePart>Boisvert, Ronald.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4445-1044</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0008-4529-2955">
+         <namePart>Dohne, A. Kirk.</namePart>
+         <nameIdentifier>(orcid)0009-0008-4529-2955</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0002-3708-719X">
+         <namePart>Fowler, James.</namePart>
+         <nameIdentifier>(orcid)0009-0002-3708-719X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4813-9071">
+         <namePart>Glenn, Rachel B.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4813-9071</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2302-9442">
+         <namePart>Greene, Gretchen R.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2302-9442</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6853-4602">
+         <namePart>Hanisch, Robert.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6853-4602</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1217-701X">
+         <namePart>Medina-Smith, Andrea.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1217-701X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1941-1021">
+         <namePart>Munter, Alan E.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1941-1021</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0009-9366-4124">
+         <namePart>Petrousky, Julie.</namePart>
+         <nameIdentifier>(orcid)0009-0009-9366-4124</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0083-9554">
+         <namePart>Ralchenko, Yuri.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0083-9554</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0007-8244-0382">
+         <namePart>Rowland, Carolyn D.</namePart>
+         <nameIdentifier>(orcid)0009-0007-8244-0382</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0008-8627-4999">
+         <namePart>St. Pierre, James A.</namePart>
+         <nameIdentifier>(orcid)0009-0008-8627-4999</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8463-9156">
+         <namePart>Wunderlich, Adam.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8463-9156</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0002-8321-1366">
+         <namePart>Zhang, Jon.</namePart>
+         <nameIdentifier>(orcid)0009-0002-8321-1366</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Special Programs Office.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New edition</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-10-02.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In 2013 White House Office of Science and Technology Policy (OSTP)
+                issued a memo, “Increasing Access to the Results of Federally Funded Scientific
+                Research.” In response, the National Institute of Standards and Technology (NIST)
+                developed a public access plan and published a compilation of input received when
+                the plan was posted for comment. NIST policy and associated directives were
+                developed from the plan, and NIST has been operating under that policy since 2015.In
+                2022, OSTP issued another memo, “Ensuring Immediate, Free, and Equitable Access to
+                Federally Funded Research.” NIST has expanded the original plan to include
+                requirements of this new memo. The plan was posted for public comment, with the
+                comment period ending on August 14, 2023. This document is a collection of the plan,
+                the Federal Register Notice, and comments received. Comments will inform the policy
+                and associated directives that are being developed from the revised plan.</abstract>
+      <note type="statement of responsibility">Katherine E. Sharpless; Regina Avila; Ronald Boisvert; A. Kirk Dohne;
+                James Fowler; Rachel B. Glenn; Gretchen R. Greene; Robert Hanisch; Andrea
+                Medina-Smith; Alan E. Munter; Julie Petrousky; Yuri Ralchenko; Carolyn D. Rowland;
+                James A. St. Pierre; Adam Wunderlich; Jon Zhang.</note>
+      <note>October 2023.</note>
+      <note>Title from PDF title page (viewed January 4, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-26</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Open access publishing</topic>
+      </subject>
+      <subject>
+         <topic>Office of Science and Technology Policy</topic>
+      </subject>
+      <subject>
+         <topic>OSTP</topic>
+      </subject>
+      <subject>
+         <topic>Public access</topic>
+      </subject>
+      <subject>
+         <topic>Public access plan</topic>
+      </subject>
+      <subject>
+         <topic>Research results</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8084e2023</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8084e2023</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.IR.8084</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8084e2023</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1419200101</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240422165658.0</recordChangeDate>
+         <recordIdentifier>991000622908408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

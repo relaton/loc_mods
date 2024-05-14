@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Assessing the chemical and colloidal stability of functionalized gold
+                nanoparticles</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Cho, Tae Joon.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cho, Tae Joon.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="0000-0003-4166-2724">
+         <namePart>Hackley, Vincent A.</namePart>
+         <nameIdentifier>0000-0003-4166-2724</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Among the many classes of engineered nanomaterials, gold
+                nanoparticles (GNPs) are one of the most widely studied and utilized nanoscale
+                platforms for biomedical applications including diagnostics, therapeutics, and
+                transfection. This is due in part to their general biocompatibility, facile
+                synthesis and unique optical properties.3 To realize these achievements, a
+                systematic evaluation of GNP stability, particularly under physiologically relevant
+                conditions, is critical for the efficacious and safe application of GNPs in any
+                biomedical or technical application. A lack of well documented and reproducible
+                protocols motivated the development of the present collection of methods, which
+                address stability with respect to aging, different media, pH, temperature, chemical
+                resistance, and long-term storage.</abstract>
+      <note type="statement of responsibility">Tae Joon Cho; Vincent A. Hackley.</note>
+      <note>June 2018.</note>
+      <note>Title from PDF title page (viewed June 1, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85127185">
+         <topic>Stability</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1131203">
+         <topic>Stability</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh89002466">
+         <topic>Chemical resistance</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/853198">
+         <topic>Chemical resistance</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85051736">
+         <topic>Freeze-drying</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/934141">
+         <topic>Freeze-drying</topic>
+      </subject>
+      <subject>
+         <topic>Gold nanoparticles (GNPs)</topic>
+      </subject>
+      <subject>
+         <topic>Stability tests</topic>
+      </subject>
+      <subject>
+         <topic>DLS</topic>
+      </subject>
+      <subject>
+         <topic>UV-vis</topic>
+      </subject>
+      <subject>
+         <topic>Shelf-life</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1200-26</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1200-26</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1039083755</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180606</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163200.0</recordChangeDate>
+         <recordIdentifier>991000197279708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

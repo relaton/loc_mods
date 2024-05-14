@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST Micronutrients Measurement Quality Assurance Program
+</title>
+         <subTitle>performance history of the fat-soluble vitamin-related studies
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Duewer, David L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Duewer, David L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kline, Margaret C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>May, Willie E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sharpless, Katherine E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Thomas, Jeanice B.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-09-21.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (79 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">From 1984 to 2017, the National Institute of Standards and Technology
+                (NIST) Micronutrients Measurement Quality Assurance Program (MMQAP) coordinated 79
+                Round Robin (RR) interlaboratory studies designed to improve measurement
+                comparability among laboratories measuring fat soluble vitamins and carotenoids in
+                human serum and plasma. There were 22 participants in the initial study;
+                participation increased to 58 in 1997 and then declined in stages to 29 by 2017. A
+                total of 138 academic, commercial, governmental, or non-governmental organizations
+                actively participated in at least one RR; two laboratories participated in 77 of the
+                79 RRs. A total of 350 human serum or plasma samples were distributed in the RRs,
+                typically three to five per RR. One hundred thirty one (131) of these samples were
+                unique materials. While the initial RRs focused on just retinol (vitamin A), ?
+                tocopherol (vitamin E), and ? carotene (provitamin A) over the life of the program
+                57 vitamin related measurands were reported at least once. Fifteen (15) measurands
+                were reported sufficiently often to enable analysis of measurement performance over
+                time: total retinol, retinyl palmitate, ? tocopherol, ? plus ? tocopherol, total ?
+                carotene, trans ? carotene, total cis ? carotene, total ? carotene, total lycopene,
+                trans lycopene, total ? cryptoxanthin, total lutein, total zeaxanthin, total lutein
+                plus zeaxanthin, and coenzyme Q10. In addition to documenting the number and nature
+                of the MMQAP's participants, measurands, materials, and reported measurements, this
+                report explores the evolution of among-participant concordance and
+                within-participant apparent precision as functions of calendar date documents and
+                the relationships among results reported for materials delivered to participants
+                both as liquid-frozen and lyophilized samples.</abstract>
+      <note type="statement of responsibility">David L. Duewer; Margaret C. Kline; Willie E. May; Katherine E.
+                Sharpless; Jeanice B. Thomas.</note>
+      <note>September 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Carotenoids</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Ubiquinones</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Vitamin A</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Vitamin E</topic>
+      </subject>
+      <subject>
+         <topic>Apparent precision</topic>
+      </subject>
+      <subject>
+         <topic>Concordance</topic>
+      </subject>
+      <subject>
+         <topic>Human serum</topic>
+      </subject>
+      <subject>
+         <topic>Interlaboratory measurement reproducibility functions</topic>
+      </subject>
+      <subject>
+         <topic>Liquid-frozen samples</topic>
+      </subject>
+      <subject>
+         <topic>Lyophilized samples</topic>
+      </subject>
+      <subject>
+         <topic>Micronutrients Measurement Quality Assurance Program
+                (MMQAP)</topic>
+      </subject>
+      <subject>
+         <topic>SRM 968</topic>
+      </subject>
+      <subject>
+         <topic>Robust scale estimators</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.7880-50</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>7880-50</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890330</identifier>
+      <identifier type="oclc">on1389890330</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111512.0</recordChangeDate>
+         <recordIdentifier>991000626254408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

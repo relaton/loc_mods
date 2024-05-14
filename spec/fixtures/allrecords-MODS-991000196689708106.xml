@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Mission critical voice QoE mouth-to-ear latency measurement methods
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Frey, Jesse.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Frey, Jesse.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pieper, Jaden.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr95032380">
+         <namePart>Thompson, Tim.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr95032380</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Mouth-to-ear (M2E) latency describes the time it takes speech input
+                in a voice communication transmit device to be output from a receiving device, and
+                has been identified as a key component of quality of experience (QoE) in
+                communications. NIST's PSCR division developed a method to measure and quantify the
+                M2E latency of any communications system transmitting audio, with specific emphasis
+                on push to talk (PTT) devices. This measurement method is the first step in
+                establishing QoE key performance indicators (KPI) for mission critical voice (MCV)
+                and a measurement system to quantify these QoE KPIs. Additional measurement methods
+                will be established and published in the near future. The measurement system
+                provides a fair platform for the comparisons of M2E latency across radio
+                communications technologies. Both single and two location measurement systems were
+                developed. The single location measurement system is a simpler setup ideal for
+                measurements performed in a single, controlled setting. The two location system
+                allows for the measurement of M2E latency between devices in two distinct locations
+                and adds the capability to see potential effects of distance and signal propagation
+                on the latency a user experiences. Example measurements of the M2E latency of VHF
+                and UHF land mobile radios (LMR) operating in both direct mode and in trunked mode
+                were performed. These tests demonstrated that both the single and two location tests
+                return consistent measurement results.</abstract>
+      <note type="statement of responsibility">Jesse Frey; Jaden Pieper; Tim Thompson.</note>
+      <note>February 2018.</note>
+      <note>Title from PDF title page (viewed February 28, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Communications</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008002399">
+         <topic>Public safety</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
+         <topic>Public safety</topic>
+      </subject>
+      <subject>
+         <topic>Audio communications</topic>
+      </subject>
+      <subject>
+         <topic>Delays</topic>
+      </subject>
+      <subject>
+         <topic>Direct mode</topic>
+      </subject>
+      <subject>
+         <topic>Handset</topic>
+      </subject>
+      <subject>
+         <topic>Key performance indicator (KPI)</topic>
+      </subject>
+      <subject>
+         <topic>Latency</topic>
+      </subject>
+      <subject>
+         <topic>Land mobile radio (LMR)</topic>
+      </subject>
+      <subject>
+         <topic>Mission critical push-to-talk (MCPTT)</topic>
+      </subject>
+      <subject>
+         <topic>Mission critical voice (MCV)</topic>
+      </subject>
+      <subject>
+         <topic>Mouth-to-ear (M2E)</topic>
+      </subject>
+      <subject>
+         <topic>Project 25 (P25)</topic>
+      </subject>
+      <subject>
+         <topic>Push-to-talk (PTT)</topic>
+      </subject>
+      <subject>
+         <topic>Quality of experience (QoE)</topic>
+      </subject>
+      <subject>
+         <topic>Quality of service (QoS)</topic>
+      </subject>
+      <subject>
+         <topic>Repeaters</topic>
+      </subject>
+      <subject>
+         <topic>Trunked mode</topic>
+      </subject>
+      <subject>
+         <topic>Ultra high frequency (UHF)</topic>
+      </subject>
+      <subject>
+         <topic>Very high frequency (VHF)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8206</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8206</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1027221414</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180305</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180305025941.0</recordChangeDate>
+         <recordIdentifier>991000196689708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

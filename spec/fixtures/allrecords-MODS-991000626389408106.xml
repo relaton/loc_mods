@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST-NOAA survey instrument for business disruption and recovery
+                associated with extreme events</title>
+         <subTitle>general instrument applied to the greater Charleston, SC small- and
+                medium-sized business community post-hurricane Irma</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Helgeson, Jennifer F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Helgeson, Jennifer F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pierel, Eleanor D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dow, Kirstin.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (65 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">To gather more in-depth information about how disasters affect
+                businesses, the National Institute of Standards and Technology (NIST) and the
+                National Oceanic and Atmospheric Administration (NOAA) have launched a study of
+                business disruption and recovery related to several natural disasters. This report
+                outlines the survey instrument used as the basis for the research designed to be
+                conducted in partnership between the NIST Applied Economics Office (AEO) and a
+                place-based, interdisciplinary regional research team via the NOAA Regional
+                Integrated Sciences and Assessment (RISA) Program. This research protocol uses a
+                mixed-method research approach to study businesses that were impacted by Hurricane
+                Irma in 2017 and their long-term recovery process. The approach combines both
+                quantitative and qualitative data collection methods using both in- person and
+                telephone surveys to obtain business disruption and recovery information from
+                business owners and managers.</abstract>
+      <note type="statement of responsibility">Jennifer F. Helgeson; Eleanor D. Pierel; Kirstin Dow.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Natural disasters</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Small business</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Small and medium-sized enterprises</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>SMEs (Small business)</topic>
+      </subject>
+      <subject>
+         <topic>Adaptive capacity</topic>
+      </subject>
+      <subject>
+         <topic>Built infrastructure</topic>
+      </subject>
+      <subject>
+         <topic>Business recovery</topic>
+      </subject>
+      <subject>
+         <topic>Business resilience</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience</topic>
+      </subject>
+      <subject>
+         <topic>Coping</topic>
+      </subject>
+      <subject>
+         <topic>Disaster recovery</topic>
+      </subject>
+      <subject>
+         <topic>Extreme weather events</topic>
+      </subject>
+      <subject>
+         <topic>Resilience planning</topic>
+      </subject>
+      <subject>
+         <topic>Survey instrument</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.DCI.001</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST data collection instruments and best practices; NIST
+                DCI</title>
+            <partNumber>001</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124470</identifier>
+      <identifier type="oclc">on1346124470</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111506.0</recordChangeDate>
+         <recordIdentifier>991000626389408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

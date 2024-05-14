@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Low-GWP non-flammable alternative refrigerant blends for HFC-134a
+</title>
+         <subTitle>final report</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Domanski, Piotr A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1915-2170">
+         <namePart>Domanski, Piotr A.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1915-2170</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1082-309X">
+         <namePart>McLinden, Mark O.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1082-309X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9257-6872">
+         <namePart>Babushok, Valeri I.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9257-6872</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1091-9080">
+         <namePart>Bell, Ian H.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1091-9080</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6150-8930">
+         <namePart>Fortin, Tara J.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6150-8930</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Hegetschweiler, Michael J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7976-741X">
+         <namePart>Huber, Marcia L.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7976-741X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5051-1819">
+         <namePart>Kedzierski, Mark A.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5051-1819</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Kim, Dennis K.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0813-7613">
+         <namePart>Lin, Lingnan.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0813-7613</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7232-5742">
+         <namePart>Linteris, Gregory T.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7232-5742</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8143-7316">
+         <namePart>Outcalt, Stephanie L.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8143-7316</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2852-1302">
+         <namePart>Payne, W. Vance.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2852-1302</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8526-6742">
+         <namePart>Perkins, Richard A.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8526-6742</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7605-0774">
+         <namePart>Rowane, Aaron.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7605-0774</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6118-0699">
+         <namePart>Skye, Harrison</namePart>
+         <nameIdentifier>(orcid)0000-0001-6118-0699</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-01-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (262 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This project addresses the objectives of the Statement of Need number
+                WPSON-17-20 No/Low Global Warming Potential Alternatives to Ozone Depleting
+                Refrigerants. Its goal was to identify low global-warming-potential (GWP),
+                non-flammable refrigerants to replace HFC-134a (GWP=1300) in military environmental
+                control units (ECUs) and to demonstrate their performance. This work is a follow-on
+                to the limited-scope project WP-2740, which used thermodynamic cycle simulation
+                models alone to screen over 100 000 refrigerant blends and identified over 20
+                candidate HFC-134a replacements. In the present study we narrowed the pool of blend
+                candidates down to three best blends, demonstrated their performance through drop-in
+                tests in a military ECU in environmental chambers over a wide range of operating
+                conditions, and extrapolated the laboratory-measured performance to that of ECUs
+                equipped with modified compressor for each blend to provide the same system capacity
+                while maintaining the isentropic efficiency of the original HFC-134a compressor. The
+                project involved preliminary experimental and analytical tasks in support of the
+                final project task. These included measurements of thermodynamic and transport
+                properties of the novel fluids considered and an update of simulation methods for
+                these properties, fundamental tests exploring the flammability characteristics
+                including calculation methods, fundamental measurements and modeling of
+                forced-convection heat transfer performance, and measurements of cycle performance
+                of candidate blends in a laboratory mini-breadboard heat pump apparatus as the final
+                qualification step of the best blends for full-scale testing in the ECU. The project
+                s conclusion is that R-513A (GWP=573) and a blend we call Tern-1
+                [R-134a/1234yf/1234ze(E) (49.2/33.9/16.9*), GWP=640] are good replacement blends for
+                HFC-134a offering a similar performance at GWP reduction of 66 % and 51 %,
+                respectively. These fluids do not present any significant application difficulties.
+                If greater reduction in GWP is desirable, R-515B (GWP=344) and CO2 (GWP=1) can be
+                considered but they require further challenging research and developmental work. In
+                the above blend selection, we adopted the ASTM E681 test method as stipulated by
+                ASHRAE Standard 34 for qualifying non-flammability of refrigerants. If military
+                requirements for non-flammability are more stringent than the E681 standard, a
+                smaller reduction of GWP will be possible with qualifying blends.</abstract>
+      <note type="statement of responsibility">Piotr A. Domanski; Mark O. McLinden; Valeri I. Babushok; Ian H. Bell;
+                Tara J. Fortin; Michael J. Hegetschweiler; Marcia L. Huber; Mark A. Kedzierski;
+                Dennis K. Kim; Lingnan Lin; Gregory T. Linteris; Stephanie L. Outcalt; W. Vance
+                Payne; Richard A. Perkins; Aaron Rowane; Harrison Skye.</note>
+      <note>January 2023.</note>
+      <note>Title from PDF title page (viewed May 25, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-01-03</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Air conditioning</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Flammability</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Refrigerants</topic>
+      </subject>
+      <subject>
+         <topic>Coefficient of performance</topic>
+      </subject>
+      <subject>
+         <topic>Cycle simulation</topic>
+      </subject>
+      <subject>
+         <topic>HFC-134a replacement</topic>
+      </subject>
+      <subject>
+         <topic>Low GWP</topic>
+      </subject>
+      <subject>
+         <topic>refrigerants</topic>
+      </subject>
+      <subject>
+         <topic>Vapor compression</topic>
+      </subject>
+      <subject>
+         <topic>Volumetric capacity</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8455</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8455</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859181</identifier>
+      <identifier type="oclc">on1405859181</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111400.0</recordChangeDate>
+         <recordIdentifier>991000614606208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

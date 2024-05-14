@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Bitemark analysis</title>
+         <subTitle>a NIST scientific foundation review</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sauerwein, Kelly.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9855-3030">
+         <namePart>Sauerwein, Kelly.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9855-3030</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6472-9157">
+         <namePart>Butler, John M.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6472-9157</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0174-9019">
+         <namePart>Reczek, Karen K.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0174-9019</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4881-1465">
+         <namePart>Reed, Christina.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4881-1465</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-03-07.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (42 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report summarizes a review of the scientific foundations of
+                bitemark analysis conducted by the National Institute of Standards and Technology
+                (NIST). Bitemark analysis typically involves examining patterned injuries left on a
+                victim or object at a crime scene, recognizing those injuries as bitemarks, and
+                comparing those marks with dental impressions from a person of interest. This review
+                specifically focuses on pattern injuries found on human skin. Over 400 sources were
+                considered via literature searches and input from previous efforts by the National
+                Institute of Justice Forensic Technology Center of Excellence. Our NIST review also
+                utilized input from an October 2019 Bitemark Thinkshop organized by the Center for
+                Statistics and Applications in Forensic Evidence (CSAFE) where experts and
+                stakeholders associated with bitemark analysis were convened to discuss key issues.
+                Based on this input, our study found a lack of support for three key premises of the
+                field: 1) human dentition is unique at the individual level, 2) this uniqueness can
+                be accurately transferred to human skin, and 3) identifying characteristics can be
+                accurately captured and interpreted by analysis techniques. Furthermore, our review
+                noted a lack of consensus among practitioners on the interpretation of bitemark data
+                as well as thoughts on how to move the field forward. If the field seeks to advance,
+                the key takeaways provided in this review are starting points for areas needing
+                improvement, not an exhaustive list of specific shortcomings.</abstract>
+      <note type="statement of responsibility">Kelly Sauerwein.</note>
+      <note>March 2023.</note>
+      <note>Title from PDF title page (viewed April 13, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-04-06</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Dental jurisprudence</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Dentition</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Forensic sciences</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Interpretation</topic>
+      </subject>
+      <subject>
+         <topic>Bitemark</topic>
+      </subject>
+      <subject>
+         <topic>Pattern evidence</topic>
+      </subject>
+      <subject>
+         <topic>Dental morphology</topic>
+      </subject>
+      <subject>
+         <topic>Scientific foundation review</topic>
+      </subject>
+      <subject>
+         <topic>Transference</topic>
+      </subject>
+      <subject>
+         <topic>Overlays</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8352</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8352</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859687</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111409.0</recordChangeDate>
+         <recordIdentifier>991000614604508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

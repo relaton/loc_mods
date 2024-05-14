@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Physical models and dimensional traceability of 2.4 mm coaxial
+                airline standards for determining systematic uncertainties of calibrated
+                scattering-parameters</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Jargon, Jeffrey A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7897-6893">
+         <namePart>Jargon, Jeffrey A.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7897-6893</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8271-1505">
+         <namePart>Williams, Dylan F.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8271-1505</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4927-7209">
+         <namePart>Long, Christian J.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4927-7209</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4675-4636">
+         <namePart>Hagerstrom, Aaron M.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4675-4636</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8900-140X">
+         <namePart>Stelson, Angela C.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8900-140X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3189-0889">
+         <namePart>Stoup, John R.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3189-0889</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Stanfield, Eric S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ren, Wei.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-07-06.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In this report, we document the models and dimensional traceability
+                of our 2.4 mm coaxial airline standards for performing multiline thru-reflect-line
+                calibrations up to 50 GHz using vector network analyzers. We identify the equations
+                used in our models of the transmission-line standards and present a method for
+                determining a coaxial line’s metal conductivity using a closed-form solution
+                relating it to the propagation constant. Next, we provide details of the traceable
+                dimensional measurements and associated uncertainties of our 2.4 mm airline
+                standards. And finally, we describe how our software, the NIST Microwave Uncertainty
+                Framework, is used to implement physical models of calibration standards and
+                propagate these systematic uncertainties to the calibrated scattering-parameters of
+                a device under test. We include a measurement example for illustrative
+                purposes.</abstract>
+      <note type="statement of responsibility">Jeffrey A. Jargon; Dylan F. Williams; Angela C. Stelson; Christian J.
+                Long; Aaron M. Hagerstrom; John R. Stoup; Eric S. Stanfield; Wei Ren.</note>
+      <note>July 2023.</note>
+      <note>Title from PDF title page (viewed November 14, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-07-05</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Airlines</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Coaxial cables</topic>
+      </subject>
+      <subject>
+         <topic>Airline standards.</topic>
+      </subject>
+      <subject>
+         <topic>Coaxial.</topic>
+      </subject>
+      <subject>
+         <topic>Dimensional.</topic>
+      </subject>
+      <subject>
+         <topic>Physical models.</topic>
+      </subject>
+      <subject>
+         <topic>Scattering-parameters.</topic>
+      </subject>
+      <subject>
+         <topic>Systematic.</topic>
+      </subject>
+      <subject>
+         <topic>Traceability.</topic>
+      </subject>
+      <subject>
+         <topic>Uncertainties.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2255</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2255</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210743</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111410.0</recordChangeDate>
+         <recordIdentifier>991000615809808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

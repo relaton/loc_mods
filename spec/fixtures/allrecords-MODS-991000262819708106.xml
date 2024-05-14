@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>SCAP composer user guide</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021113187">
+         <namePart>Lubell, Joshua.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021113187</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113187">
+         <namePart>Lubell, Joshua.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021113187</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">SCAP Composer is a software application for creating Security Content
+                Automation Protocol (SCAP) source data stream collections from Extensible Markup
+                Language (XML) documents valid with respect to schemas defined in SCAP component
+                specifications. SCAP Composer's limited scope and small footprint make it easy to
+                install, use, and integrate with other SCAP content development tools. SCAP Composer
+                uses the DITA Open Toolkit, an open source publishing engine for content authored in
+                the Darwin Information Typing Architecture (DITA). SCAP Composer may be used with
+                the National Institute of Standards and Technology (NIST) SCAP Content Validation
+                Tool to check the conformance of SCAP source data stream components to content
+                requirements and recommendations.</abstract>
+      <note type="statement of responsibility">Joshua Lubell.</note>
+      <note>February 2020.</note>
+      <note>Title from PDF title page (viewed March 2, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2011004821">
+         <topic>Darwin Information Typing Architecture</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1893425">
+         <topic>Darwin Information Typing Architecture</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029534">
+         <topic>Computer software</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872527">
+         <topic>Computer software</topic>
+      </subject>
+      <subject>
+         <topic>Security Content Automation Protocol</topic>
+      </subject>
+      <subject>
+         <topic>SCAP</topic>
+      </subject>
+      <subject>
+         <topic>Source data stream</topic>
+      </subject>
+      <subject>
+         <topic>DITA Open Toolkit</topic>
+      </subject>
+      <subject>
+         <topic>SCAP content validation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8290</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8290</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858622</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200707053426.0</recordChangeDate>
+         <recordIdentifier>991000262819708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

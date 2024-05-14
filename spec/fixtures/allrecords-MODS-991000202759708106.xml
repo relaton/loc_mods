@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Spectrum occupancy and ambient power distributions for the 3.5 GHz
+                band estimated from observations at Point Loma and Fort Story</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lees, W. Max.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lees, W. Max.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8463-9156">
+         <namePart>Wunderlich, Adam.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8463-9156</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Jeavons, Peter.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hale, Paul D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Souryal, Michael R.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report presents descriptive statistics characterizing a set of
+                over 14,000 spectrograms covering the 3.5 GHz band that were recorded by a recent
+                measurement campaign at two coastal locations: Point Loma, in San Diego, California
+                and Fort Story, in Virginia Beach, Virginia. Specifically, occupancy and vacancy
+                statistics are compiled for each frequency where a primary federal incumbent system
+                in the 3.5 GHz band, the shipborne SPN-43 air traffic control radar, was observed.
+                In addition, empirical ambient (SPN-43 absent) power density distributions are
+                presented for each multiple of 10 MHz between 3430-3680 MHz. These descriptive
+                statistics are potentially informative to federal regulators and potential
+                commercial users of the Citizens Broadband Radio Service (CBRS) that permits
+                commercial wireless networks to share spectrum with federal users in the 3550-3700
+                MHz band in the United States.</abstract>
+      <note type="statement of responsibility">W. Max Lees; Adam Wunderlich; Peter Jeavons; Paul D. Hale; Michael R.
+                Souryal.</note>
+      <note>September 2018.</note>
+      <note>Title from PDF title page (viewed September 11, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110385">
+         <topic>Radio</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087053">
+         <topic>Radio</topic>
+      </subject>
+      <subject>
+         <topic>Spectrum occupancy</topic>
+      </subject>
+      <subject>
+         <topic>Spectrograms</topic>
+      </subject>
+      <subject>
+         <topic>Wireless RF</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2016</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2016</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055659081</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004111340.0</recordChangeDate>
+         <recordIdentifier>991000202759708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

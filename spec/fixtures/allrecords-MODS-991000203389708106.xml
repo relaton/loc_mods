@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Community resilience-focused technical investigation of the 2016
+                Lumberton, North Carolina flood</title>
+         <subTitle>multi-disciplinary approach</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2004026648">
+         <namePart>Van de Lindt, John W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2004026648</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2004026648">
+         <namePart>Van de Lindt, John W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2004026648</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Gillis Peacock, Walter.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mitrani-Reiser, Judith.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In early October 2016 Hurricane Matthew crossed North Caroline as a
+                category 1 storm with some areas receiving 15-18 inches of rainfall on already
+                saturated soil. The NIST-funded Center for Risk-Based Community Resilience Planning
+                teamed with researchers from NIST's Community Resilience and Applied Economics
+                programs to conduct a quick response field study focused on the small city of
+                Lumberton, NC and the flooding they experienced from the Lumber River. Lumberton is
+                an ethnically diverse community with a higher than average poverty and unemployment
+                rate, an average civil infrastructure for a city of 22,000, and possesses an
+                organized governance structure. This field study is the first of a series of annual
+                field studies to document and better understand Lumberton's recovery. This type of
+                longitudinal is critical to study community resilience and ultimately provide data
+                and insight into making U.S. communities more resilient to natural hazards. This
+                community resilience-focused field study presented herein as Volume 1 of a report
+                series, had two major objectives: First, to establish and document initial
+                conditions for the longitudinal resilience field study of Lumberton's recovery with
+                a focus on the most heavily affected area located within a particular school zone;
+                and secondly, to facilitate and document the development and first application of a
+                combined engineering-social science field study protocol that provides a
+                quantitative linkage between flood damage and socio-economics including
+                race/ethnicity, income, tenancy status, and education level. Population dislocation
+                probabilities were found to be higher for black and Native American households than
+                for white households given the presence of the same residential damage state
+                following the flood.</abstract>
+      <note type="statement of responsibility">John W. van de Lindt; Walter Gillis Peacock; Judith
+                Mitrani-Reiser.</note>
+      <note>October 2018.</note>
+      <note>Title from PDF title page (viewed October 29, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017790">
+         <topic>Buildings</topic>
+         <topic>Protection</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/841123">
+         <topic>Buildings</topic>
+         <topic>Protection</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85129198">
+         <topic>Structural engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1135658">
+         <topic>Structural engineering</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1230</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1230</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1084487284</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161650.0</recordChangeDate>
+         <recordIdentifier>991000203389708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

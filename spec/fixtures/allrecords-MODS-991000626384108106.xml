@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>JPEG 2000 CODEC certification guidance for 1000 ppi fingerprint
+                friction ridge imagery</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Orandi, Shahram.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Orandi, Shahram.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Libert, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grantham, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Garris, Mike.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Byers, Fred.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-05-05.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (36 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The document describes the procedure by which applications of JPEG
+                2000 CODECs will be evaluated with respect to conformance to the NIST guidance for
+                compression of 1000 ppi friction ridge images as detailed in NIST Special
+                Publication 500-289 [NIST3]. The document describes the attributes of a set of
+                fingerprint images selected for conformance testing and the rationale for selection
+                of these images based on both examiner assessment of image quality over increasing
+                degrees of JPEG 2000 compression and relative fidelity based on computational
+                metrics described SP 500-289 and supporting studies. The document provides
+                background behind the conformance testing, describes the CODEC pathways to be tested
+                and the metrics used to measure conformance, and provides instructions on how to run
+                the protocol and submit results to NIST for evaluation.</abstract>
+      <note type="statement of responsibility">Shahram Orandi; John Libert; John Grantham; Mike Garris; Fred
+                Byers.</note>
+      <note>May 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-04-15.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fingerprints</topic>
+      </subject>
+      <subject>
+         <topic>Fingerprint lossy compression</topic>
+      </subject>
+      <subject>
+         <topic>Latent fingerprints</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.500-300-upd</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.SP.500-300" displayLabel="10.6028/NIST.SP.500-300"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>500-300-upd</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228979</identifier>
+      <identifier type="oclc">on1427228979</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111509.0</recordChangeDate>
+         <recordIdentifier>991000626384108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

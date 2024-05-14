@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>statistical test suite for random and pseudorandom number
+                generators for cryptographic applications</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bassham III, L. E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bassham III, L. E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no95033570">
+         <namePart>Rukhin, Andrew L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no95033570</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015108597">
+         <namePart>Soto, J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015108597</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Nechvatal, J. R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Smid, M. E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2015019673">
+         <namePart>Barker, E. B.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2015019673</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Leigh, S. D.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no00068298">
+         <namePart>Levenson, M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no00068298</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no99065401">
+         <namePart>Vangel, Mark Geoffrey.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no99065401</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96052388">
+         <namePart>Banks, David L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n96052388</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96018967">
+         <namePart>Heckert, N. A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n96018967</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Dray, J. F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Vo, S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2010</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2010.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This paper discusses some aspects of selecting and testing random and
+                pseudorandom number generators. The outputs of such generators may be used in many
+                cryptographic applications, such as the generation of key material. Generators
+                suitable for use in cryptographic applications may need to meet stronger
+                requirements than for other applications. In particular, their outputs must be
+                unpredictable in the absence of knowledge of the inputs. Some criteria for
+                characterizing and selecting appropriate generators are discussed in this document.
+                The subject of statistical testing and its relation to cryptanalysis is also
+                discussed, and some recommended statistical tests are provided. These tests may be
+                useful as a first step in determining whether or not a generator is suitable for a
+                particular cryptographic application. However, no set of statistical tests can
+                absolutely certify a generator as appropriate for usage in a particular application,
+                i.e., statistical testing cannot serve as a substitute for cryptanalysis. The design
+                and cryptanalysis of generators is outside the scope of this paper.</abstract>
+      <note type="statement of responsibility">L. E. Bassham III.; A. L. Rukhin; J. Soto; J. R. Nechvatal; M. E.
+                Smid; E. B. Barker; S. D. Leigh; M. Levenson; M. Vangel; D. L. Banks; N. A. Heckert;
+                J. F. Dray; S. Vo.</note>
+      <note>2010.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Hypothesis test</topic>
+      </subject>
+      <subject>
+         <topic>P-value</topic>
+      </subject>
+      <subject>
+         <topic>Random number generator</topic>
+      </subject>
+      <subject>
+         <topic>Statistical tests</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-22r1a</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-22r1a</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927735513</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120954.0</recordChangeDate>
+         <recordIdentifier>991000076889708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>simple correlation for horizontal micro-fin tube convective boiling
+                with example calculation</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kedzierski, Mark A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kedzierski, Mark A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lin, Lingnan.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-06-03.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (43 pages) : illustrations (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This paper presents a simple correlation containing nine
+                dimensionless parameters to predict the local convective boiling heat transfer
+                within a micro-fin tube that was developed from a dataset that included a wide range
+                of refrigerants, flow conditions, and hydraulic diameters. Flow boiling measurements
+                from 36 studies were gathered to produce a dataset containing 29 refrigerants and 15
+                different hydraulic diameters ranging from 1.8 mm to 6.7 mm. The database was
+                adjusted so that the definition of the Nusselt number, the Reynolds number, the heat
+                flux, and heat transfer coefficient were all defined in the same way for each study.
+                In addition, values for the most recent fluid properties were used for the
+                calculation of dimensionless parameters that were used in the new correlation. The
+                new correlation for micro-fin convective boiling predicted the measurements from the
+                database to within 10.3 % for pure-refrigerants and azeotropic mixtures and 12.3 %
+                for zeotropic mixtures.</abstract>
+      <note type="statement of responsibility">Mark A. Kedzierski; Lingnan Lin.</note>
+      <note>June 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-05-10</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Refrigerants</topic>
+      </subject>
+      <subject>
+         <topic>Boiling</topic>
+      </subject>
+      <subject>
+         <topic>Enhanced heat transfer</topic>
+      </subject>
+      <subject>
+         <topic>Low-GWP</topic>
+      </subject>
+      <subject>
+         <topic>Micro-fin</topic>
+      </subject>
+      <subject>
+         <topic>Refrigerant mixtures</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2224</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2224</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890421</identifier>
+      <identifier type="oclc">on1389890421</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625719208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

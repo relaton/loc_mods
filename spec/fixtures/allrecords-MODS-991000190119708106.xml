@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Influence of aggregate characteristics on concrete performance
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2002057595">
+         <namePart>Bentz, Dale P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2002057595</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2002057595">
+         <namePart>Bentz, Dale P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2002057595</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Arnold, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boisclair, Michael J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2021039144">
+         <namePart>Jones, Scott Z.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2021039144</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Rothfeld, Paul.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007151334">
+         <namePart>Stutzman, Paul E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007151334</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2010065339">
+         <namePart>Tanesi, Jussara.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2010065339</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Beyene, Mengesha.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2016006129">
+         <namePart>Kim, Hye-jin,</namePart>
+         <namePart type="date">1962-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2016006129</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011042122">
+         <namePart>Munoz, Jose.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011042122</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007048821">
+         <namePart>Ardani, Ahmad.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007048821</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">While the influence of paste properties on concrete performance has
+                been extensively studied and in many cases reduced to quantitative relationships,
+                that between aggregate characteristics and concrete performance has not been
+                investigated in detail. Based on previous research that demonstrated significant
+                strength differences for two similar concrete mixtures, one prepared with limestone
+                aggregates and the other with siliceous gravel, a joint study between the National
+                Institute of Standards and Technology and the Federal Highway Administration was
+                initiated to explore in detail the influence of aggregate characteristics on
+                concrete performance. Eleven aggregates of differing mineralogy were identified and
+                obtained both for bulk characterization and for incorporation into two concrete
+                mixtures. The first concrete mixture was based on a 100 % ordinary Type I/II
+                portland cement (OPC), while the second consisted of a ternary 60:30:10 volumetric
+                blend of this cement with 30 % of a Class C fly ash and 10 % of a fine limestone
+                powder. This latter sustainable mixture had exhibited exemplary performance in a
+                previous study. Aggregates were characterized with respect to mechanical and
+                thermomechanical properties, geometrical characteristics, and surface energies. For
+                the prepared concretes, mechanical, thermomechanical, and electrical properties were
+                measured at ages to 91 d and microstructural examinations were conducted to examine
+                the interfaces between aggregates and cement paste. Concrete performance varied
+                widely amongst the different aggregates, with the range/average value for 28-d
+                compressive strength being 32?% for the OPC concretes and 37 % for those based on
+                the ternary blend binder. With the exceptions of relating concrete modulus to
+                aggregate modulus and concrete coefficient of thermal expansion (CTE) to aggregate
+                CTE, weak correlations were generally obtained between a single aggregate
+                characteristic and concrete performance properties.</abstract>
+      <note type="statement of responsibility">Dale P. Bentz; Joshua Arnold; Michael J. Boisclair; Scott Z. Jones;
+                Paul Rothfeld; Paul E. Stutzman; Jussara Tanesi; Mengesha Beyene; Haejin Kim; Jose
+                Munoz; Ahmad Ardani.</note>
+      <note>May 2017.</note>
+      <note>Title from PDF title page (viewed May 16, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017740">
+         <topic>Building materials</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840723">
+         <topic>Building materials</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85030647">
+         <topic>Concrete</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/874126">
+         <topic>Concrete</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85021731">
+         <topic>Cement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/850432">
+         <topic>Cement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85046410">
+         <topic>Expansion (Heat)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/918296">
+         <topic>Expansion (Heat)</topic>
+      </subject>
+      <subject>
+         <topic>Aggregate mineralogy</topic>
+      </subject>
+      <subject>
+         <topic>Aggregate shape</topic>
+      </subject>
+      <subject>
+         <topic>Aggregate texture</topic>
+      </subject>
+      <subject>
+         <topic>Coefficient of thermal expansion (CTE)</topic>
+      </subject>
+      <subject>
+         <topic>Interfacial transition zone (ITZ)</topic>
+      </subject>
+      <subject>
+         <topic>Modulus</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1963</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1963</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">988944049</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170605</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170606115832.0</recordChangeDate>
+         <recordIdentifier>991000190119708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Mechanical properties and off-gassing characteristics of new and
+                legacy SCBA facepieces</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kesler, Richard M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kesler, Richard M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mitsingas, Constandinos.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Quiat, Adam G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lee, Tonghun.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2018047049">
+         <namePart>Madrzykowski, Daniel.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2018047049</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020101082">
+         <namePart>Horn, Gavin P.,</namePart>
+         <namePart type="date">1975-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020101082</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In today's structure fires, evolving fire loads and higher heat
+                release rates mean that fires grow larger and faster than ever before. Firefighting
+                personal protective equipment (PPE) can be subjected to these severe thermal
+                conditions repeatedly during firefighting operations. The self-contained breathing
+                apparatus (SCBA) is a critical component of PPE that isolates the firefighter from
+                hot and potentially toxic gases and particulate, present as byproducts of
+                combustion. In recent years, changes in NFPA standards have resulted in the
+                introduction of new SCBA facepiece designs and materials. However, the facepiece
+                lens is still often considered the weak-link of the firefighting ensemble. SCBA
+                facepiece lenses from two editions of the NFPA 1981 standard around which
+                significant new tests were introduced were exposed to repeated thermal loads similar
+                to those that could be encountered on a fireground (5 kW/m2 for 5 minutes for 100
+                cycles, and 10 kW/m2 for 1.5 minutes for 10 cycles). Samples from subsets of these
+                SCBA were subjected to quasistatic tensile tests and dynamic impact testing and
+                compared to samples from new, unexposed facepieces. Identical facepiece samples were
+                subjected to the NFPA 1981 Lens Radiant Heat Test that was introduced in the 2013
+                version of the standard, which drove much of the change in facepiece design.
+                Finally, facepiece lenses were tested for potential off-gassing that was proposed to
+                be the result of polycarbonate decomposition from typical fireground thermal loads,
+                due to the concern that these gasses could be inhaled by the firefighter wearing the
+                SCBA facepiece. Statistically significant differences were found between facepieces
+                certified to different versions of NFPA 1981. Those lenses certified to the 2013
+                edition had higher tensile strength and absorbed more energy but were more brittle
+                than the 2007 edition materials. Exposure to repeated thermal loads resulted in
+                changes to the tensile strength, strain to failure, maximal load, and energy
+                absorbed, but the magnitude and direction of change was dependent on the thermal
+                exposure and lens model. However, regardless of model and previous thermal exposure,
+                all facepieces were able to maintain positive pressure after being exposed to the 5
+                minutes at 15 kW/m2 that is included in the Lens Radiant Heat Test. Off-gas testing
+                from the SCBA facepiece lenses showed no measurable polymers being released under
+                typical and extreme fireground conditions using the GC-MS technique employed.
+                Chemically dissolving the lens material confirmed that bisphenol A was a primary
+                component of the polycarbonate along with important polymer chain terminators, and
+                trace amounts of other polymers used in scratch resistant and thermal
+                coatings.</abstract>
+      <note type="statement of responsibility">Richard M. Kesler; Constandinos Mitsingas; Adam G. Quiat; Tonghun
+                Lee; Daniel Madrzykowski; Gavin P. Horn.</note>
+      <note>December 2018.</note>
+      <note>Title from PDF title page (viewed Demember 11, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh97008475">
+         <topic>Breathing apparatus</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/838408">
+         <topic>Breathing apparatus</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048486">
+         <topic>Fire extinction</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925322">
+         <topic>Fire extinction</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Firefighting equipment</topic>
+      </subject>
+      <subject>
+         <topic>Facepiece</topic>
+      </subject>
+      <subject>
+         <topic>SCBA</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.18-019</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract report
+</title>
+            <partNumber>18-019</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1084487104</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190205022340.0</recordChangeDate>
+         <recordIdentifier>991000203439708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

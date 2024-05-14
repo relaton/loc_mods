@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Assessing enhanced security requirements for controlled unclassified
+                information</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Ross, Ron.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ross, Ron.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pillitteri, Victoria.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dempsey, Kelley.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-03-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (62 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The protection of Controlled Unclassified Information (CUI) in
+                nonfederal systems and organizations is important to federal agencies and can
+                directly impact the ability of the Federal Government to successfully carry out its
+                assigned missions and business operations. This publication provides federal
+                agencies and nonfederal organizations with assessment procedures that can be used to
+                carry out assessments of the requirements in NIST Special Publication 800-172,
+                Enhanced Security Requirements for Protecting Controlled Unclassified Information: A
+                Supplement to NIST Special Publication 800-171. The assessment procedures are
+                flexible and can be tailored to the needs of organizations and assessors.
+                Assessments can be conducted as 1) self-assessments; 2) independent, third-party
+                assessments; or 3) government-sponsored assessments. The assessments can be
+                conducted with varying degrees of rigor based on customer-defined depth and coverage
+                attributes. The findings and evidence produced during the assessments can be used to
+                facilitate risk-based decisions by organizations related to the CUI enhanced
+                security requirements.</abstract>
+      <note type="statement of responsibility">Ron Ross; Victoria Pillitteri; Kelley Dempsey.</note>
+      <note>March 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-03-11</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Federal Information Security Management Act of
+                2002</namePart>
+         </name>
+      </subject>
+      <subject>
+         <topic>Assessment</topic>
+      </subject>
+      <subject>
+         <topic>Assessment method</topic>
+      </subject>
+      <subject>
+         <topic>Assessment object</topic>
+      </subject>
+      <subject>
+         <topic>Assessment procedure</topic>
+      </subject>
+      <subject>
+         <topic>Enhanced security requirement</topic>
+      </subject>
+      <subject>
+         <topic>Controlled Unclassified Information (CUI) Registry</topic>
+      </subject>
+      <subject>
+         <topic>Executive Order 13556</topic>
+      </subject>
+      <subject>
+         <topic>NIST Special Publication 800-53</topic>
+      </subject>
+      <subject>
+         <topic>NIST Special Publication 800-53A</topic>
+      </subject>
+      <subject>
+         <topic>Nonfederal organization</topic>
+      </subject>
+      <subject>
+         <topic>Nonfederal system</topic>
+      </subject>
+      <subject>
+         <topic>Security assessment</topic>
+      </subject>
+      <subject>
+         <topic>Security control</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-172A</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-172A</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890293</identifier>
+      <identifier type="oclc">on1389890293</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625710208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

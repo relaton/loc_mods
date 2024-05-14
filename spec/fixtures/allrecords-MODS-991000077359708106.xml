@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Electronic authentication guideline</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Burr, W. E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Burr, W. E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021110726">
+         <namePart>Dodson, Donna F.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021110726</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Newton, E. M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Perlner, R. A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Polk, W. T.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n90668752">
+         <namePart>Gupta, S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n90668752</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Nabbus, E. A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2011</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2011.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This recommendation provides technical guidelines for Federal
+                agencies implementing electronic authentication and is not intended to constrain the
+                development or use of standards outside of this purpose. The recommendation covers
+                remote authentication of users (such as employees, contractors, or private
+                individuals) interacting with government IT systems over open networks. It defines
+                technical requirements for each of four levels of assurance in the areas of identity
+                proofing, registration, tokens, management processes, authentication protocols and
+                related assertions. This publication supersedes NIST SP 800-63.</abstract>
+      <note type="statement of responsibility">W. E. Burr; D. F. Dodson; E. M. Newton; R. A. Perlner; W. T. Polk; S.
+                Gupta; E. A. Nabbus.</note>
+      <note>2011.</note>
+      <note>Superseded by NIST Special Publication 800-63-2.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Authentication</topic>
+      </subject>
+      <subject>
+         <topic>Authentication assurance</topic>
+      </subject>
+      <subject>
+         <topic>Credentials service provider</topic>
+      </subject>
+      <subject>
+         <topic>Cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Electronic authentication</topic>
+      </subject>
+      <subject>
+         <topic>Electronic credentials</topic>
+      </subject>
+      <subject>
+         <topic>Electronic government</topic>
+      </subject>
+      <subject>
+         <topic>Electronic transactions</topic>
+      </subject>
+      <subject>
+         <topic>Identity proofing</topic>
+      </subject>
+      <subject>
+         <topic>Passwords</topic>
+      </subject>
+      <subject>
+         <topic>PKI</topic>
+      </subject>
+      <subject>
+         <topic>Public Key Infrastructure</topic>
+      </subject>
+      <subject>
+         <topic>Tokens</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-63-1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-63-1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927736103</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120941.0</recordChangeDate>
+         <recordIdentifier>991000077359708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

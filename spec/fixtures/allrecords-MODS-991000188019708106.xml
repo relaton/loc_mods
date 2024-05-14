@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Recommendation: closed circuit television (CCTV) digital video export
+                profile level 0</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2007101728">
+         <namePart>Garris, Michael D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007101728</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007101728">
+         <namePart>Garris, Michael D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007101728</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Laamanen, Mary T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Russell, Craig S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nadel, Lawrence D.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document is a recommendation prescribing a data interchange
+                format for the syntactic representation of information needed to achieve a base
+                Level 0 of interoperability when exporting and processing video recordings captured
+                by closed circuit television (CCTV) digital video recording (DVR) systems. In
+                summary, this profile of standards leverages the Moving Picture Experts Group-4
+                (MPEG-4) Part 14 (MP4) digital multimedia file container, storing one H.264 encoded
+                digital video bitstream containing embedded time codes defined by the Motion
+                Industry Standards Board (MISB), and Extensible Metadata Platform (XMP)-formatted
+                metadata that is used to determine a CCTV DVR System Clock Offset. The video output
+                format described in this document has been developed to support law enforcement
+                investigations. This specification was prepared by the National Institute of
+                Standards and Technology (NIST), in collaboration with the Federal Bureau of
+                Investigation, and in conjunction with the CCTV / DVR community.</abstract>
+      <note type="statement of responsibility">Michael D. Garris; Mary T. Laamanen; Craig S. Russell; Lawrence D.
+                Nadel.</note>
+      <note>December 2016.</note>
+      <note>Title from PDF title page (viewed December 9, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh94007636">
+         <topic>Digital video</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/893738">
+         <topic>Digital video</topic>
+      </subject>
+      <subject>
+         <topic>Codec</topic>
+      </subject>
+      <subject>
+         <topic>Format standards</topic>
+      </subject>
+      <subject>
+         <topic>Law enforcement investigations</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8161</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8161</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662144</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240201160342.0</recordChangeDate>
+         <recordIdentifier>991000188019708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

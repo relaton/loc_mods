@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Database-Assisted Design and second-order effects on the wind-induced
+                structural behavior of high-rise steel buildings</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021152839">
+         <namePart>Park, Sejun.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152839</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152839">
+         <namePart>Park, Sejun.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152839</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2018048920">
+         <namePart>Yeo, DongHun.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2018048920</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016-10.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This work presents an investigation into second-order effects on the
+                wind-induced structural dynamic behavior of high-rise steel structure, as considered
+                within a Database-assisted Design (DAD) context. A geometric stiffness method that
+                accounts for second-order effects and allows the dynamic analysis to be performed
+                without iterations is shown to be applicable in conjunction with DAD and is used in
+                a study of the response of a 60-story building, known as the CAARC building.
+                Datasets of the aerodynamic pressure on the CAARC building for suburban exposure are
+                used to calculate overturning moments and shear forces at the base, as well as
+                members' demand-to-capacity indexes (DCIs), inter-story drift ratios, and resultant
+                accelerations. Dynamic analyses are performed using five reference mean hourly wind
+                speeds at the rooftop for suburban terrain exposure (Uref = 20 m/s, 40 m/s, 60 m/s,
+                80 m/s, and 100 m/s). The first three and the last three wind speeds are used in
+                analyses for serviceability and strength, respectively. The second-order effects
+                decrease natural frequencies of vibration of the building by up to 12 %. If the
+                resonant response is not taken into account and for Uref = 80 m/s, second-order
+                effects increase the non-directional peak base shears by up to 9 %, the torsional
+                moments by up to 10 %, and the overturning moments by up to 15 %. If resonance is
+                accounted for, (i) for Uref = 100 m/s normal to a building face, the vortex shedding
+                frequency is close to the 2nd and the 3rd natural frequencies of the building, and
+                those effects are increased by 40 % to 56 %; for Uref = 80 m/s and a typical set of
+                21 structural members, the DCIs for the interaction of axial forces and bending
+                moments, BijPM, are increased by up to 9 % for columns, 22 % for beams, and 19 % for
+                diagonal bracings, while the DCIs for the shear forces, BijV are increased by up to
+                33 % for columns, 14 % for beams, and 21 % for diagonal bracings; (iii) for Uref =
+                60 m/s, second-order effects [...]</abstract>
+      <note type="statement of responsibility">Sejun Park; DongHun Yeo.</note>
+      <note>October 2016.</note>
+      <note>Title from PDF title page (viewed October 31, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>High-rise buildings</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Effect of wind on</topic>
+      </subject>
+      <subject>
+         <topic>CAARC building</topic>
+      </subject>
+      <subject>
+         <topic>Database-Assisted Design (DAD)</topic>
+      </subject>
+      <subject>
+         <topic>Demand-to-capacity index (DCI)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1940</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1940</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">980304666</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170330</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111147.0</recordChangeDate>
+         <recordIdentifier>991000189419708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of Standard Reference Materials 2969 and 2970
+</title>
+         <subTitle>vitamin D metabolites in frozen human serum (total 25-hydroxyvitamin
+                D low level) and (25-hydroxyvitamin D2 high level)</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hahm, Grace.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hahm, Grace.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nelson, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Camara, Johanna.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Toman, Blaza.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-09-02.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (53 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Standard Reference Materials (SRMs) 2969 and 2970 are intended for 1)
+                use in validating methods for determining concentrations of 25-hydroxyvitamin D2
+                (25(OH)D2) and 25-hydroxyvitamin D3 (25(OH)D3) in human serum and plasma and 2)
+                value assigning in house produced control materials analyzed using those methods. A
+                unit of SRM 2969 consists of two vials of frozen serum with a low total
+                25-hydroxyvitamin D (25(OH)D, the sum of 25(OH)D2 plus 25(OH)D3) concentrations. A
+                unit of SRM 2970 consists of two vials of frozen serum with a relatively high
+                25(OH)D2 concentration. This publication documents the production, analytical
+                methods, and statistical evaluations involved in characterization of these
+                products.</abstract>
+      <note type="statement of responsibility">Grace Hahm; Michael Nelson; Johanna Camara; Blaza Toman.</note>
+      <note>September 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-04-23</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials</namePart>
+         </name>
+      </subject>
+      <subject>
+         <topic>Human serum</topic>
+      </subject>
+      <subject>
+         <topic>25-hydroxyvitamin D2</topic>
+      </subject>
+      <subject>
+         <topic>(25(OH)D2)</topic>
+      </subject>
+      <subject>
+         <topic>25-hydroxyvitamin D3</topic>
+      </subject>
+      <subject>
+         <topic>(25(OH)D3)</topic>
+      </subject>
+      <subject>
+         <topic>total 25-hydroxyvitamin D</topic>
+      </subject>
+      <subject>
+         <topic>(25(OH)D)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-210</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-210</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890099</identifier>
+      <identifier type="oclc">on1389890099</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111451.0</recordChangeDate>
+         <recordIdentifier>991000626246308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>framework to evaluate the cost-effectiveness of recovery-based
+                design</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Fung, Juan F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fung, Juan F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zhang, Yating.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Johnson, Katherine J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cook, Dustin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sattar, Siamak.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-05-24.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (81 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Modern building codes and standards are generally focused on
+                safeguarding public health and safety by ensuring buildings meet life safety
+                performance objectives following an earthquake event. Certain classes of buildings,
+                such as hospitals and schools, may be designed to a higher standard to minimize
+                disruption. As communities target resilience of their built environment, it is
+                becoming evident that life safety performance can nevertheless result in massive
+                disruptions for large classes of residential and commercial buildings. It is
+                possible to design buildings to provide more rapid restoration of reoccupancy and
+                functionality than life safety standards. Recovery-based design is intended to
+                support a community's post-earthquake resilience and represents an advancement in
+                design practice. This report presents a framework to provide guidance on the
+                economic benefits and costs of adopting functional recovery in design practice. A
+                unique aspect of the framework is the acknowledgement that benefits from
+                recovery-based design are distributed across various community stakeholders (e.g.,
+                residents, customers, local government), in addition to stakeholders at the building
+                level (e.g., owners and tenants). Thus, the framework carefully details the
+                attribution of impacts to the range of stakeholders potentially affected by improved
+                building-design criteria. A key objective of the framework is to identify the set of
+                potential benefits and costs, impacted stakeholders, and available data and tools
+                for quantification. In the process, we identify gaps in measurement science for
+                conducting a complete benefit-cost analysis. In addition, we provide a brief case
+                study example that illustrates application of the framework.</abstract>
+      <note type="statement of responsibility">Juan F. Fung; Yating Zhang; Katherine J. Johnson; Dustin Cook; Siamak
+                Sattar.</note>
+      <note>May 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-12-07</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Buildings</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Earthquakes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Economics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Earthquake resistant design</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience</topic>
+      </subject>
+      <subject>
+         <topic>Functionality</topic>
+      </subject>
+      <subject>
+         <topic>Functional recovery</topic>
+      </subject>
+      <subject>
+         <topic>Recovery-based design</topic>
+      </subject>
+      <subject>
+         <topic>Reoccupancy</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1277</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1277</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890345</identifier>
+      <identifier type="oclc">on1389890345</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111425.0</recordChangeDate>
+         <recordIdentifier>991000625721208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

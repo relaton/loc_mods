@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>albatross about our neck</title>
+         <subTitle>the state of our oceans revealed through the family Diomedeidae
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Schuur, Stacy S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Schuur, Stacy S.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-01-26.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (28 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Albatross (Family Diomedeidae) are long-lived seabirds that inhabit
+                most of the world's oceans coming ashore only to breed. Most of the species are
+                listed as at least vulnerable by the IUCN and have been tracked during breeding and
+                non-breeding seasons. This review set against Samuel Taylor Coleridge's epic poem
+                The Rime of the Ancient Mariner examines the current threats to albatross including
+                fisheries, plastic ingestion, oil pollution, climate change, and chemical
+                contamination while demonstrating how albatross may serve as a biomonitor for the
+                state of our oceans.</abstract>
+      <note type="statement of responsibility">Stacy S. Schuur.</note>
+      <note>January 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fisheries</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Plastics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Petroleum</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Climatic changes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Pollutants</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Environmental monitoring</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8411</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8411</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389889806</identifier>
+      <identifier type="oclc">on1389889806</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111419.0</recordChangeDate>
+         <recordIdentifier>991000625717708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

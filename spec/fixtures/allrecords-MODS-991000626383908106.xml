@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Contactless fingerprint capture and data interchange best practice
+                recommendation</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Orandi, Shahram.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Orandi, Shahram.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Watson, Craig.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Libert, John M..</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fiumara, Gregory P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grantham, John D.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-03-11.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (18 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">While contactless fingerprint capture devices stand to provide for
+                many benefits, images from this nascent technology are sufficiently different than
+                traditional contact-collected images thereby warranting the separation of these new
+                contactless fingerprint images from legacy contact-collected images and systems
+                operating on them. This Best Practices Recommendation defines voluntary
+                (informative) changes to the ANSI/NIST standard to allow for the creation of
+                contactless transactions that are not readily ingestible by existing systems, but
+                based closely on ANSI/NIST so that minimal changes to the system can allow for
+                processing. Furthermore, the transactions can include the original sensor data, in
+                addition to the contact-compatible/interoperable image in the event that vendors
+                improve their technologies and allow for the reprocessing of the data without
+                recapturing.</abstract>
+      <note type="statement of responsibility">Shahram Orandi; Craig Watson; John M. Libert; Gregory P. Fiumara;
+                John D. Grantham.</note>
+      <note>March 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-03-10.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fingerprints</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Biometrics</topic>
+      </subject>
+      <subject>
+         <topic>Contactless fingerprints</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.500-334</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>500-334</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228980</identifier>
+      <identifier type="oclc">on1427228980</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111504.0</recordChangeDate>
+         <recordIdentifier>991000626383908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

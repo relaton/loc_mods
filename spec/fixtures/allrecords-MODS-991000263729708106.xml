@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Health assessment measurements quality assurance program</title>
+         <subTitle>exercise 4 final report</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Barber, Charles A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barber, Charles A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Burdette, Carolyn Q.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hayes, Hugh V.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Phillips, Melissa M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rimmer, Catherine A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022054622">
+         <namePart>Wood, Laura J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022054622</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Yu, Lee.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kotowski, Shaun P.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">HAMQAP was launched in collaboration with the NIH Office of Dietary
+                Supplements (ODS) in 2017. HAMQAP was established to enable laboratories to improve
+                the accuracy of measurements in samples that represent human intake (e.g., foods,
+                dietary supplements, tobacco) and samples that represent human metabolism (e.g.,
+                blood, serum, plasma, urine) for demonstration of proficiency and/or compliance with
+                various regulations. Analytes are paired where possible to represent the full
+                spectrum of health assessment. Exercise 4 of this program offered the opportunity
+                for laboratories to assess their in-house measurements of nutritional elements
+                (calcium, potassium, and sodium), contaminants (cadmium and lead, nitrates and
+                nitrites), watersoluble vitamins (vitamin B12), fat-soluble vitamins (vitamins K1
+                and K2), fatty acids (select omega-3 and omega-6 fatty acids), and botanicals
+                (phenolics) in foods and dietary supplements, and corresponding
+                biomarkers/metabolites in clinical specimens (human sera).</abstract>
+      <note type="statement of responsibility">Charles A. Barber; Carolyn Q. Burdette; Hugh V. Hayes; Melissa M.
+                Phillips; Catherine A. Rimmer; Laura J. Wood; Lee Yu; Shaun P. Kotowski.</note>
+      <note>May 2020.</note>
+      <note>Title from PDF title page (viewed June 4, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85037861">
+         <topic>Dietary supplements</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/893336">
+         <topic>Dietary supplements</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85109438">
+         <topic>Quality assurance</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1084943">
+         <topic>Quality assurance</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85050184">
+         <topic>Food</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/930458">
+         <topic>Food</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85093451">
+         <topic>Nutrition</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1042187">
+         <topic>Nutrition</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh91005229">
+         <topic>Metabolites</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1017507">
+         <topic>Metabolites</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8308</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8308</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163859238</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200707054839.0</recordChangeDate>
+         <recordIdentifier>991000263729708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

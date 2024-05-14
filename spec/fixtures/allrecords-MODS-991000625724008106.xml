@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Health assessment measurements quality assurance program</title>
+         <subTitle>exercise 6 final report</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Barber, Charles A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barber, Charles A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Burdette, Carolyn Q.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hayes, Hugh V.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Johnson, Monique E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kotoski, Shaun P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Murray, Jacolin A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Phillips, Melissa M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rimmer, Catherine A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wood, Laura J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yarberry, Andrea J.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-09-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (331 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Health Assessment Measurements Quality Assurance Program (HAMQAP)
+                was launched in collaboration with the National Institutes of Health (NIH) Office of
+                Dietary Supplements (ODS) in 2017. HAMQAP was established to enable laboratories to
+                improve the accuracy of measurements in samples that represent human intake (e.g.,
+                foods, dietary supplements, tobacco) and samples that represent human metabolism
+                (e.g., blood, serum, plasma, urine) for demonstration of proficiency and/or
+                compliance with various regulations. Analytes are paired where possible to represent
+                the full spectrum of health assessment. Exercise 6 of this program offered the
+                opportunity for laboratories to assess their in house measurements of nutritional
+                elements (chlorine, iodine, chromium, molybdenum, and selenium), toxic elements
+                (arsenic, cadmium, lead, and mercury), contaminants (chlorate and perchlorate,
+                glyphosate and aminomethylphosphonic acid (AMPA)), water-soluble vitamins (biotin
+                and vitamin C), fat-soluble vitamins (vitamins A and E), fatty acids (select omega-3
+                and omega-6 fatty acids), botanicals (anthocyanidins), natural products (caffeine,
+                theobromine, and theophylline), and proximates (fat, protein, carbohydrates, solids,
+                ash, and calories) in foods and dietary supplements, and corresponding
+                biomarkers/metabolites in clinical specimens (human red blood cells).</abstract>
+      <note type="statement of responsibility">Charles A. Barber; Carolyn Q. Burdette; Hugh V. Hayes; Monique E.
+                Johnson; Shaun P. Kotoski; Jacolin A. Murray; Melissa M. Phillips; Catherine A.
+                Rimmer; Laura J. Wood; Andrea J. Yarberry.</note>
+      <note>September 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-16</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Dietary supplements</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Quality assurance</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Nutrition</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Metabolites</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8394</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8394</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890003</identifier>
+      <identifier type="oclc">on1389890003</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625724008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

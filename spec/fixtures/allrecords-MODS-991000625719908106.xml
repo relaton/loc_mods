@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Fire resilience of a steel-concrete composite floor system
+</title>
+         <subTitle>Full-scale experimental evaluation for U.S. prescriptive approach
+                with a 2-hour fire-resistance rating (test #1)</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Choe, Lisa.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Choe, Lisa.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ramesh, Selvarajah.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dai, Xu.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hoehler, Matthew.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bundy, Matthew.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bryant, Rodney.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Story, Brian.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chakalis, Anthony.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chernovsky, Artur.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-10-05.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (176 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology is currently
+                conducting a series of large compartment fire tests to investigate the behavior and
+                fire-induced failure mechanisms of the full-scale composite floor systems situated
+                in the two-story and two-bays by three-bays structural steel frame. This report
+                presents the research background, details of experimental design involved with the
+                two-story test building, and the results from the first fire experiment (Test #1)
+                conducted at the National Fire Research Laboratory. The Test #1 was aimed to
+                quantify the fire resistance and behavior of a steel composite floor system commonly
+                built in the United States, incorporating prescriptive approaches for a 2-hour fire
+                resistance rating. The 9.1 m 6.1 m test floor assembly built in the middle edge bay
+                in the floor plan of the test building was tested to failure under a natural gas
+                fueled compartment fire simulating the standard furnace temperature-time
+                relationship while sustaining hydraulically applied mechanical loads. This study
+                showed that the protected floor beams and girders of the test floor assembly
+                achieved matching or superior fire resistance based on the acceptance criteria of
+                standard furnace testing. However, the test floor slab exhibited a potential fire
+                hazard prior to reaching a specified fire rating period because of the use of a
+                minimum code-compliant shrinkage reinforcement (59 mm2/m). The heated slab cracked
+                around the interior edges of the test bay less than 30 min into heating, followed by
+                slab breach in the middle of the test bay at 70 min. This center breach, accompanied
+                by ruptures of embedded wire reinforcement, was caused by catenary action developed
+                along the shorter span of the test floor assembly. This result suggests that the
+                minimum slab reinforcement prescribed for normal conditions may not be sufficient to
+                activate tensile membrane action of a composite floor system under the 2-hour
+                standard fire exposure.</abstract>
+      <note type="statement of responsibility">Lisa Choe; Selvarajah Ramesh; Xu Dai; Matthew Hoehler; Matthew Bundy;
+                Rodney Bryant; Brian Story; Anthony Chakalis; Artur Chernovsky.</note>
+      <note>October 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-10</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fires</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Buildings</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fire resistant materials</topic>
+      </subject>
+      <subject>
+         <topic>Steel composite floors</topic>
+      </subject>
+      <subject>
+         <topic>Steel buildings</topic>
+      </subject>
+      <subject>
+         <topic>Fire resistance</topic>
+      </subject>
+      <subject>
+         <topic>Compartment fire experiments</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2165</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2165</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890091</identifier>
+      <identifier type="oclc">on1389890091</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111424.0</recordChangeDate>
+         <recordIdentifier>991000625719908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

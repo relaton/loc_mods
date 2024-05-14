@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Open Media Forensics Challenge (OpenMFC) 2020-2021</title>
+         <subTitle>past, present, and future</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Guan, Haiying.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Guan, Haiying.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lee, Yooyoung.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Diduch, Lukas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zhang, Jesse G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ghorbanian, Ilia.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kheyrkhah, Timothee.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fontana, Peter C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fiscus, Jon.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Filliben, James.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-09-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (33 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document describes the online leaderboard public evaluation
+                program, Open Media Forensics Challenge (OpenMFC) 2021-2022. In the report, first,
+                the introduction, objectives, challenges, contributions, and achievements of the
+                evaluation program are covered and discussed in the Section 1. Second, the
+                evaluation website, tasks, datasets, and the leaderboard interface are described in
+                the Section 2. The participants system performance results are also presented in
+                this section. Third, the community engagements, findings, and public participants
+                difficulties are summarized in the Section 3. Then, two new studies for the next
+                year evaluation, OpenMFC 2021-2022, are introduced in the same section. After that,
+                the solutions to help public participants and the OpenMFC 2021-2022 work plan are
+                proposed in the Section 4. Finally, the potential impacts are predicated in the
+                Section 5. In the OpenMFC 2020-2021 evaluation, 56 participants registered the
+                program, and 194 public researchers worldwide received MFC datasets. Since 2016,
+                NIST has released MFC dataset to more than 500 individuals, 200 organizations, from
+                26 countries and regions worldwide.</abstract>
+      <note type="statement of responsibility">Haiying Guan; Yooyoung Lee; Lukas Diduch; Jesse G. Zhang; Ilia
+                Ghorbanian; Timothee Kheyrkhah; Peter C. Fontana; Jon Fiscus; James
+                Filliben.</note>
+      <note>September 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-29</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Deepfakes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Image steganography</topic>
+      </subject>
+      <subject>
+         <topic>Media Forensics</topic>
+      </subject>
+      <subject>
+         <topic>DARPA MediFor (Media Forensic) program</topic>
+      </subject>
+      <subject>
+         <topic>Media Forensic Challenge (MFC) Evaluation</topic>
+      </subject>
+      <subject>
+         <topic>Image Manipulation Detection and Localization (IMDL)</topic>
+      </subject>
+      <subject>
+         <topic>Video Manipulation Detection (VMD)</topic>
+      </subject>
+      <subject>
+         <topic>Image GAN Manipulation Detection (IGMD)</topic>
+      </subject>
+      <subject>
+         <topic>Video GAN Manipulation Detection (VGMD)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8396</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8396</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389889955</identifier>
+      <identifier type="oclc">on1389889955</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111427.0</recordChangeDate>
+         <recordIdentifier>991000625720308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

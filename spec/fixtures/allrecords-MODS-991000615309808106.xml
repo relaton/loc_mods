@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Mission critical voice quality of experience probability of
+                successful delivery measurement methods</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Pieper, Jaden.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8061-6216">
+         <namePart>Pieper, Jaden.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8061-6216</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0354-1377">
+         <namePart>Frey, Jesse.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0354-1377</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3587-0546">
+         <namePart>Howarth, Gary.</namePart>
+         <nameIdentifier>(orcid)0000-0002-3587-0546</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-08-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : (23 pages) tables (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This paper describes the probability of successful delivery (PSuD)
+                measurement method for every word critical (EWC) and average message intelligibility
+                (AMI) mission-critical voice (MCV) communications contexts. The PSuD measurement is
+                a component of the MCV quality of experience (QoE) system developed by National
+                Institute of Standards and Technology (NIST) Public Safety Communications Research
+                Division (PSCR). In this paper, we present the probabilityiser (PBI), a tool that
+                simulates an unreliable audio channel. Using the PBI we validate the PSuD
+                measurement and demonstrate the measurement’s utility on audio encoded with various
+                codecs.</abstract>
+      <note type="statement of responsibility">Jaden Pieper; Jesse Frey; Gary Howarth.</note>
+      <note>August 2023.</note>
+      <note>Title from PDF title page (viewed November 8, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-07-31</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Mission-critical voice (MCV)</topic>
+      </subject>
+      <subject>
+         <topic>Quality of experience (QoE)</topic>
+      </subject>
+      <subject>
+         <topic>Every word critical (EWC)</topic>
+      </subject>
+      <subject>
+         <topic>Average message intelligibility (AMI)</topic>
+      </subject>
+      <subject>
+         <topic>Public safety communications</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2259</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2259</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210895</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111356.0</recordChangeDate>
+         <recordIdentifier>991000615309808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

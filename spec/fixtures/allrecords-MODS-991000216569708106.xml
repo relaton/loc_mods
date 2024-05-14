@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Cyber-physical systems and internet of things</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Greer, Christopher.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Greer, Christopher.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97033846">
+         <namePart>Burns, Martin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97033846</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2011013120">
+         <namePart>Wollman, David.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2011013120</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Griffor, Edward.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This NIST Special Publication describes the relationship between the
+                phrases 'cyber-physical systems' and 'Internet of Things.' CPS and IoT both refer to
+                trends in integrating digital capabilities, including network connectivity, with
+                physical devices and systems. This document describes the origins of these terms,
+                analyzes the range of definitions over time, describes a unified perspective, and
+                explores implications of this perspective. Four categories of overlap were
+                identified in publications comparing and contrasting CPS and IoT. The distinctions
+                hinge on three issues: control, internet, and human interactions. The lack of
+                consistent distinguishing metrics and the convergence of definitions indicate an
+                emerging consensus around the equivalence of CPS and IoT concepts. This convergence
+                creates opportunities for progress through integrating the research, innovation, and
+                standards efforts of the respective communities. Two models provide the bases for a
+                unified CPS/IoT perspective. A unified components model provides 4 categories for
+                CPS and IoT systems components: logical, physical, transducing, and human. A unified
+                interactions model provides a formal basis for describing the performance of CPS and
+                IoT systems. The unified perspective can be expressed as follows: Internet of Things
+                and Cyber-Physical Systems comprise interacting logical, physical, and human
+                components engineered for function through integrated logic and physics. Three
+                criteria based on a characteristic set of components, capabilities, and functions
+                are proposed for interchangeably labeling a system 'CPS' or 'IoT'. Implications of a
+                unified CPS and IoT perspective include the need for new hybrid discrete and
+                continuous methods as science and engineering foundations for CPS/IoT design,
+                operation, and assurance; and the importance of tight logical-physical linkage as
+                the basis for the transformational nature of CPS/IoT systems.</abstract>
+      <note type="statement of responsibility">Christopher Greer; Martin Burns; David Wollman; Edward
+                Griffor.</note>
+      <note>March 2019.</note>
+      <note>Title from PDF title page (viewed March 6, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cyber-physical system</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2013000266">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894151">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject>
+         <topic>Definition</topic>
+      </subject>
+      <subject>
+         <topic>Standards</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1900-202</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1900-202</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1097556595</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190417</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163226.0</recordChangeDate>
+         <recordIdentifier>991000216569708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

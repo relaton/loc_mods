@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Standards of seismic safety for existing federally owned and leased
+                buildings</title>
+         <subTitle>ICSSC Recommended Practice 10 (RP 10-22)</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Harris, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Harris, John.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New edition</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-01-31.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (84 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">RP 10 allows federal agencies to identify conditions in an existing
+                building that may pose unacceptable seismic risks to the agency in case of
+                undesirable performance of the building during an earthquake. Agency exposure to
+                unacceptable risks is generally determined through a seismic evaluation and risk
+                assessment of the building. RP 10 provides triggers for a seismic evaluation for
+                project circumstances such as major alterations, additions, or repairs, as well as
+                change of use or leasing requirements. Evaluation necessitated by triggers is
+                referred to as the mandatory process. RP 10 additionally addresses risk awareness by
+                having agencies proactively implement evaluations based on inventory screening,
+                which is independent of passive trigger requirements identified in the mandatory
+                process. This process is referred to as the screening process. RP 10 provides
+                circumstances to assist an agency in developing a screening process. RP 10 also
+                identifies buildings exempt from seismic evaluation. RP 10 provides the minimum
+                seismic performance objective for evaluation of existing buildings owned or leased
+                by the Federal Government. The basic performance objective is based on risk to
+                occupant safety in a large, rare earthquake by total or partial collapse of the
+                building. Higher performance objectives are provided that can be used to assess the
+                risks of loss of operative systems, extended re-occupancy and recovery time, or
+                economic losses. RP 10 references model building codes published by the
+                International Code Council as well as national consensus standards published by the
+                American Society of Civil Engineers to provide the basis for defining seismic
+                performance objectives, evaluation procedures, and, where necessary, retrofit
+                criteria.</abstract>
+      <note type="statement of responsibility">John Harris.</note>
+      <note>January 2023.</note>
+      <note>Title from PDF title page (viewed June 1, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-01-18</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>ICSSC (Series)</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Earthquakes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Buildings--Design and construction</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8458e2022</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8458e2022</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859621</identifier>
+      <identifier type="oclc">on1405859621</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111401.0</recordChangeDate>
+         <recordIdentifier>991000614604308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

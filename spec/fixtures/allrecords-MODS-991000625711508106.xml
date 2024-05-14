@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Identifying and estimating cybersecurity risk for enterprise risk
+                management</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Quinn, Stephen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Quinn, Stephen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ivy, Nahla.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barrett, Matthew.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Feldman, Larry.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Witte, Greg.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gardner, R. K.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-11-12.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (61 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document supplements NIST Interagency or Internal Report 8286,
+                Integrating Cybersecurity and Enterprise Risk Management (ERM), by providing
+                additional detail regarding risk guidance, identification, and analysis. This report
+                offers examples and information to illustrate risk tolerance, risk appetite, and
+                methods for determining risks in that context. To support the development of an
+                Enterprise Risk Register, this report describes documentation of various scenarios
+                based on the potential impact of threats and vulnerabilities on enterprise assets.
+                Documenting the likelihood and impact of various threat events through cybersecurity
+                risk registers integrated into an enterprise risk profile helps to later prioritize
+                and communicate enterprise cybersecurity risk response and monitoring.</abstract>
+      <note type="statement of responsibility">Stephen Quinn; Nahla Ivy; Matthew Barrett; Larry Feldman; Greg Witte;
+                R. K. Gardner.</note>
+      <note>November 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-10-22</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity risk register</topic>
+      </subject>
+      <subject>
+         <topic>Enterprise risk management (ERM)</topic>
+      </subject>
+      <subject>
+         <topic>Enterprise risk profile</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8286A</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8286A</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890180</identifier>
+      <identifier type="oclc">on1389890180</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111425.0</recordChangeDate>
+         <recordIdentifier>991000625711508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guide to storage encryption technologies for end user devices
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Scarfone, K. A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scarfone, K. A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Souppaya, M. P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sexton, M.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2007</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2007.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Many threats against end user devices, such as desktop and laptop
+                computers, smart phones, personal digital assistants, and removable media, could
+                cause information stored on the devices to be accessed by unauthorized parties. To
+                prevent such disclosures of information, the information needs to be secured. This
+                publication explains the basics of storage encryption, which is the process of using
+                encryption and authentication to restrict access to and use of stored information.
+                The appropriate storage encryption solution for a particular situation depends
+                primarily upon the type of storage, the amount of information that needs to be
+                protected, the environments where the storage will be located, and the threats that
+                need to be mitigated. This publication describes three types of solutions⁰₄full disk
+                encryption, volume and virtual disk encryption, and file/folder encryption⁰₄and
+                makes recommendations for implementing and using each type. This publication also
+                includes several use case examples, which illustrate that there are multiple ways to
+                meet most storage encryption needs.</abstract>
+      <note type="statement of responsibility">K. A. Scarfone; M. P. Souppaya; M. Sexton.</note>
+      <note>2007.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Computer security</topic>
+      </subject>
+      <subject>
+         <topic>Mobile device security</topic>
+      </subject>
+      <subject>
+         <topic>Removable media security</topic>
+      </subject>
+      <subject>
+         <topic>Storage encryption</topic>
+      </subject>
+      <subject>
+         <topic>Storage security</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-111</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-111</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927736808</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120957.0</recordChangeDate>
+         <recordIdentifier>991000077759708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

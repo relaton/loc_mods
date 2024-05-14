@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Bootstrap method versus analytical approach for estimating
+                uncertainty of measures in ROC analysis on large datasets</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020098846">
+         <namePart>Wu, Jin Chu.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020098846</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020098846">
+         <namePart>Wu, Jin Chu.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020098846</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Martin, Alvin F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sanders, Gregory A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2013027210">
+         <namePart>Kacker, Raghu N.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2013027210</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The nonparametric two-sample bootstrap is employed to estimate
+                uncertainties of statistics of interest in receiver operating characteristic (ROC)
+                analysis on large datasets with/without data dependency due to multiple use of the
+                same subjects in many disciplines, based on our studies of bootstrap variability. On
+                the other hand, it would seem that the analytical method might be used for the same
+                purpose. However, comparing these two methods, the differences are noteworthy. (1)
+                The bootstrap method takes account of how genuine scores and impostor scores are
+                distributed, which is associated with how the matching system works; but the
+                analytical method does not. (2) If datasets involve data dependency, the bootstrap
+                method can take it into account; but the analytical method cannot. (3) The
+                covariance term that occurred in the speaker recognition evaluations while
+                estimating the standard error of the measure can be taken into account intrinsically
+                by the bootstrap method; but it is very hard to estimate analytically. (4) The
+                analytical method generally underestimates the uncertainties of statistics of
+                interest; but the bootstrap method estimates them more conservatively. To
+                demonstrate these observations, the data used in this article were generated from a
+                variety of sources: speaker recognition evaluations, biometrics evaluations,
+                simulated data with normal distributions, and simulated data with nonparametric
+                distributions.</abstract>
+      <note type="statement of responsibility">Jin Chu Wu; Alvin F. Martin; Gregory A. Sanders; Raghu N.
+                Kacker.</note>
+      <note>July 2018.</note>
+      <note>Title from PDF title page (viewed July 16, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012002918">
+         <topic>Measurement uncertainty (Statistics)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894538">
+         <topic>Measurement uncertainty (Statistics)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh91004766">
+         <topic>Bootstrap (Statistics)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/836546">
+         <topic>Bootstrap (Statistics)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Analytical methods</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001010964">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject>
+         <topic>ROC analysis</topic>
+      </subject>
+      <subject>
+         <topic>Large datasets</topic>
+      </subject>
+      <subject>
+         <topic>Data dependency</topic>
+      </subject>
+      <subject>
+         <topic>Biometrics</topic>
+      </subject>
+      <subject>
+         <topic>Speaker recognition</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8218</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8218</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055659189</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004111339.0</recordChangeDate>
+         <recordIdentifier>991000202449708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

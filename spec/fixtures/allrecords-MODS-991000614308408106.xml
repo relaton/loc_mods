@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Status report on the final round of the NIST lightweight cryptography
+                standardization process</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sonmez Turan, Meltem.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1950-7130">
+         <namePart>Sonmez Turan, Meltem.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1950-7130</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5956-587X">
+         <namePart>McKay, Kerry.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5956-587X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1249-2869">
+         <namePart>Chang, Donghoon.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1249-2869</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0856-9990">
+         <namePart>Bassham, Lawrence E.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0856-9990</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2142-8236">
+         <namePart>Kang, Jinkeon.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2142-8236</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6979-9725">
+         <namePart>Waller, Noah D.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6979-9725</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3427-1744">
+         <namePart>Kelsey, John M.</namePart>
+         <nameIdentifier>(orcid)0000-0002-3427-1744</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0998-2958">
+         <namePart>Hong, Deukjo.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0998-2958</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-06-16.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) initiated a
+                public standardization process to select one or more schemes that provide
+                Authenticated Encryption with Associated Data (AEAD) and optional hashing
+                functionalities and are suitable for constrained environments. In February 2019, 57
+                candidates were submitted to NIST for consideration. Among these, 56 were accepted
+                as first-round candidates in April 2019. After four months, NIST selected 32 of the
+                candidates for the second round. In March 2021, NIST announced 10 finalists – namely
+                ASCON, Elephant, GIFT-COFB, Grain-128AEAD, ISAP, PHOTON-Beetle, Romulus, SPARKLE,
+                TinyJAMBU, and Xoodyak – to move forward to the final round of the selection
+                process. On February 7, 2023, NIST announced the decision to standardize the ASCON
+                family for lightweight cryptography applications. This report describes the
+                evaluation criteria and selection process, which is based on public feedback and
+                internal review of the finalists.</abstract>
+      <note type="statement of responsibility">Meltem Sonmez Turan; Kerry McKay; Donghoon Chang; Lawrence E.
+                Bassham; Jinkeon Kang; Noah D. Waller; John M. Kelsey; Deukjo Hong.</note>
+      <note>June 2023.</note>
+      <note>Title from PDF title page (viewed October 26, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-06-03</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standardization</topic>
+      </subject>
+      <subject>
+         <topic>Lightweight cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Hash functions</topic>
+      </subject>
+      <subject>
+         <topic>Constrained devices</topic>
+      </subject>
+      <subject>
+         <topic>Authenticated encryption</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8454</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8454</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8454</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411254056</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111400.0</recordChangeDate>
+         <recordIdentifier>991000614308408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

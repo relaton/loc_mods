@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>CONTAM user guide and program documentation</title>
+         <subTitle>version 3.4</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Dols, William S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dols, William S.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-08-04.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (340 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This manual describes the computer program CONTAM version 3.4,
+                developed by NIST. CONTAM is a multizone indoor air quality and ventilation analysis
+                program designed to help determine airflows, contaminant concentrations, and
+                occupant exposure in buildings. CONTAM can calculate infiltration and exfiltration
+                airflows between interior zones of the building and the outdoors, room-to-room
+                airflows, and ventilation system airflows. These airflows are the result of pressure
+                differences resulting from driving forces which include mechanical ventilation
+                system fans, wind pressures acting on the exterior of the building, and buoyancy
+                effects induced by temperature differences between zones, including the outdoors.
+                CONTAM can also calculate contaminant concentrations to account for the transport
+                and fate of airborne contaminants due to airflow, chemical and radio-chemical
+                transformation, adsorption and desorption of building materials, filtration, and
+                deposition to and resuspension from building surfaces. CONTAM can be useful in a
+                variety of applications. Its ability to calculate building airflow rates and
+                pressures between zones of the building is useful for assessing the adequacy of
+                ventilation rates in a building, for determining the variation in ventilation rates
+                over time, for determining the distribution of ventilation air within a building,
+                for estimating the impact of envelope airtightening efforts on infiltration rates,
+                and for evaluating the energy impacts of building airflows. The program has also
+                been used extensively for the design and analysis of smoke management systems. The
+                prediction of contaminant concentrations can be used to determine the indoor air
+                quality performance of buildings before they are constructed and occupied, to
+                investigate the impacts of design decisions related to ventilation system design and
+                building material selection, to evaluate indoor air quality control technologies,
+                and to assess the indoor air quality performance of existing buildings. Predicted
+                contaminant concentrations can also be used to estimate personal exposure based on
+                occupancy patterns and activities, and occupants can also act as contaminant sources
+                as they move throughout the building.</abstract>
+      <note type="statement of responsibility">William S. Dols; Brian J. Polidoro.</note>
+      <note>August 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Building--Quality control</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer programs</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Energy conservation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Buildings--Smoke control systems</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Buildings--Smoke management systems</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Ventilation</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Logiciels</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Air intérieur</topic>
+         <topic>Qualité</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Ventilation</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>software</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>indoor air quality</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Building</topic>
+         <topic>Quality control</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Buildings</topic>
+         <topic>Smoke control systems</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Computer programs</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Energy conservation</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Ventilation</topic>
+      </subject>
+      <subject>
+         <topic>Airflow analysis</topic>
+      </subject>
+      <subject>
+         <topic>Building controls</topic>
+      </subject>
+      <subject>
+         <topic>Building technology</topic>
+      </subject>
+      <subject>
+         <topic>Co-simulation</topic>
+      </subject>
+      <subject>
+         <topic>Contaminant dispersal</topic>
+      </subject>
+      <subject>
+         <topic>Multizone analysis</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1887r1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1887r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124340</identifier>
+      <identifier type="oclc">on1346124340</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111421.0</recordChangeDate>
+         <recordIdentifier>991000625694708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

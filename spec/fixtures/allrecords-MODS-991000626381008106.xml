@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Characterizing LTE user equipment emissions under closed-loop power
+                control</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Coder, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Coder, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sanders, Aric.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Frey, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wunderlich, Adam.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kord, Azizollah.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Splett, Jolene.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Koepke, Lucas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kuester, Daniel.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McGillivray, Duncan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ladbury, John.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-04-06.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (104 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report presents a laboratory-based characterization of Long Term
+                Evolution (LTE) User Equipment (UE) emissions under closed-loop power control,
+                building on our prior work (NIST TN 2069), which assessed the impact of a large
+                number of factors affecting UE emissions. Specifically, this investigation aims to
+                shed light on real-world UE behavior through rigorous measurements of uplink power
+                per physical resource block under a variety of realistic conditions and settings. In
+                addition, this work provides insight into the relationship between the UE-reported
+                uplink power and the actual power radiated by the UE. Although the results presented
+                here pertain to LTE equipment operating in a specific frequency band, LTE Band 66
+                (1710 MHz - 1780 MHz), the measurement method is presented in enough detail that
+                additional investigations can be performed in other bands of interest. The report
+                concludes with a summary of contributions on a variety of uplink emissions topics of
+                common interest to those developing interference models and coexistence
+                strategies.</abstract>
+      <note type="statement of responsibility">Jason Coder; Aric Sanders; Michael Frey; Adam Wunderlich; Azizollah
+                Kord; Jolene Splett; Lucas Koepke; Daniel Kuester; Duncan McGillivray; John
+                Ladbury.</note>
+      <note>April 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-04-01.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Long-Term Evolution (Telecommunications)</topic>
+      </subject>
+      <subject>
+         <topic>User Equipment (UE)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2147</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2147</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228993</identifier>
+      <identifier type="oclc">on1427228993</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111503.0</recordChangeDate>
+         <recordIdentifier>991000626381008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

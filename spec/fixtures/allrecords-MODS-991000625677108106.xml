@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Associating disaster deaths with risk profiles</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Gilbert, Stanley W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gilbert, Stanley W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Helgeson, Jennifer F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Webb, David H.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fung, Juan F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kandaswamy, Anand.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-28.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (35 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In this paper we set out to identify which risk profiles contribute
+                most to deaths in disasters. A risk profile represents an identifiable group of
+                people who would be at risk of death in a disaster through some mechanism. Four risk
+                profiles were considered in this report, Population (representing the overall
+                population of a location), Frailty (representing people who are in some sense
+                physically vulnerable to injury or illness), Mobile Homes residents, and Risk Takers
+                (proxied by the population of heavy drinkers). Overall the single greatest
+                contributor to deaths was the Mobile Home risk profile, although that varied by
+                disaster event type. The prominence of the mobile-home risk profile suggests that in
+                many cases it proxies for a larger group, possibly related to income or educational
+                level. The risk profile associated with disaster fatalities depends on the type of
+                event. For Katrina-type hurricanes and extreme-temperature events, frailty was the
+                most important risk profile. For wind and flood events the Mobile Home population
+                was overwhelmingly the most significant risk profile. For avalanche events the
+                Risk-Taker profile was the most significant one. For all other event types
+                (including non-Katrina hurricanes) fatalities were attributed to a mix of the Mobile
+                Home and Frailty risk profiles. Disaster-related deaths do not appear to strike
+                people at random from the population as a whole. Looking at the county-level
+                results, there are identifiable spatial patterns to the risk profiles. High frailty
+                clusters tend to be found around high population regions, while high mobile home
+                clusters are in more rural areas. Much of the U.S., spatially, is in a moderate
+                cluster both for frailty and mobile homes, while most major population centers are
+                part of clusters of similar values for risk profile.</abstract>
+      <note type="statement of responsibility">Stanley W. Gilbert; Jennifer F. Helgeson; David H. Webb; Juan F.
+                Fung; Anand Kandaswamy.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="fast">
+         <temporal>2005</temporal>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Disasters</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Resilience</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Mass casualties</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Floods</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hurricanes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hurricane Katrina, 2005</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Tornadoes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Wildfires</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Catastrophes</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Victimes en masse</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Inondations</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Ouragans</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Ouragan Katrina, 2005</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Tornades</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Feux de friches</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>disasters</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>floods (natural events)</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>hurricanes</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>tornadoes</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Disasters</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Floods</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Hurricanes</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Mass casualties</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Tornadoes</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Wildfires</topic>
+      </subject>
+      <subject>
+         <topic>Disaster resilience</topic>
+      </subject>
+      <subject>
+         <topic>Disaster deaths</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2115</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2115</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124420</identifier>
+      <identifier type="oclc">on1346124420</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625677108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

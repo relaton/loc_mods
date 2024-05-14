@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST software package for obtaining Charpy transition curves
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lucon, Enrico.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lucon, Enrico.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Splett, Jolene.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Koepke, Amanda.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Newton, David.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-05-11.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (46 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST has developed a software package that allows users to fit test
+                results obtained from Charpy or toughness tests as a function of test temperature,
+                thereby obtaining so-called transition curves. Non-linear fitting is available for
+                five regression models, two symmetric and three asymmetric, selected from the
+                literature. The NIST software package includes: an Excel spreadsheet to establish
+                initial values for model parameters, allowing users to obtain meaningful results for
+                the asymmetric models, a Shiny App (web-based interface for R code) that provides an
+                advanced analysis, including confidence bounds and uncertainties for the estimated
+                parameters, and a macro-enabled Excel spreadsheet for a basic-level analysis
+                (regressions curves, characteristic temperatures, and model selection statistics).
+                Example data sets are also included in the NIST software package. The NIST software
+                is tested on three Charpy absorbed energy datasets. Two datasets correspond to
+                actual impact test results performed on various pipeline steels, while the third is
+                a simulated dataset generated from predetermined model parameters. These datasets
+                allow a thorough demonstration of the NIST software. The software is freely
+                available to the scientific community for research purposes.</abstract>
+      <note type="statement of responsibility">Enrico Lucon; Jolene Splett; Amanda Koepke; David Newton.</note>
+      <note>May 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-05-10.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Charpy test</topic>
+      </subject>
+      <subject>
+         <topic>Confidence bounds</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2158</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2158</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228909</identifier>
+      <identifier type="oclc">on1427228909</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111507.0</recordChangeDate>
+         <recordIdentifier>991000626381808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

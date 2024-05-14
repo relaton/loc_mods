@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Security considerations in the information system development life
+                cycle</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Grance, T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grance, T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hash, J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85081688">
+         <namePart>Stevens, M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85081688</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2004</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2004.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The need to provide protection for federal information systems has
+                been present since computers were first used. Including security early in the
+                acquisition process for an information system will usually result in less expensive
+                and more effective security than adding it to an operational system once it has
+                entered service. This guide presents a framework for incorporating security into all
+                phases of the information system development life cycle (SDLC) process, from
+                initiation to disposal. This document is a guide to help organizations select and
+                acquire cost-effective security controls by explaining how to include information
+                system security requirements in the SDLC.Five phases of a general SDLC are discussed
+                in this guide and include the following phases: initiation, acquisition/development,
+                implementation, operations/maintenance, and disposition. Each of these five phases
+                includes a minimum set of security steps needed to effectively incorporate security
+                into a system during its development. An organization will either use the general
+                SDLC described in this document or will have developed a tailored SDLC that meets
+                their specific needs. In either case, NIST recommends that organizations incorporate
+                the associated IT security steps of this general SDLC into their own development
+                process.</abstract>
+      <note type="statement of responsibility">T. Grance; J. Hash; M. Stevens.</note>
+      <note>2004.</note>
+      <note>Superseded by NIST Special Publication 800-64r2.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Acquisition</topic>
+      </subject>
+      <subject>
+         <topic>Computer security</topic>
+      </subject>
+      <subject>
+         <topic>Life cycle</topic>
+      </subject>
+      <subject>
+         <topic>Procurement</topic>
+      </subject>
+      <subject>
+         <topic>Request for proposal</topic>
+      </subject>
+      <subject>
+         <topic>Requirement</topic>
+      </subject>
+      <subject>
+         <topic>Software Development Life Cycle (SDLC)</topic>
+      </subject>
+      <subject>
+         <topic>Specification</topic>
+      </subject>
+      <subject>
+         <topic>Statement of work</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-64r1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-64r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312487422</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120952.0</recordChangeDate>
+         <recordIdentifier>991000077379708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

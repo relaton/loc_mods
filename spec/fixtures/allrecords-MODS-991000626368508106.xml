@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of Standard Reference Material 955d</title>
+         <subTitle>toxic elements and metabolites in frozen human blood</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Yu, L.L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yu, L.L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Caceres, G.C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Long, S.E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Murphy, K.E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bryan Sallee, C.E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Vetter, T.W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hagwood, C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Franklin, M.A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Castro Georgi, J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jarrett, J.M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jones, D.M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jones, R.L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Li, Z.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sommer, Y. L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tevis, D. S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wallon, K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ward, C. D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Maras, M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Erdahl, S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gilmer, C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wermers, M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Woldeysus, H.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mehigan, K. F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Morrissette, M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Palmer, C. D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Parsons, P. J.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-10.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource :</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">L.L. Yu; G.C. Caceres; S.E. Long; K.E. Murphy; C.E. Bryan Sallee;
+                T.W. Vetter; C. Hagwood; M.A. Franklin; J. Castro Georgi; J.M. Jarrett; D.M. Jones;
+                R.L. Jones; Z. Li; Y. L. Sommer; D.S. Tevis; K. Wallon; C. D. Ward; M. Maras; S.
+                Erdahl; C. Gilmer; M. Wermers; H. Woldeysus; K.F. Mehigan; M. Morrissette; C. D.
+                Palmer; P. J. Parsons.</note>
+      <note>Title from PDF title page (viewed March 14, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-206</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-206</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427207476</identifier>
+      <identifier type="oclc">on1427207476</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111511.0</recordChangeDate>
+         <recordIdentifier>991000626368508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

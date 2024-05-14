@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Psychological foundations of explainability and interpretability in
+                artificial intelligence</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Broniatowski, David A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Broniatowski, David A.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-04-12.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (56 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In this paper, we make the case that interpretability and
+                explainability are distinct requirements for machine learning systems. To make this
+                case, we provide an overview of the literature in experimental psychology pertaining
+                to interpretation (especially of numerical stimuli) and comprehension. We find that
+                interpretation refers to the ability to contextualize a model s output in a manner
+                that relates it to the system s designed functional purpose, and the goals, values,
+                and preferences of end users. In contrast, explanation refers to the ability to
+                accurately describe the mechanism, or implementation, that led to an algorithm s
+                output, often so that the algorithm can be improved in some way. Beyond these
+                definitions, our review shows that humans differ from one another in systematic
+                ways, that affect the extent to which they prefer to make decisions based on
+                detailed explanations versus less precise interpretations. These individual
+                differences, such as personality traits and skills, are associated with their
+                abilities to derive meaningful interpretations from precise explanations of model
+                output. This implies that system output should be tailored to different types of
+                users.</abstract>
+      <note type="statement of responsibility">David A. Broniatowski.</note>
+      <note>April 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-04-09.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Artificial intelligence</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Machine learning</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8367</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8367</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228953</identifier>
+      <identifier type="oclc">on1427228953</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111505.0</recordChangeDate>
+         <recordIdentifier>991000626375008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

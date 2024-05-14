@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Environmental speciation and monitoring needs for trace
+                metal-containing substances from energy-related processes</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83061707">
+         <namePart>Brinckman, Frederick E.,</namePart>
+         <namePart type="date">1928-2001</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n83061707</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83061707">
+         <namePart>Brinckman, Frederick E.,</namePart>
+         <namePart type="date">1928-2001</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n83061707</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82208974">
+         <namePart>Fish, Richard H.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82208974</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1981</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1981.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This book presents the Proceedings of the DoE/NBS Workshop on
+                Environmental Speciation and Monitoring Needs for Trace Metal-Containing Substances
+                from Energy Related Processes held at the National Bureau of Standards ,
+                Gaithersburg, MD, on May 18-20, 1981. The Workshop was sponsored by the Office of
+                Health and Environmental Research, DoE, and the Office of Recycled Materials, NBS.
+                The volume contains refereed papers submitted by 24 invited speakers, along with
+                substantially complete text of the discussion following the papers, edited by the
+                Co-chairpersons. The Proceedings address three major topic areas forming the overall
+                objective of the Workshop: (1) What are the general and specific types of metal- or
+                metalloid-containing substances occurring in energy-related process materials such
+                as coals, oil shales, and waste products. (2) What are the current status and future
+                prospects of element- and compound-specific measurement methods suitable for
+                speciation of trace (ppm, ppb) metal- and metalloid-containing substances
+                transmitted to the environment by energy-processing or waste cycling technologies.
+                (3) For what toxic molecular forms of speciated process effluents should biological
+                dose-response data be generated to assure reliable environmental impact and
+                monitoring measurements. Main questions focused on providing assurance that the
+                speciation methods (or their development) fit basic bioassay criteria along with
+                appropriate standard reference materials for meeting quantitative process and waste
+                monitoring or control needs.</abstract>
+      <note type="statement of responsibility">Frederick E. Brinckman; Richard H. Fish.</note>
+      <note>1981.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.SP.618</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS special publication; NBS special pub; NBS SP</title>
+            <partNumber>618</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">926742336</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151026</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20151026025821.0</recordChangeDate>
+         <recordIdentifier>991000065969708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

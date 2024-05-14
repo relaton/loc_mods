@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>De-identifying government datasets</title>
+         <subTitle>techniques and governance</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Garfnkel, Simson.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1294-2831">
+         <namePart>Garfinkel, Simson.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1294-2831</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3203-3742">
+         <namePart>Near, Joseph.</namePart>
+         <nameIdentifier>(orcid)0000-0002-3203-3742</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0361-5409">
+         <namePart>Dajani, Aref.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0361-5409</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8885-7273">
+         <namePart>Singer, Phyllis.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8885-7273</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9706-389X">
+         <namePart>Guttman, Barbara.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9706-389X</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Software and Systems Division.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-14.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">De-identification is a general term for any process of removing the
+                association between a set of identifying data and the data subject. This document
+                describes the use of de-identification with the goal of preventing or limiting
+                disclosure risks to individuals and establishments while still allowing for the
+                production of meaningful statistical analysis. Government agencies can use
+                de-identification to reduce the privacy risk associated with collecting, processing,
+                archiving, distributing, or publishing government data. Previously, NIST IR 8053,
+                De-Identification of Personal Information, provided a detailed survey of
+                de-identification and re-identification techniques. This document provides specific
+                guidance to government agencies that wish to use de-identification. Before using
+                de-identification, agencies should evaluate their goals for using de-identification
+                and the potential risks that releasing de-identified data might create. Agencies
+                should decide upon a data-sharing model, such as publishing de-identified data,
+                publishing synthetic data based on identified data, providing a query interface that
+                incorporates de-identification, or sharing data in non-public protected enclaves.
+                Agencies can create a Disclosure Review Board to oversee the process of
+                de-identification. They can also adopt a de-identification standard with measurable
+                performance levels and perform re-identification studies to gauge the risk
+                associated with de-identification. Several specific techniques for de-identification
+                are available, including de-identification by removing identifiers, transforming
+                quasi-identifiers, and generating synthetic data using models. People who perform
+                de-identification generally use special-purpose software tools to perform the data
+                manipulation and calculate the likely risk of re-identification. However, not all
+                tools that merely mask personal information provide sufficient functionality for
+                performing de-identification. This document also includes an extensive list of
+                references, a glossary, and a list of specific de-identification tools, which is
+                only included to convey the range of tools currently available and is not intended
+                to imply a recommendation or endorsement by NIST.</abstract>
+      <note type="statement of responsibility">Simson Garfinkel; Joseph Near; Aref N. Dajani; Phyllis Singer;
+                Barbara Guttman.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed December 07, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-07</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Disclosure Review Board.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Information technology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Privacy</topic>
+      </subject>
+      <subject>
+         <topic>Information technology.</topic>
+      </subject>
+      <subject>
+         <topic>Pseudonymization.</topic>
+      </subject>
+      <subject>
+         <topic>Data life cycle.</topic>
+      </subject>
+      <subject>
+         <topic>De-identification.</topic>
+      </subject>
+      <subject>
+         <topic>Differential privacy.</topic>
+      </subject>
+      <subject>
+         <topic>Direct identifiers.</topic>
+      </subject>
+      <subject>
+         <topic>Disclosure Review Board.</topic>
+      </subject>
+      <subject>
+         <topic>K-anonymity.</topic>
+      </subject>
+      <subject>
+         <topic>Privacy.</topic>
+      </subject>
+      <subject>
+         <topic>Quasi-identifiers.</topic>
+      </subject>
+      <subject>
+         <topic>Re-identification.</topic>
+      </subject>
+      <subject>
+         <topic>Synthetic data.</topic>
+      </subject>
+      <subject>
+         <topic>The five safes.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-188</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>800-188</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-188</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111410.0</recordChangeDate>
+         <recordIdentifier>991000617409808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>review of public response to short message alerts under imminent
+                threat</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
+         <namePart>Kuligowski, Erica D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011141182</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
+         <namePart>Kuligowski, Erica D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011141182</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Doermann, Jessica.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST)'s Technical
+                Investigation of the 2011 Joplin, MO tornado identified that no widely accepted
+                standards exist for emergency communications in tornado events and more
+                specifically, policies involving the use of communication systems to alert the
+                public in advance of tornadoes. This study is designed to develop evidence-based
+                guidance for communities on the creation and provision of public alerts, including
+                both alerts provided by outdoor siren (warning) systems and short messages sent by
+                social media or other short message service (SMS) platforms. It is the hope that
+                this guidance can eventually be used as a basis for standardization, through codes
+                and standards, of the procedures and policies for outdoor siren systems and short
+                message alerts used by communities across the United States. Standardization of
+                emergency communication policies and procedures could occur at multiple levels,
+                including among multiple jurisdictions, state-wide, regionally, or even nationally.
+                This document focuses on short message alerts, specifically presenting a review of
+                platforms, usage and public response. First, an overview is provided on the current
+                status of short message alerts in the United States, i.e., the current short message
+                technology available and the ways in which this technology is used in communities
+                across the United States. Second, a review of the literature is presented on the
+                ways in which people respond to short message alerts and the current limitations of
+                these systems in light of these findings. This document concludes with a discussion
+                on the key findings and recommendations from the literature on the ways in which to
+                improve current short message alerts, based on the methods by which people receive
+                and process these types of alerts. Following this work, a document will be developed
+                to provide the overall evidence-based guidance for communities on the creation and
+                provision of public alerts.</abstract>
+      <note type="statement of responsibility">Erica D. Kuligowski; Jessica Doermann.</note>
+      <note>January 2018.</note>
+      <note>Title from PDF title page (viewed January 9, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Twitter.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85038303">
+         <topic>Disasters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/894782">
+         <topic>Disasters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85042738">
+         <topic>Emergency communication systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/908473">
+         <topic>Emergency communication systems</topic>
+      </subject>
+      <subject>
+         <topic>Disaster alerts.</topic>
+      </subject>
+      <subject>
+         <topic>Wireless emergency alerts</topic>
+      </subject>
+      <subject>
+         <topic>IPAWS</topic>
+      </subject>
+      <subject>
+         <topic>Public response</topic>
+      </subject>
+      <subject>
+         <topic>Emergency warnings</topic>
+      </subject>
+      <subject>
+         <topic>Disaster and failure studies</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1982</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1982</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1027221428</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180305</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180305025939.0</recordChangeDate>
+         <recordIdentifier>991000196609708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

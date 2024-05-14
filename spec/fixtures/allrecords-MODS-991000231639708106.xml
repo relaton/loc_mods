@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Flow time innovations</title>
+         <subTitle>the effect on productivity and production in US manufacturing
+</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021113838">
+         <namePart>Thomas, Douglas S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021113838</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113838">
+         <namePart>Thomas, Douglas S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021113838</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Between 2005 and 2016, US multifactor productivity declined an
+                average 0.3 % annually. Some debate has ensued about the cause of this decline or
+                whether there even was a decline in productivity. One aspect of productivity that is
+                neglected in the literature is the effect of flow time on production and
+                productivity. This paper examines the impact that innovations in material, finished
+                goods, and work-in-process flow time have on productivity and production, measured
+                using the multifactor productivity index and manufacturing value added. Using data
+                on US manufacturing from 2005 to 2015, 12 regression models are presented and 19
+                simulations are developed to examine the impact of flow time on productivity and
+                value added. The flow time for work-in-process goods and that for inventories is
+                examined. The results suggest that flow time innovations have a significant impact
+                on multifactor productivity and production. That is, manufacturers can increase
+                productivity through flow time or lose productivity through increases in flow time,
+                as might be expected. The more significant findings are in regards to the magnitude
+                of impact of flow time. A simulated 20 % decrease in work-in-process flow time
+                results in a 1.21 % increase in multifactor productivity and a 2.23 % increase in
+                value added. A simulated 20 % decrease in material and finished goods flow time
+                increases productivity by 0.29 % and increases value added by 2.80 %. These changes
+                may seem small; however, the average industry s work-in-process flow time from 2005
+                to 2015 increased 98.8 %. During this same period, multifactor productivity declined
+                an average of 2.2 %. If flow time had remained unchanged from 2005, however,
+                multifactor productivity would have increased between 1.73 % and 3.38 % through
+                other factors, according to our model.</abstract>
+      <note type="statement of responsibility">Douglas S. Thomas.</note>
+      <note>August 2019.</note>
+      <note>Title from PDF title page (viewed August 20, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Productivity</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85141931">
+         <topic>Value added</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1163878">
+         <topic>Value added</topic>
+      </subject>
+      <subject>
+         <topic>Flow time</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-25</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-25</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1117448137</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190905</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190905121513.0</recordChangeDate>
+         <recordIdentifier>991000231639708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

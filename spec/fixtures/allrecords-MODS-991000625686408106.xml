@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Comparing instruments</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Yen, James.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yen, James.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Leber, Dennis.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pibida, Leticia.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (57 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document details methods to compare instrument performance.
+                Comparison methods for instruments outputting binary (0-1) responses as well as for
+                instruments outputting continuous numeric responses are shown, first for two
+                instruments and then for multiple instruments. Hypothesis tests and confidence
+                intervals for instrument differences are demonstrated. Several nonparametric
+                procedures are shown along with reasons why they might be needed. Finally,
+                equivalence testing is demonstrated for those cases where testing for equivalence
+                rather than for differences is indicated.</abstract>
+      <note type="statement of responsibility">James Yen; Dennis Leber; Leticia Pibida.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Analysis of variance</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Confidence intervals</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>t-test (Statistics)</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Analyse de variance</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Intervalles de confiance</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Analysis of variance</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Confidence intervals</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>t-test (Statistics)</topic>
+      </subject>
+      <subject>
+         <topic>Binomial test response</topic>
+      </subject>
+      <subject>
+         <topic>Continuous t test response</topic>
+      </subject>
+      <subject>
+         <topic>Equivalence testing</topic>
+      </subject>
+      <subject>
+         <topic>Hypothesis test</topic>
+      </subject>
+      <subject>
+         <topic>Nonparametric tests</topic>
+      </subject>
+      <subject>
+         <topic>Normal approximation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2106</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2106</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124506</identifier>
+      <identifier type="oclc">on1346124506</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111418.0</recordChangeDate>
+         <recordIdentifier>991000625686408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

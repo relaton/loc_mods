@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>guide to United States imported motor vehicle equipment and parts
+                compliance requirements</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Benson, Lisa M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Benson, Lisa M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Reczek, Karen K.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Standards Coordination Office.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Once a law has been enacted by Congress, the appropriate federal
+                agency (e.g., the Consumer Product Safety Commission, the Federal Trade Commission,
+                the National Highway Traffic Safety Administration, et al.) may create the
+                regulations to implement the law. Before such regulations can be adopted, the
+                appropriate federal agency ordinarily will issue a notice of proposed rulemaking
+                (NPRM) to solicit public comments on the proposed rules. To provide opportunity for
+                public comment, the appropriate federal agency must issue draft regulations or
+                Proposed Rules that are published in the Federal Register and as a WTO TBT
+                notification. The agency reviews the comments and can then issue a Final Rule that
+                also is published in the Federal Register, and later, published annually in the Code
+                of Federal Regulations (CFR). Together, the enabling acts and laws [published in the
+                United States Code (USC) once passed] and the final regulations (published in the
+                CFR) provide a framework for the implementation and enforcement of most federal laws
+                in the United States.</abstract>
+      <note type="statement of responsibility">Lisa M. Benson; Karen Reczek.</note>
+      <note>Title from PDF title page (viewed September 27, 2016).</note>
+      <note>September 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject>
+         <topic>Documentary standards</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8120</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8120</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662188</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240201160723.0</recordChangeDate>
+         <recordIdentifier>991000188239708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

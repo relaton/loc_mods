@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Framework for cyber-physical systems: volume 3, timing annex
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Wollman, David A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wollman, David A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85362045">
+         <namePart>Weiss, Marc A. (Marc Allan)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85362045</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Li-Baboud, Ya-Shian.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Griffor, Edward.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97033846">
+         <namePart>Burns, Martin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97033846</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Cyber-Physical Systems (CPS) comprise interacting digital, analog,
+                physical, and human components engineered for function through integrated physics
+                and logic. NIST established the CPS Public Working Group (CPS PWG) to bring together
+                a broad range of CPS experts in an open public forum to help define and shape key
+                characteristics of CPS, to better manage development and implementation within and
+                across multiple smart application domains, including smart manufacturing,
+                transportation, energy, and healthcare. The resulting CPS Framework provides an
+                organized presentation of a CPS analysis methodology based on the CPS Framework core
+                concepts of facets (modes of the system engineering process: conceptualization,
+                realization and assurance) and aspects (clusters of concerns: functional, business,
+                human, trustworthiness, timing, data, composition, boundaries, and lifecycle). This
+                volume contains additional material on timing in cyber-physical systems produced by
+                the timing subgroup, which supplements information in NIST SP 1500-202.</abstract>
+      <note type="statement of responsibility">David A. Wollman; Marc A. Weiss; Ya-Shian Li-Baboud; Edward Griffor;
+                Martin Burns.</note>
+      <note>September 2017.</note>
+      <note>Title from PDF title page (viewed September 28, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n42002796">
+         <titleInfo>
+            <title>Collection Aspects</title>
+         </titleInfo>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012002854">
+         <topic>Cooperating objects (Computer systems)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1893355">
+         <topic>Cooperating objects (Computer systems)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2013000266">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894151">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Facets</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh86006788">
+         <topic>Resilience (Personality trait)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1095573">
+         <topic>Resilience (Personality trait)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029513">
+         <topic>Computer networks</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872297">
+         <topic>Computer networks</topic>
+      </subject>
+      <subject>
+         <topic>Smart systems</topic>
+      </subject>
+      <subject>
+         <topic>Timing</topic>
+      </subject>
+      <subject>
+         <topic>Latency</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1500-203</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1500-203</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1005739041</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">171010</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163202.0</recordChangeDate>
+         <recordIdentifier>991000191589708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

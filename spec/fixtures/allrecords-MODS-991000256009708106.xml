@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>economics of firefighter injuries in the United States
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021107278">
+         <namePart>Butry, David T.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021107278</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107278">
+         <namePart>Butry, David T.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021107278</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84072142">
+         <namePart>Webb, David.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84072142</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96024300">
+         <namePart>Gilbert, Stanley.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n96024300</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2002033464">
+         <namePart>Taylor, Jennifer.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2002033464</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report identifies, summarizes, and evaluates the available data
+                and the literature describing the economic costs associated with non-fatal
+                firefighter injuries, illnesses, health exposures, and occupational disease ('health
+                outcomes') resulting from line-of-duty activities. National firefighter non-fatal
+                health outcome data, published by the National Fire Protection Association (NFPA),
+                U.S. Fire Administration (USFA), and the Bureau of Labor Statistics (BLS), are
+                compared and contrasted in terms of coverage and detail provided. A survey of the
+                economic injury literature is used to estimate the direct and indirect costs of
+                non-fatal health outcomes. A matching procedure is introduced to combine the
+                statistical and economic data to produce an annual estimate of firefighter non-fatal
+                health outcome costs. The conclusion provides a discussion of the current
+                measurement challenges that prevent a complete and throughout accounting of those
+                costs associated with non-fatal firefighter injuries, illnesses, health exposures,
+                and occupational disease. Data gaps exist, largely due to latency issues, in
+                capturing the incidence and economic consequences associated with firefighter cancer
+                and other occupational diseases, including post- traumatic stress injuries. The
+                estimated cost of firefighter injury is estimated to range between $1.6 billion and
+                $5.9 billion annually. This cost result in a loss equivalent of approximately
+                $50,000 to $200,000 per fire department per year or $1,500 to $5,500 per firefighter
+                per year.</abstract>
+      <note type="statement of responsibility">David T. Butry; David Webb; Stanley Gilbert; Jennifer
+                Taylor.</note>
+      <note>December 2019.</note>
+      <note>Title from PDF title page (viewed December 23, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048493">
+         <topic>Fire fighters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925379">
+         <topic>Fire fighters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85038411">
+         <topic>Diseases</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/895158">
+         <topic>Diseases</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85148589">
+         <topic>Wounds and injuries</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1181488">
+         <topic>Wounds and injuries</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048572">
+         <topic>Fires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925697">
+         <topic>Fires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040850">
+         <topic>Economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/902116">
+         <topic>Economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85033192">
+         <topic>Cost</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/880656">
+         <topic>Cost</topic>
+      </subject>
+      <subject>
+         <topic>Exposure</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2078</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2078</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1139336457</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200205010826.0</recordChangeDate>
+         <recordIdentifier>991000256009708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

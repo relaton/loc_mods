@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Multi’omic characterization of human whole stool RGTMs</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bayless, Amanda.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9073-5582">
+         <namePart>Bayless, Amanda.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9073-5582</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7121-7544">
+         <namePart>Da Silva, Sandra.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7121-7544</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9076-2620">
+         <namePart>Davis, W. Clay.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9076-2620</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4409-0653">
+         <namePart>Cruz, Abraham Kuri.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4409-0653</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8039-7911">
+         <namePart>Piotrowski, Paulina.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8039-7911</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1808-7816">
+         <namePart>Schock, Tracey.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1808-7816</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4924-4511">
+         <namePart>Servetas, Stephanie.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4924-4511</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-08.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (46 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The gut microbiome plays a critical role in a vast and disparate set
+                of health and disease states, including cancer and obesity. Human fecal is a complex
+                mixture including microbes, proteins, undigested plant matter and fat content
+                according to the diet type (e.g., vegan, omnivore). The complexity of human fecal
+                material along with the complexity of the analytical workflow of omics-based
+                techniques makes metabolomics measurements challenging. To address this need, NIST
+                is developing a human stool reference material (RM) to compare and assess
+                reproducibility in omics-based techniques. This report shares the initial
+                characterization of a human stool research grade testing material (RGTM). At NIST, a
+                RGTM is an exploratory material developed to evaluate fit-for-purpose needs within a
+                community. This effort started in 2019 and since then, the manufacturer for the
+                material has changed and protocols to analyze the samples have been optimized. The
+                approaches used to characterize the samples described in this report may or may not
+                be the current approach used on the development of RM 8048. In addition, it should
+                be stated the material used in the RGTM and consequently in the RM is not an
+                authentic representation of human stool as it was pre-processed (homogenized,
+                diluted in water and bottled) after collection for research application.</abstract>
+      <note type="statement of responsibility">Amanda Bayless; Sandra M. Da Silva; Clay Davis; Abraham Kuri Cruz;
+                Tracey Schock; Stephanie Servetas; Paulina Piotrowski.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed November 06, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-08-09</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Gas chromatography</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Liquid chromatography</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Nuclear magnetic resonance</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Mass spectrometry</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Metagenomics</topic>
+      </subject>
+      <subject>
+         <topic>Human whole stool</topic>
+      </subject>
+      <subject>
+         <topic>Metabolomics</topic>
+      </subject>
+      <subject>
+         <topic>Research grade testing material</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8451</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8451</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8451</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210885</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111407.0</recordChangeDate>
+         <recordIdentifier>991000614909708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

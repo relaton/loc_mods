@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Estimating the impact of 16 CFR part 1633 on bed fire outcomes
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022013709">
+         <namePart>Gilbert, Stanley W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022013709</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022013709">
+         <namePart>Gilbert, Stanley W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022013709</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107278">
+         <namePart>Butry, David T.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021107278</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152727">
+         <namePart>Davis, Rick D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152727</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96095572">
+         <namePart>Gann, Richard G.,</namePart>
+         <namePart type="date">1944-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n96095572</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Effective July 1, 2007, the U.S. Consumer Product Safety Commission
+                promulgated a Standard that would severely reduce the heat release rate and the
+                early heat output from mattresses and foundations that had been ignited by a flaming
+                ignition source. Mattresses complying with this Standard have now been sold for more
+                than a decade. This study establishes a methodology for evaluating the effect of
+                this Standard on the number of bed fires and the extent of their fire spread,
+                fatalities, and injuries, and then estimates the Standard's success over its first
+                decade. Because it is possible there were changes other than the Standard that
+                affected the outcome of bed fires, the study normalized the changes to the numbers
+                of residential upholstered furniture (RUF) fires, all residential fires, and all bed
+                fires. The Standard is accomplishing its purpose, resulting in considerable
+                reductions in fatalities and injuries from bed fires ignited by flaming sources.
+                Approximately 65 fatalities were prevented annually during the two-year period
+                2015-2016. Relative to RUF fires, flaming ignitions of beds led to decreases in the
+                numbers of fires by 12 %, injuries by 34 %, and deaths by 82 % between 2005-2006 and
+                2015-2016. Per bed fire, injuries decreased by 25 % and fatalities decreased by 67
+                %. The decreases in injuries and, especially, fatalities are larger than the
+                decrease in the number of fires, suggesting that the most severe fires are being
+                prevented by the Standard. There was no systematic evidence that the calculations
+                were significantly affected by (1) the calculation method for calculating the
+                replacement rate of pre-Standard mattresses, (2) variability in fire reporting among
+                fire departments, (3) whether the initial combustible was reported as the mattress
+                or bedding, or (4) whether the mattress or bedding was reported as the item most
+                contributing to flame spread.</abstract>
+      <note type="statement of responsibility">Stanley W. Gilbert; David T. Butry; Rick D. Davis; Richard G.
+                Gann.</note>
+      <note>April 2020.</note>
+      <note>Title from PDF title page (viewed May 2, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048572">
+         <topic>Fires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925697">
+         <topic>Fires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048573">
+         <topic>Fires</topic>
+         <topic>Casualties</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925698">
+         <topic>Fires</topic>
+         <topic>Casualties</topic>
+      </subject>
+      <subject>
+         <topic>Bed fires</topic>
+      </subject>
+      <subject>
+         <topic>Fire data</topic>
+      </subject>
+      <subject>
+         <topic>Fire injuries</topic>
+      </subject>
+      <subject>
+         <topic>Fire standard effectiveness</topic>
+      </subject>
+      <subject>
+         <topic>Fire standards</topic>
+      </subject>
+      <subject>
+         <topic>Home fires</topic>
+      </subject>
+      <subject>
+         <topic>Mattress fires</topic>
+      </subject>
+      <subject>
+         <topic>16 CFR Part 1633</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2092</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2092</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163859009</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200707054233.0</recordChangeDate>
+         <recordIdentifier>991000263379708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

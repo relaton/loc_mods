@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Design of a direct-contact thermal energy storage heat exchanger for
+                the NIST Net-Zero Residential Test Facility</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kedzierski, M. A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kedzierski, M. A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lin, L.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-07-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (33 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report describes the design of a direct-contact heat exchanger
+                (DCHEX) to be used for thermal energy storage at the National Institute of Standards
+                and Technology s Net-Zero Energy Residential Test Facility (NZERTF). The heat
+                exchanger was designed for heat exchange between a phase-change material (PCM) and
+                refrigerant. The design required the selection of a PCM that would be immiscible
+                with the refrigerant and have a freezing point temperature of approximately of 285
+                K. A key facet of the investigation was the construction of a test apparatus to
+                observe the flow between the refrigerant and the freezing PCM to ensure a well
+                distributed flow and one where the refrigerant could flow past the frozen PCM. The
+                final part of the project presents a design for direct-contact heat exchange between
+                octanoic acid (continuous phase) and the dispersed phase R410A. Twin DCHEXs were
+                designed to house a vertical column of PCM and to distribute the refrigerant flow
+                throughout the PCM. The height of the PCM column was determined with measurements
+                from the literature that were re-correlated to predict the droplet heat transfer
+                coefficient and the required height of the PCM column. A disengagement section was
+                designed to prevent entrainment of PCM droplets into the exiting refrigerant vapor
+                during the PCM charging. Basic equations are provided so that the design may be
+                modified for a different PCM mass, refrigerant flow rate, temperature difference and
+                operating fluids. An overall drawing of the DCHEX with placement of orifice holes,
+                mist eliminator, and piping was given. The energy storage capacity of the DCHEX is
+                approximately 191 MJ and has the potential of providing a 33 % energy savings in
+                cooling the NZERTF.</abstract>
+      <note type="statement of responsibility">M. A. Kedzierski; L. Lin.</note>
+      <note>July 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Air conditioning</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Energy storage</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Dwellings</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Climatisation</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Énergie</topic>
+         <topic>Stockage</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Habitations</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>air conditioning</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>dwellings</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Air conditioning</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Dwellings</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Energy storage</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2104</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2104</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124504</identifier>
+      <identifier type="oclc">on1346124504</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111420.0</recordChangeDate>
+         <recordIdentifier>991000625690408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

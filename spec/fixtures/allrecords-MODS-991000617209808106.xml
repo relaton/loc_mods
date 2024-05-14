@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Safeguarding international science</title>
+         <subTitle>research security framework</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Strouse, Gregory F.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0003-6462-6846">
+         <namePart>Strouse, Gregory F.</namePart>
+         <nameIdentifier>(orcid)0009-0003-6462-6846</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0003-4711-7177">
+         <namePart>Saundry, Claire M.</namePart>
+         <nameIdentifier>(orcid)0009-0003-4711-7177</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0002-6098-5852">
+         <namePart>Wood, Timothy.</namePart>
+         <nameIdentifier>(orcid)0009-0002-6098-5852</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0003-4205-7689">
+         <namePart>Bennett, Philip A.</namePart>
+         <nameIdentifier>(orcid)0009-0003-4205-7689</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2183-7008">
+         <namePart>Bedner, Mary.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2183-7008</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Office of the Associate Director for Laboratory Programs.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-08-31.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The U.S. science and research ecosystem retains its leadership by
+                actively engaging with the global community through the conduct of mutually
+                beneficial collaborative research and the welcoming of international scientists.
+                Coupled with that, the national and economic security of the United States depends
+                on effective risk management practices for organizations that engage in
+                international collaborative research to protect against undue foreign influence and
+                interference. The National Institute of Standards of Technology (NIST) Safeguarding
+                Science Research Security Framework (“Framework”) establishes guidance to assist the
+                U.S. science and research community [e.g., U.S. Government (USG), academia, and
+                industry] across the broad spectrum of international science and technology
+                activities as well as Federal funding initiatives. This Framework is designed to
+                enable organizations to implement a mission-focused, integrated, risk-balanced
+                program through the application of research security principles and best practices
+                that fosters the safeguarding of international science while mitigating risks to the
+                integrity of the open collaborative environment. This Framework is a living document
+                and will continue to be updated and improved as its users provide feedback on
+                implementation of review procedures or to address new or emerging risks. This will
+                ensure it is meeting the needs of Research Security practitioners in a dynamic and
+                challenging environment of new threats, risks, and creative solutions.</abstract>
+      <note type="statement of responsibility">Gregory F. Strouse; Timothy R. Wood; Claire M. Saundry; Philip A.
+                Bennett; Mary Bedner.</note>
+      <note>August 2023.</note>
+      <note>Title from PDF title page (viewed December 06, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-08-31</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>CHIPS and Science Act.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>NSM-10.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>NSPM-28.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>NSPM-33.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Foreign influences</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Reviews</topic>
+      </subject>
+      <subject>
+         <topic>Checklists.</topic>
+      </subject>
+      <subject>
+         <topic>CHIPS and Science Act.</topic>
+      </subject>
+      <subject>
+         <topic>Collaborations.</topic>
+      </subject>
+      <subject>
+         <topic>Foreign influence.</topic>
+      </subject>
+      <subject>
+         <topic>Framework.</topic>
+      </subject>
+      <subject>
+         <topic>NSM-10.</topic>
+      </subject>
+      <subject>
+         <topic>NSPM-28.</topic>
+      </subject>
+      <subject>
+         <topic>NSPM-33.</topic>
+      </subject>
+      <subject>
+         <topic>Research security.</topic>
+      </subject>
+      <subject>
+         <topic>Reviews.</topic>
+      </subject>
+      <subject>
+         <topic>Risk-balanced.</topic>
+      </subject>
+      <subject>
+         <topic>Safeguarding international science.</topic>
+      </subject>
+      <subject>
+         <topic>SBA SBIR/STIR due diligence.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8484</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8484</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8484</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1415980154</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111400.0</recordChangeDate>
+         <recordIdentifier>991000617209808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

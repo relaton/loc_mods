@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Evaluation of currency and stamp papers</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Graminski, E. L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Graminski, E. L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Debelius, Elizabeth.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ob</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1975</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="producer">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology,</publisher>
+         <dateOther type="production">1975.</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">remote</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">E.L. Graminski, E.E. Toth.</note>
+      <note>1975.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <classification authority="lcc">QC100 .U56 no.75-670 1975</classification>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.IR.75-670</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBSIR</title>
+            <partNumber>75-670</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier>GOVPUB-C13-f7b44d0e475a6e8773f65f70c9112831</identifier>
+      <identifier type="oclc">929881579</identifier>
+      <identifier type="oclc">ocn929881579</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151118</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240228151255.8</recordChangeDate>
+         <recordIdentifier>991000625800508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

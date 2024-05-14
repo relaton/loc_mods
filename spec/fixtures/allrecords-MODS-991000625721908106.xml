@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Gauging the difficulty of image segmentation</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Franaszek, Marek.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Franaszek, Marek.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-05-19.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (40 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Image segmentation is the first step in a complex process of object
+                recognition. This report presents a method to gauge the difficulty of segmentation
+                by calculating a scalar parameter Q for an image. This parameter depends on a
+                distribution of the intensity of the grayscale image and the distribution of the
+                clustering of pixels. It is assumed that images with a smaller number of clusters
+                are easier to segment than images with a large number of clusters. Since
+                segmentation precedes any human perception and categorization, the distribution of
+                parameter Q introduced in this study may be useful in characterizing the variability
+                of images collected in a training database for the development of object recognition
+                algorithms which use Machine Learning (ML) methods. Parameter Q can be especially
+                useful for building a representative dataset of images for training ML algorithms.
+                To demonstrate a link between particular values of Q and different segmentation
+                conditions, a few grayscale images were distorted by some common transformations
+                (like Gaussian noise, median filtering, reduction in grayscale) and the
+                corresponding values of parameter Q were calculated. To demonstrate a possible use
+                of the parameter Q on data other than grayscale images, depth images of flat planar
+                targets taken by two depth cameras were also processed.</abstract>
+      <note type="statement of responsibility">Marek Franaszek.</note>
+      <note>May 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-05-19</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Databases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Image segmentation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Machine learning</topic>
+      </subject>
+      <subject>
+         <topic>Object recognition</topic>
+      </subject>
+      <subject>
+         <topic>2D images</topic>
+      </subject>
+      <subject>
+         <topic>Training machine learning algorithms</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2207-upd1</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.TN.2207" displayLabel="10.6028/NIST.TN.2207"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2207-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890342</identifier>
+      <identifier type="oclc">on1389890342</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111429.0</recordChangeDate>
+         <recordIdentifier>991000625721908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

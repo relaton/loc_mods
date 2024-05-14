@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Structure separation experiments</title>
+         <subTitle>shed burns without wind</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Maranghides, Alexander.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Maranghides, Alexander.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nazare, Shonali.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hedayati, Faraz.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gorham, Daniel.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Link, Eric.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hoehler, Matthew.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bundy, Matthew.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Monroy, Xareni.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Morrison, Murray.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mell, William (Ruddy).</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bova, Anthony.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McNamara, Derek.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Milac, Thomas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hawks, Steven.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bigelow, Frank.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Raymer, Bob.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Frievalt, Frank.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Walton, William.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-09-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (226 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report describes the experiments conducted during the first
+                phase of a multi-phase project designed to assess structure-to-structure fire spread
+                for structures in the Wildland-Urban Interface (WUI). The experiments focused on
+                quantifying thermal exposures from auxiliary structures, e.g., sheds. The effects of
+                shed sizes, construction materials, fuel loading, and separation distance on the
+                ignition of primary structures (residential dwellings) with no wind have been
+                studied and reported. Preliminary structure separation experiments using natural gas
+                burners and an instrumented target structure were conducted to optimize
+                instrumentation and experimental design for shed burn experiments. Full-scale fire
+                experiments were conducted in which various sizes and types of sheds were used to
+                generate typical radiative and convective heat exposures. Experiments were conducted
+                indoors at the National Institute of Standards and Technology (NIST) to quantify
+                exposures from small source structures (sheds) in terms of mass loss rate (MLR) and
+                heat release rate (HRR). HRR was measured using oxygen consumption calorimetry.
+                Large and very large sheds were tested outdoors at the Insurance Institute for
+                Business &amp; Home Safety (IBHS) test facility. The mass loss method was employed
+                to estimate the HRR for the outdoor shed burns. In addition, indoor shed burn
+                experiments with a target structure were conducted to assess target performance
+                against exposures from varying sheds (construction, size, fuel loading) and
+                separation distances. All experiments were performed without an artificially
+                generated wind field. The preliminary experiments helped troubleshoot and provided
+                insights into the airflow bias effects within the indoor test facility. The indoor
+                shed burn experiments demonstrated that the mass loss measurements can be used to
+                infer HRR measurements. The peak HRR (PHRR) was a function of construction
+                materials, shed size, and fuel loading. Heat fluxes were measured and the effects of
+                the burning shed on the target structure were documented under no-wind conditions as
+                a function of separation distance, construction materials, shed size, fuel loading,
+                and shed openings. The mass loss method was used to infer HRR for from very large
+                auxiliary structures tested outdoors at the IBHS test facility. Generally, for a
+                given shed size and fuel loading, the PHRR, which is related to the fire hazard,
+                depended on the shed construction material. Combustible shed source structures
+                generated a greater PHRR than non-combustible sheds, almost by a factor of 4. The
+                exposures quantified in this study demonstrate that any auxiliary structures made
+                from combustible materials can pose a significant fire hazard when placed next to
+                the primary structure. For non-combustible source structures, the shed orientation
+                with respect to the primary structure and the size of the door opening are critical
+                factors. Sheds and auxiliary structures exceeding 120 ft2 floor area are subject to
+                placement requirements with respect to residential structure(s) on the same lot
+                through Chapter 7A of the California Building Code. The location and spacing of
+                smaller sheds (e.g., under 120 ft2) may or may not be regulated and current codes
+                often allow these smaller sheds to be as close as 5 ft from a residence or property
+                line. The findings from this study can provide technical input for national, state,
+                and local building codes to alleviate fire spread from auxiliary structures within
+                WUI communities.</abstract>
+      <note type="statement of responsibility">Alexander Maranghides; Shonali Nazare; Faraz Hedayati; Daniel Gorham;
+                Eric Link; Matthew Hoehler; Matthew Bundy; Xareni Monroy; Murray Morrison; William
+                (Ruddy) Mell; Anthony Bova; Derek McNamara; Thomas Milac; Steven Hawks; Frank
+                Bigelow; Bob Raymer; Frank Frievalt; William Walton.</note>
+      <note>September 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-14</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Heat flux</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Sheds</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Wildland-urban interface</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fires</topic>
+      </subject>
+      <subject>
+         <topic>Heat release rate</topic>
+      </subject>
+      <subject>
+         <topic>Heat flux measurements</topic>
+      </subject>
+      <subject>
+         <topic>Radiant heat exposure</topic>
+      </subject>
+      <subject>
+         <topic>Convetive heat exposure</topic>
+      </subject>
+      <subject>
+         <topic>Structure separation distance</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2235</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2235</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890488</identifier>
+      <identifier type="oclc">on1389890488</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111504.0</recordChangeDate>
+         <recordIdentifier>991000626255908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

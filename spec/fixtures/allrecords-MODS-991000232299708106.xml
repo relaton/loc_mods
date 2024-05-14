@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Large Outdoor Fire Modeling (LOFM) workshop summary report
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022055602">
+         <namePart>McDermott, Randall J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022055602</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022055602">
+         <namePart>McDermott, Randall J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022055602</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021101621">
+         <namePart>Bryner, Nelson P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021101621</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Heintz, Jon A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">On March 18-19, 2019, NIST held a workshop on Large Outdoor Fire
+                Modeling (LOFM) to assess the state of the art in computational fire modeling and to
+                identify a set of research priorities for driving progress in the development of
+                large outdoor fire models. This workshop was broadly concerned with large outdoor
+                fires that have the potential to negatively impact communities or the environment.
+                In this context, wildfires, wildland and wildlandurban interface (WUI) fires,
+                post-earthquake fires, oil spill cleanup, and community-scale structural
+                conflagrations may all be classified as large outdoor fires. The premise of the
+                workshop was that modeling tools may assist in mitigating the large outdoor fire
+                problem or at least in developing a better understanding of the problem. The group
+                looked at the modeling problem in three different areas: (1) operational modeling,
+                (2)forensic reconstruction, and (3) planning, such as prescribed burns or forest
+                fuels management. Operational models mostly empirical rate of spread models were
+                classified as running much faster than real time, with simple user interfaces. These
+                models are useful for forecasting and generating large ensembles of fire scenarios
+                for risk analysis. Forensic models usually need to be run at landscape scale to
+                capture terrain features and incorporate weather effects. High-fidelity,
+                physics-based models may be used for understanding detailed phenomena, forensics, or
+                for planning purposes. The physics-based models tend to be limited by the level of
+                resolution available for input parameters and by the stochastic and chaotic nature
+                of real fire events. A survey of available models is presented in this report.
+                Approximately 50 onsite and 20 online attendees participated in the workshop.
+                Plenary presentations where given by Chris Lautenberger of REAX Engineering, Janice
+                Coen of the National Center for Atmospheric Research, and Rod Linn of Los Alamos
+                National Laboratory. These lectures laid out the state of the art in operational
+                rate of spread models, fire-weather interaction, and physics-based models,
+                respectively, providing a baseline for workshop discussions. Details of the workshop
+                process are given in the report. Three breakout groups, each with a balanced makeup
+                of fire-related expertise (from first responders to high-performance computing
+                experts), convened to address user needs, identify research gaps in outdoor fire
+                models, and to suggest a set of grand challenge problems to focus research efforts
+                with a ten year horizon.</abstract>
+      <note type="statement of responsibility">Randall J. McDermott; Nelson P. Bryner; Jon A. Heintz.</note>
+      <note>October 2019.</note>
+      <note>Title from PDF title page (viewed October 17, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2011004893">
+         <topic>Digital elevation models</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1893500">
+         <topic>Digital elevation models</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048572">
+         <topic>Fires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925697">
+         <topic>Fires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85050485">
+         <topic>Forecasting</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/931721">
+         <topic>Forecasting</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001880">
+         <topic>Geographic information systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/940423">
+         <topic>Geographic information systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh95008935">
+         <topic>High performance computing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/956032">
+         <topic>High performance computing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85106431">
+         <topic>Prescribed burning</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1075637">
+         <topic>Prescribed burning</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85146723">
+         <topic>Wildfires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1175216">
+         <topic>Wildfires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010006912">
+         <topic>Wildland-urban interface</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1762420">
+         <topic>Wildland-urban interface</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85146909">
+         <topic>Wind tunnels</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1175710">
+         <topic>Wind tunnels</topic>
+      </subject>
+      <subject>
+         <topic>Atmospheric flows</topic>
+      </subject>
+      <subject>
+         <topic>Disaster resilience</topic>
+      </subject>
+      <subject>
+         <topic>Fire emissions</topic>
+      </subject>
+      <subject>
+         <topic>Fire growth</topic>
+      </subject>
+      <subject>
+         <topic>Fire plumes</topic>
+      </subject>
+      <subject>
+         <topic>Firebrand generation</topic>
+      </subject>
+      <subject>
+         <topic>Emergency response</topic>
+      </subject>
+      <subject>
+         <topic>Fire-weather coupling</topic>
+      </subject>
+      <subject>
+         <topic>Forensic reconstruction</topic>
+      </subject>
+      <subject>
+         <topic>Fuels data</topic>
+      </subject>
+      <subject>
+         <topic>Large outdoor fire modeling</topic>
+      </subject>
+      <subject>
+         <topic>Physics-based fire models</topic>
+      </subject>
+      <subject>
+         <topic>Rate of spread fire models</topic>
+      </subject>
+      <subject>
+         <topic>Smoke transport</topic>
+      </subject>
+      <subject>
+         <topic>Spot fire ignition</topic>
+      </subject>
+      <subject>
+         <topic>Spotting</topic>
+      </subject>
+      <subject>
+         <topic>Structure ignition</topic>
+      </subject>
+      <subject>
+         <topic>Terrain</topic>
+      </subject>
+      <subject>
+         <topic>Vegetation</topic>
+      </subject>
+      <subject>
+         <topic>Wind tunnel experiments</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1245</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1245</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132805852</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161810.0</recordChangeDate>
+         <recordIdentifier>991000232299708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

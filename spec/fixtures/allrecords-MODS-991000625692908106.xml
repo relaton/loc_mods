@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Measurements and modeling of spherical CH2F2-Air flames</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hegetschweiler, Michael J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hegetschweiler, Michael J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pagliaro, John L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Berger, Lukas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hesse, Raik.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Beeckmann, Joachim.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pitsch, Heinz.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Linteris, Gregory T.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-07-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (43 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The burning velocity of mixtures of the refrigerant R-32 (CH2F2) with
+                air over a range of equivalence ratios are studied via spherically expanding flames
+                SEFs in a large, optically accessible spherical chamber at constant pressure.
+                Shadowgraph images from a high-speed video camera are analysed to yield flame radius
+                as a function of time. Data reduction techniques are explored and direct numerical
+                simulations of the flame are performed with the FlameMaster code, using detailed
+                kinetics. The flame radius as a function of time is accurately predicted by the
+                simulations. Flame stretch and thermal radiation (using an optically thin model)
+                occur simultaneously and make extraction of the unstretched burning velocity from
+                the experimental data difficult. For these low burning velocity flames, the
+                numerical simulations show that stretch and radiation effects are particularly
+                important, and different data reduction schemes can have large effects on the
+                inferred burning velocity.</abstract>
+      <note type="statement of responsibility">Michael J. Hegetschweiler; John L. Pagliaro; Lukas Berger; Raik
+                Hesse; Joachim Beeckmann; Heinz Pitsch; Gregory T. Linteris.</note>
+      <note>July 2020.</note>
+      <note>Title from PDF title page (viewed August 11, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Refrigerants</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Radiation</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Fluides frigorigènes</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Rayonnement</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Radiation</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Refrigerants</topic>
+      </subject>
+      <subject>
+         <topic>Laminar flame speed</topic>
+      </subject>
+      <subject>
+         <topic>Burning velocity</topic>
+      </subject>
+      <subject>
+         <topic>Refrigerant flammability</topic>
+      </subject>
+      <subject>
+         <topic>R-32</topic>
+      </subject>
+      <subject>
+         <topic>Flame stretch</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2100</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2100</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124448</identifier>
+      <identifier type="oclc">on1346124448</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111420.0</recordChangeDate>
+         <recordIdentifier>991000625692908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

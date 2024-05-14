@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Report of the 104th national conference on weights and measures
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Barton, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barton, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butcher, Tina.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Harshman, Richard.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lee, Diane.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sefcik, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Warfield, Lisa.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Physical Measurement Laboratory (National Institute of Standards and
+                Technology (U.S.))</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-08-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (682 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The 104th Annual Meeting of the National Conference on Weights and
+                Measures (NCWM) was held July 14 - 18, 2019, at the Hyatt Regency Milwaukee Hotel,
+                Milwaukee, Wisconsin. The theme of the meeting was 'Assuring Equity in the
+                Marketplace: NIST and NCWM, Partners with a Shared Mission.' Reports by the NCWM
+                Board of Directors, Standing Committees, and Special Purpose Committees constitute
+                the major portion of this publication, along with the addresses delivered by
+                Conference officials and other authorities from government and industry. Special
+                meetings included those of the Meter Manufacturers Association, Packaging and
+                Labeling Subcommittee, Fuels and Lubricants Subcommittee, Associate Membership
+                Committee, Regional Association Meetings, and the Weigh-in-Motion Task
+                Group.</abstract>
+      <note type="statement of responsibility">John Barton; Tina Butcher; Richard Harshman; Diane Lee; David Sefcik;
+                Lisa Warfield.</note>
+      <note>August 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Metrology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Metrology--Congresses</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Weights and measures</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Meter (Unit)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Scales (Weighing instruments)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Specifications</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Tolerance (Engineering)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Training</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Law</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Métrologie</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Poids et mesures</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Mètre (Unité)</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Balances</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Spécifications</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Tolérance (Technologie)</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Formation</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>specifications</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>tolerances</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>training</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Law</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Meter (Unit)</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Metrology</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Scales (Weighing instruments)</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Specifications</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Tolerance (Engineering)</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Training</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Weights and measures</topic>
+      </subject>
+      <subject>
+         <topic>Laws and regulations</topic>
+      </subject>
+      <subject>
+         <topic>Legal metrology</topic>
+      </subject>
+      <subject>
+         <topic>Type evaluation</topic>
+      </subject>
+      <subject>
+         <topic>Uniform law</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1253</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1253</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124304</identifier>
+      <identifier type="oclc">on1346124304</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111444.0</recordChangeDate>
+         <recordIdentifier>991000625743608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

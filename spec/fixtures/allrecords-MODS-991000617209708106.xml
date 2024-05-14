@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Single-photon sources and detectors dictionary</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bienfang, Joshua C.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5906-3231">
+         <namePart>Bienfang, Joshua</namePart>
+         <nameIdentifier>(orcid)0000-0001-5906-3231</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8135-1811">
+         <namePart>Gerrits, Thomas</namePart>
+         <nameIdentifier>(orcid)0000-0001-8135-1811</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1820-9163">
+         <namePart>Kuo, Paulina</namePart>
+         <nameIdentifier>(orcid)0000-0003-1820-9163</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8444-8288">
+         <namePart>Migdall, Alan</namePart>
+         <nameIdentifier>(orcid)0000-0002-8444-8288</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4601-0250">
+         <namePart>Polyakov, Sergey</namePart>
+         <nameIdentifier>(orcid)0000-0002-4601-0250</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0009-8673-6628">
+         <namePart>Slattery, Oliver T.</namePart>
+         <nameIdentifier>(orcid)0009-0009-8673-6628</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-07.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The intention of this dictionary is to define relevant terms and
+                metrics used in the characterization of single-photon detectors and sources with the
+                goal to promote better understanding and communication of those metrics across the
+                single-photon technology community. With the recent emergence and significant growth
+                of a “quantum-component industry,” the need for common definitions of terms is clear
+                and pressing. For example, a recent workshop sponsored by the Quantum Economic
+                Development Consortium [QC23] identified the need for a common set of definitions
+                for single-photon device performance metrics [QED23]. There are some existing
+                documents relevant to this need, but they are focused on somewhat different purposes
+                or on one specific application. For example, the ETSI document [LL09, ETS18] focuses
+                specifically on the application of quantum key distribution, and there is a
+                vocabulary resource under the auspices of the CIE (International Commission on
+                Illumination). That CIE resource [CIE20] is focused on the illumination industry.
+                For completeness we also mention several publications which contain some compendiums
+                of single photon definitions [EFMP11, MPFB13a, MSSM20]. Our effort here is intended
+                to compliment and build on those existing reference documents, to create a
+                dictionary independent of a particular single-photon application (for long-term
+                relevance) and to promote clarity and understanding when terms and metrics relevant
+                to single-photon sources or detectors are used by the community. This document also
+                seeks to dispel common misconceptions and to make a few subtle distinctions that
+                will benefit the community. This document may form the basis for a future standards
+                document. With that as a goal, we facilitated a thorough peer-review by fellow
+                National Institute of Standards and Technologies colleagues, the Quantum Economic
+                Development Consortium, representatives of other National Metrology Institutes, and
+                the larger single-photon community. We hope that this document will promote a
+                community-wide consensus on the definitions herein and help facilitate the growth of
+                the single photon industry.</abstract>
+      <note type="statement of responsibility">Joshua C. Bienfang; Thomas Gerrits; Paulina S. Kuo; Alan Migdall;
+                Sergey Polyakov; Oliver Slattery.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed December 06, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-06</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Metrology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Quantum optics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Quantum communications</topic>
+      </subject>
+      <subject>
+         <topic>Optical / photometry / laser metrology.</topic>
+      </subject>
+      <subject>
+         <topic>Quantum information science.</topic>
+      </subject>
+      <subject>
+         <topic>Documentary standards.</topic>
+      </subject>
+      <subject>
+         <topic>Optical physics and communications.</topic>
+      </subject>
+      <subject>
+         <topic>Single-photon source.</topic>
+      </subject>
+      <subject>
+         <topic>Single-photon detector.</topic>
+      </subject>
+      <subject>
+         <topic>Quantum optics.</topic>
+      </subject>
+      <subject>
+         <topic>Quantum networking.</topic>
+      </subject>
+      <subject>
+         <topic>Quantum communications.</topic>
+      </subject>
+      <subject>
+         <topic>Quantum optical metrology.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8486</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8486</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8486</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1415980153</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111407.0</recordChangeDate>
+         <recordIdentifier>991000617209708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

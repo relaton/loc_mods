@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Computer Security Division annual report 2015</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n89606604">
+         <namePart>O'Reilly, Patrick.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n89606604</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n89606604">
+         <namePart>O'Reilly, Patrick.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n89606604</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022008916">
+         <namePart>Feldman, Larry.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022008916</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2012049043">
+         <namePart>Witte, Greg.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2012049043</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Annual reports.</genre>
+      <genre authority="fast">Annual reports.</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Title III of the E-Government Act of 2002, entitled the Federal
+                Information Security Management Act (FISMA) of 2002, requires NIST to prepare an
+                annual public report on activities undertaken in the previous year, and planned for
+                the coming year, to carry out responsibilities under this law. The primary goal of
+                the Computer Security Division (CSD), a component of NIST s Information Technology
+                Laboratory (ITL), is to provide standards and technology that protects information
+                systems against threats to the confidentiality, integrity, and availability of
+                information and services. During Fiscal Year 2015 (FY 2015), CSD successfully
+                responded to numerous challenges and opportunities in fulfilling that mission.
+                Through CSD's diverse research agenda and engagement in many national priority
+                initiatives, high-quality, cost-effective security and privacy mechanisms were
+                developed and applied that improved information security across the federal
+                government and the greater information security community. This annual report
+                highlights the research agenda and activities in which CSD was engaged during FY
+                2015.</abstract>
+      <note type="statement of responsibility">Patrick O'Reilly; Larry Feldman; Greg Witte.</note>
+      <note>Title from PDF title page (viewed July 28, 2016).</note>
+      <note>July 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-182</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-182</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">958885809</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160921</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120951.0</recordChangeDate>
+         <recordIdentifier>991000181659708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

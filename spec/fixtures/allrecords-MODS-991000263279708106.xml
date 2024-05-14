@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Channel sounder measurement verification</title>
+         <subTitle>conducted tests</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Quimby, Jeanne.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Quimby, Jeanne.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003080566">
+         <namePart>Jargon, Jeffrey A. (Jeffrey Arendt)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003080566</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Leonhardt, Rod.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rezac, Jacob D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hale, Paul D.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021143253">
+         <namePart>Remley, Kate A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021143253</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2016007331">
+         <namePart>Koepke, Amanda.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2016007331</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Streett, Sarah.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007055626">
+         <namePart>Johnk, Robert T.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007055626</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Hammerschmidt, Chriss.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85006473">
+         <namePart>McKenna, Paul.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85006473</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Stange, Irena.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003037227">
+         <namePart>Chang, Mike,</namePart>
+         <namePart type="date">1968-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003037227</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86105911">
+         <namePart>DeMinco, N.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86105911</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Diener, Joseph E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Smith, Richard Chad.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019087156">
+         <namePart>Hoyt, Christopher.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019087156</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Springer, Sofia.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Channel modeling often provides a basis for the design and deployment
+                of wireless technology. Engineers design systems to operate under certain expected
+                channel conditions. Channel models are typically based on the statistics of a
+                collection of many measurements performed by channel sounders in nominally similar
+                radio-propagation environments. Channel sounders measure characteristics of a radio
+                propagation channel such as path gain, decay time, and angular dispersion, among
+                other channel model metrics. The models developed from these measurements are
+                typically the first step in standardizing a new wireless technology. While many such
+                models currently exist, wireless technology for new use cases is constantly under
+                development, necessitating continued development of new and improved channel models.
+                For example, in the 3550 MHz to 3650 MHz (3.5 GHz) band, rules for spectrum sharing
+                and systems for implementing those rules are being developed based on specific
+                channel models. Success of the spectrum sharing systems will, in part, depend on the
+                accuracy of those models. As another example, it is anticipated that other
+                next-generation wireless systems will operate in the millimeter-wave bands. Here,
+                developing new channel models will be of paramount importance due to the
+                significantly different impact of the propagation phenomena at these higher
+                frequencies. At both microwave and millimeter-wave frequencies, separating
+                measurement uncertainty from channel variations provides rigor for channel-model
+                development and validation. Such measurement uncertainties can be caused by
+                systematic hardware nonidealities, system noise, and the repeatability and
+                reproducibility of the measurements.</abstract>
+      <note type="statement of responsibility">Jeanne Quimby; Jeffrey A. Jargon; Rod Leonhardt; Jacob D. Rezac; Paul
+                D. Hale; Kate A. Remley; Amanda Koepke; Sarah Streett; Robert T. Johnk; Chriss
+                Hammerschmidt; Paul McKenna; Irena Stange; Mike Chang; Nicholas DeMinco; Joseph E.
+                Diener; Richard Chad Smith; Christopher Hoyt; Sofia Springer.</note>
+      <note>April 2020.</note>
+      <note>Title from PDF title page (viewed April 30, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85083608">
+         <topic>Measurement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1715944">
+         <topic>Measurement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93005422">
+         <topic>Integrated circuits</topic>
+         <topic>Verification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/975600">
+         <topic>Integrated circuits</topic>
+         <topic>Verification</topic>
+      </subject>
+      <subject>
+         <topic>Channel sounder</topic>
+      </subject>
+      <subject>
+         <topic>Conducted measurements</topic>
+      </subject>
+      <subject>
+         <topic>Measurements verification</topic>
+      </subject>
+      <subject>
+         <topic>Microwave wireless communications</topic>
+      </subject>
+      <subject>
+         <topic>Propagation channel</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2076</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2076</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858823</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200707054231.0</recordChangeDate>
+         <recordIdentifier>991000263279708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

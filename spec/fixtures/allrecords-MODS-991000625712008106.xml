@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Human behavior in home fires</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Gilbert, Stanley.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gilbert, Stanley.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-11-09.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (28 pages) : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Casualties in fires--and in particular, deaths--are tail events. The
+                average fire does not cause deaths or injuries. There is increasing evidence that
+                the people susceptible to dying in fires are a specific subset of the people in
+                homes. It seems likely that the same holds true of the fire and the environment as
+                well. That is, that it is a suite of circumstances that produce deaths (and to a
+                lesser extent injuries) in fires. While there has been a lot of valuable work aimed
+                at identifying characteristics associated with deaths in fire, there has been little
+                aimed at identifying those suites of conditions that produce fire deaths. One that
+                can be readily identified is a cigarette fire ignited on or in the immediate
+                vicinity of a person who is frail. Other suites of circumstances are less clear.
+                There are a number of observations that can be made based on the research regarding
+                fire in domestic environments. The large majority of fires are not reported to the
+                fire department, and evidence suggests that the majority of those fires are put out
+                by the people on site. This occurs in spite of the frequent admonition to Get out,
+                Stay out.... \cite{thompson_2015}. It is a reminder that people do not necessarily
+                always act in accordance with fire-safety messaging. The typical engineering
+                approach to fire design--ASET/RSET--does not explicitly capture all observed
+                behaviors in domestic fires. The basic assumption of the approach is that people
+                react to a fire by evacuating, and that the time to evacuate is mostly independent
+                of the fire. But these assumptions break down for domestic fires. A different
+                approach is warranted for fire design for domestic spaces.</abstract>
+      <note type="statement of responsibility">Stanley Gilbert.</note>
+      <note>November 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-11-03</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fires</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Human behavior</topic>
+      </subject>
+      <subject>
+         <topic>Home fires</topic>
+      </subject>
+      <subject>
+         <topic>Residential fires</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2191</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2191</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389889855</identifier>
+      <identifier type="oclc">on1389889855</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111424.0</recordChangeDate>
+         <recordIdentifier>991000625712008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

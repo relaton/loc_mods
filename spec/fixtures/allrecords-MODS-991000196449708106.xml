@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Investigation of residential cooking fire suppression technologies
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n87136328">
+         <namePart>Hamins, Anthony,</namePart>
+         <namePart type="date">1956-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87136328</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87136328">
+         <namePart>Hamins, Anthony,</namePart>
+         <namePart type="date">1956-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87136328</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86031322">
+         <namePart>Kim, Sŭng-chʻan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86031322</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2018047049">
+         <namePart>Madrzykowski, Daniel.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2018047049</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97027610">
+         <namePart>Kent, Jonathan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97027610</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A wide range of cooking fire experiments were conducted to examine
+                the effectiveness of retrofit residential kitchen fire suppression systems. A series
+                of experiments provided data on the hazard associated with cooking oil fires. Then,
+                a series of real-scale fire suppression experiments followed using scenarios
+                outlined in UL 300A draft standard testing various fire suppression systems.
+                Experiments were conducted in a full-scale residential kitchen with dimensions 3.6 m
+                x 3.4 m x 2.4 m high. Both gas and electric ranges were used. Several types of
+                cooking vessel and oil types were tested. The suppression systems tested included
+                automatic and manual suppression technologies. The manual devices included wet and
+                dry chemical type extinguishers. The automatic systems included room-wide and range
+                hood installed systems. The room wide systems included water mist and a residential
+                sprinkler systems. The hood installed systems included water mist and wet and dry
+                chemical systems. Manual extinguishers consistently suppressed the oil fires while
+                maintaining tenable conditions in the mock-up kitchen. One hood-installed wet
+                chemical system tested demonstrated success in extinguishing the oil fires in all
+                experiments, and maintained tenability in the mock up kitchen throughout most of the
+                experiments. The hood-installed dry chemical system tested failed to extinguish the
+                oil fire in all experiments, and introduced tenability hazards not present prior to
+                the system activation. All other system types tested provided mixed results, they
+                either could not reliably suppress the fire, or they consistently generated
+                tenability hazards in the test kitchen. The results of these experiments point the
+                need to develop other approaches to kitchen fire safety such as ignition prevention
+                technologies and reliable early nuisance-free warning through smoke
+                alarms.</abstract>
+      <note type="statement of responsibility">Anthony Hamins; Sung Chan Kim; Daniel Madrzykowski; Jonathan
+                Kent.</note>
+      <note>February 2018.</note>
+      <note>Title from PDF title page (viewed February 12, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98003737">
+         <topic>Fire protection engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925515">
+         <topic>Fire protection engineering</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fire safety</topic>
+      </subject>
+      <subject>
+         <topic>Building fire safety</topic>
+      </subject>
+      <subject>
+         <topic>Fire suppression</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1969</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1969</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1027219096</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180305</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180305121857.0</recordChangeDate>
+         <recordIdentifier>991000196449708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

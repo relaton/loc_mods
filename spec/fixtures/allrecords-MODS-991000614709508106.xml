@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of standard reference material® 3666</title>
+         <subTitle>albumin and creatinine in frozen human urine</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Green, Ashley Beasley.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2065-4218">
+         <namePart>Green, Ashley Beasley.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2065-4218</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9415-8452">
+         <namePart>Camara, Johanna.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9415-8452</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8430-6757">
+         <namePart>Heckert, N. Alan.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8430-6757</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-06-22.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (28 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) Standard
+                Reference Material® (SRM®) 3666 Albumin and Creatinine in Frozen Human Urine (Level
+                1 to Level 4) delivers certified values for albumin and creatinine in human urine.
+                The material is intended for 1) use in validating measurement procedures and 2) use
+                in qualifying control materials produced in-house and analyzed using measurement
+                methods for the determination of albumin, creatinine, or the albumin-to-creatinine
+                ratio (ACR) in human urine. A unit of SRM 3666 consists of four (4) vials of frozen
+                pooled human urine with endogenous levels of albumin determined using the NIST
+                candidate reference measurement procedure (RMP) for albumin in urine [1]; and
+                creatinine determined using the NIST RMP for creatinine in serum [2]. The certified
+                values and associated uncertainties for albumin and creatinine were used to
+                calculate the ACR for each level (Level 1 to Level 4). This publication documents
+                the production, measurement processes, results, and statistical evaluations involved
+                in the production and certification of SRM 3666.</abstract>
+      <note type="statement of responsibility">Ashley Beasley Green; Johanna Camara; N. Alan Heckert.</note>
+      <note>June 2023.</note>
+      <note>Title from PDF title page (viewed October 24, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-06-22</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Albumins</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Creatinine</topic>
+      </subject>
+      <subject>
+         <topic>Albumin-to-Creatinine Ratio (ACR)</topic>
+      </subject>
+      <subject>
+         <topic>Reference Measurement Procedure (RMP)</topic>
+      </subject>
+      <subject>
+         <topic>Human urine</topic>
+      </subject>
+      <subject>
+         <topic>Standard Reference Material (SRM)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-238</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>260-238</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-238</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253918</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111358.0</recordChangeDate>
+         <recordIdentifier>991000614709508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Interference tests at room temperature applied to deployed low-noise
+                receivers</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kuester, Daniel G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kuester, Daniel G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McGillivray, Duncan A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wunderlich, Adam.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Young, William F.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Wireless interference tests are often performed in shielded anechoic
+                and semi-anechoic chambers near room temperature. The corresponding test condition
+                experienced by a receiver DUT is antenna noise temperature equal to physical room
+                temperature (barring EMI in the test zone). This technical note considers a simple
+                analytical model for adjusting interference response from these room temperature
+                tests for use in deployment antenna noise environments. The method we propose is
+                focused toward applications in which the total receiver system noise is less
+                sensitive to potential variability in antenna noise temperature than receiver noise
+                performance (like noise figure and dissipative losses inside the antenna). Example
+                applications include ground-based satellite receivers (for which antenna noise
+                temperature is likely the averaged sky temperature) or cellular handsets (for which
+                noise may originate primarily within the receiver electronics and antenna). As a
+                case study, we analyze test results published in NIST Technical Note 1952. The DUTs
+                under study are GPS L1 receivers exposed to antenna (sky) noise temperatures of 90 K
+                to 340 K. For practical combinations of receiver noise figure and receive antenna
+                efficiency performance, we develop an regression correction model that transforms
+                interference power levels from the room temperature test environment into estimated
+                equivalents in deployment. The regression is a function of antenna noise
+                temperature, leaving receiver performance variability as a fit error. The worst-case
+                error across the receiver performance parameter space was +/- 1.6 dB, which is
+                tighter than the +/- 2.4 dB uncertainty in the measurement of interference power
+                level.</abstract>
+      <note type="statement of responsibility">Daniel G. Kuester; Duncan A. McGillivray; Adam Wunderlich; William F.
+                Young.</note>
+      <note>October 2017.</note>
+      <note>Title from PDF title page (viewed October 17, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110385">
+         <topic>Radio</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087053">
+         <topic>Radio</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85004932">
+         <topic>Anechoic chambers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/808610">
+         <topic>Anechoic chambers</topic>
+      </subject>
+      <subject>
+         <topic>Wireless (RF)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1971</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1971</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1014186220</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">171207</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20171207032838.0</recordChangeDate>
+         <recordIdentifier>991000192539708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

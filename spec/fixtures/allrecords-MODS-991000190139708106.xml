@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Usability handbook for public safety communications</title>
+         <subTitle>ensuring successful systems for first responders</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Theofanos, Mary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Theofanos, Mary.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2012016196">
+         <namePart>Choong, Yee-Yin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2012016196</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Dawkins, Shanee.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Greene, Kristen.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2004111638">
+         <namePart>Stanton, Brian.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2004111638</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Winpigler, Ryan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.).</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This handbook provides an overview of the user-centered design
+                process and examples of how the process can be applied to the design and development
+                of communications systems for the public safety community.</abstract>
+      <note type="statement of responsibility">Mary Theofanos; Yee-Yin Choong; Shanee Dawkins; Kristen Greene; Brian
+                Stanton; Ryan Winpigler.</note>
+      <note>May 2017.</note>
+      <note>Title from PDF title page (viewed May 26, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008002399">
+         <topic>Public safety</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
+         <topic>Public safety</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029038">
+         <topic>Communication</topic>
+         <topic>Research</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/870003">
+         <topic>Communication</topic>
+         <topic>Research</topic>
+      </subject>
+      <subject>
+         <topic>Usability engineering (System design).</topic>
+      </subject>
+      <subject>
+         <topic>User-centered design (System design).</topic>
+      </subject>
+      <subject>
+         <topic>Requirements analysis</topic>
+      </subject>
+      <subject>
+         <topic>User evaluation</topic>
+      </subject>
+      <subject>
+         <topic>User and task analysis</topic>
+      </subject>
+      <subject>
+         <topic>Usability testing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.HB.161</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook; NIST HB</title>
+            <partNumber>161</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">988608570</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170601</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170606115832.0</recordChangeDate>
+         <recordIdentifier>991000190139708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guidelines on electronic mail security</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Tracy, M. C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tracy, M. C.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009004133">
+         <namePart>Jansen, W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2009004133</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Scarfone, K. A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91082702">
+         <namePart>Butterfield, Justin,</namePart>
+         <namePart type="date">1790-1855</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n91082702</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2007</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2007.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document was developed in furtherance of NIST's statutory
+                responsibilities under the Federal Information Security Management Act (FISMA) of
+                2002, Public Law 107-347. The purpose of the publication is to recommend security
+                practices for designing, implementing, and operating email systems on public and
+                private networks. It contains information on popular email encryption standards and
+                other standards relating to email. It presents general information on securing mail
+                servers' operating systems and specific guidance on securing mail server
+                applications, protecting messages traversing servers, and securing access to
+                mailboxes. It also provides information regarding email client security and mail
+                server administration.</abstract>
+      <note type="statement of responsibility">M. C. Tracy; W. Jansen; K. A. Scarfone; J. Butterfield.</note>
+      <note>2007.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Electronic mail</topic>
+      </subject>
+      <subject>
+         <topic>Email</topic>
+      </subject>
+      <subject>
+         <topic>FISMA</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-45ver2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-45ver2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927735793</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315121005.0</recordChangeDate>
+         <recordIdentifier>991000077079708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

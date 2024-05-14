@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Pre-conceptual design activities of the NIST neutron
+                source</title>
+         <subTitle>preliminary layout of cold and thermal neutron instruments
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Cook, Jeremy C.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6348-1812">
+         <namePart>Cook, Jeremy C.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6348-1812</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9016-2008">
+         <namePart>Majkrzak, Charles F.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9016-2008</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)/0000-0002-9536-3802">
+         <namePart>King, Hubert E.</namePart>
+         <nameIdentifier>(orcid)/0000-0002-9536-3802</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Neumann, Dan A.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>NIST Center for Neutron Research.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-02-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color); tables (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report is relevant to the eventual replacement of NIST’s NBSR
+                research reactor with a new NIST research reactor – the NIST Neutron Source (NNS) -
+                destined to provide enhanced neutron research opportunities for the US into the
+                future. The report outlines preliminary studies undertaken to assess possible cold
+                and thermal beam and instrument layouts for a pre-conceptual design of the NNS. It
+                makes use of a starting wish list of cold and thermal instruments (outlined in
+                Appendix A) and their estimated footprints and accommodates those requiring
+                end-positions, allowing for instrument accessibility. 16 cold neutron guide tubes in
+                a curved-straight geometry (with no direct line-of-sight to the source from their
+                exits) are assumed to conduct the cold neutron beams in opposing directions from two
+                cold neutron sources into two neutron guide halls. The thermal neutron beams,
+                possibly using thermal neutron guides to locate more instruments further from the
+                reactor face, emerge approximately tangentially to the cold neutron beams. In both
+                cases, the beams are tangential to the fuel, to limit acceptance of unscattered fast
+                neutrons. The curvature and reflective coatings of the cold neutron guides are
+                manufacturable with current technology and chosen to provide high cold neutron flux
+                with low short wavelength contamination and a characteristic wavelength of 0.3 nm (3
+                Å) for all 16 curved guide sections. Further improvements, optimizations, and the
+                possibility to accommodate an increased number of instruments will be explored later
+                as the NNS design evolves. This technical note is part of a series of notes
+                describing preliminary analyses and planning for the pre-conceptual design of a
+                reactor to replace, in due course, the National Bureau of Standards Reactor (NBSR)
+                at the NIST Center for Neutron Research. The replacement reactor, dubbed as the NIST
+                Neutron Source (NNS), is currently planned to be a 20 MW pool-type compact core
+                cooled and moderated by H2O and fueled with high-assay low-enriched U-10Mo. The core
+                consists of nine fuel assemblies in a 3x3 square lattice encased in a chimney and
+                surrounded by a D2O-filled reflector tank that contains two LD2 cold sources on
+                opposite sides of the core.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Jeremy C. Cook; Charles F. Majkrzak; Hubert E. King; Dan A.
+                Neumann.</note>
+      <note>February 2024.</note>
+      <note>Title from PDF title page (viewed March 07, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2024-02-12</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Low Enrichment Uranium (LEU).</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Cold neutrons</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Thermal neutrons</topic>
+      </subject>
+      <subject>
+         <topic>Cold neutrons.</topic>
+      </subject>
+      <subject>
+         <topic>Cold neutron sources.</topic>
+      </subject>
+      <subject>
+         <topic>Neutron guides.</topic>
+      </subject>
+      <subject>
+         <topic>Neutron instrumentation.</topic>
+      </subject>
+      <subject>
+         <topic>Neutron research.</topic>
+      </subject>
+      <subject>
+         <topic>Research reactors.</topic>
+      </subject>
+      <subject>
+         <topic>Thermal neutrons.</topic>
+      </subject>
+      <subject>
+         <topic>Low Enrichment Uranium (LEU).</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2280</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2280</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240307</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240423152646.0</recordChangeDate>
+         <recordIdentifier>991000625509608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

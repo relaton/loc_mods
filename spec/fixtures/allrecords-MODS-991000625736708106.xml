@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Internet of Things (IoT) component capability model for research
+                testbed</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Simmon, Eric.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Simmon, Eric.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-17.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (20 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Internet of Things (IoT) is the product of the worlds of information
+                technology (IT) and operational technology (OT)converging. IoT combines the ability
+                to observe the physical world with distributed computing systems that can combine
+                and analyze the resulting data, using the results to better inform decision making,
+                alter the physical environment, and predict future events. While the basic ideas
+                related to IoT are understood, a precise understanding of the IoT concept is
+                lacking, with different groups (including standards development organizations,
+                private companies, consortium, and even government agencies) providing varying
+                definitions for IoT, which results in confusion among stakeholders. This document
+                provides a foundation for IoT that can be used to encourage discussion and
+                conversation around IoT. It describes several key terms and core concepts related to
+                IoT and explains how those terms and concepts relate to each other. The model
+                provides a common language that can be used to communicate, specify, review,
+                analyze, and reason about IoT definitions, documents, architectures, components, and
+                systems.</abstract>
+      <note type="statement of responsibility">Eric Simmon.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cooperating objects (Computer systems)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer architecture</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Objets coopérants (Systèmes informatiques)</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Internet des objets</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Infonuagique</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Ordinateurs</topic>
+         <topic>Architecture</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Computer architecture</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Cooperating objects (Computer systems)</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject>
+         <topic>Distributed computing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8316</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8316</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124489</identifier>
+      <identifier type="oclc">on1346124489</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111446.0</recordChangeDate>
+         <recordIdentifier>991000625736708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

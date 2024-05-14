@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Report on the May 2016 ASTM E57.02 Instrument Runoff at NIST, part 1
+</title>
+         <subTitle>background information and key findings</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/nb2009003147">
+         <namePart>Muralikrishnan, Bala.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2009003147</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2009003147">
+         <namePart>Muralikrishnan, Bala.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2009003147</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Rachakonda, Prem.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shilling, Meghan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88033324">
+         <namePart>Lee, Vincent.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88033324</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2016128033">
+         <namePart>Blackburn, Christopher.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2016128033</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2004066165">
+         <namePart>Sawyer, Daniel.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2004066165</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Cheok, Geraldine.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019071962">
+         <namePart>Cournoyer, Luc,</namePart>
+         <namePart type="date">1960-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019071962</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2019028800">
+         <namePart>Physical Measurement Laboratory (National Institute of Standards and
+                Technology (U.S.)).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019028800</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016-10.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">There is ongoing activity within ASTM E57.02 working group WK43218
+                [1] to develop a documentary standard for point-to-point distance performance
+                evaluation of 3D imaging systems. The Dimensional Metrology Group (DMG) at the
+                National Institute of Standards and Technology (NIST) has established facilities to
+                realize all of the test procedures in the current draft. The DMG hosted an
+                instrument runoff and meeting in the first week of May 2016 to allow manufacturers
+                of 3D imaging systems to run through these test procedures. The runoff occurred
+                between Monday 5/2/2016 and Wednesday 5/4/2016 and a meeting was held on Thursday
+                5/5/2016 to discuss findings. This report provides background information related to
+                this effort and an overview of key discussions and findings during and immediately
+                after the runoff.</abstract>
+      <note type="statement of responsibility">Bala Muralikrishnan; Prem Rachakonda; Meghan Shilling; Vincent Lee;
+                Christopher Blackburn; Daniel Sawyer; Geraldine Cheok; Luc Cournoyer.</note>
+      <note>October 2016.</note>
+      <note>Title from PDF title page (viewed October 31, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001000478">
+         <topic>Three-dimensional imaging</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1150331">
+         <topic>Three-dimensional imaging</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010105499">
+         <topic>Performance</topic>
+         <topic>Evaluation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1057834">
+         <topic>Performance</topic>
+         <topic>Evaluation</topic>
+      </subject>
+      <subject>
+         <topic>Dimensional metrology</topic>
+      </subject>
+      <subject>
+         <topic>ASTM E57</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8152</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8152</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">980304646</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170330</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111149.0</recordChangeDate>
+         <recordIdentifier>991000189299708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

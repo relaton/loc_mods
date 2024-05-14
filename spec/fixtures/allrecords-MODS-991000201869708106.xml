@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Interim testing artifact (ITA), a performance evaluation system for
+                coordinate measuring machines (CMMs)</title>
+         <subTitle>user manual</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Singer, A. T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Singer, A. T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Land, J. L.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002034281">
+         <namePart>Phillips, Steven Dale.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr2002034281</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Sawyer, D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Borchardt, B.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Caskey, G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ward, D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Snoots, P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Faust, B.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1995</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>1995.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">A. T. Singer; J. L. Land; S. D. Phillips; D. Sawyer; B. Borchardt; G.
+                Caskey; D. Ward; P. Snoots; B. Faust.</note>
+      <note>February 1, 1995.</note>
+      <note>Title from PDF title page (viewed June 2, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.5602</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>5602</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">994301648</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190912</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200114084137.0</recordChangeDate>
+         <recordIdentifier>991000201869708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guidelines for securing Wireless Local Area Networks (WLANs)
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Souppaya, M. P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Souppaya, M. P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scarfone, K. A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2012</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2012.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A wireless local area network (WLAN) is a group of wireless
+                networking devices within a limited geographic area, such as an office building,
+                that exchange data through radio communications. The security of each WLAN is
+                heavily dependent on how well each WLAN component⁰₄including client devices, access
+                points (AP), and wireless switches⁰₄is secured throughout the WLAN lifecycle, from
+                initial WLAN design and deployment through ongoing maintenance and monitoring. The
+                purpose of this publication is to help organizations improve their WLAN security by
+                providing recommendations for WLAN security configuration and monitoring. This
+                publication supplements other NIST publications by consolidating and strengthening
+                their key recommendations.</abstract>
+      <note type="statement of responsibility">M. P. Souppaya; K. A. Scarfone.</note>
+      <note>2012.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>802.11</topic>
+      </subject>
+      <subject>
+         <topic>Access points</topic>
+      </subject>
+      <subject>
+         <topic>AP</topic>
+      </subject>
+      <subject>
+         <topic>IEEE 802.11</topic>
+      </subject>
+      <subject>
+         <topic>Wireless Local Area Network</topic>
+      </subject>
+      <subject>
+         <topic>Wireless networking</topic>
+      </subject>
+      <subject>
+         <topic>Wireless networking security</topic>
+      </subject>
+      <subject>
+         <topic>WLAN</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-153</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-153</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927737095</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120947.0</recordChangeDate>
+         <recordIdentifier>991000078049708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

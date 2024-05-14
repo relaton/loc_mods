@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Trusted cloud</title>
+         <subTitle>security practice guide for VMware hybrid cloud infrastructure as a
+                service (IaaS) environments</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bartock, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bartock, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dodson, Donna.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Souppaya, Murugiah.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Carroll, Daniel.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Masten, Robert.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scinta, Gina.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Massis, Paul.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Prafullchandra, Hemma.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Malnar, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Singh, Harmeet.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ghandi, Rajeev.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Storey, Laura E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yeluri, Raghuram.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shea, Tim.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dalton, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Weber, Rocky.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scarfone, Karen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dukes, Anthony.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Haskins, Jeff.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Phoenix, Carlos.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Swarts, Brenda.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-04-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (202 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A cloud workload is an abstraction of the actual instance of a
+                functional application that is virtualized or containerized to include compute,
+                storage, and network resources. Organizations need to be able to monitor, track,
+                apply, and enforce their security and privacy policies on their cloud workloads,
+                based on business requirements, in a consistent, repeatable, and automated way. The
+                goal of this project is to develop a trusted cloud solution that will demonstrate
+                how trusted compute pools leveraging hardware roots of trust can provide the
+                necessary security capabilities. These capabilities not only provide assurance that
+                cloud workloads are running on trusted hardware and in a trusted geolocation or
+                logical boundary, but also improve the protections for the data in the workloads and
+                in the data flows between workloads. The example solution leverages modern
+                commercial off-the-shelf technology and cloud services to address lifting and
+                shifting a typical multi-tier application between an organization-controlled private
+                cloud and a hybrid/public cloud over the internet.</abstract>
+      <note type="statement of responsibility">Michael Bartock; Donna Dodson; Murugiah Souppaya; Daniel Carroll;
+                Robert Masten; Gina Scinta; Paul Massis; Hemma Prafullchandra; Jason Malnar; Harmeet
+                Singh; Rajeev Ghandi; Laura E. Storey; Raghuram Yeluri; Tim Shea; Michael Dalton;
+                Rocky Weber; Karen Scarfone; Anthony Dukes; Jeff Haskins; Carlos Phoenix; Brenda
+                Swarts.</note>
+      <note>April 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-02-28</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Compliance</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Privacy</topic>
+      </subject>
+      <subject>
+         <topic>Cloud technology</topic>
+      </subject>
+      <subject>
+         <topic>Trusted compute pools</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-19</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-19</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890363</identifier>
+      <identifier type="oclc">on1389890363</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111450.0</recordChangeDate>
+         <recordIdentifier>991000626246408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

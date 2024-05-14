@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Specifications, tolerances, and other technical requirements for
+                weighing and measuring devices</title>
+         <subTitle>as adopted by the 107th National Conference on Weights and Measures
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Butcher, Tina G.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2711-9442">
+         <namePart>Butcher, Tina G.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2711-9442</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Harshman, Richard A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Konijnenburg, Jan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lee, G. Diane.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Williams, Juana S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0576-8572">
+         <namePart>Warfield, Lisa.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0576-8572</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2751-7881">
+         <namePart>Benham, Elizabeth J.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2751-7881</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Bowers, Shelby L.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8651-8326">
+         <namePart>Lippa, Katrice A.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8651-8326</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-01-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (563 pages) : illustrations (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST Handbook 44 includes specifications, tolerances, and other
+                technical requirements for weighing and measuring devices. These requirements are
+                intended to encourage the design, installation, testing, and use of weighing and
+                measuring devices that provide for accurate, repeatable measurements; facilitate
+                clear and transparent transactions for buyer and seller; and do not facilitate
+                fraud. Handbook 44 is adopted by many state, local, and some federal weights and
+                measures authorities to apply to commercial weighing and measuring equipment and
+                associated equipment and for use in applications for law enforcement and the
+                collection of statistical information by government agencies. NIST has a statutory
+                responsibility for cooperation with the states in securing uniformity of weights and
+                measures laws and methods of inspection and publishes this and other NIST Handbooks
+                in partial fulfillment of this responsibility. NIST Handbook 44 was first published
+                in 1949, having been preceded by similar handbooks of various designations and in
+                several forms, beginning in 1918; the handbook is now typically published on an
+                annual basis. This 2023 edition includes amendments made through the Committee on
+                Specifications and Tolerances of the National Conference on Weights and Measures
+                (NCWM) with technical guidance from the Office of Weights and Measures (OWM) of the
+                National Institute of Standards and Technology (NIST) and input from weights and
+                measures officials and industry representatives. These amendments were adopted by
+                the NCWM at its 107th Annual Meeting in July 2022.</abstract>
+      <note type="statement of responsibility">Tina G. Butcher; Richard A. Harshman; Jan Konijnenburg; G. Diane Lee;
+                Juana S. Williams; Lisa Warfield; Elizabeth J. Benham; Shelby Bowers; Katrice
+                Lippa.</note>
+      <note>November 2022.</note>
+      <note>Title from PDF title page (viewedJune 6, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-11-17</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Devices</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Weights and measures</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Electric vehicles</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Grain</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Grain--Analysis</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Grain--Weight and measurement</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Grain machinery</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hydrogen</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Measuring Instruments</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Odometers</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Scales (Weighing instruments)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Taximeters</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Automatic timers</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Weighing systems</topic>
+      </subject>
+      <subject>
+         <topic>Dry measures</topic>
+      </subject>
+      <subject>
+         <topic>Electric vehicle fueling systems</topic>
+      </subject>
+      <subject>
+         <topic>Grain analyzers</topic>
+      </subject>
+      <subject>
+         <topic>Grain moisture meters</topic>
+      </subject>
+      <subject>
+         <topic>Hydrogen gas-measuring devices</topic>
+      </subject>
+      <subject>
+         <topic>Liquid-measuring devices</topic>
+      </subject>
+      <subject>
+         <topic>LPG and anhydrous ammonia liquid-measuring</topic>
+      </subject>
+      <subject>
+         <topic>Mass flow meters</topic>
+      </subject>
+      <subject>
+         <topic>Measure-containers</topic>
+      </subject>
+      <subject>
+         <topic>Measuring</topic>
+      </subject>
+      <subject>
+         <topic>Measuring systems</topic>
+      </subject>
+      <subject>
+         <topic>meters</topic>
+      </subject>
+      <subject>
+         <topic>Multiple dimension measuring devices</topic>
+      </subject>
+      <subject>
+         <topic>Timing devices</topic>
+      </subject>
+      <subject>
+         <topic>Transportation network measuring systems</topic>
+      </subject>
+      <subject>
+         <topic>Vehicle tanks</topic>
+      </subject>
+      <subject>
+         <topic>Weighing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.HB.44-2023</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook; NIST HB</title>
+            <partNumber>44-2023</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859184</identifier>
+      <identifier type="oclc">on1405859184</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111404.0</recordChangeDate>
+         <recordIdentifier>991000614607008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

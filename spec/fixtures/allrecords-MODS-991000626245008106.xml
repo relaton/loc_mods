@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Machine learning for access control policy verification</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hu, Vincent C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hu, Vincent C.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-09-16.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (25 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Access control policy verification ensures that there are no faults
+                within the policy that leak or block access privileges. As a software test, access
+                control policy verification relies on methods such as model proof, data structure,
+                system simulation, and test oracle to verify that the policy logic functions as
+                expected. However, these methods have capability and performance issues related to
+                inaccuracy and complexity limited by applied technologies. For instance, model
+                proof, test oracle, and data structure methods initially assume that the policy
+                under verification is faultless unless the policy model cannot hold for test cases.
+                Thus, the challenge of the method is to compose test cases that can comprehensively
+                discover all faults. Alternatively, a system simulation method requires translating
+                the policy to a simulated system. The translation between systems may be difficult
+                or impractical to implement if the policy logic is complicated or the number of
+                policy rules is large. To answer these challenges, this internal report (IR)
+                proposes an efficient and straightforward method for access control policy
+                verification by applying a classification algorithm of machine learning, which does
+                not require comprehensive test cases, oracle, or system translation but rather
+                checks the logic of policy rules directly, making it more efficient and feasible
+                compared to traditional methods.</abstract>
+      <note type="statement of responsibility">Vincent C. Hu.</note>
+      <note>September 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-13</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Machine learning</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Artificial intelligence</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Access control</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8360</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8360</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890103</identifier>
+      <identifier type="oclc">on1389890103</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111449.0</recordChangeDate>
+         <recordIdentifier>991000626245008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

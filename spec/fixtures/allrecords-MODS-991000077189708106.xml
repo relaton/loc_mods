@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guide for assessing the security controls in federal information
+                systems and organizations</title>
+         <subTitle>building effective security assessment plans</subTitle>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>Joint Task Force Transformation Initiative.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Joint Task Force Transformation Initiative.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2010</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2010.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Special Publication 800-53A, Revision 1 provides guidelines for
+                developing security assessment plans and associated security control assessment
+                procedures that are consistent with Special Publication 800-53, Revision 3,
+                Recommended Security Controls for Federal Information Systems and Organizations,
+                August 2009 (including updates as of 05-01-2010). NIST has been working in
+                partnership with the Office of the Director of National Intelligence (ODNI), the
+                Department of Defense (DOD), and the Committee on National Security Systems (CNSS)
+                to develop a common information security framework for the federal government and
+                its contractors. The updated security assessment guideline incorporates best
+                practices in information security from the United States Department of Defense,
+                Intelligence Community, and Civil agencies and includes security control assessment
+                procedures for both national security and non national security systems. The
+                guideline for developing security assessment plans is intended to support a wide
+                variety of assessment activities in all phases of the system development life cycle
+                including development, implementation, and operation. The important changes
+                described in Special Publication 800-53A, Revision 1, are part of a larger strategic
+                initiative to focus on enterprise-wide, near real-time risk management; that is,
+                managing risks from information systems in dynamic environments of operation that
+                can adversely affect organizational operations and assets, individuals, other
+                organizations, and the Nation. The increased flexibility in the selection of
+                assessment methods, assessment objects, and depth and coverage attribute values
+                empowers organizations to place the appropriate emphasis on the assessment process
+                at every stage in the system development life cycle.</abstract>
+      <note type="statement of responsibility">Joint Task Force Transformation Initiative.</note>
+      <note>2010.</note>
+      <note>Superseded by NIST Special Publication 800-53A Revision 4. There were
+                no 800-53A Revision 2 or 3, in order to numerically align with its companion
+                document, Special Publication 800-53 Revison 4.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Assurance requirements</topic>
+      </subject>
+      <subject>
+         <topic>Attributes</topic>
+      </subject>
+      <subject>
+         <topic>Categorization</topic>
+      </subject>
+      <subject>
+         <topic>FISMA</topic>
+      </subject>
+      <subject>
+         <topic>NIST SP 800-53</topic>
+      </subject>
+      <subject>
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Security assessment plans</topic>
+      </subject>
+      <subject>
+         <topic>Security controls</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-53ar1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-53ar1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927735949</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120948.0</recordChangeDate>
+         <recordIdentifier>991000077189708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

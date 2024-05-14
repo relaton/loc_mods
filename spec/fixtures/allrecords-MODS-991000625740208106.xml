@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Open standards for flexible discrete manufacturing in the model-based
+                enterprise</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>White, Mark.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>White, Mark.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Holterman, Eric.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bakker, Tim.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Maggiano, Larry.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-23.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (23 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Commonwealth Center for Advanced Manufacturing is currently
+                constructing an open, standards-based flexible manufacturing cell. The manufacturing
+                cell must take in a product definition, machine the defined part, inspect it, rework
+                as necessary, and provide a final dimensional report. In support of this effort, we
+                define a flexible architecture based entirely on open standards. In this paper we
+                look at standards which support a modelbased engineering approach to conveying
+                product definitions to the manufacturing cell. The STEP AP242, QIF, and JT standards
+                are compared and the various considerations for their use discussed. Finally we
+                define a selected standard to use and the software that will be used in order to
+                implement the chosen standard mix.</abstract>
+      <note type="statement of responsibility">Mark White; Eric Holterman; Tim Bakker; Larry Maggiano.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Flexible manufacturing systems</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Systèmes flexibles de fabrication</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Flexible manufacturing systems</topic>
+      </subject>
+      <subject>
+         <topic>Model based</topic>
+      </subject>
+      <subject>
+         <topic>JT</topic>
+      </subject>
+      <subject>
+         <topic>MBD</topic>
+      </subject>
+      <subject>
+         <topic>MBE</topic>
+      </subject>
+      <subject>
+         <topic>PMI</topic>
+      </subject>
+      <subject>
+         <topic>QIF</topic>
+      </subject>
+      <subject>
+         <topic>STEP</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.20-024</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract
+                report</title>
+            <partNumber>20-024</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124472</identifier>
+      <identifier type="oclc">on1346124472</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111447.0</recordChangeDate>
+         <recordIdentifier>991000625740208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

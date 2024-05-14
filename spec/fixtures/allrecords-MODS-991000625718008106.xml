@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Assessing security and privacy controls in information systems and
+                organizations</title>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>Joint Task Force.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Joint Task Force.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-01-25.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (733 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This publication provides a methodology and set of procedures for
+                conducting assessments of security and privacy controls employed within systems and
+                organizations within an effective risk management framework. The assessment
+                procedures, executed at various phases of the system development life cycle, are
+                consistent with the security and privacy controls in NIST Special Publication
+                800-53, Revision 5. The procedures are customizable and can be easily tailored to
+                provide organizations with the needed flexibility to conduct security and privacy
+                control assessments that support organizational risk management processes and are
+                aligned with the stated risk tolerance of the organization. Information on building
+                effective security and privacy assessment plans is also provided with guidance on
+                analyzing assessment results.</abstract>
+      <note type="statement of responsibility">Joint Task Force.</note>
+      <note>January 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-01-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Federal Information Security Management Act of
+                2002</namePart>
+         </name>
+      </subject>
+      <subject>
+         <topic>Assessment</topic>
+      </subject>
+      <subject>
+         <topic>Assessment plan</topic>
+      </subject>
+      <subject>
+         <topic>Assurance</topic>
+      </subject>
+      <subject>
+         <topic>Control assessment</topic>
+      </subject>
+      <subject>
+         <topic>FISMA</topic>
+      </subject>
+      <subject>
+         <topic>Privacy controls</topic>
+      </subject>
+      <subject>
+         <topic>Open Security Controls Assessment Language (OSCAL)</topic>
+      </subject>
+      <subject>
+         <topic>Privacy requirements</topic>
+      </subject>
+      <subject>
+         <topic>Risk Management Framework</topic>
+      </subject>
+      <subject>
+         <topic>Security controls</topic>
+      </subject>
+      <subject>
+         <topic>Security requirements</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-53Ar5</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.SP.800-53Ar4" displayLabel="10.6028/NIST.SP.800-53Ar4"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-53Ar5</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890229</identifier>
+      <identifier type="oclc">on1389890229</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625718008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

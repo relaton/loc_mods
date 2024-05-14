@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>It’s not always what the eye can see – challenges in the evaluation
+                of augmented reality</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Goad, Kurtis.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0008-0639-2582">
+         <namePart>Goad, Kurtis.</namePart>
+         <nameIdentifier>(orcid)0009-0008-0639-2582</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9036-0744">
+         <namePart>Mangold, Kevin.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9036-0744</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7013-6603">
+         <namePart>Furman, Susanne.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7013-6603</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-19.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Augmented reality (AR) technology is developing at a fast pace.
+                Usability evaluation methodologies for AR need to be updated to accommodate the
+                increasing complexity of AR technology. Eye tracking metrics, which have been
+                historically successful in traditional, often computer-based technology, have been
+                underutilized when evaluating AR devices. Literature review shows documentation of
+                usability methodology used to evaluate AR since 2000. But these reviews did not
+                address the reasons why evaluators have chosen or excluded certain methods, like eye
+                tracking. They also did not address certain evaluations, such as those performed in
+                the industry sector, which are not typically published. This exploratory study
+                addressed these gaps by deploying semi-structured interviews to gain an
+                understanding of the experiences professionals have when evaluating AR technology.
+                Our results show that participants rely most heavily on user feedback and
+                questionnaires/surveys during evaluation. Most participants did not use eye tracking
+                methods. They cited a number of challenges evaluating AR technology and the use of
+                eye tracking, including difficulties in data collection and a lack of consistency
+                and standards across devices.</abstract>
+      <note type="statement of responsibility">Kurtis Goad; Kevin Mangold; Susanne Furman.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed December 13, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-13</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Augmented reality</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Eye tracking</topic>
+      </subject>
+      <subject>
+         <topic>Usability evaluation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8489</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8489</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8489</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1415979327</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111410.0</recordChangeDate>
+         <recordIdentifier>991000617808508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Present value of photovoltaics - [PV]2</title>
+         <subTitle>user guide</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Webb, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Donmoyer, Luke.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-08-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (86 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Homeowners are increasingly interested in installing solar
+                photovoltaic (PV) systems on the roof of their homes. There is a lack of publicly
+                available tools to assist homeowners in making such an investment decision. The
+                Applied Economic Office (AEO) in the Engineering Laboratory (EL) of the National
+                Institute of Standards and Technology (NIST) is addressing this need by developing a
+                free, public web interface that provides independent economic analysis for a
+                specific home based on a user s solar installation quote and electricity
+                bill.</abstract>
+      <note type="statement of responsibility">Joshua Kneifel; David Webb; Luke Donmoyer.</note>
+      <note>August 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-08-25</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Life cycle costing</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Dwellings</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Commercial buildings</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Sustainability</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Sustainable buildings</topic>
+      </subject>
+      <subject>
+         <topic>Building economics</topic>
+      </subject>
+      <subject>
+         <topic>Life cycle assessment</topic>
+      </subject>
+      <subject>
+         <topic>Life cycle impact assessment</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2219r1</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.TN.2219" displayLabel="10.6028/NIST.TN.2219"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2219r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890475</identifier>
+      <identifier type="oclc">on1389890475</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111504.0</recordChangeDate>
+         <recordIdentifier>991000626258208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

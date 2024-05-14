@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Predicting the performance of long distance tropospheric
+                communication circuits</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80006175">
+         <namePart>Barsis, A. P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n80006175</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80006175">
+         <namePart>Barsis, A. P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n80006175</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021015342">
+         <namePart>Norton, Kenneth A.,</namePart>
+         <namePart type="date">1907-1992</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021015342</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88650271">
+         <namePart>Rice, P. L. (Patricia L.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88650271</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Bureau of Standards ;</publisher>
+         <dateIssued>1958.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Comparison of calculated and measured values of transmission loss for
+                tropospheric propagation paths shows that there is an appreciable amount of
+                uncertainty in the prediction process. Departures of observed from predicted values
+                may be regarded as normally distributed when expressed in decibels, and this paper
+                considers methods of estimating these standard deviations. In order to predict the
+                performance of a communication system over a given path, it is necessary to define
+                the grade of service, the time availability of this grade of service and the
+                reliability of the predictions. The short-term (within-the-hour) signal fading is
+                conveniently included in the definition of the grade of service, in terms of a
+                required hourly median r.m.s.-carrier to r.m.s.-noise ratio. Next, the time
+                availability of a given grade of service is specified in terms of the percentage of
+                hours in a year that this minimum carrier-to-noise ratio is exceeded. To determine
+                the time availability it is necessary to obtain the distributions with time of
+                hourly medians for the path with given geometrical and meteorological
+                characteristics. In this paper the three concepts, grade of service, time
+                availability, and reliability of prediction are brought together in a single
+                graphical representation. The graph has two probability scales; the ordinate shows
+                the percentage of hours service is available (time availability), and the abscissa
+                shows the service probability (reliability of the prediction), where each curve
+                corresponds to a system with given operating characteristics such as transmitter
+                power, antenna size, etc. Each curve could therefore be labeled by a figure
+                representing installation and operating costs, and various systems may thus be
+                compared on the basis of cost versus probability of successful operation.</abstract>
+      <note type="statement of responsibility">A. P. Barsis; K. A. Norton; P. L. Rice.</note>
+      <note>December 1958.</note>
+      <note>Title from PDF title page (viewed September 24, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85138080">
+         <topic>Tropospheric radio wave propagation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1157530">
+         <topic>Tropospheric radio wave propagation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110586">
+         <topic>Radio waves</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087617">
+         <topic>Radio waves</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.RPT.6032</url>
+      </location>
+      <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="series" xlink:href="https://id.loc.gov/authorities/names/no2008092611">
+         <titleInfo>
+            <title>NBS report</title>
+            <partNumber>6032</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132808582</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20191223031149.0</recordChangeDate>
+         <recordIdentifier>991000232789708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

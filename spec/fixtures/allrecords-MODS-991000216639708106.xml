@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of standard reference material SRM2687a</title>
+         <subTitle>Portland cement clinker</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2014050342">
+         <namePart>Stutzman, Paul.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2014050342</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5160-9006">
+         <namePart>Stutzman, Paul.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5160-9006</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022027346">
+         <namePart>Heckert, Alan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022027346</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A new Standard Reference Material (SRM) for portland cement clinker
+                has been produced for the Office of Standard Reference Materials at the National
+                Institute of Standards and Technology (NIST). The SRM clinkers are intended for use
+                in developing and testing quantitative methods of phase analysis for portland cement
+                and cement clinker. The new SRM is one of three clinkers available from NIST
+                representing the range of textures and compositions of North American clinker
+                production. As the original SRM stock for SRM2687 has been depleted, new material
+                was obtained that retained the fine-grained texture of that SRM. Certification of
+                the phase composition of the clinker is based upon consensus means and uncertainties
+                of two independent analytical methods: scanning electron microscopy with image
+                analysis and X-ray powder diffraction (XRD) analyses. The XRD data were subdivided
+                to provide two separate sample sets and were processed by two different Rietveld
+                refinement codes. These codes differed slightly in the determination of the silicate
+                phases, which have very similar powder diffraction patterns and can be difficult to
+                decompose. Therefore, the input data set for determination of the consensus means,
+                uncertainties and informational values is composed of two distinct XRD data sets and
+                one SEM/image analysis data set. The XRD data are close to that determined by
+                microscopy, but some distinct differences are seen. The disagreements may reflect
+                the difficulty in resolving the fine-sized aluminate and ferrite interstitial phases
+                using the microscope and challenges in decomposing highly overlapped powder
+                diffraction data. The XRD data do display greater precision than replicate
+                measurements by microscopy, likely the result of the specimen homogenization
+                resulting from grinding the clinker to a powder. The certified reference values are
+                consensus values, calcuated by combining the results from both measurement
+                techniques using the DerSimonian-Laird method with the standard un</abstract>
+      <note type="statement of responsibility">Paul Stutzman; Alan Heckert.</note>
+      <note>March 2019.</note>
+      <note>Title from PDF title page (viewed March 19, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no91030409">
+         <name type="corporate">
+            <namePart>Standard Reference Materials Program (National Institute of Standards
+                and Technology (U.S.))</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/673491">
+         <name type="corporate">
+            <namePart>Standard Reference Materials Program (National Institute of Standards
+                and Technology (U.S.))</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no90015103">
+         <name type="corporate">
+            <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+            <namePart>Office of Standard Reference Materials.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/643187">
+         <name type="corporate">
+            <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85021736">
+         <topic>Cement clinkers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/850455">
+         <topic>Cement clinkers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85105088">
+         <topic>Portland cement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1072092">
+         <topic>Portland cement</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-195</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-195</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1097556907</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190417</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102145727.0</recordChangeDate>
+         <recordIdentifier>991000216639708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

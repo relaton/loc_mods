@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Per- and polyfluoroalkyl substances in firefighter turnout gear
+                textiles exposed to abrasion, elevated temperature, laundering, or weathering
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Benner, Bruce.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7589-5625">
+         <namePart>Benner, Bruce.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7589-5625</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0327-0519">
+         <namePart>Kucklick, John.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0327-0519</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0953-5215">
+         <namePart>Place, Benjamin.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0953-5215</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1419-6062">
+         <namePart>Reiner, Jessica.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1419-6062</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6734-6629">
+         <namePart>Rimmer, Catherine.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6734-6629</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3990-2111">
+         <namePart>Rodowa, Alix E.</namePart>
+         <nameIdentifier>(orcid)0000-0002-3990-2111</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2264-0490">
+         <namePart>Davis, Rick D.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2264-0490</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1800-5515">
+         <namePart>Donnelly, Michelle.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1800-5515</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0700-3250">
+         <namePart>Escobar Veras, Samuel.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0700-3250</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7039-5835">
+         <namePart>Falkenstein-Smith, Ryan.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7039-5835</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Hernandez, Olivia.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4320-0742">
+         <namePart>Hoffman, Kathleen.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4320-0742</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2981-5241">
+         <namePart>Maizel, Andrew.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2981-5241</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ngu, Trung.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5717-6902">
+         <namePart>Thompson, Andre.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5717-6902</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8930-892X">
+         <namePart>Tighe, Meghanne.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8930-892X</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Wetzler, Nadine.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory; Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-01-16.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (164 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Textiles used in the construction of structural firefighter turnout
+                gear jackets and pants have been found to contain per- and polyfluoroalkyl
+                substances (PFAS) as well as fluoropolymer membranes and treatments containing
+                fluorinated polymers. Additionally, older and used turnout gear have been found to
+                contain greater concentrations of PFAS compared with new gear, though the source of
+                these elevated PFAS concentrations is still under investigation. To determine if the
+                stressing turnout gear textiles encounter during typical use could contribute to the
+                observation of higher PFAS concentrations, this Technical Note reports the
+                concentrations of 51 PFAS in 20 firefighter turnout gear textiles following exposure
+                to abrasion, elevated temperatures, laundering, or weathering by exposure to
+                ultraviolet radiation and elevated humidity. Compared with corresponding
+                concentrations in unstressed textiles, individual and summed PFAS concentrations
+                were higher following exposure to abrasion, elevated temperature, and weathering,
+                but were similar or slightly lower following laundering. For example, the median
+                summed PFAS concentrations among durable water repellent treated outer shell
+                textiles rose from 1,430 µg/kg when new to 3,500 µg/kg with abrasion, 4,420 µg/kg
+                with exposure to elevated temperatures, and 3,540 µg/kg with weathering, while it
+                fell to 963 µg/kg with laundering. These changes in summed PFAS concentrations with
+                stressing largely reflected changes in the concentrations of PFAS that were present
+                in the highest concentration in unstressed turnout gear textiles: 6:2 FTMAC and 6:2
+                FTOH. Consequently, while physical stressing may contribute to altered PFAS
+                concentrations in stressed compared with unstressed turnout gear textiles, the
+                mechanisms responsible for these changes cannot be authoritatively identified by the
+                targeted analytical approach employed here. For example, the analytical approached
+                used in this report cannot distinguish between PFAS production by the chemical
+                transformation of PFAS that were excluded from the targeted analyte list from
+                enhanced PFAS extraction due to degradation of firefighter gear textiles and their
+                associated fluorinated polymer treatments.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Andrew Maizel; Andre Thompson; Meghanne Tighe; Samuel Escobar Veras;
+                Alix Rodowa; Ryan Falkenstein-Smith; Bruce A. Benner Jr.; Kathleen Hoffman; Michelle
+                K. Donnelly; Olivia Hernandez; Nadine Wetzler; Trung Ngu; Jessica Reiner; Benjamin
+                Place; John Kucklick; Kate Rimmer; Rick D. Davis.</note>
+      <note>January 2024.</note>
+      <note>Title from PDF title page (viewed February 29, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-06</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Perfluorinated chemicals</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Weathering</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Ultraviolet radiation</topic>
+      </subject>
+      <subject>
+         <topic>Abrasion</topic>
+      </subject>
+      <subject>
+         <topic>Durable water repellent</topic>
+      </subject>
+      <subject>
+         <topic>Firefighter</topic>
+      </subject>
+      <subject>
+         <topic>Laundering</topic>
+      </subject>
+      <subject>
+         <topic>Moisture barrier</topic>
+      </subject>
+      <subject>
+         <topic>Outer shell</topic>
+      </subject>
+      <subject>
+         <topic>Per- and polyfluoroalkyl substances</topic>
+      </subject>
+      <subject>
+         <topic>PFAS</topic>
+      </subject>
+      <subject>
+         <topic>Stressing</topic>
+      </subject>
+      <subject>
+         <topic>Turnout gear</topic>
+      </subject>
+      <subject>
+         <topic>Thermal liner</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2260</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2260</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240229</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111406.0</recordChangeDate>
+         <recordIdentifier>991000624909208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST transportation systems and functional recovery workshop report
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Beyzaei, Christine Z.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6724-1632">
+         <namePart>Beyzaei, Christine Z.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6724-1632</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7199-8750">
+         <namePart>Johnson, Katherine J.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7199-8750</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4094-2962">
+         <namePart>Nikolaou, Sissy.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4094-2962</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1096-7015">
+         <namePart>Sattar, Siamak.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1096-7015</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6114-7992">
+         <namePart>Dukes, Jazalyn.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6114-7992</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3959-1808">
+         <namePart>Saadat, Yalda.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3959-1808</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Current codes and standards for seismic design are based on a
+                life-safety approach, meaning that the focus is on saving lives when an earthquake
+                occurs. The most recent reauthorization of the National Earthquake Hazards Reduction
+                Program (NEHRP), P.L. 115-307 recognizes that to strengthen America’s resilience to
+                earthquakes, it is necessary to advance beyond a life-safety approach towards also
+                preserving the functionality of buildings and lifeline infrastructure systems. This
+                would enable community members to return to their homes and businesses, and resume
+                community activities, more quickly after an earthquake occurs. One new target under
+                development for extending performance beyond life safety is referred to as
+                “functional recovery.” A committee of subject matter experts organized by the
+                National Institute of Standards and Technology (NIST) and the Federal Emergency
+                Management Agency (FEMA) identified options and recommendations for moving the
+                Nation towards functional recovery in a report titled “FEMA P-2090/NIST SP-1254:
+                Recommended options for improving the built environment for post-earthquake
+                reoccupancy and functional recovery time”, or the “NISTFEMA Report.” Recommendation
+                1 from the NIST-FEMA Report provides an overarching recommendation to “Develop a
+                Framework for Post-Earthquake Reoccupancy and Functional Recovery Objectives.”
+                Recommendation 4 from the NIST-FEMA Report addresses lifeline infrastructure
+                systems, with the recommendation being to “Design, Upgrade, and Maintain Lifeline
+                Infrastructure Systems to Meet Recovery-Based Objectives.” Lifeline infrastructure
+                systems include transportation systems such as roads, highways, bridges, rail, and
+                ports. This document summarizes a NIST-organized workshop held in September 2022 on
+                transportation systems and functional recovery. The event enabled discussion,
+                knowledge transfer, and interaction with subject matter experts from both research
+                and practitioner backgrounds on mechanisms for improving functional recovery and
+                resilience of transportation systems for earthquake events. Invited speakers were
+                selected to provide representation from diverse groups and presentations were shared
+                on both research and practical projects or programs, including from the Federal
+                Highway Administration (FHWA). Informed by past projects and interactions with FHWA,
+                the topical areas for presentations were designed to provide workshop attendees with
+                an overview of cutting-edge research, practice, and ongoing federal programs to
+                broaden perspectives and stimulate cross-disciplinary insights throughout the day.
+                The workshop also included breakout sessions, report-outs, and discussion among
+                workshop attendees on key questions to identify the current status, challenges,
+                priorities, and future vision for transportation systems and functional recovery.
+                This effort is a continuation of earlier efforts in developing the NIST-FEMA Report
+                to explore options for functional recovery and is not intended to set any functional
+                recovery goals or recovery times for transportation systems. It is intended provide
+                insights on functional recovery and transportation systems and inform development of
+                a functional recovery framework. This report details the discussion and important
+                themes that emerged from the workshop. The insights gained from the workshop will
+                help to identify research needs and paths forward to continue working toward
+                Recommendation 1 and Recommendation 4 of the NIST-FEMA Report.</abstract>
+      <note type="statement of responsibility">Christine Z. Beyzaei; Katherine J. Johnson; Sissy Nikolaou; Siamak
+                Sattar; Jazalyn Dukes; Yalda Saadat.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed December 13, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-15</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Built environment</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Performance</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Transportation</topic>
+      </subject>
+      <subject>
+         <topic>Safety</topic>
+      </subject>
+      <subject>
+         <topic>Recovery-based objective</topic>
+      </subject>
+      <subject>
+         <topic>Natural hazard</topic>
+      </subject>
+      <subject>
+         <topic>Lifeline services</topic>
+      </subject>
+      <subject>
+         <topic>Lifeline infrastructure systems</topic>
+      </subject>
+      <subject>
+         <topic>Functionality</topic>
+      </subject>
+      <subject>
+         <topic>Functional recovery</topic>
+      </subject>
+      <subject>
+         <topic>Earthquake risk reduction</topic>
+      </subject>
+      <subject>
+         <topic>Critical infrastructure</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1295</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>1295</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1295</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1415978403</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111408.0</recordChangeDate>
+         <recordIdentifier>991000617808408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

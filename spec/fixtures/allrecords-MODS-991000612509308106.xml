@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Uniform laws and regulations in the areas of legal metrology and fuel
+                quality</title>
+         <subTitle>as adopted by the 107th National Conference on Weights and Measures
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Butcher, Tina G.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2711-9442">
+         <namePart>Butcher, Tina G.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2711-9442</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7407-1950">
+         <namePart>Sefcik, David A.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7407-1950</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0576-8572">
+         <namePart>Warfield, Lisa.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0576-8572</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Bowers, Shelby.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8651-8326">
+         <namePart>Lippa, Katrice A.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8651-8326</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New edition</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-02-13</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (309 pages) : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST Handbook 130 includes a compilation of model laws and
+                regulations and related interpretations and guidelines designed to encourage
+                uniformity in adoption and implementation of weights and measures laws and
+                regulations. The model laws and regulations included in NIST Handbook 130 are
+                adopted in various forms by many state, local, and some federal weights and measures
+                authorities. Some authorities adopt the current versions as written; some use them
+                as the basis of adoption, but from an earlier year; some use them as a guideline
+                only; some elect to use their own laws or regulations; and some have no
+                corresponding law or regulation in place. The National Institute of Standards and
+                Technology (NIST) has a statutory responsibility to promote "cooperation with the
+                states in securing uniformity in weights and measures laws and method of inspection”
+                and publishes this and other NIST Handbooks in partial fulfillment of this
+                responsibility. This 2023 edition includes amendments made through the Committee on
+                Laws and Regulations of the NCWM with technical guidance from the Office of Weights
+                and Measures (OWM) of the National Institute of Standards and Technology (NIST) and
+                input from weights and measures officials and industry representatives. These
+                amendments were adopted by the NCWM at its 107th Annual Meeting in July 2022. At the
+                1983 Annual Meeting, the NCWM voted to change the title of Handbook 130 from “Model
+                State Laws and Regulations” was to be changed to “Uniform Laws and Regulations” to
+                reflect that these Laws and Regulations are (a) intended to be standards rather than
+                just guidelines, and (b) intended for adoption by political subdivisions other than
+                states when deemed appropriate. In 1995 the title was changed to Uniform Laws and
+                Regulations in the areas of legal metrology and motor fuel quality. In the 1997
+                Edition of Handbook 130 was changed from "Uniform Laws and Regulations the words
+                “motor fuel quality" was changed to “engine fuel quality" to reflect changes made to
+                the Uniform Engine Fuels, Petroleum Products, and Automotive Lubricants Law and
+                Regulation. In 2018, the scope of the Fuels regulation was expanded to encompass the
+                changing fuels in the marketplace, and the title to the Handbook was changed to how
+                it appears today.</abstract>
+      <note type="statement of responsibility">Tina G. Butcher; David A. Sefcik; Lisa Warfield; Shelby L. Bowers;
+                Katrice A. Lippa.</note>
+      <note>December 2022.</note>
+      <note>Title from PDF title page (viewed September 20, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-12-20.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Motor fuels</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Weights and measures</topic>
+         <topic>Law and legislation</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject>
+         <topic>Automotive lubricants</topic>
+      </subject>
+      <subject>
+         <topic>Fuels</topic>
+      </subject>
+      <subject>
+         <topic>Labeling</topic>
+      </subject>
+      <subject>
+         <topic>Laws and regulations</topic>
+      </subject>
+      <subject>
+         <topic>Measuring</topic>
+      </subject>
+      <subject>
+         <topic>Method of sale</topic>
+      </subject>
+      <subject>
+         <topic>Metrology</topic>
+      </subject>
+      <subject>
+         <topic>NTEP</topic>
+      </subject>
+      <subject>
+         <topic>Packaging</topic>
+      </subject>
+      <subject>
+         <topic>Price verification</topic>
+      </subject>
+      <subject>
+         <topic>Registration of servicepersons</topic>
+      </subject>
+      <subject>
+         <topic>Type evaluation</topic>
+      </subject>
+      <subject>
+         <topic>Unit pricing</topic>
+      </subject>
+      <subject>
+         <topic>Weighing</topic>
+      </subject>
+      <subject>
+         <topic>Weights and measures law</topic>
+      </subject>
+      <subject>
+         <topic>Weighmaster law</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.HB.130-2023</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook</title>
+            <partNumber>130-2023</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.HB.130-2022</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook; NIST HB</title>
+            <partNumber>130-2023</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253637</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111404.0</recordChangeDate>
+         <recordIdentifier>991000612509308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

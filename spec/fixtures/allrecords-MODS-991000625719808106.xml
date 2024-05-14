@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>design and performance of a second-generation phi meter
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Falkenstein-Smith, Ryan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Falkenstein-Smith, Ryan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cleary, Thomas.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-01-05.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (39 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report documents the design and performance of a
+                second-generation phi meter used in multi-scale experimental applications. A
+                constructed second-generation phi meter is implemented in bench and 2/5th scale
+                experiments to demonstrate the instrument s ability to conduct global and local
+                equivalence ratio measurements and gas species concentrations of combustion products
+                (i.e., carbon dioxide, water vapor, and oxygen) without knowledge of the sampled
+                fuel composition. Bench-scale experiments evaluated the second-generation phi meter
+                s functionality by introducing known fuel-air ratios into the instrument and
+                verifying measurements via the carbon to hydrogen ratio and mass balance. The
+                bench-scale experiments selected methane, propane, and propene as the fuels of
+                interest. The 2/5th scale experiments implemented two second-generation phi meters
+                in a series of 25 kW methane backdraft experiments. Backdraft experiments provided
+                an ideal setting to test the phi meter s performance by subjecting the instrument to
+                a transient heterogeneous gas mixture. The phi meters sampling location was
+                positioned such that the extracted gas samples fed into the instrument were unknown.
+                Global and local equivalence ratio measurements made in the 2/5th scale compartment
+                were compared to independent gas analyzer and gas chromatograph measurements. In the
+                bench-scale experiments, the global equivalence ratio, water vapor concentration,
+                and carbon to hydrogen ratio measurements are in fair agreement with their expected
+                values. Real-time global and local equivalence ratio and carbon to hydrogen ratio
+                measurements obtained during a backdraft experiment were observed to increase as the
+                fuel concentration within the 2/5th scale compartment increased. Real-time global
+                and local equivalence ratios were verified by the independent
+                instrumentation.</abstract>
+      <note type="statement of responsibility">Ryan Falkenstein-Smith; Thomas Cleary.</note>
+      <note>January 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-11-24</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fuel</topic>
+      </subject>
+      <subject>
+         <topic>Global equivalence ratio</topic>
+      </subject>
+      <subject>
+         <topic>Gas extraction sampling</topic>
+      </subject>
+      <subject>
+         <topic>Local equivalence ratio</topic>
+      </subject>
+      <subject>
+         <topic>Phi meter</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2184</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2184</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890190</identifier>
+      <identifier type="oclc">on1389890190</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111425.0</recordChangeDate>
+         <recordIdentifier>991000625719808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

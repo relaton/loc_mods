@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Standard Reference Materials certification report for SRM 2214
+</title>
+         <subTitle>density of iso-octane for extended ranges of temperature and pressure
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>McLinden, Mark O.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McLinden, Mark O.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Splett, Jolene.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.).</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report of analysis documents procedures used to obtain certified
+                values and associated uncertainties of the density of iso-octane SRM 2214 over an
+                extended range of temperatures and pressures. This SRM is certified over the
+                temperature range 50 degrees C to 160 degrees C and pressure range of 0.1 MPa to 30
+                MPa; an interpolation model is provided to calculate the density within these
+                ranges. This SRM has a density of 691.853 kg?m3 at t = 20 degrees C and p = 0.1 MPa.
+                The certification measurements were carried out in a two-sinker magnetic-suspension
+                densimeter. The SRM material is commercial, high-purity iso-octane
+                (2,2,4-trimethylpentane, CAS 540-84-1). Measurements were made on both degassed
+                material and material saturated with nitrogen, and an estimated correction surface
+                (valid over the range 50 degrees C ? t ? 100 degrees C and 0.1 MPa ? p ? 20 MPa)
+                gives the density difference between the nitrogen-saturated and degassed materials.
+                A thorough analysis of the uncertainties is presented; this includes effects
+                resulting from the experimental density determination, possible degradation of the
+                sample due to time and exposure to high temperatures, dissolved air, uncertainties
+                in the empirical density model, and the sample-to-sample variations in the SRM
+                vials. Also considered is the effect of uncertainties in the users temperature and
+                pressure measurements. This SRM is intended for the calibration of industrial
+                densimeters.</abstract>
+      <note type="statement of responsibility">Mark O. McLinden; Jolene Splett.</note>
+      <note>Title from PDF title page (viewed October 30, 2016).</note>
+      <note>October 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85083608">
+         <topic>Measurement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1715944">
+         <topic>Measurement</topic>
+      </subject>
+      <subject>
+         <topic>Iso-octane</topic>
+      </subject>
+      <subject>
+         <topic>density</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-186</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-186</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662209</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102145555.0</recordChangeDate>
+         <recordIdentifier>991000188409708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

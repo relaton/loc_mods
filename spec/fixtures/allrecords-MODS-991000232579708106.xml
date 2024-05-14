@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Liquid-vapor phase equilibrium in solutions of oxygen and nitrogen at
+                pressures below one atmosphere</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n81040759">
+         <namePart>Armstrong, George Thomson,</namePart>
+         <namePart type="date">1916-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81040759</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81040759">
+         <namePart>Armstrong, George Thomson,</namePart>
+         <namePart type="date">1916-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81040759</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Goldstein, Jack M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Roberts, D. Ellis.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Bureau of Standards ;</publisher>
+         <dateIssued>1955.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A cryostat and equilibrium vessel together with auxiliary apparatus
+                for establishing equilibrium between liquid and vapor phases of solutions of low
+                boiling material by a circulation method is described. The equilibrium vessel
+                incorporates a novel liquid sampling device. Vapor and liquid compositions and total
+                vapor pressures of solutions of oxygen and nitrogen were measured along isotherms at
+                77.5[degrees], 70[degrees] and 65[degrees]K. The activity coefficients of nitrogen
+                and oxygen may be represented by equations of the form [...] cal/cm^ mole has the
+                values 1.22 at 77.5[degrees], 1.38 at 70[degrees] and 1.47 at 65[degrees]K. The
+                deviations of the solutions from ideality are much less than is to be expected of
+                regular solutions, in which the interaction energy between unlike molecules follows
+                a geometric mean law. The data are not entirely consistent with the assumption that
+                molar volumes are additive in the solutions. In an appendix a study of the vapor
+                pressure of nitrogen is described.</abstract>
+      <note type="statement of responsibility">George T. Armstrong; Jack M. Goldstein; D. Ellis Roberts.</note>
+      <note>January 1955.</note>
+      <note>Title from PDF title page (viewed September 24, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85096329">
+         <topic>Oxygen</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1049616">
+         <topic>Oxygen</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85092062">
+         <topic>Nitrogen</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1038046">
+         <topic>Nitrogen</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.RPT.3921</url>
+      </location>
+      <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="series" xlink:href="https://id.loc.gov/authorities/names/no2008092611">
+         <titleInfo>
+            <title>NBS report</title>
+            <partNumber>3921</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132808558</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20191223031146.0</recordChangeDate>
+         <recordIdentifier>991000232579708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

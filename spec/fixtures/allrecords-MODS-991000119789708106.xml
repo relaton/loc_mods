@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Evaluation of selected Navy equipment for the women-aboard-ship
+                program</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83062181">
+         <namePart>Palla, Robert L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n83062181</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83062181">
+         <namePart>Palla, Robert L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n83062181</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Jones, Clarke E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113674">
+         <namePart>Lovett, C. Denver.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021113674</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85084863">
+         <namePart>Porter, Louis G.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85084863</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80004000">
+         <namePart>Collins, Belinda Lowenhaupt.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n80004000</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1980</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1979.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A study of the human factors aspects of five selected items of Navy
+                equipment, namely, oxygen breathing apparatus, safety harness, emergency escape
+                scuttle, life rails, and rotary observation windows, has been undertaken to ensure
+                that the smaller size and lesser strength of females would not be a deterrent to the
+                use of the equipment by women. The study involved a review of the applicable
+                specifications for each item of equipment, a survey and enumeration of male and
+                female anthropometric data, and a linking of engineering and anthropometric data.
+                Each item has been assigned to a hazard category. Of the five items evaluated, two
+                appear to pose significant problems when used by women. Fit and high deceleration
+                forces were the major concerns for the safety harness while operating force
+                requirements were critical for the escape scuttle. In addition, there were also some
+                difficulties for some women in the use of the oxygen breathing apparatus.</abstract>
+      <note type="statement of responsibility">Robert L. Palla Jr.; Clarke E. Jones; C. Denver Lovett; Louis G.
+                Porter; Belinda L. Collins.</note>
+      <note>December 1979.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n79059051">
+         <name type="corporate">
+            <namePart>United States.</namePart>
+            <namePart>Navy.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/533204">
+         <name type="corporate">
+            <namePart>United States.</namePart>
+            <namePart>Navy.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh89000359">
+         <name type="corporate">
+            <namePart>United States.</namePart>
+            <namePart>Navy</namePart>
+         </name>
+         <topic>Women</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/533204">
+         <name type="corporate">
+            <namePart>United States.</namePart>
+            <namePart>Navy.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85141002">
+         <name type="corporate">
+            <namePart>United States.</namePart>
+            <namePart>Navy</namePart>
+         </name>
+         <topic>Safety measures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/971664">
+         <topic>Industrial safety</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85005588">
+         <topic>Anthropometry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/810253">
+         <topic>Anthropometry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85147275">
+         <topic>Women</topic>
+         <topic>Anthropometry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1176580">
+         <topic>Women</topic>
+         <topic>Anthropometry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85121604">
+         <topic>Ships</topic>
+         <topic>Equipment and supplies</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1116479">
+         <topic>Ships</topic>
+         <topic>Equipment and supplies</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.IR.79-1949</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBSIR; NBS IR; NBS interagency report; NBS internal report
+</title>
+            <partNumber>79-1949</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">944187881</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160309</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20160309011334.0</recordChangeDate>
+         <recordIdentifier>991000119789708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

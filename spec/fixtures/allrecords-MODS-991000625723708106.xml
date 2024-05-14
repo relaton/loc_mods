@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Experiments to test the A-UGV capabilities standard</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Yoon, Soocheol.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yoon, Soocheol.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bostelman, Roger.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Virts, Ann.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-12-08.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (17 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Automatic, Automated, or Autonomous - Unmanned Ground Vehicles
+                (A-UGVs), as referred to by ASTM International Committee F45, are industrial
+                vehicles that have capabilities to navigate, dock, avoid obstacles, and interact
+                with other vehicles and systems all within intended environments (e.g., warehouses,
+                hospitals, outdoor facility perimeters) set by the manufacturer. A new ASTM F45
+                standard is near the ballot stage to serve as a guide for providing a basis for
+                A-UGV manufacturers and users to compare capabilities between A-UGVs. The guide
+                includes a report for documenting that the user has proven or asserted a capability,
+                not tested the capability, or that the A-UGV does not have the capability. Although
+                an infinite number of A-UGV tests are possible, this paper provides three cases that
+                test the new standard where one case demonstrated in a complex dual-vehicles test,
+                several capabilities as written in the standard. Alternatively, two cases
+                demonstrated through experiments that A-UGV capabilities as written in the standard
+                may need improvements and as such, the paper provides recommendations for modifying
+                the standard.</abstract>
+      <note type="statement of responsibility">Soocheol Yoon; Roger Bostelman; Ann Virts.</note>
+      <note>December 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-12-06</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Automated vehicles</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Performance--Measurement</topic>
+      </subject>
+      <subject>
+         <topic>A-UGV</topic>
+      </subject>
+      <subject>
+         <topic>Autonomous industrial vehicles</topic>
+      </subject>
+      <subject>
+         <topic>A-UGV capabilities</topic>
+      </subject>
+      <subject>
+         <topic>ASTM F45</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8407</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8407</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890153</identifier>
+      <identifier type="oclc">on1389890153</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111429.0</recordChangeDate>
+         <recordIdentifier>991000625723708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Proposed general approach to fire-safety scenarios</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Robbins, A. P.,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Robbins, A. P.,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb97078106">
+         <namePart>Gwynne, S. (Steve)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb97078106</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
+         <namePart>Kuligowski, Erica D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011141182</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2012</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Department of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2012.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report is a summary of the work performed by A.P. Robbins,
+                S.M.V. Gwynne and E. D. Kuligowski on a standardized approach for selection of
+                scenarios used in performance-based analysis with fire-safety in mind. This report
+                provides a flowchart that analysts can follow to select the fire-safety scenarios to
+                be used to assess an engineering building design performance for fire hazards. The
+                method published in this report evolved from discussions of the draft of ISO/WD
+                29761 (Fire-safety engineering - Selection of design occupant behavioural scenarios
+                and design behaviours) that was in development by Working Group 11 of ISO/TC92/SC4
+                during meetings in 2010. The method incorporates and builds on concepts from ISO/TS
+                16733 (2006), where appropriate. In preparing this report, some text from ISO/TS
+                16733 (2006) has been used as a starting point, with permission from the chairs of
+                the ISO Working Group (WG6) and Sub Committee (ISO/TC92/SC4) directly responsible
+                for the standard, and then expanded where applicable and appropriate for the
+                purposes of this document. It is recommended that the reader of this report
+                familiarizes themselves with ISO 16733 (2006) to provide a more comprehensive
+                background for the context and terminology used here.</abstract>
+      <note type="statement of responsibility">A. P. Robbins; S. M. V. Gwynne; E. D. Kuligowski.</note>
+      <note>May 2012</note>
+      <note>CODEN: NTNOEF--Title page verso.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98003737">
+         <topic>Fire protection engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925515">
+         <topic>Fire protection engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048522">
+         <topic>Fire resistant materials industry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925524">
+         <topic>Fire resistant materials industry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh92002501">
+         <topic>Fire risk assessment</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925529">
+         <topic>Fire risk assessment</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048509">
+         <topic>Fire prevention</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925460">
+         <topic>Fire prevention</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048529">
+         <topic>Fire testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925555">
+         <topic>Fire testing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1743</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1743</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1255596905</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">120629</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20120629025017.0</recordChangeDate>
+         <recordIdentifier>991000026529708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

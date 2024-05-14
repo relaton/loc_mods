@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>turning workstation in the AMRF</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Donmez, Alkan M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Donmez, Alkan M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gavin, Robert J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Greenspan, Lew.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no99066984">
+         <namePart>Lee, Kang B.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no99066984</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no99036754">
+         <namePart>Lee, Vincent J. (Vincent Janyan),</namePart>
+         <namePart type="date">1962-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no99036754</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Peris, James P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Reisenauer, Eric J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shoemaker, Charles O.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yang, Charles W.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1988</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1988.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Alkan M. Donmez; Robert J. Gavin; Lew Greenspan; Kang B. Lee; Vincent
+                J. Lee; Jame P. Peris; Eric J. Reisenauer; Charles O. Shoemaker; Charles W.
+                Yang.</note>
+      <note>1988.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.IR.88-3749</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBSIR; NBS IR; NBS interagency report; NBS internal report
+</title>
+            <partNumber>88-3749</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">951906863</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160620</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20160620103605.0</recordChangeDate>
+         <recordIdentifier>991000158289708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

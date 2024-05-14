@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Confirming a performance threshold with a binary experimental
+                response</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Leber, Dennis D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Leber, Dennis D.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022071928">
+         <namePart>Pibida, Leticia.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022071928</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Enders, Alexander L.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology).</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">When designing a test to confirm that an artifact (e.g., a radiation
+                detection system) meets a performance threshold where the artifact's performance is
+                estimated based on a binary response, the number of required observations is often
+                an initial question. To determine the required sample size, two pieces of
+                information are necessary: the performance threshold; and a statement of acceptable
+                risk or required confidence. In this chapter, we provide guidance on developing a
+                defensible and successful test through the informed selection of a performance
+                threshold and statement of acceptable risk. Using the statistical hypothesis testing
+                framework, we illustrate the meaning of risk and confidence from both the consumer
+                and producer's perspectives. We define the power of a test and demonstrate how an
+                experimenter can use a power curve to balance the tradeoffs between test burden
+                (costs) and producer risk (type II error) while satisfying the required confidence.
+                We provide a sample size and acceptance criterion table to define a fixed sample
+                test that will satisfy a variety of performance thresholds and levels of acceptable
+                risk. We conclude with a general discussion of sequential sampling tests and provide
+                important considerations and contrasts to their fixed sample
+                counterparts.</abstract>
+      <note type="statement of responsibility">Dennis D. Leber; Leticia Pibida; Alexander L. Enders.</note>
+      <note>July 2019.</note>
+      <note>Title from PDF title page (viewed July 12, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85127567">
+         <topic>Statistical hypothesis testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1132063">
+         <topic>Statistical hypothesis testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110340">
+         <topic>Radiation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1086839">
+         <topic>Radiation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85046441">
+         <topic>Experimental design</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/918404">
+         <topic>Experimental design</topic>
+      </subject>
+      <subject>
+         <topic>Sample size</topic>
+      </subject>
+      <subject>
+         <topic>Sequential test</topic>
+      </subject>
+      <subject>
+         <topic>Binary response</topic>
+      </subject>
+      <subject>
+         <topic>Radiation detection</topic>
+      </subject>
+      <subject>
+         <topic>Chemical/Biological/Radiological/Nuclear/Explosives
+                (CBRNE)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2045</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2045</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1110020507</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190724</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190724022415.0</recordChangeDate>
+         <recordIdentifier>991000217619708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

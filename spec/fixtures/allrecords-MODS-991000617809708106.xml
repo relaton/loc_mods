@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>CCQM_retrospectoscope reference manual</title>
+         <subTitle>a detailed reference to the CCQM_Retrospectoscope, a suite of
+                graphical tools for the meta-analysis of measurement results from CCQM studies
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Duewer, David L.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3924-3064">
+         <namePart>Duewer, David l.</namePart>
+         <nameIdentifier>(orcid)0000-0002-3924-3064</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0503-4501">
+         <namePart>Nelson, Michae.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0503-4501</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6782-3106">
+         <namePart>Cecelski, Christina.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6782-3106</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-12..</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The CCQM_Retrospectoscope system combines a nominally complete
+                database of results from Consultative Committee for the Amount of Substance:
+                Metrology in Chemistry and Biology (CCQM) studies with a number of graphical tools
+                for trying to make sense of the data. This system supports a diverse collection of
+                often eye-opening appraisals of participation and measurement performance throughout
+                the history of the CCQM activities. The appraisals include the bias, uncertainty,
+                and degrees of equivalence of results submitted by individual national metrology or
+                designated institutes (NMI|DIs); the relative performance of NMI|DIs, and the
+                uncertainty function characteristic of entire Working Groups (WGs). The system is
+                implemented in Excel using Microsoft’s Visual Basic for Applications (VBA) programs.
+                It runs on both Windows and Macintosh platforms.</abstract>
+      <note type="statement of responsibility">David L. Duewer; Michael A. Nelson; Christina E.Cecelski.</note>
+      <note>September 2023</note>
+      <note>Title from PDF title page (viewed December 12, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-07-31</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Supplementary comparisons (SC).</topic>
+      </subject>
+      <subject>
+         <topic>Pilot studies</topic>
+      </subject>
+      <subject>
+         <topic>Organic analysis working group (OAWG)</topic>
+      </subject>
+      <subject>
+         <topic>National metrology institute (NMI)</topic>
+      </subject>
+      <subject>
+         <topic>Key comparisons (KC)</topic>
+      </subject>
+      <subject>
+         <topic>Inorganic analysis working group (IAWG)</topic>
+      </subject>
+      <subject>
+         <topic>Graphical data analysis.</topic>
+      </subject>
+      <subject>
+         <topic>Gas analysis working group (GAWG)</topic>
+      </subject>
+      <subject>
+         <topic>Electroanalytical working group (EAWG)</topic>
+      </subject>
+      <subject>
+         <topic>Designated institute</topic>
+      </subject>
+      <subject>
+         <topic>Consultative committee for the amount of substance</topic>
+      </subject>
+      <subject>
+         <topic>Metrology in chemistry and biology (CCQM)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8478</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8478</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8478</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1415979208</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111358.0</recordChangeDate>
+         <recordIdentifier>991000617809708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

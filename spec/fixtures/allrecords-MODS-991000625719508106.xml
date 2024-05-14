@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Reference Material 8376 microbial pathogen DNA standards for
+                detection and identification</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kralj, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kralj, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tourlousse, Dieter.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hunter, Monique.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Romsos, Erica.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Toman, Blaza.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Vallone, Peter.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jackson, Scott.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-06-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (51 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Reference Material (RM) 8376 is intended for NGS-based measurements
+                quantitative to the chromosome. A unit of RM 8376 consists of 20 components (A-T, 19
+                bacteria and 1 human) each containing well-characterized DNA in 10 mmol/L Tris-HCl,
+                1 mmol/L EDTA pH 8 buffer. Each component consists of one skirted 0.5-mL tube
+                containing approximately 100 uL of DNA solution. Each tube is labeled and sealed
+                with a removable screwcap. Here, we have documented the production, analytical
+                methods, and statistical evaluation of realizing this RM.</abstract>
+      <note type="statement of responsibility">Jason Kralj; Dieter Tourlousse; Monique Hunter; Erica Romsos; Blaza
+                Toman; Peter Vallone; Scott Jackson.</note>
+      <note>June 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-04-12</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Pathogens</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Bacteria</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>DNA</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Metagenomics</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-225</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-225</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890420</identifier>
+      <identifier type="oclc">on1389890420</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625719508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

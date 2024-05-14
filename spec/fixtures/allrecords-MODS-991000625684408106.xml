@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Physical models and dimensional traceability of WR15 rectangular
+                waveguide standards for determining systematic uncertainties of calibrated
+                scattering-parameters</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Jargon, Jeffrey A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jargon, Jeffrey A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Williams, Dylan F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Stelson, Angela C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Long, Christian J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hagerstrom, Aaron M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hale, Paul D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Stoup, John R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Stanfield, Eric S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ren, Wei.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-08-10.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (41 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In this report, we document the models and dimensional traceability
+                of our WR15 rectangular waveguide standards for performing multiline
+                thru-reflect-line calibrations from 50 GHz to 75 GHz using vector network analyzers.
+                We identify the equations used in our models of the transmission-line standards and
+                present a method for determining a waveguide s metal conductivity using a
+                closed-form solution relating it to the propagation constant. Next, we provide
+                details of the traceable dimensional measurements and associated uncertainties of
+                our WR15 transmission line standards. And finally, we describe how our software, the
+                NIST Microwave Uncertainty Framework, is used to implement physical models of
+                calibration standards and propagate these systematic uncertainties to the calibrated
+                scattering-parameters of a device under test. We include a measurement example for
+                illustrative purposes.</abstract>
+      <note type="statement of responsibility">Jeffrey A. Jargon; Dylan F. Williams; Angela C. Stelson; Christian J.
+                Long; Aaron M. Hagerstrom; Paul D. Hale; John R. Stoup; Eric S. Stanfield; Wei
+                Ren.</note>
+      <note>August 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Calibration</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Measurement</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Models</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Étalonnage</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Mesure</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>calibration</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>measuring</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Calibration</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Measurement</topic>
+      </subject>
+      <subject>
+         <topic>Dimensional traceability</topic>
+      </subject>
+      <subject>
+         <topic>Rectangular waveguide</topic>
+      </subject>
+      <subject>
+         <topic>Systematic uncertainties</topic>
+      </subject>
+      <subject>
+         <topic>Vector network analyzer</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2109</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2109</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124509</identifier>
+      <identifier type="oclc">on1346124509</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625684408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Energy sector asset management for electric utilities, oil and gas
+                industry</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2019072324">
+         <namePart>McCarthy, James.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2019072324</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2019072324">
+         <namePart>McCarthy, James.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2019072324</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Acierto, Lauren.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Joy, Glen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kuruvilla, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ogunyale, Titilayo.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Urlaub, Nikolas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wiltberger, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wynne, Devin.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Industrial control systems (ICS) compose a core part of our nation's
+                critical infrastructure. Energy sector companies rely on ICS to generate, transmit,
+                and distribute power and to drill, produce, refine, and transport oil and natural
+                gas. Given the wide variety of ICS assets, such as programmable logic controllers
+                and intelligent electronic devices, that provide command and control information on
+                operational technology (OT) networks, it is essential to protect these devices to
+                maintain continuity of operations. These assets must be monitored and managed to
+                reduce the risk of a cyber attack on ICS-networked environments. Having an accurate
+                OT asset inventory is a critical component of an overall cybersecurity strategy.
+                NIST SP 1800-23B: Energy Sector Asset Management iii The NCCoE at NIST is responding
+                to the energy sector's request for an automated OT asset management solution. To
+                remain fully operational, energy sector entities should be able to effectively
+                identify, control, and monitor their OT assets. This document provides guidance on
+                how to enhance OT asset management practices by leveraging capabilities that may
+                already exist in an energy organization's operating environment as well as
+                implementing new capabilities.</abstract>
+      <note type="statement of responsibility">James McCarthy; Lauren Acierto; Glen Joy; Jason Kuruvilla; Titilayo
+                Ogunyale; Nikolas Urlaub; John Wiltberger; Devin Wynne.</note>
+      <note>May 2020.</note>
+      <note>Title from PDF title page (viewed May 23, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Monitoring</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98003168">
+         <topic>Supervisory control systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1139089">
+         <topic>Supervisory control systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043141">
+         <topic>Energy industries</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/910110">
+         <topic>Energy industries</topic>
+      </subject>
+      <subject>
+         <topic>Energy sector asset management (ESAM)</topic>
+      </subject>
+      <subject>
+         <topic>Industrial control system (ICS)</topic>
+      </subject>
+      <subject>
+         <topic>Malicious actor</topic>
+      </subject>
+      <subject>
+         <topic>Operational technology (OT)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-23</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-23</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858992</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163407.0</recordChangeDate>
+         <recordIdentifier>991000263679708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>
