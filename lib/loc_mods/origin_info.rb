@@ -39,6 +39,7 @@ module LocMods
       map_attribute "displayLabel", to: :display_label
       map_attribute "altRepGroup", to: :alt_rep_group
       map_attribute "eventType", to: :event_type
+
       map_element "place", to: :place
       map_element "publisher", to: :publisher
       map_element "dateIssued", to: :date_issued
@@ -48,8 +49,8 @@ module LocMods
       map_element "dateModified", to: :date_modified
       map_element "copyrightDate", to: :copyright_date
       map_element "dateOther", to: :date_other
-      map_element "edition", to: :edition
       map_element "issuance", to: :issuance
+      map_element "edition", to: :edition
       map_element "frequency", to: :frequency
     end
   end

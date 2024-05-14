@@ -36,7 +36,7 @@ module LocMods
     attribute :language, Language, collection: true
     attribute :location, Location, collection: true
     attribute :name, Name, collection: true
-    attribute :note, PhysicalDescriptionNote, collection: true
+    attribute :note, Note, collection: true
     attribute :origin_info, OriginInfo, collection: true
     attribute :part, Part, collection: true
     attribute :physical_description, PhysicalDescription, collection: true
@@ -62,12 +62,12 @@ module LocMods
       map_element "originInfo", to: :origin_info
       map_element "part", to: :part
       map_element "physicalDescription", to: :physical_description
+      map_element "abstract", to: :abstract
       map_element "note", to: :note
       map_element "subject", to: :subject
       map_element "location", to: :location
       map_element "relatedItem", to: :related_item
       map_element "identifier", to: :identifier
-      map_element "abstract", to: :abstract
       map_element "accessCondition", to: :access_condition
       map_element "classification", to: :classification
       map_element "extension", to: :extension

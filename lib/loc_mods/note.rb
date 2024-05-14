@@ -7,7 +7,8 @@ module LocMods
     attribute :content, Shale::Type::String
     attribute :display_label, Shale::Type::String
     attribute :type, Shale::Type::String
-    attribute :id, Shale::Type::Value
+    attribute :id, Shale::Type::String
+    attribute :script, Shale::Type::String
 
     xml do
       root "note"
@@ -17,6 +18,7 @@ module LocMods
       map_attribute "displayLabel", to: :display_label
       map_attribute "type", to: :type
       map_attribute "ID", to: :id
+      map_attribute "script", to: :script
     end
   end
 end

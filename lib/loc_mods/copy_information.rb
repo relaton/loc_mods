@@ -14,7 +14,8 @@ module LocMods
     attribute :shelf_locator, Shale::Type::String, collection: true
     attribute :electronic_locator, Shale::Type::String, collection: true
     attribute :note, Note, collection: true
-    attribute :enumeration_and_chronology, EnumerationAndChronology, collection: true
+    attribute :enumeration_and_chronology, EnumerationAndChronology,
+              collection: true
     attribute :item_identifier, ItemIdentifier, collection: true
 
     xml do
