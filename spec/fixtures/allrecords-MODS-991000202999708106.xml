@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>SATE V report</title>
+         <subTitle>ten years of static analysis tool expositions</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021119894">
+         <namePart>Delaitre, Aurélien.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021119894</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021119894">
+         <namePart>Delaitre, Aurélien.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021119894</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Stivalet, Bertrand.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2005073624">
+         <namePart>Black, Paul E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2005073624</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022065355">
+         <namePart>Okun, Vadim.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022065355</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ribeiro, Athos.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cohen, Terry S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Software assurance has been the focus of the National Institute of
+                Standards and Technology (NIST) Software Assurance Metrics and Tool Evaluation
+                (SAMATE) team for many years. The Static Analysis Tool Exposition (SATE) is one of
+                the team s prominent projects to advance research in and adoption of static
+                analysis, one of several software assurance methods. This report describes our
+                approach and methodology. It then presents and discusses the results collected from
+                the fifth edition of SATE. Overall, the goal of SATE was not to rank static analysis
+                tools, but rather to propose a methodology to assess tool effectiveness. Others can
+                use this methodology to determine which tools fit their requirements. The results in
+                this report are presented as examples and used as a basis for further discussion.
+                Our methodology relies on metrics, such as recall and precision, to determine tool
+                effectiveness. To calculate these metrics, we designed test cases that exhibit
+                certain characteristics. Most of the test cases were large pieces of software with
+                cybersecurity implications. Fourteen participants ran their tools on these test
+                cases and sent us a report of their findings. We analyzed these reports and
+                calculated the metrics to assess the tools effectiveness. Although a few results
+                remained inconclusive, many key elements could be inferred based on our methodology,
+                test cases, and analysis. In particular, we were able to estimate the propensity of
+                tools to find critical vulnerabilities in real software, the degree of noise they
+                produced, and the type of weaknesses they were able to find. Some shortcomings in
+                the methodology and test cases were also identified and solutions proposed for the
+                next edition of SATE.</abstract>
+      <note type="statement of responsibility">Aurelien Delaitre; Bertrand Stivalet; Paul E. Black; Vadim Okun;
+                Athos Ribeiro; Terry S. Cohen.</note>
+      <note>October 2018.</note>
+      <note>Title from PDF title page (viewed October 22, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029534">
+         <topic>Computer software</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872527">
+         <topic>Computer software</topic>
+      </subject>
+      <subject>
+         <topic>Vulnerability</topic>
+      </subject>
+      <subject>
+         <topic>Security weaknesses</topic>
+      </subject>
+      <subject>
+         <topic>Software assurance</topic>
+      </subject>
+      <subject>
+         <topic>Static analysis tools</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.500-326</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>500-326</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1057557681</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181023</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102160041.0</recordChangeDate>
+         <recordIdentifier>991000202999708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

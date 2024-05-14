@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Test results prepared for Honeywell</title>
+         <subTitle>igniter material effects in the Japanese High Pressure Gas Law test
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Linteris, Gregory.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Linteris, Gregory.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2004026937">
+         <namePart>Pagliaro, John.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2004026937</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2008019169">
+         <namePart>Sunderland, Peter.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2008019169</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The goal of the work was to determine the flammability of R1234ze(E)
+                (C3H2F4) per the Japanese High Pressure Gas Law (see Appendix I). Tests were also
+                performed with R32 (CH2F2), R134a (C2H2F4) and methane (CH4), to provide a baseline
+                for comparison of the results with R1234ze(E). Since the measured flammability of
+                the mixture might be affected by the ignition source, tests were conducted with
+                either copper wire (0.08 mm or 0.361 mm diameter), tungsten wire (0.3 mm diameter)
+                or the standard platinum wire (0.3 mm diameter). To aid in the interpretation of the
+                experiments, calculations were also performed for the thermodynamic equilibrium
+                conditions, the homogeneous autoignition time ?ign, the overall chemical rate from
+                stirred-reactor simulations, and the laminar burning velocity. These latter
+                simulations employed a detailed chemical kinetic model, and solved the conservation
+                equations for mass, energy, and species conservation.</abstract>
+      <note type="statement of responsibility">Gregory Linteris; John Pagliaro; Peter Sunderland.</note>
+      <note>Title from PDF title page (viewed September 27, 2016).</note>
+      <note>September 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Flammability</topic>
+      </subject>
+      <subject>
+         <topic>Refrigerant flammability</topic>
+      </subject>
+      <subject>
+         <topic>Flammability limits</topic>
+      </subject>
+      <subject>
+         <topic>Combustion bomb</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1902</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1902</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662250</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114119.0</recordChangeDate>
+         <recordIdentifier>991000188539708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

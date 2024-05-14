@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>3.5 GHz radar waveform capture at point loma: final test report
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n87811858">
+         <namePart>Hale, Paul.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87811858</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87811858">
+         <namePart>Hale, Paul.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87811858</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Jargon, Jeffrey.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jeavons, Peter.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Souryal, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wunderlich, Adam.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lofquist, Mark.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">We describe measurements to create a library of high-fidelity
+                waveforms of federal incumbent radar signals currently operating in the 3550 MHz -
+                3650 MHz (3.5 GHz) band. In the first phase of assembling this library, measurements
+                were collected at Point Loma continuously over a two- month period. The measurements
+                consist of 60-second power spectral measurements collected every 10 minutes as well
+                as high-resolution in-phase and quadrature sampled waveforms covering the entire
+                band in question and portions of adjacent bands. The spectral measurements were used
+                to characterize normal and anomalous behaviors. A subset of the high-resolution I/Q
+                waveforms containing no adjacent-band or other in-band emissions was selected for
+                statistical analysis of key parameters of the target radar that could aid detection,
+                namely, the antenna rotation period, pulse repetition interval, pulse duration, and
+                center frequency. The subset of approximately 800 acquisitions of in-band radar
+                consisted of about 12 000 sweeps of the main beam and nearly 223 000 individual
+                pulses ranging in peak power by over 40 dB. Distributions of the parameters are
+                reported along with percentiles.</abstract>
+      <note type="statement of responsibility">Paul Hale; Jeffrey Jargon; Peter Jeavons; Michael Souryal; Adam
+                Wunderlich; Mark Lofquist.</note>
+      <note>May 2017.</note>
+      <note>Title from PDF title page (viewed May 10, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029038">
+         <topic>Communication</topic>
+         <topic>Research</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/870003">
+         <topic>Communication</topic>
+         <topic>Research</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110293">
+         <topic>Radar</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1086712">
+         <topic>Radar</topic>
+      </subject>
+      <subject>
+         <topic>Wireless (RF)</topic>
+      </subject>
+      <subject>
+         <topic>3.5 GHz</topic>
+      </subject>
+      <subject>
+         <topic>SPN-43</topic>
+      </subject>
+      <subject>
+         <topic>ESC</topic>
+      </subject>
+      <subject>
+         <topic>I/Q</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1954</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1954</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">988944048</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170605</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170606115832.0</recordChangeDate>
+         <recordIdentifier>991000190099708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

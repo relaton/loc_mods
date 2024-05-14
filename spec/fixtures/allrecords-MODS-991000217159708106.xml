@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Proposed expansion of quality information framework (QIF) standard
+                schema with potential failure mode and effects analysis (FMEA) information model
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79074377">
+         <namePart>Huang, Huimin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79074377</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79074377">
+         <namePart>Huang, Huimin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79074377</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9024-2059">
+         <namePart>Hedberg Jr., Thomas.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9024-2059</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Potential Failure Mode and Effects Analysis (FMEA) contains a method
+                and the associated information requirements for quality management and risk
+                analysis. FMEA is applicable to manufacturing processes and product design. Quality
+                Information Framework (QIF) is a standard that covers the quality measurement and
+                analysis phase within a model based enterprise (MBE) for manufacturing. An
+                information model, developed in Extensible Markup Language (XML) for FMEA is
+                described in this paper and is proposed to be included as a part of QIF. This paper
+                also identifies key information sharing between FMEA and QIF.</abstract>
+      <note type="statement of responsibility">Hui-Min Huang; Thomas Hedberg, Jr.</note>
+      <note>May 2019.</note>
+      <note>Title from PDF title page (viewed May 16, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh97007825">
+         <topic>XML (Document markup language)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1181899">
+         <topic>XML (Document markup language)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012001105">
+         <topic>Failure mode and effects analysis</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1893690">
+         <topic>Failure mode and effects analysis</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85114195">
+         <topic>Risk</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1098118">
+         <topic>Risk</topic>
+      </subject>
+      <subject>
+         <topic>Failure mode</topic>
+      </subject>
+      <subject>
+         <topic>Potential failure mode</topic>
+      </subject>
+      <subject>
+         <topic>Quality Information Framework (QIF)</topic>
+      </subject>
+      <subject>
+         <topic>Risk priority number (RPN)</topic>
+      </subject>
+      <subject>
+         <topic>XML Schema Definition (XSD)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.300-7</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>300-7</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1104296832</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190612</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190612040034.0</recordChangeDate>
+         <recordIdentifier>991000217159708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Return on investment initiative for unleashing American innovation
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Return on Investment (ROI) Initiative for Unleashing American
+                Innovation is part of a national conversation that is designed to advance the
+                Lab-to-Market cross agency priority (CAP) goal of the President's Management Agenda
+                (PMA). The ROI Initiative's goal is to maximize the transfer of Federal investments
+                in science and technology into value for America in ways that will (a) meet current
+                and future economic and national security needs in a rapidly shifting technology
+                marketplace and enhance U.S. competitiveness globally, and (b) attract greater
+                private sector investment to create innovative products, processes, and services, as
+                well as new businesses and industries. The PMA's Lab-to-Market CAP Goal is co-led by
+                the U.S. Department of Commerce (DOC) via the National Institute of Standards and
+                Technology (NIST) and the White House Office of Science and Technology Policy
+                (OSTP). By statute, DOC is the lead Federal agency for technology transfer policy
+                and practice. As part of the ROI Initiative, NIST implemented an open, inclusive,
+                and collaborative process to identify and assess options for supporting the ROI
+                Initiative's overall goal and objectives. This Green Paper is a discussion document
+                based on an assessment of the feedback from the U.S. stakeholder community. It
+                provides an initial summary of key stakeholder inputs and identifies short-term and
+                long-term actions to modernize the U.S. system of technology transfer and innovation
+                for the 21st century. Implementation of any of the intended actions that require
+                specific policy, legislative, and/or regulatory actions will be advanced via formal
+                proposals subject to appropriate interagency review, and public comment. The
+                intended actions are designed to remove barriers to innovation, modernize partnering
+                models and tools, expand entrepreneurial ecosystems, and create increased
+                opportunities for returns to the American people from investment in
+                R&amp;D.</abstract>
+      <note type="statement of responsibility">National Insitute of Standards and Technology.</note>
+      <note>December 2018.</note>
+      <note>Title from PDF title page (viewed December 4, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85111503">
+         <topic>Rate of return</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1090236">
+         <topic>Rate of return</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85133192">
+         <topic>Technology transfer</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1145295">
+         <topic>Technology transfer</topic>
+      </subject>
+      <subject>
+         <topic>President's Management Agenda</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1234</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1234</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1084487286</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161655.0</recordChangeDate>
+         <recordIdentifier>991000203409708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

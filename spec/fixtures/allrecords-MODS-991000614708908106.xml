@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Recommendations for federal vulnerability disclosure guidelines
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Schaffer, Kim B.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3073-2395">
+         <namePart>Schaffer, Kim B.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3073-2395</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2938-897X">
+         <namePart>Mell, Peter.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2938-897X</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Trinh, Hung.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Van Wyk, Isabel.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Lab Name.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-05-24.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Receiving reports on suspected security vulnerabilities in
+                information systems is one of the best ways for developers and services to become
+                aware of issues. Formalizing actions to accept, assess, and manage vulnerability
+                disclosure reports can help reduce known security vulnerabilities. This document
+                recommends guidance for establishing a federal vulnerability disclosure framework,
+                properly handling vulnerability reports, and communicating the mitigation and/or
+                remediation of vulnerabilities. The framework allows for local resolution support
+                while providing federal oversight and should be applied to all software, hardware,
+                and digital services under federal control.</abstract>
+      <note type="statement of responsibility">Kim Schaffer; Peter Mell; Hung Trinh; Isabel Van Wyk.</note>
+      <note>May 2023.</note>
+      <note>Title from PDF title page (viewed October 27, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-05-17</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Vulnerability tracking.</topic>
+      </subject>
+      <subject>
+         <topic>Vulnerability processing</topic>
+      </subject>
+      <subject>
+         <topic>Vulnerability disclosure program office</topic>
+      </subject>
+      <subject>
+         <topic>Vulnerability disclosure policy</topic>
+      </subject>
+      <subject>
+         <topic>Vulnerability disclosure</topic>
+      </subject>
+      <subject>
+         <topic>Source vulnerability report</topic>
+      </subject>
+      <subject>
+         <topic>Findings report</topic>
+      </subject>
+      <subject>
+         <topic>Federal coordination body</topic>
+      </subject>
+      <subject>
+         <topic>Advisory</topic>
+      </subject>
+      <subject>
+         <topic>vulnerability communication</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-216</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>800-216</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-216</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253955</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111410.0</recordChangeDate>
+         <recordIdentifier>991000614708908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

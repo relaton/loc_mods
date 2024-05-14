@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>AWS-3 LTE impacts aeronautical mobile telemetry</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Young, William F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Young, William F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McGillivray, Duncan A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wunderlich, Adam J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Krangle, Mark A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sklar, Jack G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sanders, Aric W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Forsyth, M. Keith</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lofquist, Mark.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kuester, Daniel G.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-02-25.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (150 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This technical report details an effort to design, demonstrate, and
+                validate a test methodology to measure the impacts of Long Term Evolution (LTE) User
+                Equipment (UE) emissions in the advanced wireless services 3 (AWS-3) band on
+                aeronautical mobile telemetry (AMT) systems operating in the adjacent AMT band.
+                Impacts are assessed by collecting and analyzing AMT system-provided key performance
+                indicators (KPIs), such as bit error rate (BER). The validation process includes the
+                capture and analysis for multiple adjacent band emissions (ABE) and AMT transmission
+                combinations and conditions. The analysis here centers around AMT system behavior
+                with and without the presence of ABE.</abstract>
+      <note type="statement of responsibility">William F. Young; Duncan A. McGillivray; Adam J. Wunderlich; Mark A.
+                Krangle; Jack G. Sklar; Aric W. Sanders; Keith M. Forsyth; Mark Lofquist; Daniel G.
+                Kuester.</note>
+      <note>February 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-02-22.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Long-Term Evolution (Telecommunications)</topic>
+      </subject>
+      <subject>
+         <topic>Advanced wireless services 3 (AWS-3)</topic>
+      </subject>
+      <subject>
+         <topic>Aeronautical mobile telemetry (AMT) systems</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2140</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2140</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228986</identifier>
+      <identifier type="oclc">on1427228986</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111506.0</recordChangeDate>
+         <recordIdentifier>991000626382608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

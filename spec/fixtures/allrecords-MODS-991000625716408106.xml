@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Tensile tests at 77 K and 4 K on 316L stainless steel welded plates
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Weeks, Timothy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Weeks, Timothy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Derimow, Nicholas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Benzing, Jake.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-07-19.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (83 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Based on the collaborative framework established between ASME, NASA,
+                and NIST, quasi-static tensile tests were performed in liquid nitrogen (77 K) and
+                liquid helium (4 K) on tensile specimens extracted from the centers of four welded
+                316L stainless steel plates, each produced by a different vendor. Relatively large
+                differences in strength, elongation, and reduction in area were observed between the
+                welds with the strongest two welds (W4 and W2) exhibiting a nearly 20 % difference
+                in 4 K ultimate tensile strength when compared to the welds with the lowest 4 K
+                tensile strength (W1 and W3). As the testing temperature decreases from 77 K to 4 K,
+                all welds exhibit an increase in yield strength, plus an attenuation in total
+                elongation and reduction in area. Serrated yielding was observed at every test
+                conducted at 4 K. The tensile properties reported in this work will be used during
+                analysis of future fracture toughness (single edge notch bending) testing conducted
+                at 77 K and 4 K on the same four sets of welded plates.</abstract>
+      <note type="statement of responsibility">Timothy Weeks; Nicholas Derimow; Jake Benzing.</note>
+      <note>July 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-07-18</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Stainless steel</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Welding</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Liquid nitrogen</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Liquid helium</topic>
+      </subject>
+      <subject>
+         <topic>316L stainless steel</topic>
+      </subject>
+      <subject>
+         <topic>Tensile properties</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2229</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2229</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890412</identifier>
+      <identifier type="oclc">on1389890412</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625716408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

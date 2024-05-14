@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Interfaces for personal identity verification</title>
+         <subTitle>end-point PIV card application namespace, data model and
+                representation</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2015202084">
+         <namePart>Candramauḷi, Ār.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2015202084</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2015202084">
+         <namePart>Candramauḷi, Ār.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2015202084</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Cooper, D. A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dray, J. F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ferraiolo, H.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Guthery, S. B.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>MacGregor, W. I.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mehta, K.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2010</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2010.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">FIPS 201, Personal Identity Verification (PIV) of Federal Employees
+                and Contractors, defines procedures for the PIV lifecycle activities including
+                identity proofing, registration, PIV Card issuance, and PIV Card usage. FIPS 201
+                also specifies that the identity credentials must be stored on a smart card. SP
+                800-73-3 contains the technical specifications to interface with the smart card to
+                retrieve and use the identity credentials. The specifications reflect the design
+                goals of interoperability and PIV Card functions. The goals are addressed by
+                specifying a PIV data model, card edge interface, and application programming
+                interface. Moreover, SP 800-73-3 enumerates requirements where the standards include
+                options and branches.</abstract>
+      <note type="statement of responsibility">R. Chandramouli; D. A. Cooper; J. F. Dray; H. Ferraiolo; S. B.
+                Guthery; W. I. MacGregor; K. Mehta.</note>
+      <note>2010.</note>
+      <note>Superseded by NIST Special Publication 800-73-4.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>FIPS 201</topic>
+      </subject>
+      <subject>
+         <topic>HSPD-12</topic>
+      </subject>
+      <subject>
+         <topic>PACS</topic>
+      </subject>
+      <subject>
+         <topic>PIV</topic>
+      </subject>
+      <subject>
+         <topic>PIV authentication mechanisms</topic>
+      </subject>
+      <subject>
+         <topic>Smart Card</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-73-3</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-73-3</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927736431</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120949.0</recordChangeDate>
+         <recordIdentifier>991000077469708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

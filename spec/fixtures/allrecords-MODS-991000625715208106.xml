@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Gap analysis for key interoperability scenarios in election
+                technology</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Dziurlaj, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dziurlaj, John.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-08-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (39 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">There is currently no common data format for ballot styles and
+                associated use-cases. This white paper investigates this and other potential
+                interoperability gaps within the voting system in a holistic manner, by considering
+                previous voting interoperability work and how it fits within thirteen key functions
+                of a voting system. Gap analysis is performed by identifying data flows that cross
+                functions, functions that might cross component boundaries and thus may
+                significantly benefit from common data interfaces. Each data flow identified as
+                significant for interoperability is treated in detail, describing the potential
+                benefits of supporting interoperable interfaces in voting system components and a
+                roadmap to their development. The gap analysis shows lack of support for data flows
+                that involve ballot data, particularly ballot styles. These gaps preclude effective
+                componentization of voting system devices such as ballot marking devices, election
+                management systems and scanners. Identified solutions include standardization of
+                ballot components, such as barcodes, and development of a ballot styles common data
+                format.</abstract>
+      <note type="statement of responsibility">John Dziurlaj.</note>
+      <note>August 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-03-01</note>
+      <note type="funding">SB1341-15-CQ-0010/1333ND20FN770201</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Voting</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Elections</topic>
+      </subject>
+      <subject>
+         <topic>Common data format</topic>
+      </subject>
+      <subject>
+         <topic>Election technology</topic>
+      </subject>
+      <subject>
+         <topic>Ballot printing systems</topic>
+      </subject>
+      <subject>
+         <topic>Ballot scanners</topic>
+      </subject>
+      <subject>
+         <topic>Electronic poll books</topic>
+      </subject>
+      <subject>
+         <topic>Interoperability</topic>
+      </subject>
+      <subject>
+         <topic>Voting systems</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.22-034</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract
+                report</title>
+            <partNumber>22-034</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890417</identifier>
+      <identifier type="oclc">on1389890417</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111424.0</recordChangeDate>
+         <recordIdentifier>991000625715208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Towards a standard for identifying and managing bias in artificial
+                intelligence</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Schwartz, Reva.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Schwartz, Reva.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Vassilev, Apostol.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Greene, Kristen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Perine, Lori.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Burt, Andrew.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hall, Patrick.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-03-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (86 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">As individuals and communities interact in and with an environment
+                that is increasingly virtual they are often vulnerable to the commodification of
+                their digital exhaust. Concepts and behavior that are ambiguous in nature are
+                captured in this environment, quantified, and used to categorize, sort, recommend,
+                or make decisions about people's lives. While many organizations seek to utilize
+                this information in a responsible manner, biases remain endemic across technology
+                processes and can lead to harmful impacts regardless of intent. These harmful
+                outcomes, even if inadvertent, create significant challenges for cultivating public
+                trust in artificial intelligence (AI). SP 1270 is a NIST Artificial Intelligence
+                publication and should be read in conjunction with all publications in the NIST AI
+                Series, which was established in January 2023.</abstract>
+      <note type="statement of responsibility">Reva Schwartz; Apostol Vassilev; Kristen Greene; Lori Perine; Andrew
+                Burt; Patrick Hall.</note>
+      <note>March 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-12-07</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Artificial intelligence</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Reliability</topic>
+      </subject>
+      <subject>
+         <topic>Artificial intelligence bias</topic>
+      </subject>
+      <subject>
+         <topic>AI</topic>
+      </subject>
+      <subject>
+         <topic>Trustworthiness</topic>
+      </subject>
+      <subject>
+         <topic>Artificial intelligence safety</topic>
+      </subject>
+      <subject>
+         <topic>Artificial intelligence lifecycle</topic>
+      </subject>
+      <subject>
+         <topic>Artificial intelligence development</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1270</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1270</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890245</identifier>
+      <identifier type="oclc">on1389890245</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111509.0</recordChangeDate>
+         <recordIdentifier>991000626257908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

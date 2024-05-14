@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>On the feasibility of COVID-19 proximity detection using Bluetooth
+                low energy signals</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Moayeri, Nader.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Moayeri, Nader.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Li, Chang.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shi, Lu.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-11-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (52 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Corona VIrus Disease 2019 (COVID-19) pandemic has had a profound
+                effect on the entire world. With the onset of the pandemic in 2020, also started
+                various efforts around the world to automate the contact tracing process to increase
+                its efficacy. Most of these efforts and the smartphone apps that were developed used
+                the Bluetooth Low Energy (BLE) Received Signal Strength Indicator (RSSI) to detect
+                proximity between people. This was facilitated by the development of the
+                Google-Apple Exposure Notification (GAEN) system that made it possible for Android
+                phones and iPhones to exchange standardized BLE messages seamlessly so that RSSI
+                could be measured by both types of phones. In the summer of 2020, we carried out a
+                five-week long BLE RSSI data collection campaign using wearable devices developed at
+                NIST and running on a Raspberry Pi platform. The data collection was comprehensive,
+                because it included a wide variety of operational scenarios including situations
+                where the two devices were not in line-of-site of each other. To the best of our
+                knowledge, there are no publicly reported repositories of BLE RSSI data that
+                includes non-line-of-site (NLOS) scenarios. Such scenarios are important, because
+                they can lead to false alarms in detecting situations where virus transmission
+                between two people is possible. The paper presents a classical analytical framework
+                for proximity detection in the context of electronic contact tracing for COVID-19.
+                We make a distinction between instantaneous and after the fact proximity detection.
+                In the former case, the purpose is to instantaneously warn people that they are
+                violating social distancing rules. In the latter case, the purpose is to notify
+                people after the fact that they had a close contact of certain duration with an
+                individual who has tested positive for COVID-19 and was capable of transmitting the
+                virus at the time of the contact. We evaluate the performance of various methods for
+                instantaneous proximity detection. In after the fact proximity detection, we are
+                interested in identifying periods of time where two people were too close to each
+                other with no barriers between them. We propose a method that applies the Viterbi
+                Algorithm to a time series of BLE RSSI data to solve this problem. The method
+                exploits the fact that humans do not move faster than certain speed. In both cases
+                of instantaneous and after the fact proximity detection, we show that methods based
+                on BLE RSSI data leave a lot of room for improvement. Therefore, the problem of
+                proximity detection for electronic contact tracing and blunting the spread of highly
+                infectious diseases is far from solved. We also know that the next pandemic is not a
+                matter of if but when.</abstract>
+      <note type="statement of responsibility">Nader Moayeri; Chang Li; Lu Shi.</note>
+      <note>November 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Bluetooth technology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>COVID-19 (Disease)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Contact tracing (Epidemiology)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Infection</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Communicable diseases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Pandemics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Receiver operating characteristic curves</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Smartphones</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Wearable technology</topic>
+      </subject>
+      <subject>
+         <topic>Bluetooth low energy (BLE)</topic>
+      </subject>
+      <subject>
+         <topic>Distance estimation</topic>
+      </subject>
+      <subject>
+         <topic>Electronic contact tracing</topic>
+      </subject>
+      <subject>
+         <topic>Exposure notification</topic>
+      </subject>
+      <subject>
+         <topic>Path loss models</topic>
+      </subject>
+      <subject>
+         <topic>Proximity detection</topic>
+      </subject>
+      <subject>
+         <topic>Received signal strength indicator (RSSI)</topic>
+      </subject>
+      <subject>
+         <topic>Viterbi algorithm</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8437</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8437</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890529</identifier>
+      <identifier type="oclc">on1389890529</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111451.0</recordChangeDate>
+         <recordIdentifier>991000626243508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

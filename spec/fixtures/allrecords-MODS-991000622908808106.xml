@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>A practical computational fluid dynamics approach for structural
+                engineering</title>
+         <subTitle>simulation of approach flow with reduced blockage ratios</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hwang, Yunjae.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2697-5319">
+         <namePart>Hwang, Yunjae.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2697-5319</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8019-9624">
+         <namePart>Yeo, DongHun.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8019-9624</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-11-02.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (50 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Computational fluid dynamics (CFD) simulations for structural wind
+                engineering applications require a fully developed boundary layer approach flow with
+                horizontal homogeneity and zero pressure gradient for accurate characterization of
+                wind loading on a structure. Previous studies have focused on achievement of such
+                requirements primarily in computational domains whose heights are equal to or less
+                than the atmospheric boundary layer (ABL) height, despite the need of a
+                computational domain taller than the ABL height for certain applications such as
+                buildings in an urban environment/or topographic surroundings to ensure an
+                acceptably low blockage ratio. Thus, the current study proposes a novel procedure
+                for the generation of the fully developed, horizontally homogeneous and zero
+                pressure gradient flow in a vertically extended computational domain above the ABL
+                height with using Reynolds-Averaged Navier-Stoke (RANS) simulations. The proposed
+                procedure is applied to simulations with an isolated building and topographic
+                models, respectively, to investigate the blockage effects on the flow field in the
+                vicinity of the models and associated wind loading on their surfaces. The results
+                demonstrate successful creation of the approach flow that satisfies those three
+                requirements for CFD simulations in structural wind engineering and applicability to
+                scale-resolving CFD simulations including large-eddy simulations (LES).</abstract>
+      <note type="statement of responsibility">Yunjae Hwang; DongHun Yeo.</note>
+      <note>November 2023.</note>
+      <note>Title from PDF title page (viewed January 02, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-10-30</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Boundary layer (Meteorology)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computational fluid dynamics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Structural engineering</topic>
+      </subject>
+      <subject>
+         <topic>Approach flow simulation</topic>
+      </subject>
+      <subject>
+         <topic>Atmospheric boundary layer (ABL)</topic>
+      </subject>
+      <subject>
+         <topic>Blockage ratio</topic>
+      </subject>
+      <subject>
+         <topic>Computational fluid dynamics (CFD)</topic>
+      </subject>
+      <subject>
+         <topic>Horizontal homogeneity</topic>
+      </subject>
+      <subject>
+         <topic>Horizontal pressure gradient</topic>
+      </subject>
+      <subject>
+         <topic>Reynolds-averaged Navier-Stokes (RANS)</topic>
+      </subject>
+      <subject>
+         <topic>Wind engineering</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2275</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2275</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1419197301</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401110403.0</recordChangeDate>
+         <recordIdentifier>991000622908808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Profile of the IoT core baseline for consumer IoT products
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Fagan, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fagan, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Megas, Katerina.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Watrobski, Paul.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Marron, Jeffery.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cuthill, Barbara.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-09-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (30 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This publication documents the consumer profile of NIST's Internet of
+                Things (IoT) core baseline and identifies cybersecurity capabilities commonly needed
+                for the consumer IoT sector (i.e., IoT products for home or personal use). It can
+                also be a starting point for businesses to consider in the purchase of IoT products.
+                The consumer profile was developed as part of NIST's response to Executive Order
+                14028 and was initially published in Recommended Criteria for Cybersecurity Labeling
+                for Consumer Internet of Things (IoT) Products. The consumer profile capabilities
+                are phrased as cybersecurity outcomes that are intended to apply to the entire IoT
+                product. This document also discusses the foundations for developing the recommended
+                consumer profile and related considerations. NIST reviewed a landscape of relevant
+                source documents to inform the consumer profile and engaged with stakeholders across
+                a year-long effort to develop the recommendations.</abstract>
+      <note type="statement of responsibility">Michael Fagan; Katerina Megas; Paul Watrobski; Jeffery Marron;
+                Barbara Cuthill.</note>
+      <note>September 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Privacy</topic>
+      </subject>
+      <subject>
+         <topic>Consumer IoT</topic>
+      </subject>
+      <subject>
+         <topic>IoT products</topic>
+      </subject>
+      <subject>
+         <topic>Securable products</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8425</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8425</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890329</identifier>
+      <identifier type="oclc">on1389890329</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111512.0</recordChangeDate>
+         <recordIdentifier>991000626254908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

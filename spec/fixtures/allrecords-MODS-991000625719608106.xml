@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guidelines on minimum standards for developer verification of
+                software</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Black, Paul E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Black, Paul E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Guttman, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Okun, Vadim.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-10-06.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (33 pages) : illustrations (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Executive Order (EO) 14028, Improving the Nation s Cybersecurity, 12
+                May 2021, directs the National Institute of Standards and Technology (NIST) to
+                recommend minimum standards for software testing within 60 days. This document
+                describes eleven recommendations for software verification techniques as well as
+                providing supplemental information about the techniques and references for further
+                information. It recommends the following techniques: Threat modeling to look for
+                design-level security issues Automated testing for consistency and to minimize human
+                effort Static code scanning to look for top bugs Heuristic tools to look for
+                possible hardcoded secrets Use of built-in checks and protections Black box test
+                cases Code-based structural test cases Historical test cases Fuzzing Web app
+                scanners, if applicable Address included code (libraries, packages, services) The
+                document does not address the totality of software verification, but instead
+                recommends techniques that are broadly applicable and form the minimum standards.
+                The document was developed by NIST in consultation with the National Security
+                Agency. Additionally, we received input from numerous outside organizations through
+                papers submitted to a NIST workshop on the Executive Order held in early June, 2021
+                and discussion at the workshop as well as follow up with several of the
+                submitters.</abstract>
+      <note type="statement of responsibility">Paul E. Black; Barbara Guttman; Vadim Okun.</note>
+      <note>October 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-24</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer programs--Verification</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer security--Software</topic>
+      </subject>
+      <subject>
+         <topic>Software assurance</topic>
+      </subject>
+      <subject>
+         <topic>Static analysis</topic>
+      </subject>
+      <subject>
+         <topic>Fuzzing</topic>
+      </subject>
+      <subject>
+         <topic>Code reviews</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8397</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8397</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890077</identifier>
+      <identifier type="oclc">on1389890077</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111426.0</recordChangeDate>
+         <recordIdentifier>991000625719608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

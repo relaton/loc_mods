@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Users guide to the HVACSIM+ configuration tool</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Galler, Michael A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Galler, Michael A.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-02.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (24 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">HVACSIM+ (HVAC SIMulation PLUS other systems) was introduced by the
+                National Institute of Standards and Technology (NIST) in 1985 as a computer
+                simulation tool to simulate building heating, ventilation, and air conditioning
+                (HVAC) systems. The HVACSIM+ computer program package and manuals have been
+                distributed to hundreds of researchers, students, and consultants in countries
+                around the world 1. HVACSIM+ input files are configured through a text-based
+                interface, as was common for programs developed in that era. Reviewing the
+                configuration files defining a model in a text editor is a tedious, difficult and
+                error-prone process for a large simulation. The HVACSIM+ Configuration Tool provides
+                a method to visualize the complicated connections between components in a HVACSIM+
+                model and assist with validation and modifications to those models. This user s
+                guide assumes a working knowledge of HVACSIM+ .</abstract>
+      <note type="statement of responsibility">Michael A. Galler.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer simulation</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Simulation par ordinateur</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>simulation</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Computer simulation</topic>
+      </subject>
+      <subject>
+         <topic>HVACSIM+</topic>
+      </subject>
+      <subject>
+         <topic>Building simulation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2110</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2110</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124601</identifier>
+      <identifier type="oclc">on1346124601</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111418.0</recordChangeDate>
+         <recordIdentifier>991000625682108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

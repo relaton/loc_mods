@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>National initiative for cybersecurity education (NICE) cybersecurity
+                workforce framework (French translation)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Newhouse, William.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4873-7648">
+         <namePart>Newhouse, William</namePart>
+         <nameIdentifier>(orcid)0000-0002-4873-7648</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Keith, Stephanie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scribner, Benjamin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Witte, Greg.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Cette publication décrit le référentiel de compétences en
+                cybersécurité de la National Initiativefor Cybersecurity Education (NICE), une
+                structure de référence qui décrit la natureinterdisciplinaire du travail dans le
+                domaine de la cybersécurité. Il s'agit d'une ressource deréférence fondamentale pour
+                décrire et partager des informations sur les métiers de lacybersécurité et sur les
+                connaissances, les capacités et les aptitudes (ou KSA pour Knowledge,Skills, and
+                Abilities) nécessaires pour accomplir des tâches susceptibles de renforcer la
+                situationd'une organisation sur le plan de la cybersécurité. Le référentiel NICE est
+                un lexique partagé etcohérent qui catégorise et décrit les tâches de cybersécurité.
+                Il permet d'améliorer lacommunication sur la manière d'identifier, de recruter, de
+                développer et de pérenniser les talentsdans le domaine de la cybersécurité. Le
+                référentiel NICE est une source de référence à partir delaquelle les organisations
+                ou les filières peuvent élaborer des publications ou des outilssupplémentaires qui
+                répondent à leurs besoins de définir ou de fournir des orientations surdifférents
+                aspects du développement, de la planification, de la formation et de l'éducation
+                desressources humaines dans le domaine de la cybersécurité.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">William Newhouse; Stephanie Keith; Benjamin Scribner; Greg Witte
+                .</note>
+      <note>Août 2017</note>
+      <note>Title from PDF title page (viewed February 02, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 023-09-08.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Fonction</topic>
+      </subject>
+      <subject>
+         <topic>Formation</topic>
+      </subject>
+      <subject>
+         <topic>Tâche</topic>
+      </subject>
+      <subject>
+         <topic>Spécialité</topic>
+      </subject>
+      <subject>
+         <topic>Capacité</topic>
+      </subject>
+      <subject>
+         <topic>Rôle</topic>
+      </subject>
+      <subject>
+         <topic>Connaissance</topic>
+      </subject>
+      <subject>
+         <topic>éducation</topic>
+      </subject>
+      <subject>
+         <topic>Cyberespace</topic>
+      </subject>
+      <subject>
+         <topic>Aptitude</topic>
+      </subject>
+      <subject>
+         <topic>Cybersécurité</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-181.fre</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>800-181 fre</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="otherVersion" otherType="Translation of" displayLabel="Translation of">
+         <name>
+            <namePart>10.6028/NIST.SP.800-181</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-181 fre</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1429312535</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240202</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315104458.0</recordChangeDate>
+         <recordIdentifier>991000624309108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

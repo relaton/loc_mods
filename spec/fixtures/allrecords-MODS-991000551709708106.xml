@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guide for the security certification and accreditation of federal
+                infomation systems</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006135977">
+         <namePart>Ross, Ron (Ronald S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2006135977</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91015913">
+         <namePart>Swanson, Marianne.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n91015913</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003057780">
+         <namePart>Stoneburner, Gary.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003057780</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87889252">
+         <namePart>Katzke, Stuart W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87889252</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n93033226">
+         <namePart>Johnson, L. Arnold.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n93033226</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2008015449">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008015449</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2004</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">[Gaithersburg, Md.] :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2004.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">remote</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Ron Ross ... [and others].</note>
+      <note>May 2004.</note>
+      <note>Title from page [1], viewed April 20, 2007.</note>
+      <note>information security.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
+         <topic>Federal government</topic>
+         <topic>Computer networks</topic>
+         <topic>Security measures</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/922333">
+         <topic>Federal government</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872297">
+         <topic>Computer networks</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1110883">
+         <topic>Security systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
+         <topic>Information storage and retrieval systems</topic>
+         <topic>Security measures</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/973027">
+         <topic>Information storage and retrieval systems</topic>
+         <topic>Security measures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/972781">
+         <topic>Information storage and retrieval systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
+         <topic>Computer security</topic>
+         <topic>Standards</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872495">
+         <topic>Computer security</topic>
+         <topic>Standards</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
+         <geographic>United States</geographic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-37</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-37</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">124075509</identifier>
+      <identifier type="oclc">1312508315</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">070509</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240227134747.0</recordChangeDate>
+         <recordIdentifier>991000551709708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

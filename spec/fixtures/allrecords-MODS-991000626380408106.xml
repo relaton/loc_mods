@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>UE-to-network relay model B discovery in ProSe-enabled LTE networks
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Moreaux, Alexandre.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Moreaux, Alexandre.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gamboa, Samantha.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Griffith, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rouil, Richard.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-04-06.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (19 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In this paper, we expand previous analytical models to offer a more
+                complete representation of Model B ProSe direct discovery. Using these models, we
+                can obtain performance metrics such as the average time a given Remote User
+                Equipment (UE) takes to discover a Relay UE, and we can examine the sensitivity of
+                the relay performance to various input parameters such as the number of Remote UEs,
+                the number of Relay UEs, and the Discovery message transmission rate. We use ns- 3
+                system level simulations to validate our analytical model and determine the optimal
+                strategy for UEs to use in various deployment scenarios.</abstract>
+      <note type="statement of responsibility">Alexandre Moreaux; Samantha Gamboa; David Griffith; Richard
+                Rouil.</note>
+      <note>April 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2020-07-16.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Long-Term Evolution (Telecommunications)</topic>
+      </subject>
+      <subject>
+         <topic>ProSe</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2149</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2149</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228995</identifier>
+      <identifier type="oclc">on1427228995</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111503.0</recordChangeDate>
+         <recordIdentifier>991000626380408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

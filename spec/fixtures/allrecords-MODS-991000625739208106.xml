@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Life cycle cost manual for the federal energy management program
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Webb, David.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (295 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Handbook 135 is a guide to understanding the life cycle cost (LCC)
+                methodology and criteria established by the Federal Energy Management Program (FEMP)
+                for the economic evaluation of high-performance facility projects, including energy
+                efficiency, water conservation, and renewable energy projects in all federal
+                facilities. It expands on the life cycle cost methods and criteria contained in the
+                FEMP rules published in 10 CFR 436, Subpart A, which applies to all federal
+                agencies. The purpose of this handbook is to facilitate the implementation of the
+                FEMP rules by explaining the LCC method, defining the measures of economic
+                performance used, describing the assumptions and procedures to follow in performing
+                evaluations, giving examples, and noting NIST computer software available for
+                computation and reporting purposes. An annual supplement to Handbook 135, Energy
+                Price Indices and Discount Factors for LCC Analysis, NISTIR 85-3273, is also
+                published by NIST to provide the current discount rate, discount factors, and energy
+                escalation factors used for conducting an LCC analysis in accordance with the FEMP
+                rules. This annual supplement is required when using Handbook 135 and is used in
+                updating NIST LCC-related software. This new edition of Handbook 135 replaces the
+                1995 version. The new edition is extensively revised and organized around the key
+                steps in an LCC analysis. Although the underlying LCC methodology has not changed,
+                the content of the handbook has been updated to include the most relevant
+                information. Given the technological developments since its 1995 release, the manual
+                worksheets previously provided for completing LCC analysis have been removed. The
+                examples have been updated and expanded to provide explicit use cases for projects
+                with a broader scope than energy efficiency and water conservation to include all
+                considerations of high-performance facilities, including sustainability and
+                resilience. Additionally, the handbook provides additional information resources
+                (e.g., data sources, requirements, codes and standards, and guidance by project
+                goal). The handbook will be updated on an ad hoc basis dependent on future changes
+                in federal statutes and regulations, agency goals and guidance, LCCA support
+                resource development, and available funding.</abstract>
+      <note type="statement of responsibility">Joshua Kneifel; David Webb.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Sustainability</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Building</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Durabilité de l'environnement</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Énergie</topic>
+         <topic>Consommation</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Construction</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>energy consumption</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>constructions (sculpture)</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Building</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Sustainability</topic>
+      </subject>
+      <subject>
+         <topic>Building economics</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.HB.135-2020</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook; NIST HB</title>
+            <partNumber>135-2020</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124473</identifier>
+      <identifier type="oclc">on1346124473</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111442.0</recordChangeDate>
+         <recordIdentifier>991000625739208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

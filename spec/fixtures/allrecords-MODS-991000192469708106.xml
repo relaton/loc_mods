@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Proceedings of the 2017 Model-Based Enterprise (MBE) Summit
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hedberg Jr., Thomas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hedberg Jr., Thomas.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021149382">
+         <namePart>Carlisle, Mark.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021149382</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">On April 3-6, 2017, the National Institute of Standards and
+                Technology (NIST) hosted the Model- Based Enterprise (MBE) Summit to identify
+                challenges, research, implementation issues, and les- sons learned in manufacturing
+                and quality assurance where a digital three-dimensional (3D) model of the product
+                serves as the authoritative information source for all activities in the product's
+                lifecycle. The MBE Summit was co-sponsored by NIST, the U.S. Department of Defense
+                (DoD), and ASME. The 2017 theme was Normalizing the Model-Based Enterprise. For the
+                first time, there was an MBE 101 session for attendees interested in learning about
+                Model-Based Enterprise and the benefits MBE may bring to their companies. This
+                report is a summary of the proceedings of the 2017 MBE Summit.</abstract>
+      <note type="statement of responsibility">Thomas Hedberg; Jr.; Mark Carlisle.</note>
+      <note>October 2017.</note>
+      <note>Title from PDF title page (viewed October 11, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject>
+         <topic>Model-based enterprise</topic>
+      </subject>
+      <subject>
+         <topic>Digital thread</topic>
+      </subject>
+      <subject>
+         <topic>Interoperability in manufacturing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-11</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-11</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1006510895</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">171017</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20171017014744.0</recordChangeDate>
+         <recordIdentifier>991000192469708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Propagation of radio waves over land at 1046 MC</title>
+         <subTitle>report for the Air Navigation Development Board</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80006175">
+         <namePart>Barsis, A. P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n80006175</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80006175">
+         <namePart>Barsis, A. P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n80006175</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n90690082">
+         <namePart>Bean, B. R. (Bradford R.),</namePart>
+         <namePart type="date">1927-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n90690082</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Herbstreit, J. W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hornberg, K. O.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021015342">
+         <namePart>Norton, Kenneth A.,</namePart>
+         <namePart type="date">1907-1992</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021015342</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Bureau of Standards ;</publisher>
+         <dateIssued>1953.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Scope and content">The purpose of this report is to present the experimental data on
+                1046 Mc obtained at the Cheyenne Mountain Field Station for the period February 1,
+                1952 through January 31, 1953. Continuous recordings were not made prior to this
+                period and consequently any previous data are not considered. In addition, this
+                report includes the analysis of diurnal and seasonal variations in hourly median
+                signal levels, the analysis of variations in instantaneous signal levels and the
+                analysis of prolonged space-wave fade-outs within the radio horizon for the period
+                investigated, an analysis of the effects of irregular terrain at points within the
+                radio horizon, an analysis of the scattered signals at points far beyond the radio
+                horizon, including estimates of the expected effective gains of large antenna
+                arrays, the required spacing for diversity arrays and the effective intelligence
+                bearing bandwidths of the propagation paths. Finally, as a result of a recent
+                investigation of propagation over high mountain ridges, an analysis is presented of
+                the obstacle gains expected on 1000 Mc in mountainous terrain.</abstract>
+      <note type="statement of responsibility">A. P. Barsis; B. R. Bean; J. W. Herbstreit; K. O. Hornberg; K. A.
+                Norton.</note>
+      <note>May 1953.</note>
+      <note>Title from PDF title page (viewed September 24, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Air Navigation Development Board. (make into
+                610)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110585">
+         <topic>Radio wave propagation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087609">
+         <topic>Radio wave propagation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.RPT.2494</url>
+      </location>
+      <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="series" xlink:href="https://id.loc.gov/authorities/names/no2008092611">
+         <titleInfo>
+            <title>NBS report</title>
+            <partNumber>2494</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132808554</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20191223031146.0</recordChangeDate>
+         <recordIdentifier>991000232529708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

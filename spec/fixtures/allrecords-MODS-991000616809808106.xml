@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Cybersecurity framework profile for hybrid satellite networks (HSN)
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>McCarthy, James.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5559-733X">
+         <namePart>McCarthy, James.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5559-733X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4247-1735">
+         <namePart>Mamula, Dan.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4247-1735</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7987-6050">
+         <namePart>Brule, Joseph.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7987-6050</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3617-3846">
+         <namePart>Meldorf, Karri.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3617-3846</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5860-5094">
+         <namePart>Jennings, Rory.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5860-5094</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6412-8105">
+         <namePart>Wiltberger, John.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6412-8105</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6183-2300">
+         <namePart>Thorpe, Chris.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6183-2300</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9408-1838">
+         <namePart>Dombrowski, John.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9408-1838</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4255-280X">
+         <namePart>Lattin, O’Ryan.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4255-280X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0009-0502-0792">
+         <namePart>Sepassi, Sam.</namePart>
+         <nameIdentifier>(orcid)0009-0009-0502-0792</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-25.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The space sector is transitioning towards Hybrid Satellite Networks
+                (HSN) which is an aggregation of independently owned and operated terminals,
+                antennas, satellites, payloads, or other components that comprise a satellite
+                system. The elements of an HSN may have varying levels of assurance. HSNs may
+                interact with government systems and critical infrastructure (as defined by the
+                Department of Homeland Security). A framework is required to assess the security
+                posture of the individual components while still enabling the HSN to provide its
+                function. This report applies the NIST Cybersecurity Framework to HSNs with an
+                emphasis on the interfaces between the participants of the HSN. In collaboration
+                with subject matter experts including satellite builders, consultants, acquisition
+                authorities, operators (commercial and government), academia, and other interested
+                parties, the National Institute of Standards and Technology (NIST) has developed the
+                HSN Cybersecurity Framework CSF Profile (HSN Profile) to guide space stakeholders.
+                The resulting profile provides a starting point for stakeholders who are assessing
+                the cybersecurity posture of their HSN.</abstract>
+      <note type="statement of responsibility">James McCarthy; Dan Mamula; Joseph Brule; Karri Meldorf; Rory
+                Jennings; John Wiltberger; Chris Thorpe; John Dombrowski; O’Ryan Lattin; Sam
+                Sepassi.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed November 30, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-14</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Cybersecurity framework</topic>
+      </subject>
+      <subject>
+         <topic>Hybrid satellite networks</topic>
+      </subject>
+      <subject>
+         <topic>HSN</topic>
+      </subject>
+      <subject>
+         <topic>Hosted payload</topic>
+      </subject>
+      <subject>
+         <topic>Payload</topic>
+      </subject>
+      <subject>
+         <topic>Payload control center</topic>
+      </subject>
+      <subject>
+         <topic>PCC</topic>
+      </subject>
+      <subject>
+         <topic>Shared services</topic>
+      </subject>
+      <subject>
+         <topic>Virtual payload command center</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8441</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8441</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8441</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1415980244</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111400.0</recordChangeDate>
+         <recordIdentifier>991000616809808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

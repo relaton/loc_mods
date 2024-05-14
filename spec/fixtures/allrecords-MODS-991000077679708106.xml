@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Information security handbook</title>
+         <subTitle>a guide for managers</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bowen, P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bowen, P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hash, J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84044417">
+         <namePart>Wilson, M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84044417</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2007</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2007.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This Information Security Handbook provides a broad overview of
+                information security program elements to assist managers in understanding how to
+                establish and implement an information security program. Typically, the organization
+                looks to the program for overall responsibility to ensure the selection and
+                implementation of appropriate security controls and to demonstrate the effectiveness
+                of satisfying their stated security requirements. The topics within this document
+                were selected based on the laws and regulations relevant to information security,
+                including the Clinger-Cohen Act of 1996, the Federal Information Security Management
+                Act (FISMA) of 2002, and Office of Management and Budget (OMB) Circular A-130. The
+                material in this handbook can be referenced for general information on a particular
+                topic or can be used in the decision making process for developing an information
+                security program. National Institute of Standards and Technology (NIST) Interagency
+                Report (IR) 7298, Glossary of Key Information Security Terms, provides a summary
+                glossary for the basic security terms used throughout this document. While reading
+                this handbook, please consider that the guidance is not specific to a particular
+                agency. Agencies should tailor this guidance according to their security posture and
+                business requirements.</abstract>
+      <note type="statement of responsibility">P. Bowen; J. Hash; M. Wilson.</note>
+      <note>2007.</note>
+      <note>Originally published 2006.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Awareness</topic>
+      </subject>
+      <subject>
+         <topic>Capital planning</topic>
+      </subject>
+      <subject>
+         <topic>Certification</topic>
+      </subject>
+      <subject>
+         <topic>Configuration management</topic>
+      </subject>
+      <subject>
+         <topic>Contingency plan</topic>
+      </subject>
+      <subject>
+         <topic>Incident response</topic>
+      </subject>
+      <subject>
+         <topic>Interconnecting systems</topic>
+      </subject>
+      <subject>
+         <topic>Performance measures</topic>
+      </subject>
+      <subject>
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Security governance</topic>
+      </subject>
+      <subject>
+         <topic>Security plans</topic>
+      </subject>
+      <subject>
+         <topic>Security services</topic>
+      </subject>
+      <subject>
+         <topic>System development life cycle</topic>
+      </subject>
+      <subject>
+         <topic>Training</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-100</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-100</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312499072</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315121001.0</recordChangeDate>
+         <recordIdentifier>991000077679708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

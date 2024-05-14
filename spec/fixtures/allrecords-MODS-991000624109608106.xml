@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Intelligent flexible manufacturing cell</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hollingsworth, Ethan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hollingsworth, Ethan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Holterman, Eric.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">f00</placeTerm>
+         </place>
+         <dateIssued encoding="marc">mdu</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-12-11.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Designed around Industry 4.0 based digital technology, flexible
+                manufacturing cells are envisioned to comprise a variety of machines capable of
+                peer-to-peer communication, learning, and adaptation with the end goal of creating a
+                standards-based, brand-agnostic, autonomously managed work cell free of any human
+                influence. In this project, CCAM developed a physical and digital flexible
+                manufacturing cell built primarily on open standards and open-source technologies to
+                address the opportunities and challenges of development of a strong communication
+                framework, as well as the semantics and context to drive individual decision making
+                down to the machine or controller and enable brand-agnostic interoperability. This
+                reference implementation of a full digital and flexible manufacturing cell can be
+                used for the further development of standards and technologies surrounding the
+                digital thread and distributed manufacturing.</abstract>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <note type="statement of responsibility">Ethan Hollingsworth; Eric Holterman.</note>
+      <note>December 2023.</note>
+      <note>Title from PDF title page (viewed January 25, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-12-11</note>
+      <note type="funding">Contract number 70NANB19H083</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Automation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Flexible manufacturing systems</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Industry 4.0</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Robotics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject>
+         <topic>Discrete manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Kafka</topic>
+      </subject>
+      <subject>
+         <topic>Manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>MTConnect</topic>
+      </subject>
+      <subject>
+         <topic>Networks</topic>
+      </subject>
+      <subject>
+         <topic>Open standards</topic>
+      </subject>
+      <subject>
+         <topic>QIF</topic>
+      </subject>
+      <subject>
+         <topic>Smart manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>STEP</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.23-046</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR</title>
+            <partNumber>23-046</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract
+                report</title>
+            <partNumber>23-046</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1429312507</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240125</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111405.0</recordChangeDate>
+         <recordIdentifier>991000624109608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

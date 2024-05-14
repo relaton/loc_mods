@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Resilience, adaptation, and sustainability plan assessment
+                methodology</title>
+         <subTitle>an annotated bibliography</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Clavin, Christopher.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Clavin, Christopher.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>D'Abreau, Avery.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Walpole, Emily H.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-28.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (83 pages) : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In the United States, preparing for the impacts of natural hazards is
+                primarily the responsibility of communities and local governments. Increasingly,
+                while communities address these hazard mitigation responsibilities, they are
+                concurrently undertaking emerging planning processes that address objectives such as
+                resilience, adaptation, and sustainability. These planning objectives require a
+                process that may be technically and administratively complicated, often requiring
+                the incorporation of emerging scientific information and decision making under
+                uncertainty. The growth of these planning documents in practice and a field of
+                scholarly work assessing the quality of these planning documents provides an
+                opportunity to better understand how to increase the quality of these planning
+                processes. This annotated bibliography was assembled to achieve two objectives: (1)
+                to provide a review of scholarly literature assessing or evaluating community or
+                local scale planning for objectives related to resilience, adaptation, and
+                sustainability, and (2) to inform the future development of an analytical
+                methodology to assess the content of resilience, adaptation, and sustainability
+                planning guidance, instructions, and requirements for practice. A discussion of the
+                review findings addresses the second objective by presenting a set of plan quality
+                principles that can be used for future plan and associated material assessment. The
+                discussion also highlights concepts observed related to resilience, adaptation, and
+                sustainability terminology, and findings from the review related to the state of
+                practice and research on resilience, adaptation, and sustainability planning. Future
+                areas of work to advance research capabilities related to plan quality assessment
+                are also presented.</abstract>
+      <note type="statement of responsibility">Christopher Clavin; Avery D Abreau; Emily H. Walpole.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>City planning</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Resilience</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Adaptation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Sustainability</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hazard mitigation</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Durabilité de l'environnement</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Catastrophes</topic>
+         <topic>Réduction</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>City planning</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Hazard mitigation</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Sustainability</topic>
+      </subject>
+      <subject>
+         <topic>Community planning</topic>
+      </subject>
+      <subject>
+         <topic>Urban planning</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2117</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2117</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124422</identifier>
+      <identifier type="oclc">on1346124422</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111418.0</recordChangeDate>
+         <recordIdentifier>991000625673408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

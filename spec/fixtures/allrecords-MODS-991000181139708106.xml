@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NVLAP calibration laboratories</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Belzer, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Belzer, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Harper, Kari K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hettenhouser, Thomas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Merkel, Warren.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Laboratory Programs.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST Handbook 150-2, 2016 edition, presents the technical
+                requirements and guidance for the accreditation of laboratories under the National
+                Voluntary Laboratory Accreditation Program (NVLAP) Calibration Laboratories Program.
+                The 2016 edition of NIST Handbook 150-2 supersedes and replaces the following
+                handbooks: 150-2A:2004, 150-2B:2004, 150-2C:2001, 150-2D:2004, 150-2E:2001,
+                150-2F:2003, 150-2G:2004, and 150-2H:2004. The 2016 edition consolidates several
+                technical guidance documents in the NIST Handbook 150-2 series into one document
+                with a set of normative annexes, including: Annex A which addresses the general
+                accreditation requirements prescribed in ANSI/NCSL Z540-1-1994, Calibration
+                Laboratories and Measuring and Test Equipment General Requirements, Part I, that are
+                not directly addressed in ISO/IEC 17025:2005; Annex B which sets out technical
+                requirements not covered in NIST Handbook 150 that are applicable to a laboratory
+                recognized as competent to carry out dimensional calibrations; Annex C which sets
+                out technical requirements not covered in NIST Handbook 150 that are applicable to a
+                laboratory recognized as competent to carry out time and frequency calibrations.
+                Additional annexes covering the remaining fields of calibration will be published
+                upon the completion of their review and updating. The annexes form a normative part
+                of this handbook, meaning they contain provisions that laboratories must meet in
+                order to conform to the requirements for accreditation. Calibration laboratories use
+                NIST Handbook 150-2 in developing the management and technical systems that govern
+                their operations. Laboratory customers, regulatory authorities, and accreditation
+                bodies may also use it as a basis upon which to judge the competence of
+                laboratories.</abstract>
+      <note type="statement of responsibility">Barbara Belzer; Kari K. Harper; Thomas Hettenhouser; Warren
+                Merkel.</note>
+      <note>Title from PDF title page (viewed January 31, 2016).</note>
+      <note>January 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n82137243">
+         <name type="corporate">
+            <namePart>NVLAP (Program : U.S.)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/573574">
+         <name type="corporate">
+            <namePart>NVLAP (Program : U.S.)</namePart>
+         </name>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.HB.150-2-2016</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook; NIST HB</title>
+            <partNumber>150-2-2016</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312503853</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160921</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20160926090653.0</recordChangeDate>
+         <recordIdentifier>991000181139708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

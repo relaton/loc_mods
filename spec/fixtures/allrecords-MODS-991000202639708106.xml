@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Twenty-first annual report on federal agency use of voluntary
+                consensus standards and conformity assessment activities</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Rioux, Nathalie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rioux, Nathalie.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Since reporting began in 1997, 94 new GUS in lieu of VCS have been
+                reported, and of this number, only 73 remain in lieu of private sector standards.
+                The effectiveness of the NTTAA and Circular A-119 in encouraging an enhanced
+                awareness and acceptance of private sector standards by federal agencies is
+                demonstrated by the low numbers of reported new GUS used in lieu of VCS and the
+                repeated review of opportunities to replace existing GUS with VCS. These activities
+                suggest that federal agencies are increasingly likely to use standards developed by
+                the private sector to meet their mission needs. In accordance with its coordination
+                role as defined in the NTTAA and Circular A-119, NIST continues to assist federal
+                agencies and their stakeholders with standards and conformity assessment
+                information, program support, guidance, and policy concerns. NIST hosts
+                https://standards.gov, which offers ongoing practical guidance and information
+                needed by agencies to implement the NTTAA successfully and report standards
+                activities as required by the NTTAA and Circular A-119. This report fulfills the
+                annual reporting requirements of both the NTTAA and Circular A-119.</abstract>
+      <note type="statement of responsibility">Nathalie Rioux.</note>
+      <note>August 2018.</note>
+      <note>Title from PDF title page (viewed August 20, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject>
+         <topic>Conformity assessment</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8223</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8223</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055659142</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004111340.0</recordChangeDate>
+         <recordIdentifier>991000202639708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

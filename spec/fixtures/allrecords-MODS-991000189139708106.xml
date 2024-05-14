@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Findings from the NIST/ASTM workshop on mechanical behavior of
+                additive manufacturing components</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hrabe, Nikolas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hrabe, Nikolas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barbosa, Nicholas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Daniewicz, Steve.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2017015392">
+         <namePart>Shamsaei, Nima.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2017015392</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016-12.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Valuable information was gathered from a broad representation of the
+                additive manufacturing (AM) community (150 attendees from industry, government,
+                academic, and regulatory agencies) during this workshop to understand what is needed
+                to enable broader acceptance and increased use of metal AM in fatigue and fracture
+                critical applications. The main needs identified during the workshop were:
+                comprehensive understanding of processing-structure-properties (PSP) relationships,
+                mature process and material models, trustworthy in-process monitoring and control,
+                effective non-destructive inspection techniques, predictive design tools, and
+                traditional and rapid qualification frameworks. Fatigue and fracture issues play the
+                largest role in PSP relationships, and during the workshop many specific areas of
+                interest were identified and prioritized. In general, PSP investigations should
+                consider statistical variation an utilize both experimental and modeling efforts. A
+                curated AM materials database was deemed highly beneficial to the PSP effort. PSP
+                understanding will facilitate development of in-process monitoring and control,
+                non-destructive inspection techniques, and predictive design tools. The main
+                standardization opportunities identified include standard reporting procedures for
+                AM to enhance understanding and facilitate comparison to other results. Evaluation
+                of current fatigue and fracture test methods as well as non-destructive inspection
+                methods was another standardization need. Finally, a standardized traditional AM
+                qualification framework using the currently available AM processes and inspection
+                techniques was deemed highly necessary, and many felt that regulatory agencies
+                should lead this effort.</abstract>
+      <note type="statement of responsibility">Nikolas Hrabe; Nicholas Barbosa; Steve Daniewicz; Nima
+                Shamsaei.</note>
+      <note>December 2016.</note>
+      <note>Title from PDF title page (viewed December 27, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009006799">
+         <topic>Three-dimensional printing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1748862">
+         <topic>Three-dimensional printing</topic>
+      </subject>
+      <subject>
+         <topic>Additives</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-4</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-4</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">980304629</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170330</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111142.0</recordChangeDate>
+         <recordIdentifier>991000189139708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

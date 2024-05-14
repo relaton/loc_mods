@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Verification of a gas mask calibrant</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Fletcher, Robert.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yang, Jiann.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>King, Lance.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Winchester, M. R.,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart>Klinedinst, Donna.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Verkouteren, Jennifer.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Buckingham, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cleary, Thomas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Filliben, James.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ob</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2007</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology,</publisher>
+         <dateIssued>2007.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">remote</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Robert Fletcher ; George Mulholland ; Jiann Yang ; Lance King ;
+                Michael Winchester ; Donna Klinedinst ; Jennifer Verkouteren ; David Buckingham ;
+                Thomas Cleary ; James Filliben.</note>
+      <note>January 1, 2007.</note>
+      <note>Title from PDF title page (viewed June 6, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Gas masks</topic>
+         <topic>Calibration</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Masques à gaz</topic>
+         <topic>Étalonnage</topic>
+      </subject>
+      <classification authority="lcc">QC100 .U56 no.7424 2007</classification>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.7424</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>7424</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier>GOVPUB-C13-743d2c8851b978b6aaa4498b5c6f18cb</identifier>
+      <identifier type="oclc">994343162</identifier>
+      <identifier type="oclc">ocn994343162</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170724</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240302191847.0</recordChangeDate>
+         <recordIdentifier>991000625648808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

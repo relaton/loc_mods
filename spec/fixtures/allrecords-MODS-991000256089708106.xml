@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Formalizing ISA-95 level 3 control with smart manufacturing system
+                models</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n86821984">
+         <namePart>McGinnis, Leon F. (Leon Franklin),</namePart>
+         <namePart type="date">1948-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86821984</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86821984">
+         <namePart>McGinnis, Leon F. (Leon Franklin),</namePart>
+         <namePart type="date">1948-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86821984</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Achieving the vision of 'smart manufacturing' and 'Industrie 4.0'
+                requires building on successes in computational control of processes to create
+                generic approaches for management of manufacturing operations, or smart
+                manufacturing operations management (SMOM). The approach to SMOM presented in this
+                report generalizes the modeling framework of ISA-95 with a reference model for
+                discrete event logistics systems (DELS) that identifes fve generic operations
+                management decisions. This report applies it in a computational model of a
+                large-scale, highly-automated central fll pharmacy that is the basis for a
+                simulation testbed enabling convenient experimentation with operations management
+                policies and decision algorithms.</abstract>
+      <note type="statement of responsibility">Leon F. McGinnis.</note>
+      <note>December 2019.</note>
+      <note>Title from PDF title page (viewed December 26, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029506">
+         <topic>Computer integrated manufacturing systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872216">
+         <topic>Computer integrated manufacturing systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85131750">
+         <topic>Systems engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1141455">
+         <topic>Systems engineering</topic>
+      </subject>
+      <subject>
+         <topic>Manufacturing systems design and analysis</topic>
+      </subject>
+      <subject>
+         <topic>Smart manufacturing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.19-022</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract report
+</title>
+            <partNumber>19-022</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1139335976</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200205011258.0</recordChangeDate>
+         <recordIdentifier>991000256089708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Upper bound errors in far-field antenna parameters determined from
+                planar near-filled measurements</title>
+         <subTitle>part 2: analysis and computer simulation</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Newell, Allen C..</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Newell, Allen C.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Electromagnetics Division.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2024</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>1975-07-11.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In recent years, planar near-field antenna measurements have been
+                developed and used in a number of applications. One of the primary concerns with
+                this, or any, measurement approach is the accuracy of the results; that is, how do
+                errors in measured near field quantities affect the accuracies of far-field
+                parameters such as gain, sidelobe levels, monopulse difference level, beam width,
+                etc. Some efforts have been made in the past to estimate these errors, but the
+                results have been limited in generality and primarily of a qualitative nature. A
+                two-fold approach is used in this study to obtain equations giving reasonable
+                upper-bound errors resulting from systematic errors in the near-field measurements.
+                The strategy has been to derive error expressions from the equations relating near
+                and far field quantities and also to computer simulate errors using actual measured
+                near-field data. The simulation has both given some direction to, and confirmed the
+                results of the analysis. The errors which have been investigated are: x, y, and
+                z-position errors of the probe, amplitude and phase uncertainties of the measured
+                data, and multiple reflections between the probe and test antenna. The results not
+                only give the effects of errors in a given quantity, but also specify the form of
+                the error (i.e., linear, quadratic, periodic, etc.) which will produce the largest
+                effect in the far-field parameters. This information is very valuable in designing
+                the measuring equipment so that these types of errors can be avoided, or
+                minimized.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Allen C. Newell.</note>
+      <note>July 1975.</note>
+      <note>Title from PDF title page (viewed April 12, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Antennas.</topic>
+      </subject>
+      <subject>
+         <topic>Error analysis.</topic>
+      </subject>
+      <subject>
+         <topic>Far-field pattern.</topic>
+      </subject>
+      <subject>
+         <topic>Near-field measurements.</topic>
+      </subject>
+      <subject>
+         <topic>Planar scanning.</topic>
+      </subject>
+      <subject>
+         <topic>Planewave spectrum.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.671</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>671</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240411</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240423143624.0</recordChangeDate>
+         <recordIdentifier>991000627209808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

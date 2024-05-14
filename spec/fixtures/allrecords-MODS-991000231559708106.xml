@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Situational awareness for electric utilities</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n92118514">
+         <namePart>McCarthy, Jim.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n92118514</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n92118514">
+         <namePart>McCarthy, Jim.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n92118514</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Alexander, Otis.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n95034876">
+         <namePart>Crouse, Sarah Edwards,</namePart>
+         <namePart type="date">approximately 1780-approximately 1860</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n95034876</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Faatz, Don.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Peloquin, Chris.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2001014962">
+         <namePart>Symington, Susan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr2001014962</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb98030333">
+         <namePart>Thibault, André.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb98030333</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Wiltberger, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Viani, Karen.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Situational awareness, in the context of this guide, is the
+                understanding of one's environment and the ability to predict how it might change
+                due to various factors. As part of their current cybersecurity efforts, some
+                electric utilities monitor physical, operational, and information technology (IT)
+                separately. According to energy sector stakeholders, many utilities are currently
+                assessing a more comprehensive approach to situational awareness, which, through
+                increased real-time or near real-time cybersecurity monitoring, can enhance the
+                resilience of their operations. The National Cybersecurity Center of Excellence
+                (NCCoE) at the National Institute of Standards and Technology (NIST) built a
+                laboratory environment to explore an example solution that can be used by energy
+                sector companies to alert their staff to potential or actual cyber attacks directed
+                at the grid. The security characteristics in our situational awareness platform are
+                informed by guidance and best practices from standards organizations, including the
+                NIST Cybersecurity Framework and North American Electric Reliability Corporation's
+                (NERC) Critical Infrastructure Protection (CIP) Version 5 standards. This NIST
+                Cybersecurity Practice Guide demonstrates how organizations can use commercially
+                available products that can be integrated with an organization's existing
+                infrastructure. The combination of these products provides a converged view of all
+                sensor data within the utility's network systems, including IT, operational, cyber,
+                and physical access control systems, which often exists in separate 'silos.' The
+                example solution is packaged as a 'how to' guide that demonstrates implementation of
+                standardsbased cybersecurity technologies in the real world and based on risk
+                management. The guide may help inform electric utilities in their efforts to gain
+                situational awareness efficiencies. Doing so may enable faster monitoring,
+                identification, and response to incidents while also saving research and
+                proof-ofconcept costs for the sector and its ratepayers and customers.</abstract>
+      <note type="statement of responsibility">Jim McCarthy; Otis Alexander; Sallie Edwards; Don Faatz; Chris
+                Peloquin; Susan Symington; Andre Thibault; John Wiltberger; Karen Viani.</note>
+      <note>August 2019.</note>
+      <note>Title from PDF title page (viewed August 13, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043141">
+         <topic>Energy industries</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/910110">
+         <topic>Energy industries</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh87002293">
+         <topic>Information technology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007007736">
+         <topic>Situational awareness</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1743826">
+         <topic>Situational awareness</topic>
+      </subject>
+      <subject>
+         <topic>Correlated events</topic>
+      </subject>
+      <subject>
+         <topic>Energy sector</topic>
+      </subject>
+      <subject>
+         <topic>Operational technology</topic>
+      </subject>
+      <subject>
+         <topic>Physical access control systems</topic>
+      </subject>
+      <subject>
+         <topic>Security event and incident management</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-7</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-7</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1117448306</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190905</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163309.0</recordChangeDate>
+         <recordIdentifier>991000231559708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

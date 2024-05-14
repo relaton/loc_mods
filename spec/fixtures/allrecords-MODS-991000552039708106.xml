@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Security considerations for voice over IP systems</title>
+         <subTitle>recommendations of the National Institute of Standards and Technology
+</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85246800">
+         <namePart>Kuhn, D. Richard.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85246800</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88293648">
+         <namePart>Walsh, Thommie.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88293648</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Fries, Steffen.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2008015449">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008015449</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2005</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2005.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">remote</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">D. Richard Kuhn; Thomas J. Walsh; Steffen Fries.</note>
+      <note>January 2005.</note>
+      <note>Title from PDF title page (viewed May 4, 2007).</note>
+      <note type="bibliography">Includes bibliographical references (pages 78-80) and
+                index.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005297">
+         <topic>Internet telephony</topic>
+         <topic>Security measures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/977297">
+         <topic>Internet telephony</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1110883">
+         <topic>Security systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh94001277">
+         <topic>Computer networks</topic>
+         <topic>Security measures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872341">
+         <topic>Computer networks</topic>
+         <topic>Security measures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005297">
+         <topic>TCP/IP (Computer network protocol)</topic>
+         <topic>Security measures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1141584">
+         <topic>TCP/IP (Computer network protocol)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-58</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-58</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">124076501</identifier>
+      <identifier type="oclc">70707070</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">070509</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240227140940.0</recordChangeDate>
+         <recordIdentifier>991000552039708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

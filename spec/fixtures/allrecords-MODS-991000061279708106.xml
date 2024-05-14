@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Standard reference materials</title>
+         <subTitle>evaluation by an ID/MS method of the AACC reference method for serum
+                glucose</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96030937">
+         <namePart>Cohen, A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n96030937</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n78076694">
+         <namePart>Hertz, Harry S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n78076694</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Mandel, J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83061752">
+         <namePart>Schaffer, Robert,</namePart>
+         <namePart type="date">1920-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n83061752</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1982</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>1982.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">R. Schaffer; J. Mandel; A. Cohen; H. S. Hertz.</note>
+      <note>1982.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.SP.260-80</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS special publication; NBS special pub; NBS SP</title>
+            <partNumber>260-80</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">926740512</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151026</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20151026025816.0</recordChangeDate>
+         <recordIdentifier>991000061279708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

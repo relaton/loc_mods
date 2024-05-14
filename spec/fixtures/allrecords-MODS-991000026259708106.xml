@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certified transmittance density uncertainties for standard reference
+                materials using a tranfer spectrophometer</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n81011447">
+         <namePart>Travis, John C.,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81011447</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81011447">
+         <namePart>Travis, John C.,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81011447</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021120232">
+         <namePart>Smith, Melody V.,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021120232</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152828">
+         <namePart>Choquette, S. J.,</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152828</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085854">
+         <namePart>Liu, Hung-Kung,</namePart>
+         <namePart type="date">1952-</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085854</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2011</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Department of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2011.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Overall uncertainties are evaluated for the certification of
+                transmittance density (absorbance referred to air) and regular spectral
+                transmittance for solid neutral density filter Standard Reference Materials by means
+                of a transfer spectrophotometer. Traceability is asserted by means of comparison
+                measurements to a recognized reference spectrophotometer. The uncertainties are
+                evaluated without bias correction, using the combination of the legacy combined
+                standard uncertainty values with uncertainty components for the measured bias, the
+                standard uncertainty of this measured bias, and the standard uncertainty
+                characteristic of simple replication for a single measurement using the transfer
+                spectrophotometer. Numerical results are given, and are anticipated to be the values
+                initially quoted on certificates and in reports of recertification. However, these
+                values are subject to change upon future adjustment of estimated uncertainty
+                components for the filters or changes in the observed bias with future
+                determinations.</abstract>
+      <note type="statement of responsibility">J. C. Travis; M. V. Smith; S. J. Choquette; Hung-Kung Liu.</note>
+      <note>November 2011</note>
+      <note>CODEN: NTNOEF--Title page verso.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2004014549">
+         <topic>Neutral density filters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1737514">
+         <topic>Neutral density filters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85126418">
+         <topic>Spectrophotometry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1129099">
+         <topic>Spectrophotometry</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1715</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1715</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312500093</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">120619</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20120619032355.0</recordChangeDate>
+         <recordIdentifier>991000026259708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>new method for tensile testing UHMMPE single fibers at high
+                temperatures and strain-rates</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Jenket, Donald R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jenket, Donald R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Engelbrecht-Wiggans, Amy E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Forster, Amanda L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Al-Sheikhly, Mohamad.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The performance of body armor made of ultra-high molecular weight
+                polyethylene (UHMMPE) is dependent on the tensile strength of UHMMPE fibers. UHMMPE
+                is known to exhibit different mechanical properties when tested at different strain
+                rates and different temperatures. The high tensile strength and low surface energy
+                make it difficult to securely grip single fibers while testing without any slippage.
+                Consequently, making accurate measurements of the tensile strength of this material
+                is challenging. Efforts to simultaneously interrogate strain-rate and temperature
+                conditions have been complicated by the difficulty in gripping the fiber, and in
+                consistently heating a small (? 15 m diameter) fiber. In this paper, a method is
+                described for tensile testing single UHMMPE fibers at high rates and high
+                temperatures, focusing on an innovative clamp design and a specialized single fiber
+                heater that can be coupled to traditional tools for measuring mechanical properties
+                of fibers. Metrics of success for the single fiber clamps are described based on the
+                percentage of failures observed at the jaw grips and the strain to
+                failure.</abstract>
+      <note type="statement of responsibility">Donald R. Jenket; Amy E. Engelbrecht-Wiggans; Amanda L. Forster;
+                Mohamad Al-Sheikhly.</note>
+      <note>August 2019.</note>
+      <note>Title from PDF title page (viewed August 23, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006047">
+         <topic>Body armor</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/835315">
+         <topic>Body armor</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85104624">
+         <topic>Polyethylene</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1070435">
+         <topic>Polyethylene</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2006005569">
+         <topic>Ultrahigh molecular weight polyethylene</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1741382">
+         <topic>Ultrahigh molecular weight polyethylene</topic>
+      </subject>
+      <subject>
+         <topic>Grips</topic>
+      </subject>
+      <subject>
+         <topic>Rate effects</topic>
+      </subject>
+      <subject>
+         <topic>Single fibers</topic>
+      </subject>
+      <subject>
+         <topic>Tensile testing</topic>
+      </subject>
+      <subject>
+         <topic>Thermal effects</topic>
+      </subject>
+      <subject>
+         <topic>Ultra-high molar mass polyethylene</topic>
+      </subject>
+      <subject>
+         <topic>UHMMPE</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8265</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8265</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1117448172</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190905</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190905121513.0</recordChangeDate>
+         <recordIdentifier>991000231689708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>2023 NIST summary of U.S. legal metrology activities</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Warfield, Lisa.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0576-8572">
+         <namePart>Warfield, Lisa.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0576-8572</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8651-8326">
+         <namePart>Lippa, Katrice.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8651-8326</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Konijnenburg, Jan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0006-8082-2726">
+         <namePart>Minnich, Loren.</namePart>
+         <nameIdentifier>(orcid)0009-0006-8082-2726</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Lee, Gloria Diane.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Williams, Juana.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0006-7396-155X">
+         <namePart>McGuire, John.</namePart>
+         <nameIdentifier>(orcid)0009-0006-7396-155X</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-11-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (570 pages) : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The NIST Office of Weights and Measures (OWM) presents its second
+                issue of the 2023 NIST Annual Summary of U.S. Legal Metrology Activities report.
+                This report includes a summary of changes made to NIST Handbook 44 (2023)
+                Specifications, Tolerances and Other Technical Requirements for Commercial Weighing
+                and Measuring Devices, NIST Handbook 130 (2023) Uniform Laws and Regulations in the
+                Areas of Legal Metrology, and Fuel Quality, and NIST Handbook 133 (2023) Checking
+                the Net Contents of Packaged Goods. The summary will provide an archival record of
+                proposals and associated actions with the goal of assisting the weights and measures
+                community in consistently interpreting and implementing NIST Handbooks 44, and 130.
+                Each item in this report includes a NIST OWM technical analysis, background
+                information, and a summary of any actions taken on proposed changes to these NIST
+                Handbooks considered in 2023.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Lisa Warfield; Katrice Lippa; Jan Konijnenburg; Loren Minnich; Gloria
+                Diane Lee; Juana Williams; John McGuire.</note>
+      <note>November 2023.</note>
+      <note>Title from PDF title page (viewed December 21, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-11-15</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Area</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Devices</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fuel</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Labels</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Length measurement</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Measurement</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Packaging</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Scales (Weighing instruments)</topic>
+         <topic>Calibration</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Taximeters</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Thickness measurement</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Odometers</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Unit pricing</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Volume (Cubic content)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Electronic weighing systems</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Weights and measures</topic>
+         <topic>Law and legislation</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject>
+         <topic>Automotive lubricants</topic>
+      </subject>
+      <subject>
+         <topic>Dry measures</topic>
+      </subject>
+      <subject>
+         <topic>Electric vehicle fueling systems</topic>
+      </subject>
+      <subject>
+         <topic>Fuels;</topic>
+      </subject>
+      <subject>
+         <topic>Grain analyzers</topic>
+      </subject>
+      <subject>
+         <topic>Grain moisture meters</topic>
+      </subject>
+      <subject>
+         <topic>Hydrogen gas-measuring devices</topic>
+      </subject>
+      <subject>
+         <topic>Labeling</topic>
+      </subject>
+      <subject>
+         <topic>Laws and regulations</topic>
+      </subject>
+      <subject>
+         <topic>Legal metrology</topic>
+      </subject>
+      <subject>
+         <topic>Length</topic>
+      </subject>
+      <subject>
+         <topic>Liquid-measuring devices</topic>
+      </subject>
+      <subject>
+         <topic>LPG and anhydrous ammonia liquid-measuring</topic>
+      </subject>
+      <subject>
+         <topic>Mass flow meters</topic>
+      </subject>
+      <subject>
+         <topic>Measure-containers</topic>
+      </subject>
+      <subject>
+         <topic>Measuring</topic>
+      </subject>
+      <subject>
+         <topic>Price verification</topic>
+      </subject>
+      <subject>
+         <topic>Registration of servicepersons</topic>
+      </subject>
+      <subject>
+         <topic>Scales</topic>
+      </subject>
+      <subject>
+         <topic>Specifications and tolerances</topic>
+      </subject>
+      <subject>
+         <topic>Technical analysis</topic>
+      </subject>
+      <subject>
+         <topic>Test methods</topic>
+      </subject>
+      <subject>
+         <topic>Test procedures</topic>
+      </subject>
+      <subject>
+         <topic>Thickness</topic>
+      </subject>
+      <subject>
+         <topic>timing devices</topic>
+      </subject>
+      <subject>
+         <topic>Training measuring systems</topic>
+      </subject>
+      <subject>
+         <topic>Meters</topic>
+      </subject>
+      <subject>
+         <topic>Method of sale</topic>
+      </subject>
+      <subject>
+         <topic>Multiple dimension measuring devices</topic>
+      </subject>
+      <subject>
+         <topic>NIST Handbook 44</topic>
+      </subject>
+      <subject>
+         <topic>NIST Handbook 130</topic>
+      </subject>
+      <subject>
+         <topic>NTEP</topic>
+      </subject>
+      <subject>
+         <topic>NIST OWM analysis</topic>
+      </subject>
+      <subject>
+         <topic>Transportation network measuring systems</topic>
+      </subject>
+      <subject>
+         <topic>Type evaluation</topic>
+      </subject>
+      <subject>
+         <topic>Uniform laws</topic>
+      </subject>
+      <subject>
+         <topic>Vehicle tanks</topic>
+      </subject>
+      <subject>
+         <topic>Weighing</topic>
+      </subject>
+      <subject>
+         <topic>Weighing systems</topic>
+      </subject>
+      <subject>
+         <topic>Weighmaster law</topic>
+      </subject>
+      <subject>
+         <topic>Weight</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.2200-04</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>2200-04</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>2200-04</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1419198548</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240313162522.0</recordChangeDate>
+         <recordIdentifier>991000622909708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>OpenFOAM large-eddy simulations of atmospheric boundary layer
+                turbulence for wind engineering applications</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n82009206">
+         <namePart>Shi, Liang.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82009206</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82009206">
+         <namePart>Shi, Liang.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82009206</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2018048920">
+         <namePart>Yeo, DongHun.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2018048920</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Statistical properties such as the spectral density and spatial
+                coherence of boundary layer turbulence affect bluff body aerodynamics and structural
+                responses. In this report, the open-source toolbox OpenFOAM is employed to perform
+                LES simulations of boundary layer flows with rough ground and to obtain turbulence
+                statistics. The one-equation-eddy SGS model is used for the subgrid-scale motions
+                while the wall shear model is applied at the ground. The mean velocity profiles
+                follow the logarithmic law except the near-ground region owing to the limited
+                accuracy of the SGS model. The Reynolds stresses, the third-order moments and the
+                energy budgets are reasonably well represented. The power spectra agree with the
+                modified Kaimal expressions at low frequencies. Additional research is planned on
+                the simulation of higher frequency turbulence spectra. The spatial coherence
+                functions are exponential and consistent with the expressions commonly used in wind
+                engineering applications.</abstract>
+      <note type="statement of responsibility">Liang Shi; DongHun Yeo.</note>
+      <note>November 2016.</note>
+      <note>Title from PDF title page (viewed November 29, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85016096">
+         <topic>Boundary layer (Meteorology)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/837108">
+         <topic>Boundary layer (Meteorology)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85138753">
+         <topic>Turbulence</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1159210">
+         <topic>Turbulence</topic>
+      </subject>
+      <subject>
+         <topic>Wind engineering</topic>
+      </subject>
+      <subject>
+         <topic>Large-eddy simulations (LES)</topic>
+      </subject>
+      <subject>
+         <topic>OpenFOAM</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1944</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1944</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662126</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114118.0</recordChangeDate>
+         <recordIdentifier>991000187929708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

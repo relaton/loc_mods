@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Seismic design of steel buckling-restrained braced frames: a guide
+                for practicing engineers</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kersting, Ryan A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kersting, Ryan A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020053108">
+         <namePart>Fahnestock, Larry A.,</namePart>
+         <namePart type="date">1973-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020053108</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Lpez, Walterio A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Buckling-Restrained Braced Frames (BRBFs) are one of the newer types
+                of seismic force-resisting systems used in modern building designs. This Guide
+                addresses the seismic design of steel BRBFs in typical building applications within
+                regions of moderate to high seismic hazard, corresponding to Seismic Design
+                Categories (SDC) C through F as defined in ASCE 7.This Guide was written to provide
+                guidance to practicing structural engineers regarding the use of requirements in
+                applicable codes and standards for the design of BRBF systems. The Guide is also
+                useful to others seeking to understand the basis of, and to correctly implement, the
+                appropriate code provisions related to BRBFs, including building officials,
+                educators, researchers, and students.</abstract>
+      <note type="statement of responsibility">Ryan A. Kersting; Larry A. Fahnestock; Walterio A. Lpez.</note>
+      <note>September 2015.</note>
+      <note>Title from PDF title page (viewed November 23, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>NEHRP Consultants Joint Ventures</topic>
+      </subject>
+      <subject>
+         <topic>Seismic</topic>
+      </subject>
+      <subject>
+         <topic>Steel Buckling</topic>
+      </subject>
+      <subject>
+         <topic>Restrained Braced Frames</topic>
+      </subject>
+      <subject>
+         <topic>ATC</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.15-917-34</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract report
+</title>
+            <partNumber>15-917-34</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662077</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114118.0</recordChangeDate>
+         <recordIdentifier>991000187849708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

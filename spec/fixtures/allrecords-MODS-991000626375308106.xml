@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Materials data</title>
+         <subTitle>a landscape analysis and potential roadmap for the NIST Material
+                Measurement Laboratory</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kaiser, Debra L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kaiser, Debra L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hanisch, Robert J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Warren, James A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Trautt, Zachary.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-04-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (27 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In the past decade, numerous public and private sector documents have
+                highlighted the need for materials data to facilitate advanced technologies in
+                myriad industrial and economic sectors. These documents have been analyzed to
+                identify prevalent gaps in the establishment of an interconnected materials data
+                infrastructure akin to that envisioned in the federal agency-wide Materials Genome
+                Initiative. This internal report uses a uniform schematic format to portray these
+                gaps, illustrate progress in addressing the gaps, and propose an MML roadmap of
+                action items to further address the gaps.</abstract>
+      <note type="statement of responsibility">Debra L. Kaiser; Robert J. Hanisch; James A. Warren; Zachary T.
+                Trautt.</note>
+      <note>April 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-03-26.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Materials Genome Initiative (U.S.)</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Materials--Databases</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Artificial intelligence</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8364</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8364</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228950</identifier>
+      <identifier type="oclc">on1427228950</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111509.0</recordChangeDate>
+         <recordIdentifier>991000626375308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Influence of ground motion selection methods on the seismic
+                assessment of steel special moment frames</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2011012512">
+         <namePart>Uribe, Raul.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2011012512</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2011012512">
+         <namePart>Uribe, Raul.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2011012512</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Sattar, Siamak.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022083467">
+         <namePart>Speicher, Matthew S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022083467</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ibarra, Luis.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This study quantifies the impact of different ground motion selection
+                methods on the seismic performance evaluation of steel special moment frames. Two
+                methods are investigated: a "traditional" approach, herein referred to as the
+                Pacific Earthquake Engineering Research (PEER) method, and a newer approach known as
+                the Conditional Mean Spectrum (CMS) method. The PEER method selects ground motions
+                using the Riskbased Maximum Considered Earthquake (MCER) as the target spectrum,
+                while the CMS method uses the conditional mean spectrum that anchor to the MCER at
+                multiple conditioning periods. Three special moment frames of 4-, 8-, and 16-stories
+                are designed in accordance with ASCE/SEI 7-10 to represent archetype steel frame
+                buildings as found in regions of high seismicity. The seismic performance of these
+                frames is assessed with the nonlinear dynamic procedure prescribed in ASCE/SEI
+                41-13, using ground motions selected and scaled in accordance with both methods. The
+                performance of the buildings is evaluated at the Collapse Prevention (CP)
+                performance level for a far-field site located in Los Angeles, CA. The CMS method
+                results in lower mean and median response in terms of demand-to-capacity ratios in
+                the reduced beam sections and column hinges. Ground motions selected and scaled
+                using CMS result in a smaller dispersion of the output parameters in most of the
+                beam and column elements, if the conditioning period that results in the highest
+                mean demand-to-capacity ratio is the fundamental period, ??1. The results of this
+                study show that the ground motion selection process can cause significant
+                differences in structural response that may lead to different retrofitting
+                decisions. These results provide motivation for engineers to consider the use of the
+                CMS method as an alternative ground motions selection approach when assessing
+                building performance.</abstract>
+      <note type="statement of responsibility">Raul Uribe; Siamak Sattar; Matthew S. Speicher; Luis
+                Ibarra.</note>
+      <note>September 2018.</note>
+      <note>Title from PDF title page (viewed September 27, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040496">
+         <topic>Earthquakes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/900899">
+         <topic>Earthquakes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040493">
+         <topic>Earthquake resistant design</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/900877">
+         <topic>Earthquake resistant design</topic>
+      </subject>
+      <subject>
+         <topic>Building codes.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1992</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1992</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055660333</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004013617.0</recordChangeDate>
+         <recordIdentifier>991000202839708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

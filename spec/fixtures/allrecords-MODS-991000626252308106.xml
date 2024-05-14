@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>BGP secure routing extension (BGP-SRx)</title>
+         <subTitle>reference implementation and test tools for emerging BGP security
+                standards</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Borchert, Oliver.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Borchert, Oliver.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lee, Kyehwan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sriram, Kotikalapudi.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Montgomery, Doug.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gleichmann, Patrick.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Adalier, Mehmet.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-07-22.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (161 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In this paper, we first describe the problem space. Following that,
+                we describe the design and implementation of the NIST reference implementation for
+                RPKI-based route origin validation (BGP-OV) and BGPsec path validation (BGP-PV)
+                within a BGP router. The system we developed is called BGP Secure Routing Extension
+                (BGP-SRx). We describe the system design, explain the design choices, communications
+                between all components, and present the performance measurements obtained during the
+                implementation stages. This paper is organized so that it first explains the
+                high-level system design with a brief explanation of all components and how they
+                interact. We will explain why we chose this design and provide a discussion of its
+                benefits as well as shortcomings. Furthermore, we show which open-source components
+                we chose and how we extended them for this project. The BGP-SRx implementation is a
+                reference implementation for RPKI-OV with all its router side components as
+                specified in RFC 6811, RFC 6810, and RFC 8210 as well as for BGPsec path validation
+                as specified in RFC 8205 and RFC 8608. The implementation allowed early
+                identification of issues while the specifications were still under development,
+                hence provided important feedback to the development of the different IETF
+                RFCs.</abstract>
+      <note type="statement of responsibility">Oliver Borchert; Kyehwan Lee; Kotikalapudi Sriram; Doug Montgomery;
+                Patrick Gleichmann; Mehmet Adalier.</note>
+      <note>July 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-14</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>BGP (Computer network protocol)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Public key cryptography</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Robust control</topic>
+      </subject>
+      <subject>
+         <topic>Border Gateway Protocol (BGP) security</topic>
+      </subject>
+      <subject>
+         <topic>BGP origin validation (BGP-OV)</topic>
+      </subject>
+      <subject>
+         <topic>BGP path validation (BGP-PV)</topic>
+      </subject>
+      <subject>
+         <topic>BGPsec</topic>
+      </subject>
+      <subject>
+         <topic>Internet infrastructure security</topic>
+      </subject>
+      <subject>
+         <topic>Resource public key infrastructure (RPKI)</topic>
+      </subject>
+      <subject>
+         <topic>Routing security</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2060</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2060</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890037</identifier>
+      <identifier type="oclc">on1389890037</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111510.0</recordChangeDate>
+         <recordIdentifier>991000626252308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

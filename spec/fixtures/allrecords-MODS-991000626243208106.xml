@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Supply chain assurance</title>
+         <subTitle>validating the integrity of computing devices</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Boyens, Jon.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boyens, Jon.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Diamond, Tyler.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grayson, Nakia.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Paulsen, Celia.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Polk, William T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Regenscheid, Andrew.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Souppaya, Murugiah.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brown, Christopher.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Deane, Chelsea.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hurlburt, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scarfone, Karen.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-12-09.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (239 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Product integrity and the ability to distinguish trustworthy products
+                is a critical foundation of C-SCRM. Authoritative information regarding the
+                provenance and integrity of components provides a strong basis for trust in a
+                computing device whether it is a client device, server, or other technology. The
+                goal of this project is to demonstrate how organizations can verify that the
+                components of their acquired computing devices are genuine and have not been
+                tampered with or otherwise modified throughout the devices' life cycles. This
+                project addresses several processes: how to create verifiable descriptions of
+                components and platforms, which may be done by original equipment manufacturers
+                (OEMs), platform integrators, and even information technology (IT) departments how
+                to verify devices and components within the single transaction between an OEM and a
+                customer how to verify devices and components at subsequent stages in the system
+                life cycle in the operational environment. This project will use a combination of
+                commercial off-the-shelf and open-source tools to describe the components of a
+                device in a verifiable manner using cryptography. Future builds of this project may
+                cover other critical phases of C-SCRM.</abstract>
+      <note type="statement of responsibility">Jon Boyens; Tyler Diamond; Nakia Grayson; Celia Paulsen; William T.
+                Polk; Andrew Regenscheid; Murugiah Souppaya; Christopher Brown; Chelsea Deane; Jason
+                Hurlburt; Karen Scarfone.</note>
+      <note>December 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-02-28</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Configuration management</topic>
+      </subject>
+      <subject>
+         <topic>Asset management</topic>
+      </subject>
+      <subject>
+         <topic>Roots of trust</topic>
+      </subject>
+      <subject>
+         <topic>Vulnerability management</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-34</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-34</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890544</identifier>
+      <identifier type="oclc">on1389890544</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111450.0</recordChangeDate>
+         <recordIdentifier>991000626243208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

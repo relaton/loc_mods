@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Advanced communications technologies standards</title>
+         <subTitle>report of the advanced communications technologies working group
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bohn, Robert B.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4014-0801">
+         <namePart>Bohn, Robert B.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4014-0801</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6669-3941">
+         <namePart>Greer, Christopher.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6669-3941</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3798-8668">
+         <namePart>Kahn, Jason.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3798-8668</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report of the Advanced Communications Technologies Working Group
+                of the Interagency Committee on Standards Policy (ICSP) provides an overview of
+                Federal agency advanced communications technologies (ACT) standards activities and
+                recommends standards priority areas for ICSP consideration. The ACT standards
+                priorities recommendations section of the report sets out nine areas for
+                consideration by the ICSP. The landscape review section provides an overview of each
+                contributing agency’s relevant ACT standards activities, including its mission, ACT
+                goals, role in ACT standards, participation in standards development organizations,
+                ACT focus areas, and examples of standards activities for each contributing Federal
+                agency or office.</abstract>
+      <note type="statement of responsibility">Robert B. Bohn; Christopher Greer; Jason Kahn.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed January 4, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-08-30</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject>
+         <topic>Advanced communications technologies</topic>
+      </subject>
+      <subject>
+         <topic>International technical standards</topic>
+      </subject>
+      <subject>
+         <topic>Federal agency standards activities</topic>
+      </subject>
+      <subject>
+         <topic>Standards development organizations</topic>
+      </subject>
+      <subject>
+         <topic>Standards priority areas</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8483</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8483</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8483</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1419198442</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401110403.0</recordChangeDate>
+         <recordIdentifier>991000622908508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

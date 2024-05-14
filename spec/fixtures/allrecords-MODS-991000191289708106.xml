@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Verification and test methods for access control policies/models
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/nb2021009064">
+         <namePart>Hu, Vincent C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2021009064</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2021009064">
+         <namePart>Hu, Vincent C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2021009064</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85246800">
+         <namePart>Kuhn, D. Richard.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85246800</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141697">
+         <namePart>Yaga, Dylan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011141697</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Access control systems are among the most critical of computer
+                security components. Faulty policies, misconfigurations, or flaws in software
+                implementations can result in serious vulnerabilities. To formally and precisely
+                capture the security properties that access control should adhere to, access control
+                models are usually written, bridging the gap in abstraction between policies and
+                mechanisms. Identifying discrepancies between policy specifications and their
+                intended function is crucial because correct implementation and enforcement of
+                policies by applications is based on the premise that the policy specifications are
+                correct. As a result, policy specifications represented by models must undergo
+                rigorous verification and validation through systematic verification and testing to
+                ensure that the policy specifications truly encapsulate the desires of the policy
+                authors. Verifying the conformance of access control policies and models is a
+                non-trivial and critical task, and one important aspect of such verification is to
+                formally check the inconsistency and incompleteness of the model and safety
+                requirements of the policy, because an access control model and its implementation
+                do not necessarily explicitly express the policy, which can also be implicitly
+                embedded by mixing with direct access constraints or other access control
+                models.</abstract>
+      <note type="statement of responsibility">Vincent C. Hu; Rick Kuhn; Dylan Yaga.</note>
+      <note>June 2017.</note>
+      <note>Title from PDF title page (viewed June 27, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Access control</topic>
+      </subject>
+      <subject>
+         <topic>Access control verification</topic>
+      </subject>
+      <subject>
+         <topic>Access control testing</topic>
+      </subject>
+      <subject>
+         <topic>Model testing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-192</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-192</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1004771398</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120947.0</recordChangeDate>
+         <recordIdentifier>991000191289708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

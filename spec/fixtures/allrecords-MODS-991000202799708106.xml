@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Network charter</title>
+         <subTitle>Manufacturing USA program (2018)</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Molnar, Michael F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Molnar, Michael F.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Under the authority of the Revitalize American Manufacturing and
+                Innovation Act of 2014, the Secretary of Commerce shall establish the Network for
+                Manufacturing Innovation, generally called the Manufacturing USA network. The
+                network, along with its manufacturing innovation institutes, makes up the
+                Manufacturing USA program. This document hereby charters the Manufacturing USA
+                network.</abstract>
+      <note type="statement of responsibility">Michael F. Molnar.</note>
+      <note>September 2018.</note>
+      <note>Title from PDF title page (viewed September 18, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Revitalize American Manufacturing and Innovation Act
+                of 2014.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject>
+         <topic>Network for Manufacturing Innovation</topic>
+      </subject>
+      <subject>
+         <topic>Manufacturing USA network</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.600-4</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>600-4</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055660203</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004125113.0</recordChangeDate>
+         <recordIdentifier>991000202799708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

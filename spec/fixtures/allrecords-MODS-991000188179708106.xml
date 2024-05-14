@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST Micronutrients Measurement Quality Assurance Program winter,
+                spring, and fall 1988 comparability studies</title>
+         <subTitle>results for round robins XII, XIII, and XIV fat-soluble vitamins and
+                carotenoids in human serum</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Craft, Neal E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Craft, Neal E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
+         <namePart>Duewer, David L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019178574</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Thomas, Jeanice B.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020100705">
+         <namePart>Kline, Margaret C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020100705</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011110822">
+         <namePart>May, Willie.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011110822</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology coordinates the
+                Micronutrients Measurement Quality Assurance Program (MMQAP) for laboratories that
+                measure fat-soluble vitamins and carotenoids in human serum and plasma. This report
+                describes the design of and results for the Winter, Spring and Fall 1988 MMQAP
+                measurement comparability improvement studies: 1) Round Robin XII Fat-Soluble
+                Vitamins and Carotenoids in Human Serum, 2) Round Robin XIII FatSoluble Vitamins and
+                Carotenoids in Human Serum, and 3) Round Robin XIV Fat-Soluble Vitamins and
+                Carotenoids in Human Serum. The materials for Round Robin XII were shipped to
+                participants in January 1988; participants were requested to provide their
+                measurement results by March 2, 1988. The materials for Round Robin XIII were
+                shipped to participants in May 1988; participants were requested to provide their
+                measurement results by July 1, 1988. The materials for Round Robin XIV were shipped
+                to participants in August 1988; participants were requested to provide their
+                measurement results by October 1, 1988.</abstract>
+      <note type="statement of responsibility">Neal E. Craft; David L. Duewer; Jeanice B. Thomas; Margaret C. Kline;
+                Wille E. May.</note>
+      <note>Title from PDF title page (viewed September 27, 2016).</note>
+      <note>September 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85143952">
+         <topic>Vitamin A</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1168150">
+         <topic>Vitamin A</topic>
+      </subject>
+      <subject>
+         <topic>Human serum</topic>
+      </subject>
+      <subject>
+         <topic>Micronutrients Measurement Quality Assurance Program
+                (MMQAP)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.7880-36</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>7880-35</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662181</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240201155514.0</recordChangeDate>
+         <recordIdentifier>991000188179708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

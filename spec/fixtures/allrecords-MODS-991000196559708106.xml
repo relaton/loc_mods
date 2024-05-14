@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Proficiency test policy and plan for state weights &amp; measures
+                laboratories (2018 ed)</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n91104296">
+         <namePart>Harris, Georgia L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n91104296</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="0000-0003-3831-3208">
+         <namePart>Harris, Georgia L.</namePart>
+         <nameIdentifier>0000-0003-3831-3208</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Eason, L. F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fraley, Ken.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Larson, Kelleen.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2019028800">
+         <namePart>Physical Measurement Laboratory (National Institute of Standards and
+                Technology (U.S.))</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019028800</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This publication provides the policies and plans for the PT Program
+                of the NIST Office of Weights and Measures. This Office of Weights and Measures
+                (OWM) Proficiency Testing (PT) policy and plan has been updated to ensure compliance
+                with the latest applicable documentary standards and policies of the International
+                Laboratory Accreditation Cooperation (ILAC). The PT program has been in place since
+                the early 1980s as a core part of the support to State weights and measures
+                laboratories through regional measurement assurance programs. Original activities
+                were conducted as round robins in support of ongoing measurement assurance
+                activities related to support for State laws with requirements for metrological
+                traceability to national and international standards. Kelleen Larson, L. F. Eason,
+                and Ken Fraley in collaboration with NIST OWM personnel at the 2012 PT Workshop,
+                Boulder, Colorado, proposed significant updates to this publication, which form the
+                foundation for the 2018 update. Reviews by the participants listed below
+                significantly contributed to the development of this policy and plan. The initial
+                2004 edition was developed under contract with Jeff C. Gust.</abstract>
+      <note type="statement of responsibility">Georgia L. Harris; L. F. Eason; Ken Fraley; Kelleen
+                Larson.</note>
+      <note>February 2018.</note>
+      <note>Title from PDF title page (viewed February 21, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Accreditation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85018860">
+         <topic>Calibration</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/844249">
+         <topic>Calibration</topic>
+      </subject>
+      <subject>
+         <topic>Interlaboratory comparison</topic>
+      </subject>
+      <subject>
+         <topic>Proficiency testing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.7082-2018</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>7082-2018</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1027219120</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180305</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180305121859.0</recordChangeDate>
+         <recordIdentifier>991000196559708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

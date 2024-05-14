@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Applied and Computational Mathematics Division: summary of activities
+                for fiscal year 2022</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Boisvert, Ronald F.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4445-1044">
+         <namePart>Boisvert , Ronald F.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4445-1044</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Lab Name.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-05-16.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource: illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report summarizes recent technical work of the Applied and
+                Computational Mathematics Division of the Information Technology Laboratory at the
+                National Institute of Standards and Technology (NIST). Part I (Overview) provides a
+                high-level overview of the Division’s activities, including highlights of technical
+                accomplishments during the previous year. Part II (Features) provides further
+                details on projects of particular note this year. This is followed in Part III
+                (Project Summaries) by brief synopses of all technical projects active during the
+                past year. Part IV (Activity Data) provides listings of publications, technical
+                talks, and other professional activities in which Division staff members have
+                participated. The reporting period covered by this document is October 2021 through
+                December 2022.</abstract>
+      <note type="statement of responsibility">Ronald F. Boisvert.</note>
+      <note>May 2023.</note>
+      <note>Title from PDF title page (viewed October 26, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-05-16</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>System analysis</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Mathematical models</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Applied mathematics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>High performance computing</topic>
+      </subject>
+      <subject>
+         <topic>Quantum information science</topic>
+      </subject>
+      <subject>
+         <topic>Scientific visualization</topic>
+      </subject>
+      <subject>
+         <topic>Mathematical knowledge management</topic>
+      </subject>
+      <subject>
+         <topic>Materials modeling and simulation</topic>
+      </subject>
+      <subject>
+         <topic>Mathematics of biotechnology</topic>
+      </subject>
+      <subject>
+         <topic>Mathematics of metrology</topic>
+      </subject>
+      <subject>
+         <topic>Computational science and engineering</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8466</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8466</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8466</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253917</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111406.0</recordChangeDate>
+         <recordIdentifier>991000614709108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

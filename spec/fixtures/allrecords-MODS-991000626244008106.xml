@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guide to a secure enterprise network landscape</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-11-17.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (41 pages) : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Access to multiple cloud services, the geographic spread of
+                enterprise Information Technology (IT) resources (including multiple data centers),
+                and the emergence of microservices-based applications (as opposed to monolithic
+                ones) have significantly altered the enterprise network landscape. This document is
+                meant to provide guidance to this new enterprise network landscape from a secure
+                operations perspective. Hence, it starts by examining the security limitations of
+                current network access solutions to the enterprise network. It then considers
+                security feature enhancements to traditional network appliances in the form of point
+                security solutions, network configurations for various security functions (e.g.,
+                application/services security, cloud services access security, device or endpoint
+                security), security frameworks that integrate these individual network
+                configurations (e.g., zero trust network access [ZTNA]), and the evolving wide area
+                network (WAN) infrastructure to provide a comprehensive set of security services for
+                the modern enterprise network landscape (e.g., secure access service edge
+                [SASE]).</abstract>
+      <note type="statement of responsibility">Ramaswamy Chandramouli.</note>
+      <note>November 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-11-10</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Firewalls (Computer security)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Extranets (Computer networks)</topic>
+      </subject>
+      <subject>
+         <topic>Cloud access security broker (CASB)</topic>
+      </subject>
+      <subject>
+         <topic>Microsegmentation</topic>
+      </subject>
+      <subject>
+         <topic>Secure access service edge (SASE)</topic>
+      </subject>
+      <subject>
+         <topic>Secure web gateway (SWG)</topic>
+      </subject>
+      <subject>
+         <topic>Security orchestration, automation, and response (SOAR)</topic>
+      </subject>
+      <subject>
+         <topic>Software-defined perimeter (SDP)</topic>
+      </subject>
+      <subject>
+         <topic>Software-defined wide area network (SD-WAN)</topic>
+      </subject>
+      <subject>
+         <topic>Virtual private network (VPN)</topic>
+      </subject>
+      <subject>
+         <topic>Zero trust network access (ZTNA)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-215</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-215</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890524</identifier>
+      <identifier type="oclc">on1389890524</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111441.0</recordChangeDate>
+         <recordIdentifier>991000626244008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

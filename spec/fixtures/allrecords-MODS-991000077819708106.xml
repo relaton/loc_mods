@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guidelines for the secure deployment of IPv6</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Frankel, S. E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Frankel, S. E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Graveman, R.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88050175">
+         <namePart>Pearce, J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88050175</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Rooks, M.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2010</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2010.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Due to the exhaustion of IPv4 address space, and the Office of
+                Management and Budget (OMB) mandate that U.S. federal agencies begin to use the IPv6
+                protocol, NIST undertook the development of a guide to help educate federal agencies
+                about the possible security risks during their initial IPv6 deployment. Since IPv6
+                is not backwards compatible with IPv4, organizations will have to change their
+                network infrastructure and systems to deploy IPv6. Organizations should begin now to
+                understand the risks of deploying IPv6, as well as strategies to mitigate such
+                risks. Detailed planning will enable an organization to navigate the process
+                smoothly and securely. This document provides guidelines for organizations to aid in
+                securely deploying IPv6. The goals of this document are to: educate the reader about
+                IPv6 features and the security impacts of those features; provide a comprehensive
+                survey of mechanisms that can be used for the deployment of IPv6; and provide a
+                suggested deployment strategy for moving to an IPv6 environment. After reviewing
+                this document, the reader should have a reasonable understanding of IPv6 and how it
+                compares to IPv4, security impacts of IPv6 features and capabilities, as-yet unknown
+                impacts of IPv6 deployment, and increased knowledge and awareness about the range of
+                IPv4 to IPv6 transition mechanisms.</abstract>
+      <note type="statement of responsibility">S. E. Frankel; R. Graveman; J. Pearce; M. Rooks.</note>
+      <note>2010.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Internet Protocol</topic>
+      </subject>
+      <subject>
+         <topic>IPv6</topic>
+      </subject>
+      <subject>
+         <topic>Network security</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-119</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-119</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927736918</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120956.0</recordChangeDate>
+         <recordIdentifier>991000077819708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

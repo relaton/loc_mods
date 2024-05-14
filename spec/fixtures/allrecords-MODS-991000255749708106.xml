@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Properties and interactions of oral structures and restorative
+                materials</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n84098877">
+         <namePart>Tesk, J. A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84098877</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098877">
+         <namePart>Tesk, J. A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84098877</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021023891">
+         <namePart>Antonucci, J. M.,</namePart>
+         <namePart type="date">1931-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021023891</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021023893">
+         <namePart>Brauer, Gerhard M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021023893</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021036998">
+         <namePart>McKinney, J. E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021036998</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021054609">
+         <namePart>Stansbury, J. W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021054609</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>deRijk, W. E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Venz, S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003104595">
+         <namePart>Chiang, Shirley.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003104595</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Keeny, M. Y. M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Miyazaki, G. W.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86067653">
+         <namePart>Cheng, K.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86067653</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Sato, Y.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Asaoka, K.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1990</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>1990.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">J. A. Tesk; J. M. Antonucci; G. M. Brauer; J.E. McKinney; J. W.
+                Stansbury; W. E. deRijk; S. Venz; S. Chiang; M. Y. M. Keeny; G. W. Miyazaki; K.
+                Cheng; Y. Sato; K. Asaoka.</note>
+      <note>May 1, 1990.</note>
+      <note>June 1, 2017</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.90-4291</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>90-4291</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">994300954</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190912</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200114084233.0</recordChangeDate>
+         <recordIdentifier>991000255749708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

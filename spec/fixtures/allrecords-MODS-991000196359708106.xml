@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>CYCLE_D-HX</title>
+         <subTitle>NIST vapor compression cycle model accounting for refrigerant
+                thermodynamic and transport properties, version 1.0, user's guide</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83009859">
+         <namePart>Brown, J. S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n83009859</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83009859">
+         <namePart>Brown, J. S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n83009859</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Brignoli, R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Domanski, P. A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The CYCLE_D-HX software package simulates the performance of
+                single-component refrigerants and refrigerant blends in subcritical
+                vapor-compression refrigeration cycles. The basic system simulated by CYCLE_D-HX
+                consists of a compressor, discharge line, condenser, expansion device, evaporator,
+                compressor suction line, and an optional liquid-line/suction-line heat exchanger.
+                The other cycles may contain a second compressor, one or two economizers, or an
+                intercooler. In contrast to simplified vapor compression cycle model, which require
+                refrigerant saturation temperatures in the evaporator and condenser as input,
+                CYCLE_D-HX establishes saturation temperatures in the heat exchangers using the
+                temperatures profiles of heat source and heat sink and the mean effective
+                temperature differences (?Thx) in the evaporator and condenser, respectively, which
+                are specified as input to the program. This representation of heat exchangers
+                facilitates the inclusion of both thermodynamic and transport properties in cycle
+                simulations and makes CYCLE_D-HX suitable for comparative evaluations of different
+                refrigerants, particularly when applied in systems relying on forced-convection heat
+                transfer of refrigerant in the heat exchangers. This software package was developed
+                by the National Institute of Standards and Technology (NIST), is not subject to
+                copyright protection, and is in the public domain.</abstract>
+      <note type="statement of responsibility">J. S. Brown; R. Brignoli; P. A. Domanski.</note>
+      <note>December 2017.</note>
+      <note>Title from PDF title page (viewed January 16, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85002610">
+         <topic>Air conditioning</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/802264">
+         <topic>Air conditioning</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85112278">
+         <topic>Refrigeration and refrigerating machinery</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1092714">
+         <topic>Refrigeration and refrigerating machinery</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029533">
+         <topic>Computer simulation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872518">
+         <topic>Computer simulation</topic>
+      </subject>
+      <subject>
+         <topic>Vapor compression</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1974</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1974</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1027219085</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180305</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180305121856.0</recordChangeDate>
+         <recordIdentifier>991000196359708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

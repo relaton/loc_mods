@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Foundational PNT profile</title>
+         <subTitle>applying the cyber security framework for the responsible use of
+                positioning, navigation, and timing (PNT) services</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bartock, Michael.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0875-4555">
+         <namePart>Bartock, Michael.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0875-4555</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Brule, Joseph.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3234-4345">
+         <namePart>Li-Baboud, Ya-Shian.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3234-4345</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5007-3887">
+         <namePart>Lightman, Suzanne.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5007-3887</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5559-733X">
+         <namePart>McCarthy, James.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5559-733X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0174-9019">
+         <namePart>Reczek, Karen.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0174-9019</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Northrip, Doug.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scholz, Arthur.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Suloway, Theresa.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2021-02-11.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : tables (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The national and economic security of the United States (US) is
+                dependent upon the reliable functioning of the nation’s critical infrastructure.
+                Positioning, Navigation, and Timing (PNT) services are widely deployed throughout
+                this infrastructure. In a government wide effort to mitigate the potential impacts
+                of a PNT disruption or manipulation, Executive Order (EO)13905, Strengthening
+                National Resilience Through Responsible Use of Positioning, Navigation and Timing
+                Services was issued on February 12, 2020. The National Institute of Standards and
+                Technology (NIST) as part of the Department of Commerce (DoC), produced this
+                voluntary PNT Profile in response to Sec.4 Implementation (a), as detailed in the
+                EO. The PNT Profile was created by using the NIST Cybersecurity Framework and can be
+                used as part of a risk management program to help organizations manage risks to
+                systems, networks, and assets that use PNT services. The PNT Profile is intended to
+                be broadly applicable and can serve as a foundation for the development of
+                sector-specific guidance. This PNT Profile provides a flexible framework for users
+                of PNT to manage risks when forming and using PNT signals and data, which are
+                susceptible to disruptions and manipulations that can be natural, manufactured,
+                intentional, or unintentional.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Michael Bartock; Joseph Brule; Ya-Shian Li-Baboud; Suzanne Lightman;
+                James McCarthy; Karen Reczek; Doug Northrip; Arthur Scholz; Theresa
+                Suloway.</note>
+      <note>February 2021.</note>
+      <note>Title from PDF title page (viewed April 04, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-02-09</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Executive orders</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Navigation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Global Positioning System</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Critical infrastructure</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity framework</topic>
+      </subject>
+      <subject>
+         <topic>PNT</topic>
+      </subject>
+      <subject>
+         <topic>Positioning</topic>
+      </subject>
+      <subject>
+         <topic>Timing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8323</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8323</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8323</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240404</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240404152208.0</recordChangeDate>
+         <recordIdentifier>991000626809708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Summary of NIST/SIM chemical metrology working group training
+                opportunity: isotope dilution-mass spectrometry clinical measurement course
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Pritchett, Jeanita.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pritchett, Jeanita.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lippa, Katrice A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bedner, Mary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Burdette, Carolyn Q.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Camara, Johanna E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
+         <namePart>Duewer, David L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019178574</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Lang, Brian E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2007022367">
+         <namePart>Nelson, Michael A.,</namePart>
+         <namePart type="date">1950-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2007022367</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n92088106">
+         <namePart>Possolo, Antonio.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n92088106</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n95117018">
+         <namePart>Brown Thomas, Jeanice.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n95117018</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022078648">
+         <namePart>Sander, Lane C. (Lane Charles)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022078648</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr99015408">
+         <namePart>Sniegoski, Lorna T.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr99015408</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Tai, Susan S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.).</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The one week NIST-SIM chemical metrology training opportunity was
+                designed to provide SIM NMI/DI laboratory personnel with in-depth classroom and
+                hands-on laboratory experience for the implementation of isotope dilution/mass
+                spectrometry (ID/MS) methods in the application of clinical marker (cholesterol,
+                glucose, and creatinine) measurements. A total of six NMI/DIs expressed an initial
+                interest in this training course, and include the Instituto Nacional de Tecnologia
+                Industrial (INTI) o Argentina, Instituto Nacional de Metrologia, Qualidade e
+                Tecnologia (INMETRO) o Brazil, Instituto de Salud Publica (ISP) o Chile, Instituto
+                Nacional de Metrologia de Colombia (INM (CO)) o Colombia, Centro Nacional de
+                Metrologia (CENAM) o Mexico, and Laboratorio Tecnologico del Uruguay (LATU) o
+                Uruguay, Instituto Nacional Decalidad (INACAL)-Peru. The course was offered by the
+                Chemical Sciences Division at NIST in Gaithersburg, MD July 18-22, 2016.</abstract>
+      <note type="statement of responsibility">Jeanita S. Pritchett; Katrice A. Lippa; Mary Bedner; Carolyn Q.
+                Burdette; Johanna E. Camara; David L. Duewer; Brian E. Lang; Michael A. Nelson;
+                Antonio Possolo; Jeanice Brown Thomas; Lane C. Sander; Lorna T. Sniegoski; Susan S.
+                Tai.</note>
+      <note>December 2016.</note>
+      <note>Title from PDF title page (viewed December 22, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85023014">
+         <topic>Clinical chemistry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/864330">
+         <topic>Clinical chemistry</topic>
+      </subject>
+      <subject>
+         <topic>Chemical metrology</topic>
+      </subject>
+      <subject>
+         <topic>Isotope dilution-mass spectrometry</topic>
+      </subject>
+      <subject>
+         <topic>Metrology education</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1209</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1209</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662169</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161618.0</recordChangeDate>
+         <recordIdentifier>991000188129708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

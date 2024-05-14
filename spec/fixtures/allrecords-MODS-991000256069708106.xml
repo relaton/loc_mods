@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Theoretical basis of the direct-comparison system for power
+                calibration including equivalent source mismatch</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2003080566">
+         <namePart>Jargon, Jeffrey A. (Jeffrey Arendt)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003080566</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003080566">
+         <namePart>Jargon, Jeffrey A. (Jeffrey Arendt)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003080566</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Gu, Dazhen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Long, Christian J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hagerstrom, Aaron M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Stelson, Angela C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Monke, Ann F.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In this report, we provide derivations for two equations that serve
+                as the basis for the direct-comparison system, a transfer technique for comparing
+                microwave power sensors. The system consists of a synthesizer that provides a signal
+                to the input of a power divider. A monitor power sensor is connected to one of the
+                divider's output ports. During the first portion of the measurement, a transfer
+                standard is connected to the other output port of the divider, and the powers of the
+                transfer standard and monitor are measured. Next, the transfer standard is replaced
+                with an unknown power sensor to be calibrated, and the powers of the unknown device
+                and monitor are measured. Utilizing rules governing flow-diagrams for
+                scattering-parameters and definitions of delivered power, we derive the effective
+                efficiency of an unknown power sensor as a function of the transfer standard's
+                effective efficiency in conjunction with power readings of both sensors and a
+                monitor sensor, as well as reflection coefficients of the sensors and the equivalent
+                source reflection coefficient of the power divider. Our derivation provides the
+                definition of the equivalent source reflection coefficient. We also derive a
+                correction term for the case when an adapter is connected to the transfer standard.
+                Finally, we review the most widely-accepted approach for determining the equivalent
+                source reflection coefficient of a three-port device, such as a power divider, and
+                provide simplistic and comprehensive derivations that demonstrate its independence
+                of external impedance mismatches at two of its ports.</abstract>
+      <note type="statement of responsibility">Jeffrey A. Jargon; Dazhen Gu; Chris Long; Aaron M. Hagerstrom; Angela
+                C. Stelson; Ann F. Monke.</note>
+      <note>December 2019.</note>
+      <note>Title from PDF title page (viewed December 23, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85018860">
+         <topic>Calibration</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/844249">
+         <topic>Calibration</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85041875">
+         <topic>Electric power</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/905358">
+         <topic>Electric power</topic>
+      </subject>
+      <subject>
+         <topic>Derivation</topic>
+      </subject>
+      <subject>
+         <topic>Direct-comparison</topic>
+      </subject>
+      <subject>
+         <topic>Equivalent-source mismatch</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2079</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2079</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1139336349</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200205010827.0</recordChangeDate>
+         <recordIdentifier>991000256069708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

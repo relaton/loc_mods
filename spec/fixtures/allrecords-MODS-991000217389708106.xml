@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Protecting the integrity of internet routing</title>
+         <subTitle>border gateway protocol (BGP) route origin validation</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Haag, William.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Haag, William.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no00013999">
+         <namePart>Montgomery, Doug.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no00013999</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97036643">
+         <namePart>Barker, William C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97036643</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Tan, Allen.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Border Gateway Protocol (BGP) is the default routing protocol to
+                route traffic among internet domains. While BGP performs adequately in identifying
+                viable paths that reflect local routing policies and preferences to destinations,
+                the lack of built-in security allows the protocol to be exploited by route
+                hijacking. Route hijacking occurs when an entity accidentally or maliciously alters
+                an intended route. Such attacks can (1) deny access to internet services, (2) detour
+                internet traffic to permit eavesdropping and to facilitate on-path attacks on end
+                points (sites), (3) misdeliver internet network traffic to malicious end points, (4)
+                undermine internet protocol (IP) address-based reputation and filtering systems, and
+                (5) cause routing instability in the internet. This document describes a security
+                platform that demonstrates how to improve the security of inter-domain routing
+                traffic exchange. The platform provides route origin validation (ROV) by using the
+                Resource Public Key Infrastructure (RPKI) in a manner that mitigates some
+                misconfigurations and malicious attacks associated with route hijacking. The example
+                solutions and architectures presented here are based upon standards-based,
+                open-source, and commercially available products.</abstract>
+      <note type="statement of responsibility">William Haag; Doug Montgomery; William C. Barker; Allen
+                Tan.</note>
+      <note>June 2019.</note>
+      <note>Title from PDF title page (viewed June 24, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98006078">
+         <topic>BGP (Computer network protocol)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/824866">
+         <topic>BGP (Computer network protocol)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009009013">
+         <topic>Denial of service attacks</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1749399">
+         <topic>Denial of service attacks</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh96009727">
+         <topic>Internet service providers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/977291">
+         <topic>Internet service providers</topic>
+      </subject>
+      <subject>
+         <topic>Autonomous systems (AS)</topic>
+      </subject>
+      <subject>
+         <topic>Regional Internet Registry (RIR)</topic>
+      </subject>
+      <subject>
+         <topic>Resource Public Key Infrastructure (RPKI)</topic>
+      </subject>
+      <subject>
+         <topic>Route hijack</topic>
+      </subject>
+      <subject>
+         <topic>Route origin authorization (ROA)</topic>
+      </subject>
+      <subject>
+         <topic>Route origin validation (ROV)</topic>
+      </subject>
+      <subject>
+         <topic>Routing domain</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-14</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-14</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1107700562</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190709</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163227.0</recordChangeDate>
+         <recordIdentifier>991000217389708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

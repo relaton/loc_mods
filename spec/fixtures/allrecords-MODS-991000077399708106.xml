@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">An  </nonSort>
+         <title>introductory resource guide for implementing the Health Insurance
+                Portability and Accountability Act (HIPAA) security rule</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n95108546">
+         <namePart>Scholl, M. A. (Martha A.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n95108546</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n95108546">
+         <namePart>Scholl, M. A. (Martha A.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n95108546</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Stine, K. M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hash, J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bowen, P.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81012562">
+         <namePart>Johnson, L. A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81012562</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82138100">
+         <namePart>Smith, C. D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82138100</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Steinberg, D. I.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2008</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2008.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Special Publication 800-66 Rev. 1, An Introductory Resource Guide for
+                Implementing the Health Insurance Probability and Accountability Act (HIPAA)
+                Security Rule, which discusses security considerations and resources that may
+                provide value when implementing the requirements of the HIPAA Seucurity Rule, was
+                written to help educate readers about information security terms used in the HIPAA
+                Security Rule and to improve understanding of the meaning of the security standards
+                set out itn the Security Rule, direct readers to helpful information in other NIST
+                publications on individual topics the HIPAA Security Rule addresses, and aid readers
+                in understanding the security concepts discussed in the HIPAA Security Rule. This
+                publication does not supplement, replace, or supersede the HIPAA Security Rule
+                itself.</abstract>
+      <note type="statement of responsibility">M. A. Scholl; K. M. Stine; J. Hash; P. Bowen; L. A. Johnson; C D.
+                Smith; D. I. Steinberg.</note>
+      <note>2008.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Healthcare</topic>
+      </subject>
+      <subject>
+         <topic>HIPAA</topic>
+      </subject>
+      <subject>
+         <topic>Information Security</topic>
+      </subject>
+      <subject>
+         <topic>Security rule</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-66r1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-66r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927736344</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120947.0</recordChangeDate>
+         <recordIdentifier>991000077399708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Comparison of ice-on-coil thermal energy storage models</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kanagala, Kalyan Ram.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kanagala, Kalyan Ram.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pertzborn, Amanda $0 (orcid)0000-0002-1473-7500</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-13.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Data collected from the Intelligent Building Agents Laboratory (IBAL)
+                at the National Institute of Standards and Technology (NIST) are used to develop a
+                physics-based and four machine learning models of ice-on-coil thermal energy storage
+                (TES): linear interpolation, linear regression, neural network, and Gaussian
+                process. Data cleaning considerations are discussed in addition to presenting the
+                results of the five models. For this TES system, which is linear over a significant
+                range of operation, the linear interpolation model performs the best, but there is a
+                thorough discussion of the advantages and disadvantages of each model.</abstract>
+      <note type="statement of responsibility">Kalyan Ram Kanagala; Amanda Pertzborn.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed December 12, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-08</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Heating and ventilation industry</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Machine learning</topic>
+      </subject>
+      <subject>
+         <topic>Thermal storage</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2265</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2265</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111405.0</recordChangeDate>
+         <recordIdentifier>991000617809808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

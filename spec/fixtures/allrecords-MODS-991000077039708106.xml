@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guideline on network security testing</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Wack, J. P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wack, J. P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tracy, M. C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Souppaya, M. P.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2003</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2003.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The purpose of this document is to provide guidance for security
+                program manager, technical managers, functional managers, and other information
+                technology (IT) staff members who deal with systems concerning when and how to
+                perform tests for network security vulnerabilities and policy implementation. This
+                document identifies network testing requirements and how to prioritize testing
+                activities with limited resources. It describes security testing techniques and
+                tools. This document provides guidance to assist organizations in avoiding
+                redundancy and duplication of effort by providing a consistent approach to network
+                security testing throughout an organization's networks. Furthermore, this document
+                provides a feasible approach for organizations by offering varying levels of network
+                security testing as mandated by an organization's mission and security
+                objectives.The main focus of this document is the basic information about techniques
+                and tools for individuals to begin a testing program. This document is by no means
+                all-inclusive and individuals and organizations should consult the references
+                provided in this document as well as vendor production descriptions and other
+                sources of information.</abstract>
+      <note type="statement of responsibility">J. P. Wack; M. C. Tracy; M. P. Souppaya.</note>
+      <note>2003.</note>
+      <note>Superseded by NIST Special Publication 800-115.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Intrusion detection</topic>
+      </subject>
+      <subject>
+         <topic>Network security testing</topic>
+      </subject>
+      <subject>
+         <topic>Password cracking</topic>
+      </subject>
+      <subject>
+         <topic>System test &amp; evaluation</topic>
+      </subject>
+      <subject>
+         <topic>Vulnerability scanners</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-42</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-42</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927735737</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120948.0</recordChangeDate>
+         <recordIdentifier>991000077039708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

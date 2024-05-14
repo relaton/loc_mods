@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Recommendation for key management</title>
+         <subTitle>part 1: general</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006135973">
+         <namePart>Barker, Elaine B.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2006135973</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97036643">
+         <namePart>Barker, William C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97036643</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n92081944">
+         <namePart>Burr, William E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n92081944</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n90727805">
+         <namePart>Polk, Tim,</namePart>
+         <namePart type="date">1962-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n90727805</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79137208">
+         <namePart>Smid, Miles E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79137208</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2008015449">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008015449</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2005</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2005.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">remote</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Part 1 provides general guidance and best practices for the
+                management of cryptographic keying material. Part 2 provides guidance on policy and
+                security planning requirements for U.S. government agencies. Finally, Part 3
+                provides guidance when using the cryptographic features of current
+                systems.</abstract>
+      <note type="statement of responsibility">Elaine Barker; William Barker; William Burr; William Polk; Miles
+                Smid.</note>
+      <note>March 2007.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: Internet from NIST web site.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
+         <topic>Data encryption (Computer science)</topic>
+         <topic>Standards</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/887935">
+         <topic>Data encryption (Computer science)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
+         <topic>Public key infrastructure (Computer security)</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1082563">
+         <topic>Public key infrastructure (Computer security)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
+         <geographic>United States</geographic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-57p1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-57p1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">233578716</identifier>
+      <identifier type="oclc">1312495885</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">080708</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240227140858.0</recordChangeDate>
+         <recordIdentifier>991000566499708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

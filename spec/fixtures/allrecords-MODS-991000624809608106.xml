@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST research data framework (RDaF): version 2.0</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hanisch, Robert.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6853-4602">
+         <namePart>Hanisch, Robert.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6853-4602</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5114-7588">
+         <namePart>Kaiser, Debra L.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5114-7588</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9619-306X">
+         <namePart>Yuan, Alda.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9619-306X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1217-701X">
+         <namePart>Medina-Smith, Andrea.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1217-701X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8924-1000">
+         <namePart>Carroll, Bonnie C.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8924-1000</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9808-4112">
+         <namePart>Campo, Eva.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9808-4112</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">YYYY</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-02-07.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource: illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The NIST Research Data Framework (RDaF) is a multifaceted and
+                customizable tool that aims to help shape the future of open data access and
+                research data management (RDM). The RDaF will allow organizations and individual
+                researchers to develop their own RDM strategy. Although NIST is leading the RDaF,
+                most of the content in the current version 2.0, which supersedes preliminary V1.0
+                and interim V1.5, was obtained via engagement with national and international
+                leaders in the research data community. NIST held a series of three plenary and 15
+                stakeholder workshops from October 2021 to September 2023. Workshop attendees
+                represented many stakeholder sectors: US government agencies, national laboratories,
+                academia, industry, non-profit organizations, publishers, professional societies,
+                trade organizations, and funders (public and private), including international
+                organizations. The audience for the RDaF is the entire research data community in
+                all disciplines—the biological, chemical, medical, social, and physical sciences and
+                the humanities. The RDaF is applicable from the organization to the project level
+                and encompasses a wide array of job roles involving RDM, from executives and chief
+                data officers to publishers, funders, and researchers. The RDaF is a map of the
+                research data space that uses a lifecycle approach with six stages to organize key
+                information concerning RDM and research data dissemination. Through a
+                community-driven and in-depth process, NIST identified and defined specific,
+                high-priority topics and subtopics for each lifecycle stage. The topics and
+                subtopics are programmatic and operational activities, concepts, and other important
+                factors relevant to RDM which form the foundation of the framework. This foundation
+                enables organizations and individual researchers to use the RDaF for self-assessment
+                of their RDM status. Each subtopic has several informative references—resources such
+                as guidelines standards, and policies—to help a user understand or implement that
+                subtopic. As such, the RDaF may be considered a “best practices” document. Fourteen
+                overarching themes—topic areas identified as pervasive throughout the
+                framework—illustrate the connections among the six lifecycle stages. Finally, the
+                RDaF includes eight sample profiles for common job functions or roles. Each contains
+                topics and subtopics an individual in the given role needs to consider in fulfilling
+                their RDM responsibilities. Individual researchers and organizations involved in the
+                research data lifecycle will be able to tailor these sample profiles or generate
+                entirely new profiles for their specific job function. The methodologies used to
+                generate the content of V2.0 are described in detail. An interactive web application
+                has been developed and released that provides an interface for all the components of
+                the RDaF mentioned above and replicates this document. The web application is easy
+                and intuitive to navigate and provides new functionality enabled by the interactive
+                environment.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Robert J. Hanisch; Debra L. Kaiser; Alda Yuan; Andrea Medina-Smith;
+                Bonnie C. Carroll; Eva M. Campo.</note>
+      <note>February 2024</note>
+      <note>Title from PDF title page (viewed February 21, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-12-22</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Open data</topic>
+      </subject>
+      <subject>
+         <topic>Research data stewardship</topic>
+      </subject>
+      <subject>
+         <topic>Research data governance</topic>
+      </subject>
+      <subject>
+         <topic>Reuse</topic>
+      </subject>
+      <subject>
+         <topic>Use</topic>
+      </subject>
+      <subject>
+         <topic>Research data dissemination</topic>
+      </subject>
+      <subject>
+         <topic>Research data management</topic>
+      </subject>
+      <subject>
+         <topic>Research data lifecycle</topic>
+      </subject>
+      <subject>
+         <topic>Research data framework</topic>
+      </subject>
+      <subject>
+         <topic>Research data ecosystem</topic>
+      </subject>
+      <subject>
+         <topic>Research data</topic>
+      </subject>
+      <subject>
+         <topic>Research data sharing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1500-18r2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>1500-18r2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding">
+         <name>
+            <namePart>10.6028/NIST.SP.1500-18r1</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1500-18r2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240221</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240430104122.0</recordChangeDate>
+         <recordIdentifier>991000624809608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

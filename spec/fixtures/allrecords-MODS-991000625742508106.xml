@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Impact analysis tool for interdependent cyber supply chain risks
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Paulsen, Celia.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Paulsen, Celia.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boyens, Jon.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ng, Jeffrey.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Winkler, Kris.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gimbi, James.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-08-25.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (63 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">As awareness of cybersecurity supply chain risks grows among federal
+                agencies, there is a greater need for tools that evaluate the impacts of a supply
+                chain-related cyber event. This can be a difficult activity, especially for those
+                organizations with complex operational environments and supply chains. A publicly
+                available tool to support supply chain risk analysis that specifically takes into
+                account the potential impact of an event does not currently exist. This publication
+                describes how to use the Cyber Supply Chain Risk Management (C-SCRM) Interdependency
+                Tool that has been developed to help federal agencies identify and assess the
+                potential impact of cybersecurity events in their interconnected supply
+                chains.</abstract>
+      <note type="statement of responsibility">Celia Paulsen; Jon Boyens; Jeffrey Ng; Kris Winkler; James
+                Gimbi.</note>
+      <note>August 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Business logistics</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Gestion du risque</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Logistique (Organisation)</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>risk management</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Business logistics</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Secure supply chain</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain assurance</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain dependencies</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain risk</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain risk management</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain security</topic>
+      </subject>
+      <subject>
+         <topic>Cyber supply chain risk management (C-SCRM)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8272</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8272</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124410</identifier>
+      <identifier type="oclc">on1346124410</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111443.0</recordChangeDate>
+         <recordIdentifier>991000625742508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Model of operational control of discrete event logistics systems
+                (DELS)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sprock, Timothy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sprock, Timothy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bock, Conrad.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-07-08.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (40 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Operations management systems manage flows of work, resources, and
+                information through production and logistics systems, ensuring the correct and
+                efficient execution of requested work. These systems can leverage recent advances in
+                data availability, analytical capabilities, and industrial automation to
+                substantially improve overall system performance. Additional improvements include
+                streamlining flows of work, resources, and information across functionally
+                heterogeneous components of production and logistics systems, which often have their
+                own planning, execution, and data management systems. These smart manufacturing
+                capabilities may simplify system implementation and improve its operation. However,
+                they also introduce additional complexity to the system and design process. This
+                paper proposes a model of operational control capable of supporting an integrated
+                approach to design, analysis, and operation across functionally heterogeneous
+                systems, classified as discrete event logistics systems. The model identifies and
+                formalizes operational control decision-making and actuation functions required by
+                these systems. It then provides logical modeling components that can be reused,
+                specialized, and assembled into operational control system models. These models can
+                be linked and integrated with other models and views of the system as part of an
+                overall model-based engineering effort.</abstract>
+      <note type="statement of responsibility">Timothy Sprock; Conrad Bock.</note>
+      <note>July 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-02-16</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Discrete event systems</topic>
+      </subject>
+      <subject>
+         <topic>Discrete Event Logistics Systems (DELS)</topic>
+      </subject>
+      <subject>
+         <topic>Smart manufacturing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8378</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8378</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890024</identifier>
+      <identifier type="oclc">on1389890024</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111503.0</recordChangeDate>
+         <recordIdentifier>991000626254708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

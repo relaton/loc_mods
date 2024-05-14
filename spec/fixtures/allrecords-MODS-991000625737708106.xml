@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Voices of first responders--nationwide public safety communication
+                survey findings</title>
+         <subTitle>mobile devices, applications, and futuristic technology, phase 2,
+                volume 2</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Dawkins, Shanee.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dawkins, Shanee.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Greene, Kristen K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Prettyman, Sandra Spickard.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-08-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (196 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">With the newly created Nationwide Public Safety Broadband Network,
+                the public safety community is in the process of supplementing the use of land
+                mobile radios with the use of a broader spectrum of technologies. As these
+                technologies are being developed, researchers and industry alike need to focus on
+                the end users - the first responders - in order to ensure successful and usable
+                systems. Understanding the user population of first responders is key to improved
+                usability. The NIST PSCR Usability Team conducted a multi-phase, mixed methods
+                research project in order to provide greater understanding of public safety users,
+                their experiences, and their technology needs and problems. This report, Phase 2,
+                Volume 2, is the second in a series of reports on the data from the Phase 2
+                large-scale, nationwide survey of 7 182 first responders. Three specific topics in
+                the first responder communication technology space, drawing on data from both Phase
+                1 and Phase 2 of the project are presented: 1) mobile devices, apps, and software,
+                2) futuristic technology and virtual reality, and 3) technology used in large
+                incidents. Findings suggest that broader access to affordable devices, particularly
+                work-issued smartphones, and data through smartphone apps, most essential being
+                email and mapping/navigation, could fill significant gaps in the public safety
+                technology space, making the NPSBN build-out so important for public safety. It is
+                also important to understand that what many first responders want for the future of
+                public safety is technology that already exists for the general public, it just is
+                not yet widespread in the public safety domain, e.g., single sign-on (SSO). Lastly,
+                researchers and developers in the public safety domain should focus on solving the
+                problems that first responders have with technology used for daily incident
+                response, as it will also help them during large events.</abstract>
+      <note type="statement of responsibility">Shanee Dawkins; Kristen K. Greene; Sandra Spickard
+                Prettyman.</note>
+      <note>August 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>First responders</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Communication and technology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Public safety</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>User-centered system design</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Premiers répondants (Situations d'urgence)</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Communication et technologie</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Sécurité publique</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Conception participative (Conception de systèmes)</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Communication and technology</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>First responders</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Public safety</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>User-centered system design</topic>
+      </subject>
+      <subject>
+         <topic>Public safety communication research</topic>
+      </subject>
+      <subject>
+         <topic>Survey research</topic>
+      </subject>
+      <subject>
+         <topic>User needs and requirements</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8314</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8314</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124480</identifier>
+      <identifier type="oclc">on1346124480</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111440.0</recordChangeDate>
+         <recordIdentifier>991000625737708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

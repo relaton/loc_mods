@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Cannabis quality assurance program</title>
+         <subTitle>exercise 1 final report</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Abdur-Rahman, Maryam.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Abdur-Rahman, Maryam.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Phillips, Melissa M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wilson, Walter B.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-07-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (196 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST launched a CannaQAP in 2020 to improve the comparability of the
+                analytical measurements in forensic and Cannabis (hemp and marijuana) testing
+                laboratories. CannaQAP is an interlaboratory study mechanism that is similar to a
+                proficiency testing scheme; however, the focus is towards education without
+                assigning pass/fail grades to anonymized participants. CannaQAP helps inform NIST
+                about the current measurement capabilities and challenges to assist in the design
+                and characterization of Cannabis RMs. Exercise 1 of CannaQAP focused on the
+                determination of cannabinoids including ?9-THC, THCA, total THC, CBD, CBDA, total
+                CBD, and up to 13 additional cannabinoids in two hemp oils. This report provides a
+                detailed description of the results of this exercise.</abstract>
+      <note type="statement of responsibility">Maryam Abdur-Rahman; Melissa M. Phillips; Walter B.
+                Wilson.</note>
+      <note>July 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-07-22</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cannabis</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hemp</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Quality assurance</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8385</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8385</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890039</identifier>
+      <identifier type="oclc">on1389890039</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111507.0</recordChangeDate>
+         <recordIdentifier>991000626251908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

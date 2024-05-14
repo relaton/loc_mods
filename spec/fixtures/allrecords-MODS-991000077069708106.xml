@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guidelines on electronic mail security</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Tracy, M. C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tracy, M. C.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009004133">
+         <namePart>Jansen, W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2009004133</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Bisker, S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2002</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2002.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Electronic mail (email) is perhaps the most popularly used system for
+                exchanging information over the Internet. After Web servers, mail servers are often
+                the most targeted and attacked hosts on an organization's network. Various types of
+                mail content and attachments have also proven to be effective in introducing
+                malicious code into a system through the email client. Thus, it is essential to
+                secure mail servers and clients as well as the network infrastructure that supports
+                them. This document has been developed to assist federal departments and agencies,
+                state agencies, and commercial organizations in installing, configuring, and
+                maintaining secure mail servers and mail clients. It presents generic security
+                principles and covers details specific to the various components of a mail system.
+                It also includes examples that address two of the more popular mail server
+                applications running respectively on Unix and Microsoft Windows operating systems:
+                sendmail and Exchange.</abstract>
+      <note type="statement of responsibility">M. C. Tracy; W. Jansen; S. Bisker.</note>
+      <note>2002.</note>
+      <note>Superseded by NIST Special Publication 800-45ver2.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Electronic mail</topic>
+      </subject>
+      <subject>
+         <topic>E-mail</topic>
+      </subject>
+      <subject>
+         <topic>Mail client</topic>
+      </subject>
+      <subject>
+         <topic>Mail server</topic>
+      </subject>
+      <subject>
+         <topic>Security</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-45</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-45</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927735792</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315121004.0</recordChangeDate>
+         <recordIdentifier>991000077069708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

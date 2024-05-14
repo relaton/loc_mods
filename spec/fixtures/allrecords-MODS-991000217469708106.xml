@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Compression guidance for 1000 ppi palm and hand friction ridge
+                imagery</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Libert, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Libert, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grantham, John.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021005762">
+         <namePart>Watson, Craig.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021005762</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In a previous special publication, NIST provided guidance for the
+                compression of 1000 ppi fingerprint images using Part I of the JPEG 2000 standard.
+                The present document extends the Guidance to the compression of 1000 ppi palm and
+                whole-hand images. The NIST Spectral Image Validation Verification (SIVV) metric is
+                used to determine JPEG 2000 compression ratios at which palm and hand images exhibit
+                spectral fidelity to non-compressed source images comparable to that exhibited by
+                fingerprint images compressed at 10:1. The investigators discuss the effect of
+                untextured regions (i.e. large areas of low-texture or white space) in enabling
+                compression ratios as high as 12:1 for palms and 22:1 for whole hand images as
+                indicated by the spectral analysis. However, they note several factors that advise
+                against deviating from the compression ratio recommended in the Guidance. Hence,
+                NIST recommends that a single compression ratio, 10:1, be applied to all friction
+                ridge impression types to ensure interoperability, in general, and support of latent
+                matching, in particular.</abstract>
+      <note type="statement of responsibility">John Libert; John Grantham; Craig Watson.</note>
+      <note>July 2019.</note>
+      <note>Title from PDF title page (viewed July 2, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85097245">
+         <topic>Palmprints</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1051792">
+         <topic>Palmprints</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99000018">
+         <topic>JPEG (Image coding standard)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/980951">
+         <topic>JPEG (Image coding standard)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001010964">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject>
+         <topic>Handprints (identification)</topic>
+      </subject>
+      <subject>
+         <topic>JPEG 2000</topic>
+      </subject>
+      <subject>
+         <topic>Friction ridge skin</topic>
+      </subject>
+      <subject>
+         <topic>Spectral Image Validation Verification metric (SIVV)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8260</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8260</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1110020350</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190724</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190724022415.0</recordChangeDate>
+         <recordIdentifier>991000217469708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

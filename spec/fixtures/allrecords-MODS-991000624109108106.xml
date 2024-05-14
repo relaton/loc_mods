@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of Standard Reference Material® 967b creatinine in
+                frozen human serum</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Camara, Johanna.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9415-8452">
+         <namePart>Camara, Johanna.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9415-8452</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0000-8537-3006">
+         <namePart>Wood, Elena Shiao Ching.</namePart>
+         <nameIdentifier>(orcid)0009-0000-8537-3006</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0999-9565">
+         <namePart>Toman, Blaza.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0999-9565</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-22.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color); tables (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Standard Reference Material (SRM) 967b Creatinine in Frozen Human
+                Serum is intended for use in validating creatinine measurement procedures used by in
+                vitro diagnostics manufacturers, reference laboratories, and clinical laboratories
+                in the United States and globally. A unit of SRM 967b consists of two 1 mL vials
+                each of two levels of creatinine for a total of four vials per unit. This
+                publication documents the production, analytical methods, and computations involved
+                in characterizing this product.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Johanna Camara; Elena Shiao Ching Wood; Blaza Toman.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed January 29, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-11</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Isotope Dilution Liquid Chromatography Mass Spectrometry
+                (ID-LC-MS).</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Reference Measurement Procedure (RMP).</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard Reference Material (SRM).</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Creatinine</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Isotope Dilution Liquid Chromatography Mass Spectrometry
+                (ID-LC-MS)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Reference Measurement Procedure (RMP)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standard Reference Material (SRM)</topic>
+      </subject>
+      <subject>
+         <topic>Creatinine.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-239</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>260-239</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-239</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1429312500</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240129</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111409.0</recordChangeDate>
+         <recordIdentifier>991000624109108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

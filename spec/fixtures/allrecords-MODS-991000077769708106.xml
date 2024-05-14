@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guide to SSL VPNs</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Frankel, S. E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Frankel, S. E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2012200428">
+         <namePart>Hoffman, P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2012200428</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Orebaugh, A. D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Park, R.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2008</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2008.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Secure Sockets Layer (SSL) Virtual Private Networks (VPNs) provide
+                users with secure remote access to an organization's resources. An SSL VPN consists
+                of one or more VPN devices to which users connect using their Web browsers. The
+                traffic between the Web browser and SSL VPN device is encrypted with the SSL
+                protocol. SSL VPNs can provide remote users with access to Web applications and
+                client/server applications, as well as connectivity to internal networks. They offer
+                versatility and ease of use because they use the SSL protocol, which is included
+                with all standard Web browsers, so special client configuration or installation is
+                often not required. In planning a VPN deployment, many organizations are faced with
+                a choice between an IPsec-based VPN and an SSL-based VPN. This document seeks to
+                assist organizations in understanding SSL VPN technologies. The publication also
+                makes recommendations for designing, implementing, configuring, securing,
+                monitoring, and maintaining SSL VPN solutions. SP 800-113 provides a phased approach
+                to SSL VPN planning and implementation that can help in achieving successful SSL VPN
+                deployments. It also includes a comparison with other similar technologies such as
+                Internet Protocol Security (IPsec) VPNs and other VPN solutions.</abstract>
+      <note type="statement of responsibility">S. E. Frankel; P. Hoffman; A. D. Orebaugh; R. Park.</note>
+      <note>2008.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Secure remote access</topic>
+      </subject>
+      <subject>
+         <topic>Secure sockets layer</topic>
+      </subject>
+      <subject>
+         <topic>SSL</topic>
+      </subject>
+      <subject>
+         <topic>TLS</topic>
+      </subject>
+      <subject>
+         <topic>Transport layer security</topic>
+      </subject>
+      <subject>
+         <topic>Virtual private network</topic>
+      </subject>
+      <subject>
+         <topic>VPN</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-113</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-113</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927736849</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120941.0</recordChangeDate>
+         <recordIdentifier>991000077769708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

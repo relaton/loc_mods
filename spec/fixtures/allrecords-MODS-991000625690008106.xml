@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Heat release rates of multiple transient combustibles</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>McGrattan, Kevin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McGrattan, Kevin</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-07-21.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (65 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report documents heat release rate measurements of various
+                transient combustibles; that is, non-permanent items found in industrial settings
+                that can potentially contribute to an accidental fire. These items are often
+                included in hypothetical fire scenarios that are modeled as part of risk analyses.
+                Of particular interest in these experiments is the functional relationship between
+                the peak heat release rate and the number of replicate items.</abstract>
+      <note type="statement of responsibility">Kevin McGrattan.</note>
+      <note>July 2020.</note>
+      <note>Title from PDF title page (viewed August 11, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fires</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Heat</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Risk assessment</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Incendies</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Chaleur</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Évaluation du risque</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>fire (physical concept)</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>heat</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>risk assessment</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Fires</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Heat</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Risk assessment</topic>
+      </subject>
+      <subject>
+         <topic>Heat release rate</topic>
+      </subject>
+      <subject>
+         <topic>Transient combustibles</topic>
+      </subject>
+      <subject>
+         <topic>Oxygen consumption calorimetry</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2102</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2102</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124449</identifier>
+      <identifier type="oclc">on1346124449</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111419.0</recordChangeDate>
+         <recordIdentifier>991000625690008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

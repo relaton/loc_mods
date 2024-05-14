@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Augmented reality (AR) usability evaluation framework</title>
+         <subTitle>the case of public safety communications research</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Choong, Yee-Yin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Choong, Yee-Yin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Goad, Kurtis.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mangold, Kevin C.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-04-05.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (24 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Augmented Reality (AR) is an enhanced version of reality created by
+                the use of technology to overlay digital information on an image of something being
+                viewed through a device. AR has potential uses in many fields such as education,
+                retail, repair/maintenance, manufacturing, and gaming. Any well-conducted and
+                well-planned product development project should follow an iterative human-centered
+                process. Throughout the development lifecycle, usability evaluations should be
+                conducted to ensure that the product can be used by specified users to achieve
+                specified goals with effectiveness, efficiency, and satisfaction in a specified
+                context of use. This AR Usability Evaluation Framework provides guidance on planning
+                user-based usability evaluations of AR technology. While this report demonstrates
+                the framework using a firefighting scenario in the public safety domain, the
+                framework is applicable and can be expanded to other domains where users-based AR
+                usability evaluations will be performed. Applying the framework in AR development
+                lifecycles will provide the following benefits: Creating explicit structures for
+                user-based evaluations Providing a consistent terminology and an initial set of
+                usability metrics Facilitating comparability across AR research and development
+                efforts Facilitating sharing of usability evaluation results Facilitating
+                establishing human-centered AR design guidelines This report provides a
+                five-component AR Usability Evaluation Framework to facilitate planning usability
+                evaluations systematically to ensure successful evaluations and collecting useful
+                usability data for product improvement. It will help reduce development cost and
+                bring the product faster to market while providing good usability for users that are
+                easy, quick, comfortable, and safe to use with minimal errors.</abstract>
+      <note type="statement of responsibility">Yee-Yin Choong; Kurtis Goad; Kevin C. Mangold.</note>
+      <note>April 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Augmented reality</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>User-centered system design</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Human-computer interaction</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Human engineering</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Public safety</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Communication--Research</topic>
+      </subject>
+      <subject>
+         <topic>Usability evaluation</topic>
+      </subject>
+      <subject>
+         <topic>Human-centered design</topic>
+      </subject>
+      <subject>
+         <topic>User needs</topic>
+      </subject>
+      <subject>
+         <topic>User requirements</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8422</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8422</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890337</identifier>
+      <identifier type="oclc">on1389890337</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111507.0</recordChangeDate>
+         <recordIdentifier>991000626251208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

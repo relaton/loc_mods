@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Analysis of a steel gravity frame with composite floor system
+                subjected to compartment fire (test #2)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Morovat, Mohammed.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Morovat, Mohammed.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Main, Joseph.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6938-6197">
+         <namePart>Weigand, Jonathan.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6938-6197</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ammons, Malcolm.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0424-5799">
+         <namePart>Sadek, Fahim H.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0424-5799</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Phan, Long.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">biography</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">md</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-10-23.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">braille</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (162 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report describes the development and validation of a
+                computational modeling approach for steel gravity frames with composite floor
+                systems subjected to fire exposure. A full-scale compartment fire test conducted on
+                a two-story steel gravity frame structure with a composite concrete floor slab on
+                steel decking was used in the validation process. The experiment was conducted under
+                combined mechanical and fire loading in the National Fire Research Laboratory (NRFL)
+                at the National Institute of Standard and Technology (NIST). The intent of the
+                experiment was to evaluate the influence of the slab reinforcement on the structural
+                performance of the composite floor assembly, which incorporated deformed steel
+                reinforcing bars in contrast with the welded wire reinforcement used in the previous
+                test in the series. The objective of the computational investigation, summarized in
+                this report, was to validate the adequacy of the computational modeling approach to
+                capture the primary structural behaviors and failure modes observed during the fire
+                test conducted in the NIST NFRL and to provide additional insights into the
+                structural performance through detailed modeling of the system response. The
+                computational model of the composite floor system was developed using the LS-DYNA
+                finite element software and incorporated detailed modeling of the system components,
+                including the lightweight reinforced concrete floor slab on profiled steel decking,
+                primary and secondary steel beams and supporting columns, shear stud connectors, and
+                bolted steel shear connections. The model adequately predicted the large
+                deformations observed in the fire test of the composite floor assembly and captured
+                their predominant deformation mechanisms, including lateral distortional buckling of
+                the steel beams supporting the composite floor. Results from this study can further
+                implementation of the performance-based design approaches for structural-fire safety
+                in the U.S. and worldwide.</abstract>
+      <note type="statement of responsibility">Mohammed Morovat; Joseph Main; Jonathan Weigand; Malcolm Ammons;
+                Fahim H. Sadek; Long Phan.</note>
+      <note>October 2023.</note>
+      <note>Title from PDF title page (viewed December 21, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-28</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Structural analysis (Engineering)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>High temperatures</topic>
+      </subject>
+      <subject>
+         <topic>Composite floor system</topic>
+      </subject>
+      <subject>
+         <topic>Composite slab</topic>
+      </subject>
+      <subject>
+         <topic>Steel-framed building</topic>
+      </subject>
+      <subject>
+         <topic>Membrane action</topic>
+      </subject>
+      <subject>
+         <topic>Simulation</topic>
+      </subject>
+      <subject>
+         <topic>Thermal bowing</topic>
+      </subject>
+      <subject>
+         <topic>Thermal restraint</topic>
+      </subject>
+      <subject>
+         <topic>Thermomechanical analysis</topic>
+      </subject>
+      <subject>
+         <topic>Reduced-order model for composite slab</topic>
+      </subject>
+      <subject>
+         <topic>Shell element</topic>
+      </subject>
+      <subject>
+         <topic>Validation</topic>
+      </subject>
+      <subject>
+         <topic>Explicit analysis</topic>
+      </subject>
+      <subject>
+         <topic>LS-DYNA</topic>
+      </subject>
+      <subject>
+         <topic>Elevated temperatures</topic>
+      </subject>
+      <subject>
+         <topic>Fire resistance</topic>
+      </subject>
+      <subject>
+         <topic>Compartment fire</topic>
+      </subject>
+      <subject>
+         <topic>ASTM E119</topic>
+      </subject>
+      <subject>
+         <topic>Standard fire exposure</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2269</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2269</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1419200015</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401110405.0</recordChangeDate>
+         <recordIdentifier>991000622909608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

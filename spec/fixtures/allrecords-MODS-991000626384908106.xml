@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Federal agency return on investment in foreign patenting</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Leech, David P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Leech, David P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scott, John T.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-04-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (192 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report documents the U.S. federal agencies use of foreign
+                patents, in addition to U.S. patents, to protect the intellectual property for
+                inventions created in their laboratories. The report describes the extent of U.S.
+                and foreign patents in the patent portfolios of the U.S. federal agencies, and it
+                describes the process of licensing of the agencies patented inventions. A dynamic
+                panel data model is estimated for each agency s invention-license revenues as a
+                function of the history of its applications and granted patents. The evidence
+                supports the view that an agency that obtains U.S. patents for its inventions but
+                does not obtain foreign patent protection may reduce the value of licenses to use
+                the technologies. Value for the licensee may be reduced because the corporations
+                that license the agency s technologies may face international competition from firms
+                that copy those technologies and compete with lower costs because they do not incur
+                full development costs or pay royalties for licensing the technologies. The report
+                estimates the agencies benefits, in terms of licensing revenues, and costs for
+                obtaining foreign-patent protection for their U.S.-patented inventions. The report
+                provides detailed case studies of the licensing and commercialization of two
+                federal-agency technologies.</abstract>
+      <note type="statement of responsibility">David P. Leech; John T. Scott.</note>
+      <note>April 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-04-26.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Patents</topic>
+      </subject>
+      <subject>
+         <topic>Federal laboratories</topic>
+      </subject>
+      <subject>
+         <topic>Commercialization</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.20-025</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract
+                report</title>
+            <partNumber>20-025</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228904</identifier>
+      <identifier type="oclc">on1427228904</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111505.0</recordChangeDate>
+         <recordIdentifier>991000626384908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

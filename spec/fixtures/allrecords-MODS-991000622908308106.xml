@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Cybersecurity framework profile for liquefied natural gas
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Newhouse, William.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4873-7648">
+         <namePart>Newhouse, William</namePart>
+         <nameIdentifier>(orcid)0000-0002-4873-7648</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Long, Josephine</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Weitzel. David</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Warren, Jason</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0836-244X">
+         <namePart>Thompson, Michael</namePart>
+         <nameIdentifier>(orcid)0000-0002-0836-244X</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Yates, Chris</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tran, Hillary</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mink, Alicia</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Herriott, Aurora</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cottle, Tom</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>Erratum</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-10-10.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color); tables (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document is the Cybersecurity Framework Profile developed for
+                the Liquefied Natural Gas (LNG) industry and the subsidiary functions that support
+                the overarching liquefaction process, transport, and distribution of LNG. The LNG
+                Cybersecurity Framework Profile can be used by liquefaction facilities, LNG vessels,
+                and other supporting entities of the LNG lifecycle so that cybersecurity risks
+                associated with these critical processes and systems can be minimized. The LNG
+                Profile provides a voluntary, risk-based approach for managing cybersecurity
+                activities and reducing cyber risk to the overall LNG process. The Cybersecurity
+                Framework LNG Profile is meant to supplement but not replace current cybersecurity
+                standards, regulations, and industry guidelines that are already being used by the
+                Liquefied Natural Gas industry.</abstract>
+      <note type="statement of responsibility">William Newhouse; Josephine Long; David Weitzel; Jason Warren;
+                Michael Thompson; Chris Yates; Hillary Tran; Alicia Mink; Aurora Herriott; Tom
+                Cottle.</note>
+      <note>June 2023.</note>
+      <note>Title from PDF title page (viewed January 04, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-10-04</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity framework.</topic>
+      </subject>
+      <subject>
+         <topic>CSF.</topic>
+      </subject>
+      <subject>
+         <topic>CSF profile.</topic>
+      </subject>
+      <subject>
+         <topic>Liquefaction.</topic>
+      </subject>
+      <subject>
+         <topic>Liquefied natural gas.</topic>
+      </subject>
+      <subject>
+         <topic>LNG.</topic>
+      </subject>
+      <subject>
+         <topic>Marine Transportation System.</topic>
+      </subject>
+      <subject>
+         <topic>MTS.</topic>
+      </subject>
+      <subject>
+         <topic>Mission objectives.</topic>
+      </subject>
+      <subject>
+         <topic>Risk management.</topic>
+      </subject>
+      <subject>
+         <topic>Security controls.</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity.</topic>
+      </subject>
+      <subject>
+         <topic>Cyber-physical systems.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8406-upd1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8406-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.IR.8406</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8406-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1419199824</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401110405.0</recordChangeDate>
+         <recordIdentifier>991000622908308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

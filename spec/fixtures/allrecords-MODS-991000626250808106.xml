@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NVLAP health information technology testing</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Moore, Bradley.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Moore, Bradley.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Clark, Asara.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New edition</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-08-05.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (25 pages) :</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST Handbook 150-31 presents the technical requirements and guidance
+                for the accreditation of laboratories under the National Voluntary Laboratory
+                Accreditation Program (NVLAP) Healthcare Information Technology program. It is
+                intended for information and use by accredited laboratories, laboratories seeking
+                accreditation, laboratory accreditation systems, users of laboratory services, and
+                others needing information on the requirements for accreditation under this program.
+                The 2021 edition of NIST Handbook 150-31 incorporates changes resulting from the
+                clause numbering updates to reflect that used by ISO/IEC 17025:2017, all references
+                to applicable international guides and standards have been updated, as well as
+                editorial improvements. The requirements of NIST Handbook 150 and the specific
+                requirements and interpretations in NIST Handbook 150-31 must be combined to produce
+                the criteria for accreditation in the NVLAP Healthcare Information Technology
+                program. For more information, visit the NVLAP website,
+                &lt;http://www.nist.gov/nvlap&gt;.</abstract>
+      <note type="statement of responsibility">Bradley Moore; Asara Clark.</note>
+      <note>August 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-11-09</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>accreditation</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>conformity assessment</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>ISO/IEC 17025</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>laboratory</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>management system</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>NVLAP</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>standards</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>testing</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Healthcare Information Technology</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Accreditation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Laboratories</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject>
+         <topic>Conformity assessment</topic>
+      </subject>
+      <subject>
+         <topic>ISO/IEC 17025</topic>
+      </subject>
+      <subject>
+         <topic>Healthcare information</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.HB.150-31-2021</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook</title>
+            <partNumber>150-31-2021</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890011</identifier>
+      <identifier type="oclc">on1389890011</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111514.0</recordChangeDate>
+         <recordIdentifier>991000626250808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Plumbing system models for a set of reference buildings</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Zimmerman, Stephen.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)000-0002-5254-278X">
+         <namePart>Zimmerman, Stephen</namePart>
+         <nameIdentifier>(orcid)000-0002-5254-278X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9542-3318">
+         <namePart>Persily, Andrew</namePart>
+         <nameIdentifier>(orcid)0000-0002-9542-3318</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-21.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (60 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Reference buildings have been defined previously and successfully
+                applied to energy and indoor air quality analyses, providing a platform for
+                consistent comparisons between different building design and operation scenarios.
+                One such set of reference buildings, the National Institute of Standards and
+                Technology’s (NIST) suite of homes, is a collection of dwellings developed to
+                represent 80 % of the U.S. housing stock at the time of their development [1]. A
+                second set is the Department of Energy’s commercial prototype building models, which
+                is a collection of buildings developed to represent U.S. commercial and
+                institutional buildings [2]. These building models allow for the assessment of new
+                technologies and the resulting impacts on building energy efficiency, ventilation,
+                and indoor air quality. In addition to the aforementioned aspects of building
+                performance, water quality and efficiency are also of current interest [3]. A
+                building’s premise plumbing system plays a critical role in managing water quality
+                and efficiency by bringing in clean, potable water and removing wastewater and can
+                impact health and safety of building occupants. Using models to evaluate the
+                performance of premise plumbing systems can be useful but most studies have
+                considered different buildings with different plumbing systems. In order to support
+                more consistent modeling efforts, NIST has developed premise plumbing system models
+                for three residential buildings and four commercial buildings and has made them
+                available for researchers and industry to analyze system performance, new
+                technologies, and design &amp; operation strategies. This report describes the seven
+                plumbing system designs, how they were developed and how they can be
+                accessed.</abstract>
+      <note type="statement of responsibility">Stephen Zimmerman; Andrew K. Persily.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed December 12, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-15</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Analysis</topic>
+      </subject>
+      <subject>
+         <topic>Dwelling</topic>
+      </subject>
+      <subject>
+         <topic>Potable</topic>
+      </subject>
+      <subject>
+         <topic>Premise plumbing</topic>
+      </subject>
+      <subject>
+         <topic>Reference building</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2266</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2266</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1415978354</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111400.0</recordChangeDate>
+         <recordIdentifier>991000617709308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

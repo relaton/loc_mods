@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Low-GWP alternative refrigerant blends for HFC-134a</title>
+         <subTitle>interim report</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Domanski, Piotr A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Domanski, Piotr A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McLinden, Mark O.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Babushok, Valeri I.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bell, Ian H.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fortin, Tara J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hegetschweiler, Michael J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kedzierski, Mark A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kim, Dennis K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lin, Lingnan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Linteris, Gregory T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Outcalt, Stephanie L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Perkins, Richard A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rowane, Aaron</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Skye, Harrison</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-10-13.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (177 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This project addresses the objectives of the Statement of Need number
+                WPSON-17-20 No/Low Global Warming Potential Alternatives to Ozone Depleting
+                Refrigerants. Its goal is to identify and demonstrate performance of low
+                global-warming-potential (GWP), non-flammable refrigerants to replace HFC-134a in
+                military environmental control units (ECUs). This project is a follow-on to the
+                limited-scope project WP-2740, which used thermodynamic cycle simulation models
+                alone to screen over 100 000 refrigerant blends and identified over 20 candidate
+                HFC-134a replacements. In this study we narrow the pool of blend candidates down to
+                three best fluids, verify experimentally their flammability behavior, demonstrate
+                their performance through tests in a military ECU in environmental chambers at a
+                wide range of operating conditions, and extrapolate the laboratory measured
+                performance to ECUs equipped with optimized heat exchangers through
+                first-principles-based simulations combined with machine-learning optimization
+                methods. This Interim Report documents the preliminary work leading to the selection
+                of three best blends. This work included refrigerant blend tests in a laboratory
+                mini-breadboard heat pump apparatus, fundamental measurements and modeling of
+                thermophysical properties, two-phase heat-transfer performance, and flammability
+                behavior.</abstract>
+      <note type="statement of responsibility">Piotr A. Domanski; Mark O. McLinden; Valeri I. Babushok; Ian H. Bell;
+                Tara J. Fortin; Michael J. Hegetschweiler; Mark A. Kedzierski; Dennis K. Kim; Lingan
+                Lin; Gregory T. Linteris; Stephanie L. Outcalt; Richard A. Perkins; Aaron Rowane;
+                Harrison Skye.</note>
+      <note>October 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-17</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Air conditioning</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Flammability</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Refrigerants</topic>
+      </subject>
+      <subject>
+         <topic>Coefficient of performance</topic>
+      </subject>
+      <subject>
+         <topic>Cycle simulation</topic>
+      </subject>
+      <subject>
+         <topic>Vapor compression</topic>
+      </subject>
+      <subject>
+         <topic>Volumetric capacity</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8395</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8395</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890093</identifier>
+      <identifier type="oclc">on1389890093</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625718708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

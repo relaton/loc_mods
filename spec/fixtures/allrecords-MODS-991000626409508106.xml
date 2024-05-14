@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of Standard Reference Material 2917</title>
+         <subTitle>plasmid DNA for fecal indicator detection and identification
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kralj, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kralj, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Servetas, Stephanie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hunter, Monique.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Toman, Blaza.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jackson, Scott.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shanks, Orin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Willis, Jessica.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-12-06.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (46 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Standard Reference Material (SRM) 2917 is intended for calibrating
+                qPCR-based assays of fecal indicator bacteria (FIB) for assessing water quality. A
+                unit of SRM 2917 consists of 6?Levels of linearized plasmid DNA. The length of DNA
+                is approximately 4.4 kb; it contains 13 single-copy PCR target regions. The 6 Levels
+                span a log10 dilution series from approximately (5 to 500,000) plasmid copy per uL.
+                Each Level is suspended in 1 TE buffer at pH 8 with approximately 10 ng/uL yeast
+                tRNA. Approximately 0.2 mL of each Level were bottled in 1.5 mL skirted centrifuge
+                vials. In total, approximately 1000 units were generated. The material is both
+                stable and should be stored at 4? C. The production, analytical methods, statistical
+                evaluation, and certified values of this SRM are described herein.</abstract>
+      <note type="statement of responsibility">Jason Kralj; Stephanie Servetas; Monique Hunter; Blaza Toman; Scott
+                Jackson; Orin Shanks; Jessica Willis.</note>
+      <note>December 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-11-22</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Water quality</topic>
+      </subject>
+      <subject>
+         <topic>Fecal indicator</topic>
+      </subject>
+      <subject>
+         <topic>qPCR</topic>
+      </subject>
+      <subject>
+         <topic>Plasmid DNA</topic>
+      </subject>
+      <subject>
+         <topic>ddPCR</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-221</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-221</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890201</identifier>
+      <identifier type="oclc">on1389890201</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111524.0</recordChangeDate>
+         <recordIdentifier>991000626409508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Eliciting lessons from Small- and Medium-Sized Enterprises (SMEs) for
+                natural disaster resilience planning and recovery during the COVID-19
+                pandemic</title>
+         <subTitle>SME complex event resilience</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Helgeson, Jennifer F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Helgeson, Jennifer F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fung, Juan F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zhang, Yating.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Roa-Henriquez, Alfredo R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zycherman, Ariela.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nierenberg, Claudia.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butry, David T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ramkissoon, Donna.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (68 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Small and medium-sized enterprises (SMEs) make up 44% of U.S.
+                economic activities and are the lifeline for many local economies, employing 59
+                million people in 2018 (SBA 2018, 2019). In the wake of the COVID-19 pandemic,
+                small- and medium-sized (SMEs) are greatly impacted through supply- and demand-side
+                difficulties, such as limiting customer interactions, employee availability, as well
+                as larger supply chain issues. The numbers are quickly evolving, but early
+                predictions estimate 15,000 retail store closures and 3 million jobs lost (Bivens,
+                2020; Thomas, 2020) with minority and immigrant-owned businesses disproportionately
+                affected (Fairlie, 2020). As COVID-19 conditions persist, the chances are high that
+                populations around the US and the world will experience natural disasters (e.g.,
+                heat waves, floods, hurricanes, fire, and drought) during the period of virus
+                transmission and into the period of recovery (e.g., Phillips et al., 2020). SMEs in
+                areas vulnerable to these natural disasters and other extreme weather events (EWEs)
+                are particularly noteworthy in the context of COVID-19. This Special Publication
+                Report presents a mixed-method research approach to study the impact of COVID-19 on
+                SMEs and a subset thereof which had experienced a natural disaster or EWE pre- or
+                during the COVID-19 transmission period. The survey also gauges the concern that
+                such events may affect SMEs as the effects of COVID-19 persist in the future and
+                during a future recovery phase. The presented survey was conducted online and
+                combines quantitative and qualitative questions to document (1) the novel
+                resilience-based mitigation actions employed during the COVID-19 pandemic by SMEs,
+                (2) challenges in implementing resilience-based mitigation actions, (3) use of past
+                strategies and approaches to provide assistance to the current situation, and (4)
+                planned resilience actions and strategies. As such, the questions are framed
+                specific to COVID-19 pandemic conditions; however, many are generalizable to SMEs
+                facing compound risks that may create complex events.</abstract>
+      <note type="statement of responsibility">Jennifer F. Helgeson; Juan F. Fung; Yating Zhang; Alfredo R.
+                Roa-Henriquez; Ariela Zycherman; Claudia Nierenberg; David T. Butry; Donna
+                Ramkissoon.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Natural disasters</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Small business</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Small and medium-sized enterprises</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Microenterprises</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>SMEs (Small business)</topic>
+      </subject>
+      <subject>
+         <topic>Adaptive capacity</topic>
+      </subject>
+      <subject>
+         <topic>Built infrastructure</topic>
+      </subject>
+      <subject>
+         <topic>Business recovery</topic>
+      </subject>
+      <subject>
+         <topic>Business resilience</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience</topic>
+      </subject>
+      <subject>
+         <topic>Coping</topic>
+      </subject>
+      <subject>
+         <topic>Disaster recovery</topic>
+      </subject>
+      <subject>
+         <topic>Extreme weather events</topic>
+      </subject>
+      <subject>
+         <topic>Resilience planning</topic>
+      </subject>
+      <subject>
+         <topic>Survey instrument</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.DCI.002</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST data collection instruments and best practices; NIST
+                DCI</title>
+            <partNumber>002</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124471</identifier>
+      <identifier type="oclc">on1346124471</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111503.0</recordChangeDate>
+         <recordIdentifier>991000626389208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Agile robotic planning with Gwendolen</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Michaloski, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Michaloski, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Schlenoff, Craig.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cardoso, Rafael C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fisher, Michael.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-05-31.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (48 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The future of robotics foresees autonomous behavior that can complete
+                tasks intelligently, with a focus on adaptability, flexibility, and versatility. In
+                such systems, it is critical for robots to quickly and safely perform an operation.
+                However, such aptitude is not limited to the speed of solving tasks, but also
+                requires other qualities such as adeptly detecting and recovering from task
+                irregularities, overcoming unforeseen task barriers by replanning to achieve stated
+                goals, and adroitly adapting to dynamic environments such as changing light
+                illumination, noisy sensors, or unexpected conditions. These intelligent
+                characteristics define robot agility (not to be confused with robot agility akin to
+                dexterity), and refer to approaches that allow robotic systems to be flexible and
+                capable of re-tasking in the face of a changing and often unpredictable environment.
+                Because robot task agility requires sophisticated dynamic and continuous planning
+                and replanning, the Gwendolen intelligent agent programming language is studied as a
+                high-level robot planner. In this report, we develop a manufacturing kitting case
+                study to research the operation of Gwendolen planning. The case study uses the
+                combination of Gwendolen, Canonical Robot Command Language (CRCL), Robot Operating
+                System (ROS), and Gazebo software components to simulate and evaluate robot
+                planning. Several Agile Robotics for Industrial Applications Competition (ARIAC)
+                kitting agility challenges are used to evaluate Gwendolen planning under various
+                levels of operational duress. Both the benefits and shortcomings will be
+                reviewed.</abstract>
+      <note type="statement of responsibility">John Michaloski; Craig Schlenoff; Rafael C. Cardoso; Michael
+                Fisher.</note>
+      <note>May 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-05-05</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Robots</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer simulation</topic>
+      </subject>
+      <subject>
+         <topic>Robot task agility</topic>
+      </subject>
+      <subject>
+         <topic>Robot planning</topic>
+      </subject>
+      <subject>
+         <topic>Kitting agility</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2222</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2222</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890418</identifier>
+      <identifier type="oclc">on1389890418</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111420.0</recordChangeDate>
+         <recordIdentifier>991000625720108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

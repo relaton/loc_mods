@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Examining the copy and paste function in the use of electronic health
+                records</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020085953">
+         <namePart>Lowry, Svetlana Z.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085953</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085953">
+         <namePart>Lowry, Svetlana Z.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085953</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ramaiah, Mala.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Spickard Prettyman, Sandra.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009093489">
+         <namePart>Simmons, Debora.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2009093489</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2006018513">
+         <namePart>Brick, David.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr2006018513</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Deutsch, Ellen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Possanza, Lorraine.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gray, Ollie B.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Levine, Betty A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gimbel, Kinsey.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008051627">
+         <namePart>Andrews, Kyle.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008051627</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) in
+                collaboration with ECRI conducted a study titled Examining the Copy and Paste
+                Function in the Use of Electronic Health Records which was intended to help fill the
+                gap in understanding the implications of the copy and paste functionality by
+                providing a more in-depth examination of how practitioners utilize the copy and
+                paste function in EHRs, exploring if and when they use, what they think about and
+                the ways in which it may or may not lead to errors that could affect patient safety
+                and finally, substantiating the ECRI Partnership recommendations for the safe use of
+                copy and paste function in health IT by providing human factors based
+                recommendations for the safe use of the copy and paste function based on the study
+                findings and collegial discussions with clinical experts. Major findings resulting
+                from a Human Factors assessment derived from empirical data obtained from this study
+                of the copy and paste function are identified as follows: Length of information:
+                Unconstrained ability to extract a large amount of information using copy and paste
+                can present users with convoluted and/or irrelevant information impairing situation
+                awareness. Users may miss important pieces of information. Attribution of
+                information: Clinicians need to know the source of the copied and pasted
+                information, who copied and pasted it, what was added to/edited in the information
+                and the date and time the information was copied and pasted. Wrong information: A
+                common error in the use of copy and paste is that users forget to properly review
+                and edit all of the information they have copied and pasted (frequent interruptions
+                in the clinical environment being one of the major causes of this error) and users
+                are not provided with system features that promote efficient editing. This report
+                provides specific recommendations for user interface design to ensure safety-related
+                usability for the copy and paste function.</abstract>
+      <note type="statement of responsibility">Svetlana Z. Lowry; Mala Ramaiah; Sandra Spickard Prettyman; Debora
+                Simmons; David Brick; Ellen Deutsch; Lorraine Possanza; Ollie B. Gray; Betty A.
+                Levine; Kinsey Gimbel; Kyle Andrews.</note>
+      <note>January 2017.</note>
+      <note>Title from PDF title page (viewed January 19, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85083013">
+         <topic>Medical records</topic>
+         <topic>Data processing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1014552">
+         <topic>Medical records</topic>
+         <topic>Data processing</topic>
+      </subject>
+      <subject>
+         <topic>Copy and paste function</topic>
+      </subject>
+      <subject>
+         <topic>Human factors assessment</topic>
+      </subject>
+      <subject>
+         <topic>Attribution of information</topic>
+      </subject>
+      <subject>
+         <topic>Wrong information</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8166</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8166</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">969907936</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170124</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170124014029.0</recordChangeDate>
+         <recordIdentifier>991000188729708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

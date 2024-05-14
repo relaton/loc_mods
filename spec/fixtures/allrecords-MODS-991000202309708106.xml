@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Miniaturized Charpy specimens for the indirect verification of
+                small-scale Charpy machines</title>
+         <subTitle>initial qualification phase (revised)</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015169004">
+         <namePart>Lucon, Enrico.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015169004</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015169004">
+         <namePart>Lucon, Enrico.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015169004</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2012</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2012.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Small specimen test techniques become ever more popular as the need
+                increases to characterize mechanical properties by use of the smallest possible
+                amount of material, due to various restrictions on material availability,
+                irradiation, testing space, and other factors. NIST is currently developing
+                reference miniaturized Charpy V-notch (MCVN) specimens for the indirect verification
+                of small-scale impact testing machines. The same materials used for NIST standard
+                verification specimens are being evaluated at three energy levels (low, high and
+                super-high). Two specimen types are being investigated, denominated KLST (from the
+                German Kleinstprobe, or "small specimen") and RHS (reduced half-size). Several
+                instrumented impact tests on miniaturized KLST and RHS specimens of low, high and
+                super-high energy have been performed and analyzed. The variability of MCVN data has
+                been compared to that of full-size Charpy data from the same lot of test specimens.
+                Although this can be considered just the preliminary phase of this project, the
+                results indicate that MCVN verification specimens can be used for the indirect
+                verification of small-scale instrumented impact testers, both in terms of absorbed
+                energy and maximum force. Additional aspects have also been investigated, such as
+                the influence of shear lip symmetry and specimen fracture on absorbed energy and the
+                correlation between miniaturized and full-size Charpy data.</abstract>
+      <note type="statement of responsibility">Enrico Lucon.</note>
+      <note>July 2012.</note>
+      <note>Title from PDF title page (viewed September 27, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Impact testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85084167">
+         <topic>Metals</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1018047">
+         <topic>Metals</topic>
+      </subject>
+      <subject>
+         <topic>Indirect verification</topic>
+      </subject>
+      <subject>
+         <topic>KLST</topic>
+      </subject>
+      <subject>
+         <topic>MCVN</topic>
+      </subject>
+      <subject>
+         <topic>Miniaturized Charpy specimens</topic>
+      </subject>
+      <subject>
+         <topic>Small specimens</topic>
+      </subject>
+      <subject>
+         <topic>Small-scale impact testers</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1562-1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1562-1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055658735</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004104109.0</recordChangeDate>
+         <recordIdentifier>991000202309708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

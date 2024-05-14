@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of standard reference material® 2386 avocado powder
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Phillips, Melissa M..</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0477-7637">
+         <namePart>Phillips, Melissa M.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0477-7637</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4294-7636">
+         <namePart>Wood, Laura</namePart>
+         <nameIdentifier>(orcid)0000-0002-4294-7636</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Browning, Joseph..</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9486-7056">
+         <namePart>Caceres, George</namePart>
+         <nameIdentifier>(orcid)0000-0002-9486-7056</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Hahm, Grace.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hanaee, Mahboubeh</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lee, Abigail.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4115-6231">
+         <namePart>Murphy, Karen</namePart>
+         <nameIdentifier>(orcid)0000-0003-4115-6231</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Oflaz, Rabia.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6366-1901">
+         <namePart>Paul, Rick L .</namePart>
+         <nameIdentifier>(orcid)0000-0002-6366-1901</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0953-5215">
+         <namePart>Place, Benjamin</namePart>
+         <nameIdentifier>(orcid)0000-0003-0953-5215</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8759-454X">
+         <namePart>Brown Thomas, Jeanice</namePart>
+         <nameIdentifier>(orcid)0000-0001-8759-454X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5242-7629">
+         <namePart>Yen, James H.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5242-7629</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Materials Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>The National Institute of Standards and Technology (NIST) recently
+                released SRM 2386 Avocado Powder which has value assignment for over 70 analytes.
+                This material is intended to be used for the evaluation of methods for the
+                determination of elements, vitamins, amino acids, fatty acids, and proximates in
+                this and similar matrices. The material was purchased pre-packaged from a commercial
+                vendor and data was obtained from NIST and interlaboratory comparison exercises. A
+                description of the material, sample preparations, results, and data analysis are
+                discussed in the following report.</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-10-18.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Melissa M. Phillips; Laura J. Wood; Joseph F. Browning; George C.
+                Caceres; Grace E. Hahm; Mahboubeh Hanaee; Abigail Lee; Karen E. Murphy; Rabia Oflaz;
+                Rick Paul; Benjamin J. Place; Jeanice Brown Thomas; James H. Yen.</note>
+      <note>October 2023</note>
+      <note>Title from PDF title page (viewed January 10, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-10-06.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Vitamins, Water-soluble</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Reference sources</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Moisture</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fatty acids</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Vitamins, Fat-soluble</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Avocado</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Amino acids</topic>
+      </subject>
+      <subject>
+         <topic>Proximates</topic>
+      </subject>
+      <subject>
+         <topic>Elements</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-213r1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>260-213r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-213r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1419198341</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240110</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401110405.0</recordChangeDate>
+         <recordIdentifier>991000623709808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

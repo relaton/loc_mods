@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Shear behavior of high-strength bolts at elevated
+                temperatures</title>
+         <subTitle>testing and formulation of reduced-order model</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021139146">
+         <namePart>Seif, Mina.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139146</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139146">
+         <namePart>Seif, Mina.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139146</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Weigand, Jonathan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Main, Joseph.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Peixoto, Rafaela.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2014206248">
+         <namePart>Vieira, Luiz.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2014206248</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The behavior of high-strength structural steel bolts at elevated
+                temperatures, especially under shear loading, is very limited in the literature.
+                This report presents the test results, as well as a reduced order modeling approach
+                of high-strength structural bolts subject to double-shear loading at elevated
+                temperatures. First, it presents results from a recently conducted experimental
+                study. The parameters varied between tests included the bolt grade, bolt diameter,
+                and temperature. Bolt grades A325 and A490 were tested. For each bolt grade, three
+                different diameters were tested (19 mm (3/4 in), 22 mm (7/8 in), and 25.4 mm (1 in))
+                at five different temperatures (20 °C, 200 °C, 400 °C, 500 °C, and 600 °C). At least
+                three tests were conducted for each combination of parameters. Degradations in the
+                mechanical and material properties including stiffness, strength, and deformation at
+                fracture, are characterized and presented. The results from these experiments fill a
+                critical knowledge gap currently present in the literature regarding the behavior of
+                high-strength structural bolts under shear loading at elevated temperatures. These
+                data will ultimately provide a thorough understanding of the overall behavior of
+                structural steel systems under realistic fire loading by clarifying the (i) shear
+                behavior of high-strength structural steel bolts at elevated temperatures, and (ii)
+                degradation in the mechanical and material properties of high-strength steel bolts
+                with increasing temperatures. The report then describes the formulation of an
+                empirical component-based model for shear behavior of high-strength bolts developed
+                based on the data from the double-shear testing of highstrength bolts at elevated
+                temperatures. Such component-based models are computationally efficient,
+                facilitating large building-level analyses where high-fidelity modeling of the bolts
+                would be infeasible. The component-based model is shown to accurately account for
+                the temperature dependent degradation of bolt shear strength and stiffness, while
+                also providing the capability to model load reversal and bolt-shear
+                rupture.</abstract>
+      <note type="statement of responsibility">Mina Seif; Jonathan Weigand; Joseph Main; Rafaela Peixoto; Luiz
+                Vieira.</note>
+      <note>September 2018.</note>
+      <note>Title from PDF title page (viewed September 21, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2014001184">
+         <topic>Fire loads</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1909564">
+         <topic>Fire loads</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85060752">
+         <topic>High temperatures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/956494">
+         <topic>High temperatures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85028771">
+         <topic>Columns, Iron and steel</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/868863">
+         <topic>Columns, Iron and steel</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fracture</topic>
+      </subject>
+      <subject>
+         <topic>Shear stress</topic>
+      </subject>
+      <subject>
+         <topic>Stress-strain relationship</topic>
+      </subject>
+      <subject>
+         <topic>Fire loading</topic>
+      </subject>
+      <subject>
+         <topic>High-strength structural bolts</topic>
+      </subject>
+      <subject>
+         <topic>Retained yield</topic>
+      </subject>
+      <subject>
+         <topic>Steel columns</topic>
+      </subject>
+      <subject>
+         <topic>Finite element</topic>
+      </subject>
+      <subject>
+         <topic>Inelastic buckling</topic>
+      </subject>
+      <subject>
+         <topic>Thermal strain</topic>
+      </subject>
+      <subject>
+         <topic>Steel connection</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1978</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1978</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055658876</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004104109.0</recordChangeDate>
+         <recordIdentifier>991000202279708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

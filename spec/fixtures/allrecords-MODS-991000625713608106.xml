@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Results from a black-box study for digital forensic examiners
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Guttman, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Guttman, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Laamanen, Mary T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Russell, Craig.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Atha, Chris.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Darnell, James.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-02-17.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (58 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) conducted a
+                black-box study in conjunction with a scientific foundation review documented in
+                NISTIR 8354 Digital Investigation Techniques: A NIST Scientific Foundation Review
+                (initially released as a draft report for public comments) [1]. The purpose of the
+                study was to evaluate the outcomes of mobile and hard-drive forensic results
+                achieved on mock examinations based on the demographic characteristics of the
+                participants. The demographic data related to an individual's workplace environment,
+                education, and work experience. This study was open to anyone in the public or
+                private sectors who work in the field of digital forensics. This document describes
+                the methodology used in the study and a summary of the results.</abstract>
+      <note type="statement of responsibility">Barbara Guttman; Mary T. Laamanen; Craig Russell; Chris Atha; James
+                Darnell.</note>
+      <note>February 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Digital forensic science</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Forensic sciences</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hard disks (Computer science)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Mobile device forensics</topic>
+      </subject>
+      <subject>
+         <topic>Scientific foundation review</topic>
+      </subject>
+      <subject>
+         <topic>Digital examiner</topic>
+      </subject>
+      <subject>
+         <topic>Black-box study</topic>
+      </subject>
+      <subject>
+         <topic>Computer hard drive examination</topic>
+      </subject>
+      <subject>
+         <topic>Mobile device investigation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8412</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8412</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890121</identifier>
+      <identifier type="oclc">on1389890121</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111424.0</recordChangeDate>
+         <recordIdentifier>991000625713608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

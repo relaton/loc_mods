@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Workshop on incorporating climate change data in U.S. building codes
+                and standards</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>aAverill, Jason D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Averill, Jason D.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1733-4667">
+         <namePart>McAllister, Terri.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1733-4667</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9542-3318">
+         <namePart>Persily, Andrew K.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9542-3318</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Weaver, Scott.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5139-9176">
+         <namePart>Whetstone, James.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5139-9176</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Kuperberg, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nigam, Sumant.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ruiz-Barradas, Alfredo.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-03-08.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (77 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NIST hosted a workshop to advance the availability of climate
+                information sought by organizations developing standards, model building codes, and
+                voluntary certifications by convening interactions between the building codes and
+                climate science communities.</abstract>
+      <note type="statement of responsibility">Terri McAllister; Andrew K Persily; Scott Weaver; James Whetstone;
+                Jiann C Yang; Michael Kuperberg; Sumant Nigam; Alfredo Ruiz-Barradas.</note>
+      <note>March 2023.</note>
+      <note>Title from PDF title page (viewed April 20, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-03-06</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Building laws</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Climate changes</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1291</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1291</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859674</identifier>
+      <identifier type="oclc">on1405859674</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111409.0</recordChangeDate>
+         <recordIdentifier>991000614605808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

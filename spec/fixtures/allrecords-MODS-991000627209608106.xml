@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Performance of a commercial hot water boiler</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Park, Cheol.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Park, Cheol</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Liu, S.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Building and Fire Research Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1998</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>1998-10-31.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In responding to ASHRAE SPC 155P's interest and to provide additional
+                evidence on the envisioned linear relationship between output and input of a boiler
+                under part load conditions, the National Institute of Standards and Technology
+                undertook to conduct a series of computer simulations utilizing a revised version of
+                a computer simulation program, DEPAB2, which was developed previously by NIST for
+                commercial fire-tube steam boilers. The computer program was modified so that it can
+                be used to simulate the operations of a commercial fire tube hot water boiler, and
+                actual boiler specification data from a leading boiler manufacturer was obtained and
+                used as input data to the program for the simulation study. In this paper, the
+                computer model of a commercial hot water boiler and the actual boiler specification
+                are described. Full and part-load performance of the simulated, commercial hot water
+                boiler is presented. A good correlation between output energy and input energy is
+                found. Based upon the correlationship, a suggestion is made to reduce experimental
+                burden in testing the performance of commercial boilers.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Cheol Park; S Liu.</note>
+      <note>November 1998.</note>
+      <note>Title from PDF title page (viewed April 11, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 1998-09-15</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Boilers--efficiency</topic>
+      </subject>
+      <subject>
+         <topic>Boiler.</topic>
+      </subject>
+      <subject>
+         <topic>Boiler computer model.</topic>
+      </subject>
+      <subject>
+         <topic>Boiler part-load performance.</topic>
+      </subject>
+      <subject>
+         <topic>Building technology.</topic>
+      </subject>
+      <subject>
+         <topic>Commercial boiler.</topic>
+      </subject>
+      <subject>
+         <topic>Fire tube boiler.</topic>
+      </subject>
+      <subject>
+         <topic>Hot water boiler.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.6226</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>6226</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>6226</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240411</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240418160259.0</recordChangeDate>
+         <recordIdentifier>991000627209608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

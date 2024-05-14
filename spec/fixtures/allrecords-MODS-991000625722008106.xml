@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Report on high energy arcing fault experiments</title>
+         <subTitle>experimental results from low-voltage switchgear enclosures
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Putorti, Anthony.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Putorti, Anthony.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bareham, Scott.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brown, Christopher.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tam, Wai Cheong.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hnetkovsky, Edward.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Thompson, Andre.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Selepak, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Deardorff, Philip.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hamburger, Kenneth.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Melly, Nicholas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Miller, Kenneth.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Taylor, Gabriel.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-12-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (531 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report documents an experimental program designed to investigate
+                High Energy Arcing Fault (HEAF) phenomena for low-voltage metal enclosed switchgear
+                containing aluminum conductors. This report covers full-scale laboratory experiments
+                using representative nuclear power plant (NPP) three-phase electrical equipment.
+                Electrical, thermal, and pressure data were recorded for each experiment and
+                documented in this report. This report covers experiments performed on two
+                low-voltage switchgear units with each unit consisting of two vertical sections. The
+                data collected supports characterization of the low-voltage HEAF hazard, and these
+                results will be used to support potential improvements in fire probabilistic risk
+                assessment (PRA) methods. The experiments were performed at KEMA Labs located in
+                Chalfont, Pennsylvania. The experimental design, setup, and execution were completed
+                by staff from the NRC, the National Institute of Standards and Technology (NIST),
+                Sandia National Laboratories (SNL) and KEMA. In addition, representatives from the
+                Electric Power Research Institute (EPRI) observed some of the experimental setup and
+                execution. The HEAF experiments were performed between August 26 and August 29, 2019
+                on near-identical Westinghouse Type DS low-voltage metal-enclosed indoor switchgear.
+                The three-phase arcing fault was initiated on the aluminum main bus or in select
+                cases on the copper bus stabs near the breaker. These experiments used either
+                nominal 480 V (AC) or 600 V (AC). Durations of the experiments ranged from
+                approximately 0.4 s to 8.3 s with fault currents ranging from approximately 9.2 kA
+                to 19.3 kA. Real-time electrical operating conditions, including voltage, current,
+                and frequency, were measured during the experiments. Heat fluxes and incident
+                energies were measured with plate thermometers, radiometers, and slug calorimeters
+                at various locations around the electrical enclosures. Environmental measurements of
+                breakdown, conductivity, and electromagnetics were also taken. The experiments were
+                documented with normal and high-speed videography, infrared imaging, and
+                photography. The results, while limited, indicated the difficulty in maintaining and
+                sustaining low-voltage arcs on aluminum components of sufficient duration and at a
+                single point as observed from operating experience.</abstract>
+      <note type="statement of responsibility">Anthony Putorti; Scott Bareham; Christopher Brown; Wai Cheong Tam;
+                Edward Hnetkovsky; Andre Thompson; Michael Selepak; Philip Deardorff; Kenneth
+                Hamburger; Nicholas Melly; Kenneth Miller; Gabriel Taylor.</note>
+      <note>December 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-12-27</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fires</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Electric arc</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fire risk assessment</topic>
+      </subject>
+      <subject>
+         <topic>High energy arcing fault</topic>
+      </subject>
+      <subject>
+         <topic>Arc flash</topic>
+      </subject>
+      <subject>
+         <topic>Electrical enclosure</topic>
+      </subject>
+      <subject>
+         <topic>Fire probabilistic risk assessment</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2197</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2197</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890208</identifier>
+      <identifier type="oclc">on1389890208</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111423.0</recordChangeDate>
+         <recordIdentifier>991000625722008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of Standard Reference Material 916b</title>
+         <subTitle>bilirubin</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Nelson, Michael A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nelson, Michael A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brown Thomas, Jeanice.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lang, Brian E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mulloor, Jerome.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sieber, John R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Toman, Blaza.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yu, Lee L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lo, Stanley.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-09-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (52 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Standard Reference Material (SRM) 916b Bilirubin comprises neat
+                unconjugated bilirubin that is certified as a chemical substance of known purity. It
+                is intended for use in the calibration and standardization of measurement procedures
+                for the determination of bilirubin in clinical samples and for assignment of
+                bilirubin quantity values to in-house control materials. A unit of SRM 916b consists
+                of 100 mg of bilirubin. This publication documents the production, analytical
+                methods, and computations involved in characterizing this product.</abstract>
+      <note type="statement of responsibility">Michael A. Nelson; Jeanice Brown Thomas; Brian E. Lang; Jerome
+                Mulloor; John R. Sieber; Blaza Toman; Lee L. Yu; Stanley Lo.</note>
+      <note>September 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-17</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Bilirubin</topic>
+      </subject>
+      <subject>
+         <topic>Azopigment</topic>
+      </subject>
+      <subject>
+         <topic>Caffeine reagent</topic>
+      </subject>
+      <subject>
+         <topic>Quantitative Proton Nuclear Magnetic Resonance Spectroscopy With
+                Internal Standard (q1H-NMRIS)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-212</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-212</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890106</identifier>
+      <identifier type="oclc">on1389890106</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111422.0</recordChangeDate>
+         <recordIdentifier>991000625724208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>review of community resilience frameworks and assessment tools
+</title>
+         <subTitle>an annotated bibliography</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Walpole, Emily H.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Walpole, Emily H.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Loerzel, Jarrod.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dillard, Maria.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-08-12.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (59 pages) :</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Community resilience is a topic of increasing interest in public
+                policy and planning, although effective implementation will require an in-depth
+                theoretical understanding of the concept, as well as the ability to measure changes
+                in resilience over time. In recent years numerous frameworks have been developed to
+                operationalize community resilience, utilizing different theoretical and
+                methodological approaches. As part of an effort to systematically document and
+                compare existing frameworks in the Resilience Indicator Inventory, research led by
+                the Community Resilience Program at the National Institute of Standards and
+                Technology (NIST) selected 56 community resilience frameworks and assessment tools
+                for further analysis. This annotated bibliography is intended to achieve two main
+                objectives: 1) provide context to the primary sources used in the Resilience
+                Indicator Inventory dataset, and 2) summarize previous work in community resilience
+                measurement as a resource for future planning and research. Work in this area will
+                inform NIST s ongoing efforts in resilience metrology, including facilitating the
+                development of a theoretically and empirically based method of resilience
+                measurement.</abstract>
+      <note type="statement of responsibility">Emily H. Walpole; Jarrod Loerzel; Maria Dillard.</note>
+      <note>August 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-08-09</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Measurement</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Communities</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience frameworks</topic>
+      </subject>
+      <subject>
+         <topic>Assessment methodologies</topic>
+      </subject>
+      <subject>
+         <topic>Indicators</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2172</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2172</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890070</identifier>
+      <identifier type="oclc">on1389890070</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111513.0</recordChangeDate>
+         <recordIdentifier>991000626249808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Identifying residential fires involving upholstered furniture within
+                the National Fire Incident Reporting System</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021113838">
+         <namePart>Thomas, Douglas S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021113838</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113838">
+         <namePart>Thomas, Douglas S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021113838</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107278">
+         <namePart>Butry, David T.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021107278</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This Technical Note develops a method for identifying residential
+                fire incidents, reported to the National Fire Incident Reporting System (NFIRS),
+                with missing information regarding the item first ignited (IFI) or item most
+                contributing to flame spread (IMCFS) that were likely to have involved upholstered
+                furniture. Using NFIRS data, upholstered furniture involvement can only be
+                identified using the IFI or IMCFS fields; however, it is not uncommon for these
+                fields to contain missing values or to be coded as unknown (undetermined). Current
+                statistical methods address this issue by allocating the missing and unknown
+                incidents proportionally over the distribution of those known. The appropriateness
+                of this depends on the representativeness of the known incidents. This Technical
+                Note explores a data imputation method to determine the likelihood of upholstered
+                furniture involvement based on statistical correlations with other factors
+                describing the fire incident. A number of competing statistical models are evaluated
+                using the data imputation approach, with the best performing models selected based
+                on the minimum out-of-sample root mean squared prediction error. The optimum models
+                based on this criterion are then used to estimate the number of U.S. residential
+                upholstered furniture fires, related occupant fatalities, injuries, and property and
+                content losses, and the results are compared to the conventional scaling-based
+                techniques currently used by the National Fire Protection Association</abstract>
+      <note type="statement of responsibility">Douglas S. Thomas; David T. Butry.</note>
+      <note>Title from PDF title page (viewed September 27, 2016).</note>
+      <note>September 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85066106">
+         <topic>Flammable fabrics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/927012">
+         <topic>Flammable fabrics</topic>
+      </subject>
+      <subject>
+         <topic>Fire statistics</topic>
+      </subject>
+      <subject>
+         <topic>Residential upholstered furniture</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1845</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1845</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662248</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114119.0</recordChangeDate>
+         <recordIdentifier>991000188519708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

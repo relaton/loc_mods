@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Research needs concerning the performance of fiber reinforced (FR)
+                composite retrofit systems for buildings and infrastructure</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Goodwin, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Goodwin, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sattar, Siamak.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dukes, Jazalyn.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kim, Jae Hyun.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ferraris, Chiara.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2009020154">
+         <namePart>Sung, Li-piin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2009020154</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Throughout the United States, the use of fiber reinforced (FR)
+                composites in building and infrastructure applications has been steadily on the
+                rise. FR composite materials, which include fiber reinforced polymer (FRP)
+                composites and fiber reinforced cementitious matrix (FRCM) composites, are used to
+                repair, strengthen, and seismically retrofit structural components (e.g., columns,
+                beams, walls) of existing buildings and infrastructure. FR composite retrofits have
+                become competitive with more traditional retrofit techniques due to their high
+                strength, light weight, low profile, and corrosion resistance. These FR composite
+                properties have resulted in lower overall costs and more efficient, less
+                labor-intensive installation processes. Furthermore, repair, strengthening, and
+                seismic retrofit of aging structures with FR composites leads to improved building
+                and infrastructure resilience. Since the use of FR composites in the civil
+                engineering field has matured, this report serves to review the state-of-the-art for
+                FR composite performance and identify research needs requisite to advancing the
+                field. The report focuses primarily on externally bonded FRP composites since they
+                are most commonly used in practice in the United States. The research needs were
+                obtained by an extensive literature review and from input received at a national
+                stakeholder workshop at NIST in 2018. The findings of this report describe the
+                materials and structural level research needs prioritized per the subject matter
+                expert opinions received at the workshop. Major materials research needs include
+                improvement of inspector certification processes and improvement or development of
+                test methods that assess the condition of FR composites after installation and
+                long-term use. Other major research needs include identification of bond degradation
+                mechanisms between FRP composites and concrete and relation of accelerated
+                conditioning protocols to long-term exposure outdoors. Structural research needs
+                include development of design standards and guidelines for FR retrofitted components
+                and buildings, improvement of inspection practices, structural-scale experimental
+                studies, and improvement of numerical modeling capabilities. This report is intended
+                to inform future research plans developed by various stakeholders concerning the
+                performance of buildings and infrastructure that are retrofitted or repaired with FR
+                composites.</abstract>
+      <note type="statement of responsibility">David Goodwin; Siamak Sattar; Jazalyn Dukes; Jae Hyun Kim; Chiara
+                Ferraris; Li-Piin Sung.</note>
+      <note>December 2019.</note>
+      <note>Title from PDF title page (viewed December 23, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85104660">
+         <topic>Polymers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1070588">
+         <topic>Polymers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040496">
+         <topic>Earthquakes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/900899">
+         <topic>Earthquakes</topic>
+      </subject>
+      <subject>
+         <topic>Fiber Reinforced Polymer (FRP)</topic>
+      </subject>
+      <subject>
+         <topic>Durability</topic>
+      </subject>
+      <subject>
+         <topic>Structural performance</topic>
+      </subject>
+      <subject>
+         <topic>Resilience</topic>
+      </subject>
+      <subject>
+         <topic>Earthquake risk reduction</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1244</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1244</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1139336490</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161920.0</recordChangeDate>
+         <recordIdentifier>991000256079708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Report from the Extreme Ultraviolet (EUV) Lithography Working Group
+                Meeting</title>
+         <subTitle>current state, needs, and path forward</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Rasmussen, Elizabeth G.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2871-6599">
+         <namePart>Rasmussen, Elizabeth G</namePart>
+         <nameIdentifier>(orcid)0000-0003-2871-6599</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4038-725X">
+         <namePart>Wilthan, Boris</namePart>
+         <nameIdentifier>(orcid)0000-0002-4038-725X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid) 0000-0002-9758-0704">
+         <namePart>Simonds, Brian</namePart>
+         <nameIdentifier>(orcid) 0000-0002-9758-0704</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-08-22.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This is the report of a hybrid working group meeting held on April
+                25, 2023, at the National Institute of Standards and Technology (NIST) in Boulder,
+                CO. The working group was focused on extreme ultraviolet lithography (EUVL)
+                research, development, and manufacturing. The meeting allowed for productive
+                discussions on many technical aspects of EUVL. Industry participants gave
+                presentations that helped inform this report's outline of the current state of the
+                science, challenges, needs, and future opportunities for accelerated innovation in
+                EUVL. The report also includes information on some of NIST’s efforts that could
+                begin or continue to support the USA semiconductor industry. Cohesively presenting
+                some of NIST’s research and capabilities at the working group meeting provided
+                external stakeholders visibility and the opportunity to comment. The meeting was
+                insightful for industry participants learning about NIST’s research capabilities .In
+                turn, NIST researchers gained a deeper understanding of the industry's needs to
+                identify where NIST’s metrology expertise could assist in EUVL research. The meeting
+                and this report do not, and are not intended to, capture the entire perspective of
+                the EUVL industry but rather serve as a discussion starting point. Future work
+                includes expanding participation, honing NIST research sub-groups to specific needs
+                of EUVL, and executing priority research discussed in the working group meeting or
+                any future meetings. Through engagement with the USA EUVL industry, targeted
+                research collaborations are hoped to be created, accelerating semiconductor
+                manufacturing innovation and generating meaningful value for USA
+                taxpayers.</abstract>
+      <note type="statement of responsibility">Elizabeth G. Rasmussen; Boris Wilthan; Brian Simonds.</note>
+      <note>August 2023.</note>
+      <note>Title from PDF title page (viewed August 28, 2023)</note>
+      <note type="bibliography">Includes bibliographical references</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-08-16</note>
+      <note type="system details">Mode of access: World Wide Web</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader</note>
+      <subject authority="lcsh">
+         <topic>Integrated circuits</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Extreme ultraviolet lithography</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Semiconductors</topic>
+      </subject>
+      <subject>
+         <topic>Advanced Manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Domestic Manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Stakeholder Collaboration</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1500-208</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>1500-208</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1500-208</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411254054</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111406.0</recordChangeDate>
+         <recordIdentifier>991000611509308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

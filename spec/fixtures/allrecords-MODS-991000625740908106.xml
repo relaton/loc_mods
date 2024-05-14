@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Mobile device security</title>
+         <subTitle>corporate-owned personally-enabled (COPE)</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Howell, Gema E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Howell, Gema E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boeckl, Kaitlin R.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3777-3106">
+         <namePart>Lefkovitz, Naomi B.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3777-3106</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2553-9304">
+         <namePart>Nadeau, Ellen M.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2553-9304</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Franklin, Joshua M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shariati, Behnam.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ajmo, Jason.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brown, Christopher J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dog, Spike E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Javar, Frank.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Peck, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sandlin, Kenneth F.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (348 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Mobile devices provide access to vital workplace resources while
+                giving employees the flexibility to perform their daily activities. Securing these
+                devices is essential to the continuity of business operations. While mobile devices
+                can increase efficiency and productivity, they can also leave sensitive data
+                vulnerable. Mobile device management tools can address such vulnerabilities by
+                helping secure access to networks and resources. These tools are different from
+                those required to secure the typical computer workstation. This practice guide
+                focuses on security enhancements that can be made to corporate-owned
+                personally-enabled (COPE) mobile devices. COPE devices are owned by an enterprise
+                and issued to an employee. Both the enterprise and the employee can install
+                applications onto the device. To address the challenge of securing COPE mobile
+                devices while managing risks, the NCCoE at NIST built a reference architecture to
+                show how various mobile security technologies can be integrated within an enterprise
+                s network. This NIST Cybersecurity Practice Guide demonstrates how organizations can
+                use standards-based, commercially available products to help meet their mobile
+                device security and privacy needs.</abstract>
+      <note type="statement of responsibility">Gema E. Howell; Kaitlin R. Boeckl; Naomi B. Lefkovitz; Ellen M.
+                Nadeau; Joshua M. Franklin; Behnam Shariati; Jason Ajmo; Christopher J. Brown; Spike
+                E. Dog; Frank Javar; Michael Peck; Kenneth F. Sandlin.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Sécurité informatique</topic>
+      </subject>
+      <subject>
+         <topic>Corporate-owned personally-enabled</topic>
+      </subject>
+      <subject>
+         <topic>COPE</topic>
+      </subject>
+      <subject>
+         <topic>Mobile device management</topic>
+      </subject>
+      <subject>
+         <topic>Mobile device security</topic>
+      </subject>
+      <subject>
+         <topic>On-premise</topic>
+      </subject>
+      <subject>
+         <topic>Bring your own device</topic>
+      </subject>
+      <subject>
+         <topic>BYOD</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-21</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-21</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124467</identifier>
+      <identifier type="oclc">on1346124467</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111449.0</recordChangeDate>
+         <recordIdentifier>991000625740908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

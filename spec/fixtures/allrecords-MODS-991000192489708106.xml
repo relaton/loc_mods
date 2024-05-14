@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Security assurance requirements for linux application container
+                deployments</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2003002931">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2003002931</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2003002931">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2003002931</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In order for security solutions for application container
+                environments to effectively meet their security objectives, it is necessary to
+                analyze those security solutions and detail the metrics they must satisfy in the
+                form of security assurance requirements. Since Linux and its various distributions
+                form the predominant host OS component of the deployed container platforms, the
+                focus of this document is on security assurance requirements for security solutions
+                for application containers hosted on Linux.</abstract>
+      <note type="statement of responsibility">Ramaswamy Chandramouli.</note>
+      <note>October 2017.</note>
+      <note>Title from PDF title page (viewed October 11, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008004883">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745899">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034453">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/884552">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2014000092">
+         <topic>Software-defined networking (Computer network technology)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1910200">
+         <topic>Software-defined networking (Computer network technology)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85114200">
+         <topic>Risk management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1098164">
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Application container</topic>
+      </subject>
+      <subject>
+         <topic>Cgroups</topic>
+      </subject>
+      <subject>
+         <topic>Container image</topic>
+      </subject>
+      <subject>
+         <topic>Container registry</topic>
+      </subject>
+      <subject>
+         <topic>Kernel loadable module</topic>
+      </subject>
+      <subject>
+         <topic>Linux kernel</topic>
+      </subject>
+      <subject>
+         <topic>Namespace</topic>
+      </subject>
+      <subject>
+         <topic>Trusted Platform Module</topic>
+      </subject>
+      <subject>
+         <topic>Configuration and vulnerability management</topic>
+      </subject>
+      <subject>
+         <topic>Identity and access management</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8176</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8176</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1006510896</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">171017</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20171017014744.0</recordChangeDate>
+         <recordIdentifier>991000192489708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

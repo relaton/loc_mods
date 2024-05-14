@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Recommendation for key management</title>
+         <subTitle>part 1 - general</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Barker, Elaine.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barker, Elaine.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Web archives.</genre>
+      <genre authority="fast">Web archives.</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This Recommendation provides cryptographic key-management guidance.
+                It consists of three parts. Part 1 provides general guidance and best practices for
+                the management of cryptographic keying material, including definitions of the
+                security services that may be provided when using cryptography and the algorithms
+                and key types that may be employed, specifications of the protection that each type
+                of key and other cryptographic information requires and methods for providing this
+                protection, discussions about the functions involved in key management, and
+                discussions about a variety of key-management issues to be addressed when using
+                cryptography. Part 2 provides guidance on policy and security planning requirements
+                for U.S. government agencies. Part 3 provides guidance when using the cryptographic
+                features of current systems.</abstract>
+      <note type="statement of responsibility">Elaine Barker.</note>
+      <note>May 2020.</note>
+      <note>Title from PDF title page (viewed May 12, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85009783">
+         <topic>Authentication</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/821630">
+         <topic>Authentication</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85131749">
+         <topic>Systems availability</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1141453">
+         <topic>Systems availability</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85006455">
+         <topic>Arbitration agreements, Commercial</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/812766">
+         <topic>Arbitration agreements, Commercial</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85030929">
+         <topic>Confidential communications</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/874701">
+         <topic>Confidential communications</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034453">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/884552">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007219">
+         <topic>Digital signatures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/893725">
+         <topic>Digital signatures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2011003251">
+         <topic>Key agreement protocols (Computer network protocols)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894267">
+         <topic>Key agreement protocols (Computer network protocols)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00004804">
+         <topic>Public key cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1082562">
+         <topic>Public key cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Authorization</topic>
+      </subject>
+      <subject>
+         <topic>Backup</topic>
+      </subject>
+      <subject>
+         <topic>Cryptographic key</topic>
+      </subject>
+      <subject>
+         <topic>Cryptographic module</topic>
+      </subject>
+      <subject>
+         <topic>Hash function</topic>
+      </subject>
+      <subject>
+         <topic>Key management</topic>
+      </subject>
+      <subject>
+         <topic>Key recovery</topic>
+      </subject>
+      <subject>
+         <topic>Keying material</topic>
+      </subject>
+      <subject>
+         <topic>Key transport</topic>
+      </subject>
+      <subject>
+         <topic>Private key</topic>
+      </subject>
+      <subject>
+         <topic>Secret key</topic>
+      </subject>
+      <subject>
+         <topic>Trust anchor</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-57pt1r5</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-57pt1r5</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163859022</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120947.0</recordChangeDate>
+         <recordIdentifier>991000263439708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

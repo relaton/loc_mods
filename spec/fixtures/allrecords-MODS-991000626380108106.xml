@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>ISCMA</title>
+         <subTitle>an Information Security Continuous Monitoring program assessment
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Dempsey, Kelley.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dempsey, Kelley.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pillitteri, Victoria.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Baer, Chad.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rudman, Ron.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Niemeyer, Robert.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Urban, Susan.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-03-31.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (80 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This publication describes an example methodology for assessing an
+                organization's Information Security Continuous Monitoring (ISCM) program. It was
+                developed directly from NIST guidance and is applicable to any organization, public
+                or private. It can be used as documented or as the starting point for a different
+                methodology. Included with the methodology is a reference implementation that is
+                directly usable for conducting an ISCM assessment.</abstract>
+      <note type="statement of responsibility">Kelley Dempsey; Victoria Pillitteri; Chad Baer; Ron Rudman; Robert
+                Niemeyer; Susan Urban.</note>
+      <note>March 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-03-26.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject>
+         <topic>Continuous monitoring</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8212</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8212</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228914</identifier>
+      <identifier type="oclc">on1427228914</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111502.0</recordChangeDate>
+         <recordIdentifier>991000626380108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>2019 NIST/ITL Cybersecurity Program annual report</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="(orcid)0000-0001-8289-0390">
+         <namePart>O'Reilly, Patrick D.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8289-0390</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8289-0390">
+         <namePart>O'Reilly, Patrick D.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8289-0390</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Rigopoulos, Kristina G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Feldman, Larry.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Witte, Gregory A.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-08-24.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (60 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">During Fiscal Year 2019 (FY 2019), from October 1, 2018 through
+                September 30, 2019, the NIST Information Technology Laboratory (ITL) Cybersecurity
+                and Privacy Program successfully responded to numerous challenges and opportunities
+                in security and privacy. This annual report highlights the FY 2019 research agenda
+                and activities for the ITL Cybersecurity and Privacy Program, including: the ongoing
+                participation and development of international standards; the enhancement of privacy
+                and security risk management models, including those for the protection of
+                controlled unclassified information (CUI), systems engineering and cyber resiliency,
+                supply chains, and mobile technologies; the continued advancement of cryptographic
+                technologies, including updates to Federal Information Processing Standard (FIPS)
+                Publication 140-3, Security Requirements for Cryptographic Modules, and preparation
+                for post-quantum cryptographic methods; and improved infrastructure protection in
+                areas such as zero trust architectures and advanced networking security. NIST
+                maintained a strong focus on supporting small and medium-sized businesses (SMBs),
+                including updates to the Small Business Cybersecurity Corner website to make
+                resources easier to find and use, and drawing on contributed cybersecurity resources
+                and feedback received from federal partners and the public.</abstract>
+      <note type="statement of responsibility">Patrick D. O'Reilly; Kristina G. Rigopoulos; Larry Feldman; Gregory
+                A. Witte</note>
+      <note>August 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology). Computer Security Division</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Federal Information Security Management Act of
+                2002</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>FISMA</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology). Information Access Division</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         </name>
+      </subject>
+      <subject authority="fast">
+         <name type="corporate">
+            <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Privacy</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Program highlights</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Sécurité informatique</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Vie privée</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Privacy</topic>
+      </subject>
+      <subject>
+         <topic>Annual report</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity program</topic>
+      </subject>
+      <subject>
+         <topic>Information security</topic>
+      </subject>
+      <subject>
+         <topic>Program accomplishments</topic>
+      </subject>
+      <subject>
+         <topic>Advanced Network Technologies Division (ANTD)</topic>
+      </subject>
+      <subject>
+         <topic>Applied Cybersecurity Division (ACD)</topic>
+      </subject>
+      <subject>
+         <topic>Software and Systems Division (SSD)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-211</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-211</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124497</identifier>
+      <identifier type="oclc">on1346124497</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111448.0</recordChangeDate>
+         <recordIdentifier>991000625737008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

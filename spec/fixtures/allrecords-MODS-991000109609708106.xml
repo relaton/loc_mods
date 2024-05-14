@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Trusted geolocation in the cloud</title>
+         <subTitle>proof of concept implementation</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bartock, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bartock, Michael.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006135981">
+         <namePart>Souppaya, Murugiah.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2006135981</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Yeluri, Raghuram.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shetty, Uttam.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81065038">
+         <namePart>Greene, James.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81065038</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Orrin, Steve.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Prafullchandra, Hemma.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McLeese, John.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no99042770">
+         <namePart>Mills, Jason.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no99042770</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Carayiannis, Daniel.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Williams, Tarik.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007017003">
+         <namePart>Kent, Karen (Karen Ann)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007017003</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2008015449">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008015449</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2015</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2015.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (chiefly color).</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Michael Bartock; Murugiah Souppaya; Raghuram Yeluri; Uttam Shetty;
+                James Greene; Steve Orrin; Hemma Prafullchandra; John McLeese; Jason Mills; Daniel
+                Carayiannis; Tarik Williams; Karen Scarfone.</note>
+      <note>December 2015.</note>
+      <note>Title from PDF title page (viewed December 31, 2015).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008004883">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745899">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2006005542">
+         <topic>Mobile geographic information systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1740880">
+         <topic>Mobile geographic information systems</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.7904</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>7904</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">933741915</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20160105013639.0</recordChangeDate>
+         <recordIdentifier>991000109609708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

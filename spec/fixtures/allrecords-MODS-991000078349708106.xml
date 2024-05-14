@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Risk management guide for information technology systems</title>
+         <subTitle>recommendations of the National Institute of Standards and Technology
+</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2003057780">
+         <namePart>Stoneburner, Gary.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003057780</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003057780">
+         <namePart>Stoneburner, Gary.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003057780</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003057765">
+         <namePart>Goguen, Alice.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003057765</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003057768">
+         <namePart>Feringa, Alexis.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003057768</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2002</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2002.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Risk Management is the process of identifying risk, assessing risk,
+                and taking steps to reduce risk to an acceptable level. Organizations use risk
+                assessment, the first step in the risk management methodology, to determine the
+                extent of the potential threat, vulnerabilities, and the risk associated with an
+                information technology (IT) system. The output of this process helps to identify
+                appropriate controls for reducing or eliminating risk during the risk mitigation
+                process, the second step of risk management, which involves prioritizing,
+                evaluating, and implementing the appropriate risk-reducing controls recommended from
+                the risk assessment process.This guide provides a foundation for the development of
+                an effective risk management program, containing both the definitions and the
+                practical guidance necessary for assessing and mitigating risks identified within IT
+                systems throughout their system development life cycle (SDLC). The ultimate goal is
+                to help organizations to better manage IT-related mission risks.Organizations may
+                choose to expand or abbreviate the comprehensive processes and steps suggested in
+                this guide and tailor them to their site environment in managing IT-related mission
+                risks. In addition, this guide provides information on the selection of
+                cost-effective security controls. These controls can be used to mitigate risk for
+                the better protection of mission-critical information and the IT systems that
+                process, store, and carry this information.The third step in the process is
+                continual evaluation and assessment. In most organizations, IT systems will
+                continually be expanded and updated, their components changed, and their software
+                applications replaced or updated with newer versions. In addition, personnel changes
+                will occur and security policies are likely to change over time. These changes mean
+                that new risks will surface and risks previously mitigated may again become a
+                concern. Thus, the risk management process is ongoing and evolving.</abstract>
+      <note type="statement of responsibility">Gary Stoneburner; Alice Goguen; Alexis Feringa.</note>
+      <note>2002.</note>
+      <note>Superseded by NIST Special Publication 800-30r1.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Cost-benefit analysis</topic>
+      </subject>
+      <subject>
+         <topic>Residual risk</topic>
+      </subject>
+      <subject>
+         <topic>Risk</topic>
+      </subject>
+      <subject>
+         <topic>Risk assessment</topic>
+      </subject>
+      <subject>
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Risk mitigation</topic>
+      </subject>
+      <subject>
+         <topic>Security controls</topic>
+      </subject>
+      <subject>
+         <topic>Threat</topic>
+      </subject>
+      <subject>
+         <topic>Vulnerability</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-30</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-30</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">51886845</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120947.0</recordChangeDate>
+         <recordIdentifier>991000078349708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

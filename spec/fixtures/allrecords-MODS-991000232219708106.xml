@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Cybersecurity framework manufacturing profile low impact level
+                example implementations guide</title>
+         <subTitle>volume 2 process-based manufacturing system use case</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022079917">
+         <namePart>Stouffer, Keith.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022079917</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022079917">
+         <namePart>Stouffer, Keith.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022079917</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Zimmerman, Timothy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tang, CheeYee.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cichonski, Jeffrey.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pease, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shah, Neeraj.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Downard, Wesley.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This guide provides general implementation guidance (Volume 1) and
+                example proof-of-concept solutions demonstrating how available open-source and
+                commercial off-the-shelf (COTS) products could be implemented in manufacturing
+                environments to satisfy the requirements in the Cybersecurity Framework (CSF)
+                Manufacturing Profile Low Impact Level. Example proof-ofconcept solutions with
+                measured network, device, and operational performance impacts for a process-based
+                manufacturing environment (Volume 2) and a discrete-based manufacturing environment
+                (Volume 3) are included in the guide. Manufacturers should make their own
+                determinations about the breadth of the proof-of-concept solutions they voluntarily
+                implement. Some important factors to consider include: company size, cybersecurity
+                expertise, risk tolerance, and the threat landscape. The CSF Manufacturing Profile
+                can be used as a roadmap for managing cybersecurity risk for manufacturers and is
+                aligned with manufacturing sector goals and industry best practices. The
+                Manufacturing Profile provides a voluntary, risk-based approach for managing
+                cybersecurity activities and cyber risk to manufacturing systems. The Manufacturing
+                Profile is meant to complement but not replace current cybersecurity standards and
+                industry guidelines that the manufacturer is embracing.</abstract>
+      <note type="statement of responsibility">Keith Stouffer; Timothy Zimmerman; CheeYee Tang; Jeffrey Cichonski;
+                Michael Pease; Neeraj Shah; Wesley Downard.</note>
+      <note>September 2019.</note>
+      <note>Title from PDF title page (viewed September 30, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh94001277">
+         <topic>Computer networks</topic>
+         <topic>Security measures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872341">
+         <topic>Computer networks</topic>
+         <topic>Security measures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85114200">
+         <topic>Risk management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1098164">
+         <topic>Risk management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98003168">
+         <topic>Supervisory control systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1139089">
+         <topic>Supervisory control systems</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity Framework (CSF)</topic>
+      </subject>
+      <subject>
+         <topic>Distributed control systems (DCS)</topic>
+      </subject>
+      <subject>
+         <topic>Industrial control systems (ICS)</topic>
+      </subject>
+      <subject>
+         <topic>Information security</topic>
+      </subject>
+      <subject>
+         <topic>Programmable logic controllers (PLC)</topic>
+      </subject>
+      <subject>
+         <topic>Security controls</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8183A-2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8183A-2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132805818</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20191223014818.0</recordChangeDate>
+         <recordIdentifier>991000232219708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Biometric specification for personal identity verification
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Grother, P. J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grother, P. J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Salamon, W.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2015202084">
+         <namePart>Candramauḷi, Ār.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2015202084</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2013</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2013.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Homeland Security Presidential Directive HSPD-12, Policy for a Common
+                Identification Standard for Federal Employees and Contractors [HSPD-12], called for
+                new standards to be adopted governing interoperable use of identity credentials to
+                allow physical and logical access to Federal government locations and systems. The
+                Personal Identity Verification (PIV) standard for Federal Employees and Contractors,
+                Federal Information Processing Standard Personal Identity Verification (PIV) of
+                Federal Employees and Contractors (FIPS 201), was developed to define procedures and
+                specifications for issuance and use of an interoperable identity credential. This
+                document, Special Publication 800-76 (SP 800-76), is a companion document to FIPS
+                201. It describes technical acquisition and formatting specifications for the PIV
+                system, including the PIV Card itself. It also establishes minimum accuracy
+                specifications for deployed biometric authentication processes. The approach is to
+                enumerate procedures and formats for collection and preparation of fingerprint, iris
+                and facial data, and to restrict values and practices included generically in
+                published biometric standards. The primary design objective behind these particular
+                specifications is to enable high performance and universal interoperability. The
+                introduction of iris and face specifications into the current edition adds
+                alternative modalities for biometric authentication and extends coverage to persons
+                for whom fingerprinting is problematic. The addition of on-card comparison offers an
+                alternative to PIN-mediated card activation as well as an additional authentication
+                method.</abstract>
+      <note type="statement of responsibility">P. J. Grother; W. Salamon; R. Chandramouli.</note>
+      <note>2013.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Biometrics</topic>
+      </subject>
+      <subject>
+         <topic>Credentials</topic>
+      </subject>
+      <subject>
+         <topic>Identity management</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-76-2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-76-2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312502872</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120945.0</recordChangeDate>
+         <recordIdentifier>991000077489708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

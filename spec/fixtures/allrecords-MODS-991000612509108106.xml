@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>A way of estimating the standard errors of Bayes factor and Weight of
+                Evidence</title>
+         <subTitle>a case study (theoretical framework)</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Wu, Jin Chu</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6340-2467">
+         <namePart>Wu, Jin Chu.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6340-2467</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0796-6871">
+         <namePart>Libert, John M.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0796-6871</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-03-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (18 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Weight of Evidence (WoE) is defined to be the logarithm of the
+                Bayes factor (BF) with base 10, which is generally with single point hypothesis
+                rather than diffuse hypothesis. They are used in applications such as forensic
+                science, etc. To statistically estimate the standard error (SE) and the 95%
+                confidence interval of BF and WoE, both parametric and nonparametric two-sample
+                bootstrap algorithms are employed, respectively. Then, three challenging issues
+                arise: 1. how to generate observed binomial variates; 2. how many variates are
+                needed; 3. how to implement bootstrap algorithms. The observed binomial variates can
+                be generated using either the stochastic function-call method (i.e., call rbinom in
+                R Package) or the deterministic partition method via the expected binomial densities
+                (i.e., call dbinom in R Package). To ensure the computational accuracies, the total
+                number of observed binomial variates is determined by the root-mean-square deviation
+                between the observed and expected binomial distributions, as well as the bootstrap
+                variability caused by sampling. Thereafter, the parametric two-sample bootstrap
+                algorithm is implemented on observed binomial variates generated using the
+                stochastic function-call method, whereas the nonparametric two-sample bootstrap
+                algorithm is carried out on observed binomial variates created using the
+                deterministic partition method. In this article, a case study is carried
+                out.</abstract>
+      <note type="statement of responsibility">Jin Chu Wu; John M. Libert.</note>
+      <note>March 2023.</note>
+      <note>Title from PDF title page (viewed September 20, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-03-24</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Binomial distribution</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Forensic sciences</topic>
+      </subject>
+      <subject>
+         <topic>Weight of evidence</topic>
+      </subject>
+      <subject>
+         <topic>Bayes factor</topic>
+      </subject>
+      <subject>
+         <topic>Standard error</topic>
+      </subject>
+      <subject>
+         <topic>Two-sample bootstrap</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2250</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2250</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253635</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111413.0</recordChangeDate>
+         <recordIdentifier>991000612509108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

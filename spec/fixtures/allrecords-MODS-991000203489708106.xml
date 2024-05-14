@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Final report on the collapse of World Trade Center Building
+                7</title>
+         <subTitle>federal building and fire safety investigation of the World Trade
+                Center disaster</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Shyam-Sunder, Sivaraj.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Shyam-Sunder, Sivaraj.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96095572">
+         <namePart>Gann, Richard G.,</namePart>
+         <namePart type="date">1944-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n96095572</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86864993">
+         <namePart>Grosshandler, William Lytle.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86864993</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Lew, Hai S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84003199">
+         <namePart>Bukowski, Richard.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84003199</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Sadek, Fahim H.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021137929">
+         <namePart>Gayle, Frank W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021137929</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85099473">
+         <namePart>Gross, John L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85099473</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002021681">
+         <namePart>McAllister, Therese.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr2002021681</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006027919">
+         <namePart>Averill, Jason D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2006027919</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82227148">
+         <namePart>Lawson, J. R.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82227148</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79041177">
+         <namePart>Nelson, H. E. (Harold E.),</namePart>
+         <namePart type="date">1929-2011</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79041177</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076607">
+         <namePart>Cauffman, Stephen A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003076607</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2008</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2008.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report describes how the fires that followed the impact of
+                debris from the collapse of WTC 1 (the north tower) led to the collapse of WTC 7; an
+                evaluation of the building evacuation and emergency response procedures; what
+                procedures and practices were used in the design, construction, operation, and
+                maintenance of the building; and areas in current building and fire codes,
+                standards, and practices that warrant revision. Also in this report is a summary of
+                how NIST reached its conclusions. NIST complemented in-house expertise with private
+                sector technical experts; accumulated copious documents, photographs, and videos of
+                the disaster; conducted first- person interviews of building occupants and emergency
+                responders; analyzed the evacuation and emergency response operations in and around
+                WTC 7; performed computer simulations of the behavior of WTC 7 on September 11,
+                2001; and combined the knowledge gained into a probable collapse sequence. The
+                report concludes with a list of 13 recommendations for action in the areas of
+                increased structural integrity, enhanced fire endurance of structures, new methods
+                for fire resistant design of structures, enhanced active fire protection, improved
+                emergency response, improved procedures and practices, and education and training.
+                One of these is new; the other 12 are reiterated from the investigation into the
+                collapse of the towers. Each of the 13 is relevant to WTC 7.</abstract>
+      <note type="statement of responsibility">Sivaraj Shyam-Sunder; Richard G. Gann; William Grosshandler; Hai S.
+                Lew; Richard W. Bukowski; Fahim H. Sadek; Frank W. Gayle; John L. Gross; Therese P.
+                McAllister; Jason D. Averill; J. Randall Lawson; Harold E. Nelson; Stephen A.
+                Cauffman.</note>
+      <note>November 2008.</note>
+      <note>Title from PDF title page (viewed December 17, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001000147">
+         <topic>September 11 Terrorist Attacks, 2001</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017728">
+         <topic>Building failures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840662">
+         <topic>Building failures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85123270">
+         <topic>Skyscrapers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1120291">
+         <topic>Skyscrapers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99011001">
+         <topic>Tall buildings</topic>
+         <topic>Fires and fire prevention</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1142317">
+         <topic>Tall buildings</topic>
+         <topic>Fires and fire prevention</topic>
+      </subject>
+      <subject>
+         <topic>Building failures--Investigation--New York (State)--New
+                York.</topic>
+      </subject>
+      <subject>
+         <topic>Skyscrapers--Fires and fire prevention--Standards.</topic>
+      </subject>
+      <subject>
+         <topic>Structural stability--Standards.</topic>
+      </subject>
+      <subject>
+         <topic>Buildings--Evacuation--Standards.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.MONO.1a</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST NCSTAR; National Construction Safety Team Act report
+</title>
+            <partNumber>1A</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312505498</identifier>
+      <identifier type="oclc">1084487407</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190205022340.0</recordChangeDate>
+         <recordIdentifier>991000203489708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

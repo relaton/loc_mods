@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Digital evidence preservation</title>
+         <subTitle>considerations for evidence handlers</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Guttman, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Guttman, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>White, Douglas R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Walraven, Tracy.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-09-08.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (22 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The preservation of digital evidence (DE) presents unique problems
+                beyond traditional evidence preservation. This document addresses considerations
+                related to the preservation of digital evidence. This document is part of a series
+                on evidence management and its primary audience is evidence management
+                professionals. The document discusses traditional sources of digital evidence
+                including physical storage media and digital objects and also addresses law
+                enforcement generated digital evidence. The document further discusses key
+                considerations related to digital evidence preservation and the difference from the
+                preservation of other evidence types. Related considerations, such as acquisition of
+                digital evidence are only addressed when there is overlap with
+                preservation.</abstract>
+      <note type="statement of responsibility">Barbara Guttman; Douglas R. White; Tracy Walraven.</note>
+      <note>September 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Electronic evidence</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Forensic sciences</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Digital forensic science</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Chain of custody (Evidence)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Evidence preservation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8387</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8387</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890455</identifier>
+      <identifier type="oclc">on1389890455</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111514.0</recordChangeDate>
+         <recordIdentifier>991000626257208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

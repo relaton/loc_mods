@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Measuring temperature in emission testing micro-chambers evaluation
+                of potential temperature measurement methods for ASTM WK40293</title>
+         <subTitle>Standard Test Method for Estimating Chemical Emissions from Spray
+                Polyurethane Foam (SPF) Insulation Using Micro-Scale Environmental Test Chambers
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Poppendieck, Dustin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Poppendieck, Dustin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Guillermo, Edwin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tripathi, Havishk.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016-10.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">ASTM subcommittee D22.05 on Indoor Air is working to finalize
+                WK40293: Standard Test Method for Estimating Chemical Emissions from Spray
+                Polyurethane Foam (SPF) Insulation Using Micro-Scale Environmental Test Chambers.
+                One issue in WK40293 is determining the best method to accurately measure the
+                temperature in the micro-chambers. Properly characterizing micro-chamber temperature
+                is vital to get comparable emission data. Three methods to determining micro-chamber
+                temperature with a thermocouple were investigated using two micro-chamber systems:
+                1) placing the thermocouple in the airspace of a micro-chamber, 2) taping the
+                thermocouple to the bottom of the air filled micro-chamber, 3) placing the
+                thermocouple in a micro-chamber filled 50 % to 75 % with water. The results show
+                that air measurements are dependent upon the depth of the thermocouple placement, as
+                both micro-chamber systems are stratified. Taping the thermocouple to the bottom of
+                the micro-chamber resulted in average values that were similar to a water filled
+                micro-chamber for one system but not the other. Data from both the air and tape
+                methods had 1 [degrees]C to 2 [degrees]C temperature cycles in one of the systems,
+                but not the other. The water method consistently resulted in temperature data with
+                the smallest standard deviation. As a result of this research the authors propose
+                new prescriptive and performance metric text for temperature measurement
+                requirements in ASTM WK40293.</abstract>
+      <note type="statement of responsibility">Dustin Poppendieck; Edwin Guillermo; Havishk Tripathi.</note>
+      <note>October 2016.</note>
+      <note>Title from PDF title page (viewed October 31, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Buildings</topic>
+         <topic>Design and construction</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048572">
+         <topic>Fires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925697">
+         <topic>Fires</topic>
+      </subject>
+      <subject>
+         <topic>Indoor air quality</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8155</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8155</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">980304649</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170330</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111141.0</recordChangeDate>
+         <recordIdentifier>991000189329708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

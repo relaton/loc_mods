@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NBS/RIA robotics research workshop</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022002898">
+         <namePart>Evans, John M.,</namePart>
+         <namePart type="termsOfAddress">Jr.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022002898</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002898">
+         <namePart>Evans, John M.,</namePart>
+         <namePart type="termsOfAddress">Jr.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022002898</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81084213">
+         <namePart>Albus, James Sacra.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81084213</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n77013106">
+         <namePart>Barbera, Anthony J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n77013106</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1978</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1978.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">John M. Evans Jr.; James S. Albus; Anthony J. Barbera.</note>
+      <note>1978.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.SP.500-29</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS special publication; NBS special pub; NBS SP</title>
+            <partNumber>500-29</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927169634</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151030</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102155642.0</recordChangeDate>
+         <recordIdentifier>991000073399708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

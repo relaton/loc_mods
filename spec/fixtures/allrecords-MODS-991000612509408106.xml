@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>An investigation of applications of neural style transfer to forensic
+                footwear comparison</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Stock, Gregory J.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-02-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Neural Style Transfer (NST) is an application of neural networks that
+                allows one to create an image that has the content of one image and the style of
+                another image. For example, NST can be used to create an image of a cat in the style
+                of Van Gogh’s \emph{Starry Night}. This study asks two distinct questions. Can we
+                use NST to manufacture pseudo crime scene images of shoe impressions by transferring
+                the style of a crime scene image to a clean impression of a shoe? The idea is that
+                the known, clean image will be transformed to take on the characteristics of a crime
+                scene image, thereby providing a mechanism for researchers to generate pseudo crime
+                scene images that can be used, for example, in training impression recognition
+                algorithms. This is useful because there is a shortage of ground truth known crime
+                scene-like data. We report that our NST procedure does not produce extremely
+                convincing pseudo impressions but the results are nonetheless promising. The second
+                question asks if we can improve crime scene/suspect shoe impression comparison by
+                using NST as a preprocessing, sharpening step. The idea is that the “style” of
+                well-defined edges of the clean impressions will be transferred to the crime scene
+                image. We have a lineup of clean shoe impressions containing the impression of the
+                shoe that created the crime scene image and several other impressions of shoes of
+                the same make, model, and size. We compare the crime scene image to each of the
+                shoes in the lineup using an algorithm that computes similarity scores. The matching
+                shoe should give the highest score with high probability. Next, we combine the crime
+                scene image with an aggregate image of all the clean shoe impressions in the lineup
+                using NST. Then we repeat the comparison process with the NST image instead of the
+                original crime scene image. We observe that, in half of the cases we studied, when
+                we compare the NST image to each of the shoes in the lineup, we can more readily
+                distinguish between the matching shoe and the non-matching shoes than when we do the
+                comparisons with the original crime scene image.</abstract>
+      <note type="statement of responsibility">Gregory J. Stock.</note>
+      <note>February 2023.</note>
+      <note>Title from PDF title page (viewed September 20, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Neural networks (Computer science)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Footwear</topic>
+      </subject>
+      <subject>
+         <topic>Convolutional neural network</topic>
+      </subject>
+      <subject>
+         <topic>Footwear comparison</topic>
+      </subject>
+      <subject>
+         <topic>Forensic analysis</topic>
+      </subject>
+      <subject>
+         <topic>Neural style transfer</topic>
+      </subject>
+      <subject>
+         <topic>Stock, Gregory J.</topic>
+      </subject>
+      <subject>
+         <topic>Similarity metrics.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.23-040</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR</title>
+            <partNumber>23-040</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract
+                report</title>
+            <partNumber>23-040</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253625</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111357.0</recordChangeDate>
+         <recordIdentifier>991000612509408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

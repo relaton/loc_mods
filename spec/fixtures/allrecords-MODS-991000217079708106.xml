@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Selected laboratory and measurement practices and procedures to
+                support basic mass calibrations</title>
+         <subTitle>2019 Edition</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n91104296">
+         <namePart>Harris, Georgia L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n91104296</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91104296">
+         <namePart>Harris, Georgia L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n91104296</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2019028800">
+         <namePart>Physical Measurement Laboratory (National Institute of Standards and
+                Technology (U.S.))</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019028800</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This publication contains good laboratory practices, good measurement
+                practices, and standard operating procedures to support the Basic Mass CD-ROM (SP
+                1001, SP 1001-S) and the Office of Weights and Measures Mass Metrology Seminar. It
+                contains previously published materials from NIST Handbook 145 (1986) and the prior
+                editions of NISTIR 6969 (2003, 2012, 2014, 2018).</abstract>
+      <note type="statement of responsibility">Georgia L. Harris.</note>
+      <note>May 2019.</note>
+      <note>Title from PDF title page (viewed May 7, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010006995">
+         <topic>Standards of mass</topic>
+         <topic>Calibration</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1131486">
+         <topic>Standards of mass</topic>
+         <topic>Calibration</topic>
+      </subject>
+      <subject>
+         <topic>Laboratory calibration</topic>
+      </subject>
+      <subject>
+         <topic>Metrological traceability</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.6969-2019</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>6969-2019</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1104328941</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190612</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190612040034.0</recordChangeDate>
+         <recordIdentifier>991000217079708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Measurement of the flow resistance of vegetation</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020055872">
+         <namePart>Falkenstein-Smith, Ryan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020055872</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020055872">
+         <namePart>Falkenstein-Smith, Ryan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020055872</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>McGrattan, Kevin.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020055891">
+         <namePart>Toman, Blaza.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020055891</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020055964">
+         <namePart>Fernandez, Marco (Marco G.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020055964</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report documents the measurement of the wind resistance of
+                different types of vegetation. The measurements are made in a wind tunnel with a 2.0
+                m test section and 0.5 m by 0.5 m cross- section. Samples of vegetation have been
+                cut into cubical volumes that span the cross-section of the tunnel. The wind
+                resistance is inferred via measurement of the pressure drop across the sample at
+                wind speeds ranging from 2 m/s to 8 m/s. The results are compared to empirical
+                correlations quantifying the wind resistance of regularly spaced vertical tubes of
+                comparable geometric characteristics.</abstract>
+      <note type="statement of responsibility">Ryan Falkenstein-Smith; Kevin McGrattan; Blaza Toman; Marco
+                Fernandez.</note>
+      <note>March 2019.</note>
+      <note>Title from PDF title page (viewed March 28, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh94007666">
+         <topic>Forest canopies</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/932063">
+         <topic>Forest canopies</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007008292">
+         <topic>Wind tunnel testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1744047">
+         <topic>Wind tunnel testing</topic>
+      </subject>
+      <subject>
+         <topic>Drag coefficient</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2039</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2039</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312493651</identifier>
+      <identifier type="oclc">1097556912</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190417</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190417041933.0</recordChangeDate>
+         <recordIdentifier>991000216729708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

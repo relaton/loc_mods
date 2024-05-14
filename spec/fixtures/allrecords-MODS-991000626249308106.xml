@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Approaches for federal agencies to use the Cybersecurity Framework
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Barrett, Matt.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barrett, Matt.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Marron, Jeff.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pillitteri, Victoria Yan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boyens, Jon.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Quinn, Stephen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Witte, Greg.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Feldman, Larry.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-08-17.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (33 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The document highlights examples for implementing the Framework for
+                Improving Critical Infrastructure Cybersecurity (known as the Cybersecurity
+                Framework) in a manner that complements the use of other NIST security and privacy
+                risk management standards, guidelines, and practices. These examples include support
+                for an Enterprise Risk Management (ERM) approach in alignment with OMB and FISMA
+                requirements that agency heads manage risk commensurate with the magnitude of harm
+                that would result from unauthorized access, use, disclosure, disruption,
+                modification, or destruction of a federal information system or federal information.
+                The use of the Cybersecurity Framework's components enable discussion about the
+                various types of risk that might occur within federal organizations and promote
+                conversations about how to determine the likelihood and potential consequences of
+                risk events. These activities can then be combined with those described in NIST
+                Special Publication (SP) 800-37, Revision 2, Risk Management Framework for
+                Information Systems and Organizations; SP 800-39, Managing Information Security
+                Risk; and other guidelines to form a comprehensive risk-based approach for security
+                and privacy. This risk-based approach will assist agencies in determining the risks
+                that are relevant to its mission throughout the operational lifecycle and apply an
+                appropriate type and degree of resources to treat those risks to an acceptable
+                level. Examples in this publication will demonstrate the use of the Cybersecurity
+                Framework, the NIST Risk Management Framework (RMF), and other models to evaluate
+                and report agency goals and progress and to inform tailoring activities for managing
+                cybersecurity risk appropriately. Use of a comprehensive cybersecurity risk-based
+                approach, as demonstrated through these examples, supports agencies' activities to
+                meet their concurrent obligations to comply with the requirements of FISMA and
+                Executive Order (EO) 13800.</abstract>
+      <note type="statement of responsibility">Matt Marrett; Jeff Marron; Victoria Yan Pillitteri; Jon Boyens;
+                Stephen Quinn; Greg Witte; Larry Feldman.</note>
+      <note>August 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-07-19</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Federal Information Security Management Act of
+                2002</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Cybersecurity</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8170-upd</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.IR.8170" displayLabel="10.6028/NIST.IR.8170"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8170-upd</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890072</identifier>
+      <identifier type="oclc">on1389890072</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111503.0</recordChangeDate>
+         <recordIdentifier>991000626249308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

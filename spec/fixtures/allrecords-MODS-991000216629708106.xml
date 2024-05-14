@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Polycyclic aromatic hydrocarbons (PAHs) in marine mammal
+                blubber</title>
+         <subTitle>results from an interlaboratory study</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Huncik, Kevin M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Huncik, Kevin M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kucklick, John.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8055-2432">
+         <namePart>Ragland, Jared M.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8055-2432</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">To support NOAA's Marine Mammal Health and Stranding program, NIST
+                Charleston was requested to investigate the feasibility of measuring polycyclic
+                aromatic hydrocarbons (PAHs) in marine mammal blubber. Marine mammal blubber can
+                possess high (mg/kg) concentrations of persistent organic pollutants that may
+                interfere with measuring PAHs. The major goals for this study are (1) to determine
+                if laboratories can differentiate PAHs from the persistent organic pollutant
+                (POP)-dominated background typically seen in blubber samples and (2) to determine if
+                POPs in blubber can result in false-positive detections of PAHs such as those
+                arising from laboratory contamination. Five samples were distributed; PAH amended
+                and unamended extracts from high and low POP marine mammal blubber, respectively,
+                and a solution amended with individual PAH compounds. Results from this study
+                indicate that PAHs can be measured in marine mammal blubber and differentiated from
+                POPs co-occurring in the sample. Laboratories did not report PAHs in high POP,
+                non-PAH amended blubber extracts indicating that for this study there were few
+                (&lt;10 total) false positive PAH detections.</abstract>
+      <note type="statement of responsibility">Kevin M. Huncik; John Kucklick; Jared M. Ragland.</note>
+      <note>March 2019.</note>
+      <note>Title from PDF title page (viewed March 19, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85104606">
+         <topic>Polycyclic aromatic hydrocarbons</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1070383">
+         <topic>Polycyclic aromatic hydrocarbons</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85081213">
+         <topic>Marine mammals</topic>
+         <topic>Anatomy</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1009692">
+         <topic>Marine mammals</topic>
+         <topic>Anatomy</topic>
+      </subject>
+      <subject>
+         <topic>Environmental metrology</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8233</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8233</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1097556906</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190417</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190417041851.0</recordChangeDate>
+         <recordIdentifier>991000216629708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>costs and losses of wildfires</title>
+         <subTitle>a literature survey</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Thomas, Douglas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Thomas, Douglas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butry, David.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96024300">
+         <namePart>Gilbert, Stanley.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n96024300</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84072142">
+         <namePart>Webb, David.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n84072142</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Fung, Juan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report enumerates all possible costs of wildfire management and
+                wildfire-related losses. It, further, compiles estimates or proposes methods for
+                estimating the costs and losses identified. These estimates can be used for C+NVC
+                modeling, and can also be used to produce an estimate of the economic burden of
+                wildfire for the United States. The economic burden represents the impact wildfire
+                has on the U.S. economy. Tracking the economic burden of wildfire could be used to
+                assess return-on-investment into wildfire interventions. The economic burden is
+                decomposed into: 1. intervention costs; 2. prevention/preparedness, mitigation,
+                suppression, and cross-cutting; 2. and into direct and indirect wildfire related
+                (net) losses. The annualized economic burden from wildfire is estimated to be
+                between $71.1 billion to $347.8 billion ($2016 US). Annualized costs are estimated
+                to range from $7 .6 billion to $62.8 billion.</abstract>
+      <note type="statement of responsibility">Douglas Thomas; David Butry; Stanley Gilbert; David Webb; Juan
+                Fung.</note>
+      <note>November 2017.</note>
+      <note>Title from PDF title page (viewed November 2, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048572">
+         <topic>Fires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925697">
+         <topic>Fires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85146723">
+         <topic>Wildfires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1175216">
+         <topic>Wildfires</topic>
+      </subject>
+      <subject>
+         <topic>Wildlands</topic>
+      </subject>
+      <subject>
+         <topic>Fire costs</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1215</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1215</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1014184739</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">171207</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161620.0</recordChangeDate>
+         <recordIdentifier>991000192569708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Ongoing Face Recognition Vendor Test (FRVT) part 6A</title>
+         <subTitle>face recognition accuracy with masks using pre-COVID-19 algorithms
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Ngan, Mei.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ngan, Mei.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grother, Patrick.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hanaoka, Kayee</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-07-24.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (58 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This is the first of a series of reports on the performance of face
+                recognition algorithms on faces occluded by masks, run under the Ongoing Face
+                Recognition Vendor Test (FRVT) executed by the National Institute of Standards and
+                Technology (NIST). This report documents accuracy of algorithms to recognize persons
+                wearing face masks. The algorithms tested were one-to-one algorithms submitted to
+                the FRVT 1:1 Verification track.</abstract>
+      <note type="statement of responsibility">Mei Ngan; Patrick Grother; Kayee Hanaoka.</note>
+      <note>July 2020.</note>
+      <note>Title from PDF title page (viewed August 11, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Human face recognition (Computer science)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Personal protective equipment</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Reconnaissance faciale (Informatique)</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Vêtements de protection</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Identification biométrique</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>protective wear</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Human face recognition (Computer science)</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Personal protective equipment</topic>
+      </subject>
+      <subject>
+         <topic>Face masks</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8311</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8311</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124447</identifier>
+      <identifier type="oclc">on1346124447</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111440.0</recordChangeDate>
+         <recordIdentifier>991000625741608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

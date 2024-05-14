@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Smart cities and communities</title>
+         <subTitle>a key performance indicators framework</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Serrano, Martin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Serrano, Martin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Griffor, Edward.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wollman, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dunaway, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Burns, Martin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rhee, Sokwoo.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Greer, Christopher.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-06-14.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (60 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This publication presents research findings and scientific work that
+                advance the development and progression of smart city and community measurement
+                methodology. The term 'smart,' as used in the phrase 'smart cities,' is defined here
+                as the efficient use of digital technologies to provide prioritized services and
+                benefits to meet community goals. Without reliable measurement methods for 'smart,'
+                there is a gap in the ability to answer questions such as 'how smart is my smart
+                city plan,' or 'how can my community strategy be made smarter?' This report
+                addresses this gap by introducing a measurement framework for assessing the direct
+                and indirect benefits of smart city technologies. The Holistic KPI (H-KPI) Framework
+                builds on conventional Key Performance Indicators (KPI) methods and accounts for
+                unique characteristics such as varying districts and neighborhoods, differences in
+                population and economic scale, the reuse of previously deployed technologies, and
+                other factors relevant to a city or community. The Framework provides the basis for
+                developing measuring methods and tools that allow for integration, adaptability, and
+                extensibility at three interacting levels of analysis i.e. technologies,
+                infrastructure services, and community benefits. The H-KPI method provides a
+                structured representation of smart city/community information flows that supports
+                system visualization, serves as the basis for quantitative metrics for measuring
+                'smart,' and enables computational methods for systems design, analysis, operations,
+                and assurance. The five core metrics of the method are: alignment of KPIs with
+                community priorities across districts and neighborhoods; investment alignment with
+                community priorities; investment efficiency; information flow density; and quality
+                of infrastructure services and community benefits. Applications of the H-KPI
+                approach include strategic planning, systems design and assurance, and operations
+                management.</abstract>
+      <note type="statement of responsibility">Martin Serrano; Edward Griffor; David Wollman; Michael Dunaway;
+                Martin Burns; Sokwoo Rhee; Christopher Greer.</note>
+      <note>June 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-02-23</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Smart cities</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Information technology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Cooperating objects (Computer systems)</topic>
+      </subject>
+      <subject>
+         <topic>Data</topic>
+      </subject>
+      <subject>
+         <topic>Data modeling</topic>
+      </subject>
+      <subject>
+         <topic>Holistic key performance indicators (H-KPIs)</topic>
+      </subject>
+      <subject>
+         <topic>Key performance indicators (KPIs)</topic>
+      </subject>
+      <subject>
+         <topic>Smart infrastructure</topic>
+      </subject>
+      <subject>
+         <topic>Advanced communications</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1900-206-upd1</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.SP.1900-206" displayLabel="10.6028/NIST.SP.1900-206"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1900-206-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890433</identifier>
+      <identifier type="oclc">on1389890433</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111425.0</recordChangeDate>
+         <recordIdentifier>991000625718108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

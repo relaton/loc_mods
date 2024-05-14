@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>An equation of state for the thermodynamic properties of helium
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Harvey, Allan H.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0073-2332">
+         <namePart>Harvey, Allan H.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0073-2332</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0974-0203">
+         <namePart>Lemmon, Eric W.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0974-0203</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ortiz Vega, Diego O.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hall, Kenneth R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Holste, James C.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-08-10.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (24 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report documents the equation of state for fluid helium
+                implemented in Version 10 of NIST’s REFPROP Standard Reference Database. The
+                equation of state is expressed as the molar Helmholtz energy as a function of
+                temperature and density, and is valid for the normal fluid (helium I) up to 1500 K
+                and 2000 MPa. Limited comparisons with experimental data and with virial
+                coefficients calculated by ab initio methods are provided.</abstract>
+      <note type="statement of responsibility">Diego Ortiz Vega; Kenneth Hall; James Holste; Allan H. Harvey; Eric
+                W. Lemmon.</note>
+      <note>August 2023.</note>
+      <note>Title from PDF title page (viewed November 06, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-07-07</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Equations of state</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Helium</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Thermodynamics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Virial coefficients</topic>
+      </subject>
+      <subject>
+         <topic>Thermodynamic properties</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8474</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8474</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8474</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210886</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111407.0</recordChangeDate>
+         <recordIdentifier>991000614909808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Digital identity guidelines: enrollment and identity proofing
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020085231">
+         <namePart>Grassi, Paul A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085231</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085231">
+         <namePart>Grassi, Paul A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085231</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085063">
+         <namePart>Fenton, James L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085063</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085243">
+         <namePart>Lefkovitz, Naomi B.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085243</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085096">
+         <namePart>Danker, Jamie M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085096</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2012016196">
+         <namePart>Choong, Yee-Yin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2012016196</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085049">
+         <namePart>Greene, Kristen K.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085049</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085028">
+         <namePart>Theofanos, Mary F.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085028</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">These guidelines provide technical requirements for federal agencies
+                implementing digital identity services and are not intended to constrain the
+                development or use of standards outside of this purpose. This guideline focuses on
+                the enrollment and verification of an identity for use in digital authentication.
+                Central to this is a process known as identity proofing in which an applicant
+                provides evidence to a credential service provider (CSP) reliably identifying
+                themselves, thereby allowing the CSP to assert that identification at a useful
+                identity assurance level. This document defines technical requirements for each of
+                three identity assurance levels. This publication supersedes corresponding sections
+                of NIST Special Publication (SP) 800-63-2.</abstract>
+      <note type="statement of responsibility">Paul A. Grassi; James L. Fenton; Naomi B. Lefkovitz; Jamie M. Danker;
+                Yee-Yin Choong; Kristen K. Greene; Mary F. Theofanos.</note>
+      <note>June 2017.</note>
+      <note>Title from PDF title page (viewed June 20, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85009783">
+         <topic>Authentication</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/821630">
+         <topic>Authentication</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029555">
+         <topic>Computers</topic>
+         <topic>Access control</topic>
+         <topic>Passwords</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872785">
+         <topic>Computers</topic>
+         <topic>Access control</topic>
+         <topic>Passwords</topic>
+      </subject>
+      <subject>
+         <topic>Digital credentials</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-63a</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-63a</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312507925</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120948.0</recordChangeDate>
+         <recordIdentifier>991000191209708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Implementation of DevSecOps for a microservices-based application
+                with service mesh</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-03-08.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (45 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Cloud-native applications have evolved into a standardized
+                architecture consisting of multiple loosely coupled components called microservices
+                (often typically implemented as containers) that are supported by an infrastructure
+                for providing application services, such as service mesh. Both of these components
+                are usually hosted on a container orchestration and resource management platform. In
+                this architecture, the entire set of source code involved in the application
+                environment can be divided into five code types: 1) application code (which embodies
+                the application logic), 2) application services code (for services such as session
+                establishment, network connection, etc.), 3) infrastructure as code (for
+                provisioning and configuring computing, networking, and storage resources), 4)
+                policy as code (for defining runtime policies such as zero trust expressed as a
+                declarative code), 5) and observability as code (for the continuous monitoring of an
+                application runtime state). Due to security, business competitiveness, and the
+                inherent structure of loosely coupled application components, this class of
+                applications needs a different development, deployment, and runtime paradigm.
+                DevSecOps (consisting of acronyms for Development, Security, and Operations,
+                respectively) has been found to be a facilitating paradigm for these applications
+                with primitives such as continuous integration, continuous delivery, and continuous
+                deployment (CI/CD) pipelines. These pipelines are workflows for taking the developer
+                s source code through various stages, such as building, testing, packaging,
+                deployment, and operations supported by automated tools with feedback mechanisms.
+                The objective of this document is to provide guidance for the implementation of
+                DevSecOps primitives for cloud-native applications with the architecture and code
+                types described above. The benefits of this approach for high security assurance and
+                for enabling continuous authority to operate (C-ATO) are also discussed.</abstract>
+      <note type="statement of responsibility">Ramaswamy Chandramouli.</note>
+      <note>March 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-03-04</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject>
+         <topic>Container orchestration and resource management platform</topic>
+      </subject>
+      <subject>
+         <topic>DevSecOps</topic>
+      </subject>
+      <subject>
+         <topic>CI/CD pipelines</topic>
+      </subject>
+      <subject>
+         <topic>Infrastructure as code</topic>
+      </subject>
+      <subject>
+         <topic>Policy as code</topic>
+      </subject>
+      <subject>
+         <topic>Observability as code</topic>
+      </subject>
+      <subject>
+         <topic>GitOps</topic>
+      </subject>
+      <subject>
+         <topic>Workflow models</topic>
+      </subject>
+      <subject>
+         <topic>Static AST</topic>
+      </subject>
+      <subject>
+         <topic>Dynamic AST</topic>
+      </subject>
+      <subject>
+         <topic>Interactive AST</topic>
+      </subject>
+      <subject>
+         <topic>SCA</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-204C</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-204C</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890151</identifier>
+      <identifier type="oclc">on1389890151</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111418.0</recordChangeDate>
+         <recordIdentifier>991000625710508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

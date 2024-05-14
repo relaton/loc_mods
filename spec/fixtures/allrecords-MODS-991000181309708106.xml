@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Temperature-dependent material modeling for structural steels
+</title>
+         <subTitle>formulation and application</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021139146">
+         <namePart>Seif, Mina.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139146</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139146">
+         <namePart>Seif, Mina.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139146</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Main, Joseph.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Weigand, Jonathan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003083235">
+         <namePart>Sadek, Fahim.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003083235</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139159">
+         <namePart>Choe, Lisa.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139159</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2001072344">
+         <namePart>Zhang, Chao.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2001072344</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79112144">
+         <namePart>Gross, John.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79112144</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Luecke, William.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139160">
+         <namePart>McColskey, David.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139160</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report presents the formulation and application of a newly
+                developed temperature-dependent material model for structural steels. First it
+                presents a model for computing the stress-strain behavior of structural steel for
+                conditions appropriate to fire. The model accounts for the change in yield strength
+                with temperature, the change in the amount of post-yield strain hardening with both
+                temperature and room-temperature yield strength, and the change in strength with
+                increasing strain rate. Then, this NIST stress-strain model is used for predicting
+                flexural buckling of steel columns subjected to elevated temperature. The main focus
+                of this part of the study is to evaluate the applicability of the NIST model for
+                predicting the behavior of steel gravity columns at elevated temperatures using the
+                finite-element method. Besides the stress-strain behavior, another key issue in
+                evaluating the response of structural systems to fire effects is the modeling of
+                fracture, which is required to capture failure modes such as tear out in connection
+                plates and bolt shear. Fracture can be simulated in explicit finite element analysis
+                using element erosion, in which elements are removed from the analysis when
+                specified failure criteria are satisfied. A finite element material modeling
+                methodology is presented for structural steels and bolts at elevated temperatures
+                that incorporates erosion-based modeling of fracture. The failure criterion was
+                calibrated against high- temperature experimental data on elongation of tensile
+                coupons at fracture, and its dependence on temperature and mesh size was
+                investigated. Finally, these temperature-dependent material models for structural
+                steel and bolts that incorporate erosion-based modeling of fracture were implemented
+                to study the performance of steel moment frame assemblies at elevated
+                temperatures.</abstract>
+      <note type="statement of responsibility">Mina Seif; Joseph Main; Jonathan Weigand; Fahim Sadek; Lisa Choe;
+                Chao Zhang; John Gross; William Luecke; David McColskey.</note>
+      <note>Title from PDF title page (viewed April 30, 2016).</note>
+      <note>April 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85127806">
+         <topic>Steel, Structural</topic>
+         <topic>Testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1132830">
+         <topic>Steel, Structural</topic>
+         <topic>Testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85060752">
+         <topic>High temperatures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/956494">
+         <topic>High temperatures</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1907</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1907</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">958885835</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160921</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20160926090653.0</recordChangeDate>
+         <recordIdentifier>991000181309708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

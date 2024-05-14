@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>PSCR impact assessment</title>
+         <subTitle>2016-2022 executive summary</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bochert, Monika.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bochert, Monika.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Leh, Marc.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">f00</placeTerm>
+         </place>
+         <dateIssued encoding="marc">mdu</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Boulder, CO :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-02-14.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (16 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The purpose of this executive summary is to provide key stakeholders
+                with relevant information about how PSCR spent Public Safety Trust Funds and the
+                impacts of that funding. Furthermore, this report seeks to demonstrate the value and
+                positive outcomes of a one-time injection of funds into a topic area and the extent
+                to which this model can be repeated in other areas of significant impact, such as
+                semiconductor supply or climate change. PSCR extensively tracked its impacts since
+                2016, aligning them across five leading indicators: research capacity, disruptive
+                approaches and technology, standards, products, and public safety methods.
+                Furthermore, data from extramural award recipients, prize challenge competitors, and
+                accelerator program participants have been included to provide a more holistic view
+                of programmatic impact. However, only preliminary data is included in this executive
+                summary and a more complete and comprehensive report with additional analysis is
+                scheduled to be published in spring 2023.</abstract>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <note type="statement of responsibility">Monika Bochert; Marc Leh.</note>
+      <note>February 2023.</note>
+      <note>Title from PDF title page (viewed June 06, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-02-14</note>
+      <note type="funding">Contract number GS10F0283W</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Public safety</topic>
+      </subject>
+      <subject>
+         <topic>Advanced communications</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.23-038</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract
+                report</title>
+            <partNumber>23-038</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859659</identifier>
+      <identifier type="oclc">on1405859659</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111404.0</recordChangeDate>
+         <recordIdentifier>991000614607208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

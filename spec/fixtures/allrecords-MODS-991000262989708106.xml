@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Face Recognition Vendor Test (FRVT) part 4</title>
+         <subTitle>MORPH - performance of automated face morph detection</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020151015">
+         <namePart>Ngan, Mei.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020151015</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020151015">
+         <namePart>Ngan, Mei.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020151015</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005043592">
+         <namePart>Grother, Patrick J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2005043592</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Hanaoka, Kayee.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85195294">
+         <namePart>Guo, Shaozong,</namePart>
+         <namePart type="date">1951-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85195294</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The FRVT MORPH test provides ongoing independent testing of prototype
+                face morphing attack detection (MAD) technologies. The evaluation is designed to
+                obtain commonly measured assessment of morph detection capability to inform
+                developers and current and prospective end-users. FRVT MORPH is open for ongoing
+                participation worldwide, and there is no charge to participate. The test leverages a
+                number of datasets created using different morphing methods with goals to evaluate
+                algorithm performance over a large spectrum of morphing techniques. Testing was
+                conducted using a tiered approach, where algorithms were evaluated on low quality
+                morphs created with readily accessible tools available to non-experts, morphs
+                generated using automated morphing methods based on academic research, and high
+                quality morphs created using commercial- grade tools. We'd like to get an assessment
+                on the existence and extent of morph detection capabilities, and if there is
+                indication of high accuracy, much larger datasets can be curated to support
+                large-scale evaluation of the technology.</abstract>
+      <note type="statement of responsibility">Mei Ngan; Patrick Grother; Kayee Hanaoka; Jason Kuo.</note>
+      <note>March 2020.</note>
+      <note>Title from PDF title page (viewed March 18, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh97003901">
+         <topic>Human face recognition (Computer science)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/963060">
+         <topic>Human face recognition (Computer science)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001010964">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject>
+         <topic>Face morphing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8292</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8292</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858556</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200707053428.0</recordChangeDate>
+         <recordIdentifier>991000262989708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

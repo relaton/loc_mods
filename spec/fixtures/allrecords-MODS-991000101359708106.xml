@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Thermodynamic and transport properties of ethylene and propylene
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Vashchenko, D. M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Vashchenko, D. M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Voinov, Yu. F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Voityuk, B. V.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dregulyas, E. K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kolomiets, A. Ya.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n78024999">
+         <namePart>Labinov, S. D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n78024999</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2014031227">
+         <namePart>Morozov, A. A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2014031227</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Neduzhii, I. A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Provotar, V. P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Soldatenko, Yu. A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Storozhenko, E. J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Khamara, Yu. I.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1972</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1972.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">D. M. Vashchenko; Yu F. Voinov; B. V. Voityuk; E. K. Dregulyas; A. Ya
+                Kolomiets; S. D. Labinov; A. A. Morozov; I. A. Neduzhii; V. P. Provotar; Yu. A.
+                Soldatenko; E. J. Storozhenko; Yu. I. Khamara.</note>
+      <note>1972.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.IR.75-763</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBSIR; NBS IR; NBS interagency report; NBS internal report
+</title>
+            <partNumber>75-763</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">929881970</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151118</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20151118015325.0</recordChangeDate>
+         <recordIdentifier>991000101359708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

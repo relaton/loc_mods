@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>review of social media use during disaster response and recovery
+                phases</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Young, Camila E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Young, Camila E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
+         <namePart>Kuligowski, Erica D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011141182</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Pradhan, Aashna.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Under the National Construction Safety Team Act, the National
+                Institute of Standards and Technology (NIST) conducted an investigation of the May
+                22, 2011 tornado in Joplin, Missouri. The final report concluded with a list of
+                sixteen recommendations, including but not limited to recommendations for action in
+                improved and standardized emergency communications. Specifically, NIST recommended
+                "the development of national codes and standards and uniform guidance for clear,
+                consistent, recognizable, and accurate emergency communications, encompassing alerts
+                and warnings, to enable safe, effective, and timely responses." (Kuligowski et al.
+                2014, p.367) This is the third study in the NIST effort to develop evidence-based
+                guidance on the creation and provision of public alerts. First, an overview of
+                current popular social media platforms and the capabilities that they feature, as
+                well as their potential application for emergency management is presented. Then, the
+                findings of research related to social media use for disaster response are outlined
+                in three themes. These themes are about the use of these tools for formal emergency
+                management, innovative social media applications for disaster response, and how the
+                general public uses these platforms, respectively. In turn, the findings of the
+                research about social media use for disaster recovery are presented through three
+                themes as well. These themes focus on social media during recovery for mental
+                health, recovery assessment, and relationship development, respectively. The
+                research findings are followed by the limitations and practical considerations for
+                emergency managers. This report ends with the future research section.</abstract>
+      <note type="statement of responsibility">Camila E. Young; Erica D. Kuligowski; Aashna Pradhan.</note>
+      <note>January 2020.</note>
+      <note>Title from PDF title page (viewed February 7, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Twitter.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Facebook (Electronic resource)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n2013014508">
+         <name type="corporate">
+            <namePart>Instagram (Firm)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1914382">
+         <name type="corporate">
+            <namePart>Instagram (Firm)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029027">
+         <topic>Communication</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/869952">
+         <topic>Communication</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85038303">
+         <topic>Disasters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/894782">
+         <topic>Disasters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2006007023">
+         <topic>Social media</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1741098">
+         <topic>Social media</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh91000441">
+         <topic>Emergency management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/908500">
+         <topic>Emergency management</topic>
+      </subject>
+      <subject>
+         <topic>Disaster communication</topic>
+      </subject>
+      <subject>
+         <topic>Strategic communication</topic>
+      </subject>
+      <subject>
+         <topic>Disaster response</topic>
+      </subject>
+      <subject>
+         <topic>Disaster recovery</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2086</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2086</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1155521011</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200527</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200527030912.0</recordChangeDate>
+         <recordIdentifier>991000257639708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

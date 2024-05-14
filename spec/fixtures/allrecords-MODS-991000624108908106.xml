@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>3rd High-Performance Computing Security Workshop</title>
+         <subTitle>joint NIST-NSF workshop report</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Guo, Yang.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3245-3069">
+         <namePart>Guo, Yang.</namePart>
+         <nameIdentifier>(orcid)0000-0002-3245-3069</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8793-5471">
+         <namePart>Licata, Jeremy.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8793-5471</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7446-7506">
+         <namePart>Pillitteri, Victoria.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7446-7506</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0008-8711-4030">
+         <namePart>Rekhi, Sanjay.</namePart>
+         <nameIdentifier>(orcid)0009-0008-8711-4030</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Beverly, Robert.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yuan, Xin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Key, Gary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gregg, Rickey.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bowman, Stephen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hinton, Catherine.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Reuther, Albert.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Adamson, Ryan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Warren, Aron.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bangalore, Purushotham.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Deumens, Erik.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Farkas, Csilla.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-08-24.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color); tables (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">High-performance computing (HPC) is a vital computational
+                infrastructure for processing large data volumes, performing complex simulations,
+                and conducting advanced machine learning model training. As such, HPC is a critical
+                component of scientific discovery, innovation, and economic competitiveness.
+                Cybersecurity thus plays an important role in HPC by safeguarding against abuse and
+                misuse and ensuring data and research integrity. However, HPC systems often have
+                unique hardware, software, and user environments that pose distinct cybersecurity
+                challenges. This collaborative workshop gathered stakeholders from government,
+                academia, and industry to discuss community needs, ongoing activities, and future
+                directions in HPC security. This public workshop report provides detailed summaries
+                of technical sessions, key takeaways from breakout sessions, and a summary of the
+                keynote presentations.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Yang Guo; Jeremy Licata; Victoria Pillitteri; Sanjay Rekhi; Robert
+                Beverly; Xin Yuan; Gary Key; Rickey Gregg; Stephen Bowman; Catherine Hinton; Albert
+                Reuther; Ryan Adamson; Aron Warren; Purushotham Bangalore; Erik Deumens; Csilla
+                Farkas.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed January 30.2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>High-performance computing (HPC)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>HPC security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>HPC security posture</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Security guidance</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Security compliance</topic>
+      </subject>
+      <subject>
+         <topic>High-performance computing.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8476</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8476</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8476</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1429312612</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240130</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240423150722.0</recordChangeDate>
+         <recordIdentifier>991000624108908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

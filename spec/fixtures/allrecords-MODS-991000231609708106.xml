@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>international system of units (SI)</title>
+         <subTitle>2019 edition</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2010042199">
+         <namePart>Newell, David B.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2010042199</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2010042199">
+         <namePart>Newell, David B.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2010042199</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Tiesinga, Eite.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2019028800">
+         <namePart>Physical Measurement Laboratory (National Institute of Standards and
+                Technology (U.S.))</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019028800</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The definitive international reference on the International System of
+                Units (SI) is a booklet published by the International Bureau of Weights and
+                Measures (BIPM) and often referred to as the BIPM SI Brochure. Entitled Le Systeme
+                International d' Unites (SI), the booklet is written in French followed by the
+                English text. This 2019 edition of NIST Special Publication (SP) 330 is the United
+                States version of the English text of the ninth edition of the SI Brochure (the most
+                current) published in 2019. The 2019 edition of NIST SP 330 replaces its immediate
+                predecessor, the 2008 edition. Together NIST SP 330 and NIST SP 811, Guide for the
+                Use of the International System of Units (SI), provide the official interpretation
+                of the SI for the United States.</abstract>
+      <note type="statement of responsibility">David B. Newell; Eite Tiesinga.</note>
+      <note>August 2019.</note>
+      <note>Title from PDF title page (viewed August 20, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>International Bureau of Weights and Measures. International system of
+                units (SI)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85084442">
+         <topic>Metric system</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1018814">
+         <topic>Metric system</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001008470">
+         <topic>Metrology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1018841">
+         <topic>Metrology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85145963">
+         <topic>Weights and measures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1173497">
+         <topic>Weights and measures</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.330-2019</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>330-2019</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1117448170</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190905</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161821.0</recordChangeDate>
+         <recordIdentifier>991000231609708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

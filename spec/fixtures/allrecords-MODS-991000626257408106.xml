@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Protecting information and system integrity in industrial control
+                system environments</title>
+         <subTitle>cybersecurity for the manufacturing sector</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Powell, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Powell, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brule, Joseph.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pease, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Stouffer, Keith.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tang, CheeYee.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zimmerman, Timothy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Deane, Chelsea.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hoyt, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Raguso, Mary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sherule, Aslam.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zheng, Kangmin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zopf, Matthew.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-03-16.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (369 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Today's manufacturing organizations rely on industrial control
+                systems (ICS) to conduct their operations. Increasingly, ICS are facing more
+                frequent, sophisticated cyber attacks making manufacturing the second-most-targeted
+                industry. Cyber attacks against ICS threaten operations and worker safety, resulting
+                in financial loss and harm to the organization's reputation. The architecture and
+                solutions presented in this guide are built upon standards-based, commercially
+                available products, and represent some of the possible solutions. The solutions
+                implement standard cybersecurity capabilities such as behavioral anomaly detection
+                (BAD), application allowlisting (AAL), file integrity-checking, change control
+                management, and user authentication and authorization. The solution was tested in
+                two distinct lab settings: a discrete manufacturing workcell, which represents an
+                assembly line production, and a continuous process control system (PCS), which
+                represents chemical manufacturing industries. An organization that is interested in
+                protecting the integrity of a manufacturing system and information from destructive
+                malware, insider threats, and unauthorized software should first conduct a risk
+                assessment and determine the appropriate security capabilities required to mitigate
+                those risks. Once the security capabilities are identified, the sample architecture
+                and solution presented in this document may be used.</abstract>
+      <note type="statement of responsibility">Michael Powell; Joseph Brule; Michael Pease; Keith Stouffer; CheeYee
+                Tang; Timothy Zimmerman; Chelsea Deane; John Hoyt; Mary Raguso; Aslam Sherule;
+                Kangmin Zheng; Matthew Zopf.</note>
+      <note>March 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-02-28</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer firmware</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer networks--Remote access</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer software</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Authentication</topic>
+      </subject>
+      <subject>
+         <topic>Application allowlisting</topic>
+      </subject>
+      <subject>
+         <topic>Behavioral anomaly detection</topic>
+      </subject>
+      <subject>
+         <topic>File integrity checking</topic>
+      </subject>
+      <subject>
+         <topic>Firmware modification</topic>
+      </subject>
+      <subject>
+         <topic>Industrial control systems</topic>
+      </subject>
+      <subject>
+         <topic>Software modification</topic>
+      </subject>
+      <subject>
+         <topic>User authentication</topic>
+      </subject>
+      <subject>
+         <topic>User authorization</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-10</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-10</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890294</identifier>
+      <identifier type="oclc">on1389890294</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111505.0</recordChangeDate>
+         <recordIdentifier>991000626257408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

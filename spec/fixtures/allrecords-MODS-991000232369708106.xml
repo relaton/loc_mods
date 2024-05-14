@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST Big Data Interoperability Framework</title>
+         <subTitle>volume 6, reference architecture version 3</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>NIST Big Data Public Working Group.</namePart>
+         <namePart type="termsOfAddress">Definitions and Taxonomies Subgroup.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>NIST Big Data Public Working Group.</namePart>
+         <namePart type="termsOfAddress">Definitions and Taxonomies Subgroup.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Big Data is a term used to describe the large amount of data in the
+                networked, digitized, sensor-laden, information-driven world. While opportunities
+                exist with Big Data, the data can overwhelm traditional technical approaches, and
+                the growth of data is outpacing scientific and technological advances in data
+                analytics. To advance progress in Big Data, the NIST Big Data Public Working Group
+                (NBD-PWG) is working to develop consensus on important fundamental concepts related
+                to Big Data. The results are reported in the NIST Big Data Interoperability
+                Framework (NBDIF) series of volumes. This volume, Volume 6, summarizes the work
+                performed by the NBD-PWG to characterize Big Data from an architecture perspective,
+                presents the NIST Big Data Reference Architecture (NBDRA) conceptual model,
+                discusses the roles and fabrics of the NBDRA, presents an activities view of the
+                NBDRA to describe the activities performed by the roles, and presents a functional
+                component view of the NBDRA containing the classes of functional components that
+                carry out the activities.</abstract>
+      <note type="statement of responsibility">NIST Big Data Public Working Group, Definitions and Taxonomies
+                Subgroup.</note>
+      <note>October 2019.</note>
+      <note>Title from PDF title page (viewed October 21, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012003227">
+         <topic>Big data</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1892965">
+         <topic>Big data</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98004228">
+         <topic>Use cases (Systems engineering)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1163102">
+         <topic>Use cases (Systems engineering)</topic>
+      </subject>
+      <subject>
+         <topic>Activities view</topic>
+      </subject>
+      <subject>
+         <topic>Big data application provider</topic>
+      </subject>
+      <subject>
+         <topic>Big data characteristics</topic>
+      </subject>
+      <subject>
+         <topic>Data consumer</topic>
+      </subject>
+      <subject>
+         <topic>Data provider</topic>
+      </subject>
+      <subject>
+         <topic>Framework provider</topic>
+      </subject>
+      <subject>
+         <topic>Functional component view</topic>
+      </subject>
+      <subject>
+         <topic>Management fabric</topic>
+      </subject>
+      <subject>
+         <topic>Reference architecture</topic>
+      </subject>
+      <subject>
+         <topic>Security and privacy fabric</topic>
+      </subject>
+      <subject>
+         <topic>System orchestrator</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1500-6r2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1500-6r2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132805861</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163306.0</recordChangeDate>
+         <recordIdentifier>991000232369708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

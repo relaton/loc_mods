@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of standard reference material℗ 46h</title>
+         <subTitle>fineness of cement - addition of Blaine and particle size
+                distribution</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2001019109">
+         <namePart>Ferraris, Chiara F.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2001019109</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2001019109">
+         <namePart>Ferraris, Chiara F.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2001019109</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021140044">
+         <namePart>Peltz, Max.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021140044</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020055891">
+         <namePart>Toman, Blaza.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020055891</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The standard reference materials (SRM) for fineness of cement are SRM
+                114 and SRM 46h. They are an integral part of the calibration materials routinely
+                used in the cement industry to qualify cements for ASTM C204 (Blaine), C115 (Wagner)
+                and C430 (45 Î?m sieve residue). Being a powder, the important physical properties
+                of cement, prior to hydration, are its surface area and particle size distribution
+                (PSD). Since 1934, NIST has provided SRM 114 for cement fineness and it will
+                continue to do so as long as the industry requires it. Subsequent lots of SRM 114
+                are designated by a unique letter suffix to the SRM number, e.g., 114a, 114b, ...,
+                114q. A certificate provides reference values obtained using ASTM C204 (Blaine),
+                C115 (Wagner) and C430 (45 Î?m sieve residue) is included with each lot of the
+                material. Since SRM 114p, the certificate also provides the particle size
+                distribution curve by laser diffraction. The current SRM is 114q. In 2007, customers
+                remarked that SRM 114q was too fine to be efficiently used for the C430 calibration.
+                Thus, a new SRM46h was developed by using a coarser cement. This SRM provided values
+                only for C430. In 2016, both SRM 114q and 46h were tested and the expiration date
+                was extended. However, the stocks for 114q are depleting and it is forecast to be
+                sold out in 2 years to 3 years. Thus, it was decided to certify SRM 46h with ASTM
+                C204 (Blaine), C115 (Wagner) and the particle size distribution (PSD) by laser
+                diffraction. Unfortunately, no data were available for the C115 (Wagner). The stock
+                of 46h is available for another 7years to 8 years. Thus, an interlaboratory study
+                was organized by NIST to collected data on Blaine and PSD. The data were analyzed to
+                extract the certified value. This report will provide all the data and analysis used
+                to certify SRM 46h for ASTM C204 (Blaine), and the particle size distribution by
+                laser diffraction (AASHTO T253).</abstract>
+      <note type="statement of responsibility">Chiara F. Ferraris; Max Peltz; Blaza Toman.</note>
+      <note>August 2018.</note>
+      <note>Title from PDF title page (viewed August 13, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85021731">
+         <topic>Cement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/850432">
+         <topic>Cement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017740">
+         <topic>Building materials</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840723">
+         <topic>Building materials</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017734">
+         <topic>Building laws</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840692">
+         <topic>Building laws</topic>
+      </subject>
+      <subject>
+         <topic>Particle size distribution</topic>
+      </subject>
+      <subject>
+         <topic>Fineness</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-190</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-190</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055659211</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102145610.0</recordChangeDate>
+         <recordIdentifier>991000202599708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

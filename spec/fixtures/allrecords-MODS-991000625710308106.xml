@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>IoT device cybersecurity guidance for the federal government
+</title>
+         <subTitle>establishing IoT device cybersecurity requirements</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Fagan, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fagan, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Marron, Jeffrey.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brady, Kevin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cuthill, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Megas, Katerina.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Herold, Rebecca.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-11-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (47 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Organizations will increasingly use Internet of Things (IoT) devices
+                for the mission benefits they can offer, but care must be taken in the acquisition
+                and implementation of IoT devices. This publication contains background and
+                recommendations to help organizations consider how an IoT device they plan to
+                acquire can integrate into a system. IoT devices and their support for security
+                controls are presented in the context of organizational and system risk management.
+                This publication provides guidance on considering system security from the device
+                perspective. This allows for the identification of device cybersecurity requirements
+                the abilities and actions an organization will expect from an IoT device and its
+                manufacturer and/or third parties, respectively.</abstract>
+      <note type="statement of responsibility">Michael Fagan; Jeffrey Marron; Kevin Brady; Barbara Cuthill; Katerina
+                Megas; Rebecca Herold.</note>
+      <note>November 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-11-24</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity baseline</topic>
+      </subject>
+      <subject>
+         <topic>Securable computing devices</topic>
+      </subject>
+      <subject>
+         <topic>Security requirements</topic>
+      </subject>
+      <subject>
+         <topic>Risk Management Framework</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity Framework</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-213</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-213</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890186</identifier>
+      <identifier type="oclc">on1389890186</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111421.0</recordChangeDate>
+         <recordIdentifier>991000625710308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

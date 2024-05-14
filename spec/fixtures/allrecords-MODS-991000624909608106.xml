@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Overview and considerations of access control based on attribute
+                encryption</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hu, Vincent C.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1646-0584">
+         <namePart>Hu, Vincent C.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1646-0584</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">f00</placeTerm>
+         </place>
+         <dateIssued encoding="marc">mdu</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-06.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (41 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Encryption technology can be incorporated into access control
+                mechanisms based on user identities, user attributes, or resource attributes.
+                Traditional public-key encryption requires different data to have different keys
+                that can be distributed to users who satisfy perspective access control policies
+                along with the encrypted version of the data. However, some distributed or pervasive
+                system environments wish to avoid the public-key encryption’s all-or-nothing data
+                access limitation when considering their performance requirements. Attribute-based
+                encryption incorporates access control policies and attributes with encryption and
+                decryption functions and a one-to-many authorization scheme that requires fewer keys
+                than public-key encryption. It also utilizes collusion-resistance, which provides a
+                more efficient and flexible attribute-based access control mechanism that supports
+                high-performance systems (e.g., cloud, IoT, disrupt-tolerant networks, wireless
+                sensor networks, mobile ad-hoc networks, and public search service
+                systems).</abstract>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <note type="statement of responsibility">Vincent C. Hu.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed February 26, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-12-19</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Access control</topic>
+      </subject>
+      <subject>
+         <topic>Attribute-based access control</topic>
+      </subject>
+      <subject>
+         <topic>Attribute-based encryption</topic>
+      </subject>
+      <subject>
+         <topic>Authorization</topic>
+      </subject>
+      <subject>
+         <topic>Encryptions</topic>
+      </subject>
+      <subject>
+         <topic>Identity-based encryption</topic>
+      </subject>
+      <subject>
+         <topic>Public-key encryption</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8450-upd1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8450-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.IR.8450</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8450-upd1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240226</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111359.0</recordChangeDate>
+         <recordIdentifier>991000624909608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

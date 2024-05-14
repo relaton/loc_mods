@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">An  </nonSort>
+         <title>Assessment of Mass Balance Accounting Methods for Polymers
+                workshop report</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Beers, Kathryn.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Beers, Kathryn.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Schumacher, Kelsea.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Migler, Kalman.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Morris, KC.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-02-07.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (47 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Kathryn Beers; Kelsea Schumacher; Kalman Migler; KC Morris; Joshua
+                Kneifel.</note>
+      <note>February 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-11-23</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Circular economy</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Polymers</topic>
+      </subject>
+      <subject>
+         <topic>Chemical recycling</topic>
+      </subject>
+      <subject>
+         <topic>Mass balance accounting</topic>
+      </subject>
+      <subject>
+         <topic>Third party certifications</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1500-206</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1500-206</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890251</identifier>
+      <identifier type="oclc">on1389890251</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111427.0</recordChangeDate>
+         <recordIdentifier>991000625716308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

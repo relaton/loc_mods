@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Measurements to support broadband modulated-signal radio
+                transmissions for the public-safety sector</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021143253">
+         <namePart>Remley, Kate A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021143253</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021143253">
+         <namePart>Remley, Kate A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021143253</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021099282">
+         <namePart>Becquet, Y.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021099282</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107288">
+         <namePart>Camell, Dennis G.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021107288</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003080259">
+         <namePart>Grosvenor, Chriss A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003080259</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2002017582">
+         <namePart>Holloway, Christopher L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2002017582</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022030412">
+         <namePart>Hough, George.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022030412</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007055626">
+         <namePart>Johnk, Robert T.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007055626</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82208381">
+         <namePart>Koepke, Galen H.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82208381</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Korsnes, John.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007055627">
+         <namePart>Ladbury, John M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007055627</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82029731">
+         <namePart>McKinley, Michael D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82029731</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022064510">
+         <namePart>Novotny, David R. (David Richard)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022064510</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Young, William F.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2008</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2008.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Kate A. Remley; Galen H. Koepke; Christopher L. Holloway; Chriss A.
+                Grosvenor; D. G. Camell; John M. Ladbury; Robert T. Johnk; David R. Novotny; William
+                F. Young; George Hough; Michael D. McKinley; Yann Becquet; John Korsnes.</note>
+      <note>2008.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
+         <topic>Modulation (Electronics)</topic>
+         <topic>Measurement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1024511">
+         <topic>Modulation (Electronics)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1715944">
+         <topic>Measurement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh92006740">
+         <topic>Wireless communication systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1176209">
+         <topic>Wireless communication systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
+         <topic>Radio frequency modulation, Narrow-band</topic>
+         <topic>Measurement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087335">
+         <topic>Radio frequency modulation, Narrow-band</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh88002943">
+         <topic>Broadband communication systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/839147">
+         <topic>Broadband communication systems</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1546</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1546</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">929068196</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151113</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20151113033706.0</recordChangeDate>
+         <recordIdentifier>991000091649708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

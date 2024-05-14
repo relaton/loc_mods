@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Demystifying accreditation</title>
+         <subTitle>a framework for accreditation of forensic units</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Jones, Nicole S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jones, Nicole S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Forry, Erin P.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Special Programs Office.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-07-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Accreditation is a formal recognition by an independent third
+                party/accreditation body that a forensic service provider such as a laboratory,
+                unit, or agency,a meets standards. A standard is a requirement or guideline used to
+                ensure that a process or service, in this case Crime Scene Investigation (CSI), is
+                conducted consistently within the forensic service provider by competent personnel
+                and is fit for purpose. Forensic service providers are accredited to ISO/IEC 17020,
+                ISO/IEC 17025 and any other relevant sector-specific standards. The accreditation
+                process involves an audit, or assessment, which, when performed, evaluates the unit
+                against one or both of these standards to ensure it has developed and maintains a
+                quality system that aligns with the requirements in an ISO standard. The 2009
+                National Academy of Sciences (NAS) report, Strengthening Forensic Science in the
+                United States: A Path Forward, recommended mandatory accreditation and quality
+                control and quality assurance programs for all units or laboratories that conduct
+                forensic science activities, including those in which police agencies and
+                identification units engage. Accreditation of CSI Units is important because it
+                provides assurances that quality standards are met during scene investigations—the
+                main gateway for recognizing, recording, collecting, transporting, and storing
+                forensic evidence, which can have a lasting impact on the analysis, interpretation,
+                reporting of results, and ultimately, the outcome of the investigation.
+                Accreditation gives the criminal justice system and the public confidence in a
+                unit’s competence and results and ensures that the unit has policies and procedures
+                in place and can demonstrate the unit maintains impartiality. This is particularly
+                important in the practice of crime scene investigation and forensic science because
+                unlike other industries, there is no nationally mandatory regulatory approach to
+                ensuring quality. Therefore, a voluntary standardization approach through
+                accreditation is important for maintaining public trust, transparency, and quality
+                of work. This report reviews the steps a CSI Unit must take to achieve
+                accreditation, discusses the documentation framework that comprises a quality
+                management system, and provides guidance to meet the requirements in ISO/IEC 17020
+                and ISO/IEC 17025 and any additional requirements included in amplification
+                documents.</abstract>
+      <note type="statement of responsibility">Nicole S. Jones; Erin P. Forry.</note>
+      <note>July 2023.</note>
+      <note>Title from PDF title page (viewed November 14, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-07-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Accreditation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Certification</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Quality assurance</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Total quality management</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Crime scene searches</topic>
+      </subject>
+      <subject>
+         <topic>Forensic science process</topic>
+      </subject>
+      <subject>
+         <topic>International standards</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.23-043</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR</title>
+            <partNumber>23-043</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract
+                report</title>
+            <partNumber>23-043</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210898</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111404.0</recordChangeDate>
+         <recordIdentifier>991000615909808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

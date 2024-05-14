@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Engineering trustworthy secure systems</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Ross, Ron.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ross, Ron.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Winstead, Mark.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>McEvilley, Michael.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-11-16.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (195 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This publication describes a basis for establishing principles,
+                concepts, activities, and tasks for engineering trustworthy secure systems. Such
+                principles, concepts, activities, and tasks can be effectively applied within
+                systems engineering efforts to foster a common mindset to deliver security for any
+                system, regardless of the system's purpose, type, scope, size, complexity, or the
+                stage of its system life cycle. The intent of this publication is to advance systems
+                engineering in developing trustworthy systems for contested operational environments
+                (generally referred to as systems security engineering) and to serve as a basis for
+                developing educational and training programs, professional certifications, and other
+                assessment criteria.</abstract>
+      <note type="statement of responsibility">Ron Ross; Mark Winstead; Michael McEvilley.</note>
+      <note>November 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-11-08</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Information technology--Security measures</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Inspection</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Penetration testing (Computer security)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Requirements engineering</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Risk assessment</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Specifications</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer systems</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Systems engineering</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer software--Validation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer programs--Validation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer software--Verification</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer systems--Verification</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer programs--Verification</topic>
+      </subject>
+      <subject>
+         <topic>Assurance</topic>
+      </subject>
+      <subject>
+         <topic>Developmental engineering</topic>
+      </subject>
+      <subject>
+         <topic>Engineering trades</topic>
+      </subject>
+      <subject>
+         <topic>Field engineering</topic>
+      </subject>
+      <subject>
+         <topic>Implementation</topic>
+      </subject>
+      <subject>
+         <topic>Information security</topic>
+      </subject>
+      <subject>
+         <topic>Information security policy</topic>
+      </subject>
+      <subject>
+         <topic>Integration</topic>
+      </subject>
+      <subject>
+         <topic>Protection needs</topic>
+      </subject>
+      <subject>
+         <topic>Resilience</topic>
+      </subject>
+      <subject>
+         <topic>Risk treatment</topic>
+      </subject>
+      <subject>
+         <topic>Security architecture</topic>
+      </subject>
+      <subject>
+         <topic>Security design</topic>
+      </subject>
+      <subject>
+         <topic>Security requirements</topic>
+      </subject>
+      <subject>
+         <topic>Stakeholders</topic>
+      </subject>
+      <subject>
+         <topic>System of systems</topic>
+      </subject>
+      <subject>
+         <topic>System component</topic>
+      </subject>
+      <subject>
+         <topic>System element</topic>
+      </subject>
+      <subject>
+         <topic>System life cycle</topic>
+      </subject>
+      <subject>
+         <topic>Systems engineering</topic>
+      </subject>
+      <subject>
+         <topic>Systems security engineering</topic>
+      </subject>
+      <subject>
+         <topic>Trustworthiness</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-160v1r1</url>
+      </location>
+      <relatedItem type="preceding" otherType="10.6028/NIST.SP.800-160v1" displayLabel="10.6028/NIST.SP.800-160v1"/>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-160v1r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890523</identifier>
+      <identifier type="oclc">on1389890523</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111444.0</recordChangeDate>
+         <recordIdentifier>991000626244108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

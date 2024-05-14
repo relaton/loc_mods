@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>A side-by-side energy use comparison of a variable-speed small duct
+                high velocity and two-stage conventional ducted heat pump in a net-zero energy
+                home</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Payne, W. Vance.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Payne, W. Vance.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dougherty, Brian P.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (51 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Two air-source, split system heat pumps were installed in a
+                residential, net-zero energy home that was constructed as a laboratory on the campus
+                of the National Institute of Standards and Technology (NIST) in Gaithersburg,
+                Maryland USA. The first heat pump was a two-stage, 7 kW (2 ton), 15.8 seasonal
+                energy efficiency ratio (SEER), 9.05 heating seasonal performance ratio (HSPF)
+                conventionally ducted system, and the second heat pump was a variable-speed, 10.6 kW
+                (3 ton), 14 SEER, 8.35 HSPF, high velocity ducted system. These two systems operated
+                side-by-side, using separate supply ducts and a common return duct, on a weekly
+                alternating schedule to condition the home that was operated with very consistent,
+                simulated thermal loads. We wanted to know if the high velocity system could provide
+                comparable energy use efficiency to the conventional system. The results of this
+                study showed that it did meet the required loads while doing so with slightly
+                greater efficiency; the average cooling coefficient of performance (COP) was
+                (0.40+/-0.11) higher, and the average heating COP was statistically equal. A new
+                firmware was provided at the end of the heating season which greatly improved the
+                performance of the high velocity system; its average heating COP went from
+                (1.8+/-0.9) to (2.5+/-1.1) at a 95 % confidence level. The new firmware heating COP
+                averaged (1.05+/-0.23) higher than the old firmware over the same outdoor
+                temperatures. Defrost performance is very different for these two systems yet they
+                consumed equivalent energy per HDD; the conventional system uses a timed-initiate,
+                temperature-terminate algorithm with auxiliary electric resistive heating while the
+                high velocity system uses calculated evaporator parameters with a hot-gas bypass
+                before a full reverse cycle defrost with no supplementary resistive heat.</abstract>
+      <note type="statement of responsibility">W. Vance Payne; Brian P. Dougherty.</note>
+      <note>July 2020.</note>
+      <note>Title from PDF title page (viewed July 16, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Field experiments</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Heat pumps</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Essais en plein champ</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Pompes à chaleur</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>heat pumps</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Field experiments</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Heat pumps</topic>
+      </subject>
+      <subject>
+         <topic>Energy use comparison</topic>
+      </subject>
+      <subject>
+         <topic>Low load home</topic>
+      </subject>
+      <subject>
+         <topic>Net-zero home</topic>
+      </subject>
+      <subject>
+         <topic>Small duct high velocity</topic>
+      </subject>
+      <subject>
+         <topic>Two-stage heat pump</topic>
+      </subject>
+      <subject>
+         <topic>Variable-speed heat pump</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2101</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2101</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1311681330</identifier>
+      <identifier type="oclc">on1311681330</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220421</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240208074356.7</recordChangeDate>
+         <recordIdentifier>991000625691808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

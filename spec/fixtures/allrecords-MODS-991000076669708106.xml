@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>zoning primer by the advisory committee on zoning appointed by
+                Secretary Hoover</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85363594">
+         <namePart>Bassett, Edward M. (Edward Murray),</namePart>
+         <namePart type="date">1863-1948</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85363594</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85363594">
+         <namePart>Bassett, Edward M. (Edward Murray),</namePart>
+         <namePart type="date">1863-1948</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85363594</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020066673">
+         <namePart>Hiett, Irving B.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020066673</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr92034145">
+         <namePart>Ihlder, John,</namePart>
+         <namePart type="date">1876-1958</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr92034145</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no00032899">
+         <namePart>Knowles, Morris,</namePart>
+         <namePart type="date">1869-1932</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no00032899</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81109204">
+         <namePart>Lewis, Nelson Peter,</namePart>
+         <namePart type="date">1856-1924</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81109204</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82164062">
+         <namePart>McFarland, J. Horace (John Horace),</namePart>
+         <namePart type="date">1859-1948</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n82164062</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Olmstead, Frederick Law.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr90006428">
+         <namePart>Veiller, Lawrence,</namePart>
+         <namePart type="date">1872-1959</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr90006428</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91072306">
+         <namePart>Gries, John M. (John Matthew),</namePart>
+         <namePart type="date">1877-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n91072306</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1922</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1922.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Edward M. Bassett; Irving B. Hiett; John Ihlder; Morris Knowles;
+                Nelson P. Lewis; J. Horace McFarland; Frederick Law Olmstead; Lawrence Veiller; John
+                M. Gries.</note>
+      <note>1922.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.BH.3</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS building and housing; NBS BH</title>
+            <partNumber>3</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927735034</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20151105023936.0</recordChangeDate>
+         <recordIdentifier>991000076669708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

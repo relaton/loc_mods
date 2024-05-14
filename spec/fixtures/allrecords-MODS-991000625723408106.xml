@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Optimal transmit volume conditions for mission critical voice quality
+                of experience measurement systems</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Greene, Chelsea.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Greene, Chelsea.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Frey, Jesse.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Magrogan, William.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>O'Malley, Cara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pieper, Jaden.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-09-22.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (34 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Selecting transmit volume levels using a transmit volume optimization
+                (TVO) process is the first calibration step in performing quality of experience
+                (QoE) measurements developed by the Mission Critical Voice portfolio of the Public
+                Safety Communications Research (PSCR) Division. As noted in prior publications,
+                audio volume levels have an impact on output consistency while performing mission
+                critical voice (MCV) QoE measurements with push-to-talk (PTT) communications
+                devices. These measurements must be consistent, repeatable, and comparable. The goal
+                of this project is to ensure that MCV measurements are consistent and repeatable; it
+                specifically focuses on transmit volume levels and their impact on the system under
+                test (SUT). To achieve this, a measurement that characterizes audio distortion
+                levels, specifically caused by overdriven speech into a transmit device, was
+                developed. This measurement is performed across a series of transmit volume levels.
+                The results are then used to present the system user with optimal levels to ensure
+                MCV measurements contain a minimal amount of uncertainty caused by distortion within
+                a range of stable volume levels. This paper will discuss the development of this
+                specific distortion measurement and the methods designed to find optimal transmit
+                volume levels.</abstract>
+      <note type="statement of responsibility">Chelsea Greene; Jesse Frey; William Magrogan; Cara O'Malley; Jaden
+                Pieper.</note>
+      <note>September 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-09-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Communications</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Public safety</topic>
+      </subject>
+      <subject>
+         <topic>Analog</topic>
+      </subject>
+      <subject>
+         <topic>Audio</topic>
+      </subject>
+      <subject>
+         <topic>A-weight</topic>
+      </subject>
+      <subject>
+         <topic>Direct mode</topic>
+      </subject>
+      <subject>
+         <topic>Distortion</topic>
+      </subject>
+      <subject>
+         <topic>Frequency</topic>
+      </subject>
+      <subject>
+         <topic>Frequency slope fit (FSF)</topic>
+      </subject>
+      <subject>
+         <topic>Key performance indicator (KPI)</topic>
+      </subject>
+      <subject>
+         <topic>Land mobile radio (LMR)</topic>
+      </subject>
+      <subject>
+         <topic>Mission critical push-to-talk (MCPTT)</topic>
+      </subject>
+      <subject>
+         <topic>Mission critical voice (MCV)</topic>
+      </subject>
+      <subject>
+         <topic>Mouth-to-ear (M2E)</topic>
+      </subject>
+      <subject>
+         <topic>Optimal volume plateau identification algorithm (OVPIA)</topic>
+      </subject>
+      <subject>
+         <topic>Project 25 (P25)</topic>
+      </subject>
+      <subject>
+         <topic>Plateau</topic>
+      </subject>
+      <subject>
+         <topic>Push-to-talk (PTT)</topic>
+      </subject>
+      <subject>
+         <topic>Quality of experience (QoE)</topic>
+      </subject>
+      <subject>
+         <topic>System under test (SUT)</topic>
+      </subject>
+      <subject>
+         <topic>Transmit volume optimization (TVO)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2171</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2171</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890004</identifier>
+      <identifier type="oclc">on1389890004</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111423.0</recordChangeDate>
+         <recordIdentifier>991000625723408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

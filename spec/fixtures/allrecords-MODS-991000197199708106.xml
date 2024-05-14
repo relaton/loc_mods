@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Magnetic resonance imaging biomarker calibration service</title>
+         <subTitle>proton spin relaxation times</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Boss, Michael A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boss, Michael A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2013006446">
+         <namePart>Dienstfrey, Andrew M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2013006446</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Gimbutas, Zydrunas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Keenan, Kathryn E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kos, Anthony B.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003082468">
+         <namePart>Splett, Jolene D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003082468</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Stupic, Karl F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Russek, Stephen E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2019028800">
+         <namePart>Physical Measurement Laboratory (National Institute of Standards and
+                Technology (U.S.)).</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019028800</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document describes the calibration service to measure proton
+                spin relaxation times, T1 and T2, of materials used in phantoms (calibration
+                artifacts) to verify the accuracy of MRI-based quantitative measurements. Proton
+                spin relaxation times are used as image-based biomarkers to assess the state of
+                tissue and quantify the presence of contrast agents. A biomarker, per the FDA
+                definition, refers to a characteristic that is objectively measured and evaluated as
+                an indicator of normal biological processes, pathogenic processes, or biological
+                responses to a therapeutic intervention.(1) Spin relaxation times are
+                phenomenological parameters that need to be carefully defined and measured to enable
+                rigorous quantification and their use as biomarkers for clinical decision making.
+                The relaxation times, in addition to being dependent on local material properties,
+                are dependent on global parameters such as temperature and magnetic field value,
+                which need to be controlled and precisely measured.</abstract>
+      <note type="statement of responsibility">Michael A. Boss; Andrew M. Dienstfrey; Zydrunas Gimbutas; Kathryn E.
+                Keenan; Anthony B. Kos; Jolene D. Splett; Karl F. Stupic; Stephen E.
+                Russek.</note>
+      <note>May 2018.</note>
+      <note>Title from PDF title page (viewed May 3, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85037507">
+         <topic>Diagnostic imaging</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/892354">
+         <topic>Diagnostic imaging</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85014122">
+         <topic>Biochemical markers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/831950">
+         <topic>Biochemical markers</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85079741">
+         <topic>Magnetic resonance imaging</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1005780">
+         <topic>Magnetic resonance imaging</topic>
+      </subject>
+      <subject>
+         <topic>Precision medicine</topic>
+      </subject>
+      <subject>
+         <topic>Calibration services</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.250-97</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>250-97</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1039083750</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180505</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102152848.0</recordChangeDate>
+         <recordIdentifier>991000197199708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Securing electronic health records on mobile devices</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020058154">
+         <namePart>O'Brien, Gavin,</namePart>
+         <namePart type="date">1965-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020058154</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020058154">
+         <namePart>O'Brien, Gavin,</namePart>
+         <namePart type="date">1965-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020058154</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Lesser, Nate.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pleasant, Brett.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81072871">
+         <namePart>Xu, Rulin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n81072871</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Zheng, Kangmin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bowers, Colin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kamke, Kyle.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Health care providers increasingly use mobile devices to receive,
+                store, process, and transmit patient clinical information. According to our own risk
+                analysis, discussed here, and in the experience of many health care providers,
+                mobile devices can present vulnerabilities in a health care organization's networks.
+                At the 2012 Health and Human Services Mobile Devices Roundtable, participants
+                stressed that mobile devices are being used by many providers for health care
+                delivery before they have implemented safeguards for privacy and security. This NIST
+                Cybersecurity Practice Guide provides a modular, open, end-to-end reference design
+                that can be tailored and implemented by health care organizations of varying sizes
+                and information technology sophistication. Specifically, the guide shows how health
+                care providers, using open source and commercially available tools and technologies
+                that are consistent with cybersecurity standards, can more securely share patient
+                information among caregivers using mobile devices. The scenario considered is that
+                of a hypothetical primary care physician using her mobile device to perform
+                reoccurring activities such as sending a referral (e.g., clinicalinformation) to
+                another physician, or sending an electronic prescription to a pharmacy. While the
+                design was demonstrated with a certain suite of products, the guide does not endorse
+                these products in particular. Instead, it presents the characteristics and
+                capabilities that an organization's security experts can use to identify similar
+                standards-based products that can be integrated quickly and cost-effectively with a
+                health care provider's existing tools and infrastructure.</abstract>
+      <note type="statement of responsibility">Gavin O'Brien; Nate Lesser; Brett Pleasant; Sue Wang; Kangmin Zheng;
+                Colin Bowers; Kyle Kamke.</note>
+      <note>July 2018.</note>
+      <note>Title from PDF title page (viewed July 27, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Health Insurance Portability and Accountability Act of
+                1996.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85083013">
+         <topic>Medical records</topic>
+         <topic>Data processing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1014552">
+         <topic>Medical records</topic>
+         <topic>Data processing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85114200">
+         <topic>Risk management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1098164">
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Patient health information</topic>
+      </subject>
+      <subject>
+         <topic>Electronic health record security</topic>
+      </subject>
+      <subject>
+         <topic>Electronic health records system</topic>
+      </subject>
+      <subject>
+         <topic>Mobile device security standards</topic>
+      </subject>
+      <subject>
+         <topic>Theft of health records</topic>
+      </subject>
+      <subject>
+         <topic>Theft of medical information</topic>
+      </subject>
+      <subject>
+         <topic>HIPAA</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055659196</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163207.0</recordChangeDate>
+         <recordIdentifier>991000202529708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

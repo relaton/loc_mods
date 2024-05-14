@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Gas vs electric</title>
+         <subTitle>sustainability performance of heating fuel options in the NIST NZERTF
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Webb, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Webb, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-28.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (40 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Updates to the underlying cost and environmental data have recently
+                been implemented in the BIRDS database. This study evaluates the updated results for
+                validation, as well as determines the potential changes in the results relative to
+                those found in O'Rear, Webb, Kneifel and O'Fallon (1). The updates are found to have
+                a minor impact on the total LCC and the LCA results, but there is a shift in some
+                energy efficiency measures (EEMs) in optimal designs. The continued reduction in
+                solar photovoltaic (PV) installation costs leads to larger system sizes being
+                utilized in life-cycle cost (LCC) designs, while including few additional EEMs.
+                Reducing the efficiency of some building components is possible and still reaching
+                net-zero energy performance. As in the previous study, net-zero energy performance
+                is reached at the lowest LCC using an all-electric design. The incremental increase
+                in initial construction costs relative to the code-compliant design in Maryland is
+                $28222, which has continued a trend in decreasing premium for net-zero energy
+                performance. Over the 30-year study period, NZLCC-E saves the homeowner $34063.
+                Although the homeowner could save more designing to meet the lowest LCC design using
+                natural gas heating (LCC-NG), the additional savings is only $527 while still
+                consuming about 50 % of the baseline building design s total energy. The concept of
+                low-energy buildings must be reconsidered to determine whether new targets should be
+                set, such as a combination of total consumption and net consumption or net-zero
+                goals that include embodied energy. These results are limited in their
+                generalization because they are based on a case study using validated simulation
+                models of the NIST Net-Zero Energy Residential Test Facility (NZERTF). The findings
+                should not be extrapolated to buildings with different climates, energy costs,
+                building codes, or occupancies. The assumptions on the economic analysis are also
+                important factors to consider when using the results and implications in this study
+                for decision making. The baseline building designs in this study are based on 2015
+                IECC. Maryland has since adopted 2018 IECC, which would influence the relative
+                differences between the optimal designs and the baseline.</abstract>
+      <note type="statement of responsibility">David Webb; Joshua Kneifel.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Hydronics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Zero energy buildings</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Life cycle costing</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Hydronique</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Coût du cycle de vie</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Hydronics</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Life cycle costing</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Zero energy buildings</topic>
+      </subject>
+      <subject>
+         <topic>Space heating</topic>
+      </subject>
+      <subject>
+         <topic>Domestic water heating</topic>
+      </subject>
+      <subject>
+         <topic>Low-energy</topic>
+      </subject>
+      <subject>
+         <topic>Life-cycle assessment</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2120</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2120</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124463</identifier>
+      <identifier type="oclc">on1346124463</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111420.0</recordChangeDate>
+         <recordIdentifier>991000625674008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

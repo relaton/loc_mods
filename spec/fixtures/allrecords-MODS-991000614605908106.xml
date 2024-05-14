@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Beginners guide to biometric and forensic science human subjects
+                research protections</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Chapman, William.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chapman, William.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hicklin, R. Austin.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4204-3864">
+         <namePart>Taylor, Melissa.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4204-3864</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Special Programs Office.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-01-12.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (66 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document is designed to help researchers in the United States
+                navigate and comply with requirements and best practices for human subjects
+                research, with specific emphasis on biometric and forensic science research. The
+                purpose of this document is to summarize requirements and best practices involved in
+                Institutional Review Board (IRB) approval, consent forms, and data use agreements,
+                when conducting biometric and forensic science research involving human subjects and
+                distributing the resulting data. This document also provides a variety of resources
+                from multiple sources to help navigate the IRB approval process. The process of
+                beginning a human subjects research project requires several considerations to be
+                made to protect the rights of the participants including approval by IRBs; writing,
+                releasing, and collecting consent forms; and collecting, documenting, and using data
+                for the execution of the research and the potential publishing of the
+                findings.</abstract>
+      <note type="statement of responsibility">William Chapman; R.Austin Hicklin; Melissa Taylor.</note>
+      <note>January 2023.</note>
+      <note>Title from PDF title page (viewed May 25, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-01-09</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Forensic sciences</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Research</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject>
+         <topic>Human subjects</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1289</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1289</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859673</identifier>
+      <identifier type="oclc">on1405859673</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111403.0</recordChangeDate>
+         <recordIdentifier>991000614605908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

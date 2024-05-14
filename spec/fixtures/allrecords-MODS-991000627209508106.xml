@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Proceedings of the 3rd NIST workshop on the performance evaluation of
+                3D imaging systems</title>
+         <subTitle>March 2 - 3, 2006</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Cheok, Geraldine S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8335-1743">
+         <namePart>Cheok, Geraldine S.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8335-1743</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Building and Fire Research Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2006</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2006-09-30.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Two 3D Imaging Systems Performance Evaluation Workshops have been
+                held at the National Institute of Standards and Technology (NIST) the first in 2003
+                and the second in 2005. These workshops were conducted in an effort to determine the
+                need for standard test methods for evaluating 3D imaging systems (previously
+                referred to as LADAR systems), to determine the types of measurements and test
+                methods required, to provide a forum to discuss the on-going efforts in this area,
+                and to initiate the process towards standardization of these test methods or
+                protocols. To continue the effort, NIST conducted a 3rd Workshop on the Performance
+                Evaluation of 3D Imaging systems on March 2-3, 2006. This report presents the
+                proceedings from the third workshop.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Geraldine S. Cheok.</note>
+      <note>October 2006.</note>
+      <note>Title from PDF title page (viewed April 11, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2006-09-26</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>LADAR.</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Three-dimensional imaging</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Performance--evaluation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standardization</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Jargon (terminology)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Workshops</topic>
+      </subject>
+      <subject>
+         <topic>3D imaging systems.</topic>
+      </subject>
+      <subject>
+         <topic>LADAR.</topic>
+      </subject>
+      <subject>
+         <topic>Laser scanning.</topic>
+      </subject>
+      <subject>
+         <topic>Performance evaluation.</topic>
+      </subject>
+      <subject>
+         <topic>Standardization.</topic>
+      </subject>
+      <subject>
+         <topic>Terminology.</topic>
+      </subject>
+      <subject>
+         <topic>Test protocols.</topic>
+      </subject>
+      <subject>
+         <topic>Workshop.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.7357</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>7357</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>7357</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240412</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240412110404.0</recordChangeDate>
+         <recordIdentifier>991000627209508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

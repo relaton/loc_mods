@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Stabilograms</title>
+         <subTitle>testbed stability in a pilot experiment for cellular communication
+                anomaly detection</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Frey, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Frey, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gregg, Mary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rezac, Jacob D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Coder, Jason B.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kord, Aziz.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Otterstetter, Anna.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Quimby, Jeanne.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Weiss, Alec.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-10-26.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (23 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology's Communications
+                Technology Laboratory conducted a cellular communication system pilot experiment in
+                the summer of 2021. This pilot experiment was done to prepare for a broad-scope
+                experiment to demonstrate anomaly detection from radiated emissions, possibly due to
+                cyberattack. A goal of the pilot experiment was to check the experiment testbed for
+                instabilities. A testbed is stable if measurements made over time with identical
+                experiment settings exhibit no systematic variation. The data collected in the pilot
+                experiment evidenced strong instabilities in the testbed's operation. These
+                instabilities are seen in sequence plots of the experiment responses and,
+                especially, in stabilograms devised expressly for this purpose in this work.
+                Stabilograms are an intuitive and easy way to assess testbed instability. The
+                instabilities reflected in the stabilograms are large enough to foreclose further
+                analysis of the pilot data. The stabilograms from this study, though, suggest that
+                if the testbed's instabilities can be effectively addressed, anomaly detection might
+                be accomplished in the scenario under consideration.</abstract>
+      <note type="statement of responsibility">Michael Frey; Mary Gregg; Jacob D. Rezac; Jason B. Coder; Aziz Kord;
+                Anna Otterstetter; Jeanne Quimby; Alec Weiss.</note>
+      <note>October 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-07-26</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Anomaly detection (Computer security)</topic>
+      </subject>
+      <subject>
+         <topic>ANOVA model</topic>
+      </subject>
+      <subject>
+         <topic>Cellular communication</topic>
+      </subject>
+      <subject>
+         <topic>Pilot experiment</topic>
+      </subject>
+      <subject>
+         <topic>Testbed stability</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2231</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2231</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890487</identifier>
+      <identifier type="oclc">on1389890487</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111440.0</recordChangeDate>
+         <recordIdentifier>991000626245408106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

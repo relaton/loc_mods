@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Laser-assisted atom probe tomography of c-plane and m-plane InGaN
+                test structures</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sanford, Norman A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sanford, Norman A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Blanchard, Paul T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brubaker, Matthew D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rishinaramangalam, Ashwin K.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zhang, Qihua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Roshko, Alexana.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Feezell, Daniel F.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Klein, Benjamin D. B.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Davydov, Albert V.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-04-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (51 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Laser-assisted atom probe tomography (L-APT) was used to measure the
+                indium mole fraction x of c-plane, MOCVD-grown, GaN/InxGa1-xN/GaN test structures
+                and the results were compared with Rutherford backscattering analysis (RBS). Four
+                separate sample types were examined with x = 0.030, 0.034, 0.056, and 0.11 as
+                determined by RBS. The respective InxGa1-xN layer thicknesses were 330 nm, 327 nm,
+                360 nm, and 55 nm. L-APT data were collected under (fixed) laser pulse energy
+                (PE)conditions in the range of (2 1000) fJ. Sample temperatures were generally 54 K.
+                The data were analyzed using different region-of-interest (ROI) volumes to establish
+                criteria for both data collection and compositional analysis that would return L-APT
+                results that fell within the estimated 0.5 at. % uncertainty of RBS. Using
+                cylindrical ROIs placed coaxially within the reconstructed InxGa1-xN regions, and
+                with ROI depths of (55 180) nm, PE values in the range of(2 100) fJ yielded indium
+                concentrations that conformed to RBS. L-APT results were comparatively insensitive
+                to ROI diameter such that 20-nm-diameter coaxial ROIs yielded indium concentrations
+                nearly equal to ROIs that encompassed the full InxGa1-xN regions. By contrast, for
+                the GaN portions of the samples, L-APT would only yield near-stochiometric
+                composition for PE in the range of (5 20) fJ with the analysis restricted to coaxial
+                ROIs of diameters ?20 nm. m-plane oriented L-APT specimens were derived from
+                core-shell GaN/InxGa1-xN multi-quantum-well structures. Analysis within ROIs placed
+                along [0001] of these m-plane samples revealed a spatial asymmetry in charge-state
+                ratios that is consistent with an electrostatic effect arising from spontaneous
+                polarization. Both c-plane and m-plane sample types showed depth-dependent
+                variations in absolute ion counts that depended upon ROI placement.</abstract>
+      <note type="statement of responsibility">Norman A. Sanford; Paul T. Blanchard; Matthew D. Brubaker; Ashwin K.
+                Rishinaramangalam; Qihua Zhang; Alexana Roshko; Daniel F. Feezell; Benjamin D. B.
+                Klein; Albert V. Davydov.</note>
+      <note>April 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2018-02-25</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Iridium</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Gallium nitride</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Semiconductors</topic>
+      </subject>
+      <subject>
+         <topic>Atom probe tomography</topic>
+      </subject>
+      <subject>
+         <topic>Charge state ratio</topic>
+      </subject>
+      <subject>
+         <topic>Field evaporation</topic>
+      </subject>
+      <subject>
+         <topic>III-nitride compound semiconductors</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2201</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2201</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890383</identifier>
+      <identifier type="oclc">on1389890383</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111450.0</recordChangeDate>
+         <recordIdentifier>991000626245308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

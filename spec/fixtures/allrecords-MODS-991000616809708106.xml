@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Report on high energy arcing fault experiments</title>
+         <subTitle>experimental results from medium-voltage bus duct and switchgear
+                enclosures</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Taylor, Gabriel.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0001-0098-0075">
+         <namePart>Taylor, Gabriel.</namePart>
+         <nameIdentifier>(orcid)0009-0001-0098-0075</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9015-4959">
+         <namePart>Putorti Jr., Anthony.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9015-4959</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6667-7055">
+         <namePart>Bareham, Scott.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6667-7055</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0426-2249">
+         <namePart>Brown, Christopher U.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0426-2249</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3913-0243">
+         <namePart>Tam, Wai Cheong.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3913-0243</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7039-5835">
+         <namePart>Falkenstein-Smith, Ryan.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7039-5835</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0005-1698-1696">
+         <namePart>Fink, Stephen.</namePart>
+         <nameIdentifier>(orcid)0009-0005-1698-1696</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6279-5908">
+         <namePart>Heck, Michael.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6279-5908</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0001-0360-311X">
+         <namePart>Hnetkovsky, Edward.</namePart>
+         <nameIdentifier>(orcid)0009-0001-0360-311X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0001-9645-284X">
+         <namePart>Melly, Nicholas.</namePart>
+         <nameIdentifier>(orcid)0009-0001-9645-284X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0008-6042-4063">
+         <namePart>Hamburger, Kenneth.</namePart>
+         <nameIdentifier>(orcid)0009-0008-6042-4063</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Miller, Kenneth.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-09-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report documents an experimental program designed to investigate
+                high energy arcing fault (HEAF) phenomena for medium-voltage, metal-enclosed bus
+                ducts and switchgear. This report covers full-scale laboratory experiments using
+                representative nuclear power plant (NPP) three-phase electrical equipment.
+                Electrical, thermal, and pressure data were recorded for each experiment and
+                documented in this report. This report covers experiments performed on two
+                medium-voltage switchgear units and eight non-segregated phase bus ducts. The data
+                collected supports characterization of the medium-voltage HEAF hazard, and these
+                results will be used to complement the data used for HEAF hazard modeling tools and
+                support potential improvements in fire probabilistic risk assessment (PRA) methods.
+                The experiments were performed at KEMA Labs in Chalfont, Pennsylvania. The
+                experimental design, setup, and execution were performed by staff from the NRC, the
+                National Institute of Standards and Technology (NIST), Sandia National Laboratories
+                (SNL) and KEMA Labs. These experiments were sponsored by member countries of the
+                HEAF 2 international agreement under the auspices of the Organisation for Economic
+                Co-operation and Development (OECD). The HEAF experiments were performed between
+                August 22 and September 2, 2022. The HEAF experiments were performed on two
+                near-identical units of General Electric metal-clad medium-voltage switchgear and
+                eight units of non-segregated phase bus duct. A three-phase arcing fault was
+                initiated on the equipment’s bus bars. These experiments used nominal system
+                voltages of either 4.16 kV (AC) or 6.9 kV (AC). Arc durations in the experiments
+                ranged from approximately 2 s to 4 s with fault currents ranging from approximately
+                28 kA to 32 kA. Real-time electrical operating conditions, including voltage,
+                current, and frequency, were measured during the experiments. Heat fluxes and
+                incident energies were measured with plate thermometers and slug calorimeters at
+                various locations around the electrical enclosures. Particulate samples were taken
+                for subsequent analysis. The experiments were documented with normal and high-speed
+                videography, infrared imaging, and photography. Insights from the experimental
+                series include timing information related to enclosure breach, event progression,
+                mass loss measurements for electrodes and enclosures, peak pressure rise, along with
+                visual and thermal imaging data to better understand and characterize the hazard.
+                These results will be used to evaluate the adequacy of existing HEAF hazard modeling
+                tools and for potential improvements to fire probabilistic risk assessment methods
+                related to HEAF.</abstract>
+      <note type="statement of responsibility">Gabriel Taylor; Anthony Putorti Jr.; Scott Bareham; Christopher U.
+                Brown; Wai Cheong Tam; Ryan Falkenstein-Smith; Stephen Fink; Michael Heck; Edward
+                Hnetkovsky; Nicholas Melly; Kenneth Hamburger; Kenneth Miller.</note>
+      <note>September 2023.</note>
+      <note>Title from PDF title page (viewed November 30, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-09-06</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Electric lighting, Arc</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Switching circuits</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Electric arc</topic>
+      </subject>
+      <subject>
+         <topic>High energy arcing fault</topic>
+      </subject>
+      <subject>
+         <topic>Electrical enclosure</topic>
+      </subject>
+      <subject>
+         <topic>Bus duct</topic>
+      </subject>
+      <subject>
+         <topic>Fire probabilistic risk analysis</topic>
+      </subject>
+      <subject>
+         <topic>Fire probabilistic safety analysis</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2263</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2263</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1415979782</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111359.0</recordChangeDate>
+         <recordIdentifier>991000616809708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

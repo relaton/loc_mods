@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>framework for estimating the national economic benefits of ATP
+                funding of medical technologies: preliminary applications to tissue engineering
+                projects funded from 1990 to 1996, final report</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Martin, Sheila A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Martin, Sheila A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no92014346">
+         <namePart>Winfield, Daniel L. (Daniel Ludlam),</namePart>
+         <namePart type="date">1953-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no92014346</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Kenyon, Anne E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Farris, John R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bala, Mohan V.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2004053112">
+         <namePart>Bingham, Tayler H.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2004053112</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>1998.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Sheila A. Martin; Daniel L. Winfield; Anne E. Kenyon; John R. Farris;
+                Mohan V. Bala; Tayler H. Bingham.</note>
+      <note>April 1998.</note>
+      <note>Title from PDF title page (viewed January 5, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no95010830">
+         <name type="corporate">
+            <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+            <namePart>Advanced Technology Program.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/704832">
+         <name type="corporate">
+            <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+            <namePart>Advanced Technology Program.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85083046">
+         <topic>Medical technology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1014742">
+         <topic>Medical technology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003001133">
+         <topic>Tissue engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1151484">
+         <topic>Tissue engineering</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.97-737</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract report
+</title>
+            <partNumber>97-737</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1022267953</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180208</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180208094338.0</recordChangeDate>
+         <recordIdentifier>991000196119708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

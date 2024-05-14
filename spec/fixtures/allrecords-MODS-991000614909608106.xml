@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>An infrastructure for curating, querying, and augmenting document
+                data</title>
+         <subTitle>COVID-19 case study</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Subrahmanian, Eswaran.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4639-627X">
+         <namePart>Subrahmanian, Eswaran.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4639-627X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5241-6508">
+         <namePart>Sousa Amaral, Guillaume.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5241-6508</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)000-0002-8396-6622">
+         <namePart>Bhat, Talapady N.</namePart>
+         <nameIdentifier>(orcid)000-0002-8396-6622</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9271-1568">
+         <namePart>Brady, Kevin G.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9271-1568</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)">
+         <namePart>Brady Mary C.</namePart>
+         <nameIdentifier>(orcid)</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4794-8363">
+         <namePart>Collard, Jacob N.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4794-8363</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8434-5166">
+         <namePart>Chouder, Sarah.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8434-5166</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4565-1232">
+         <namePart>Dessauw, Philippe J.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4565-1232</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0547-3117">
+         <namePart>Dima, Alden A.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0547-3117</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5739-7000">
+         <namePart>Elliott, John T.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5739-7000</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3807-813X">
+         <namePart>Keyrouz, Walid.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3807-813X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4340-7674">
+         <namePart>Long, Benjamin.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4340-7674</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5904-2887">
+         <namePart>Sexton, Rachael.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5904-2887</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7031-4887">
+         <namePart>Lelouche, Nicolas J.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7031-4887</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8602-4748">
+         <namePart>Sriram, Ram D.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8602-4748</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory; Material Measurement Laboratory;
+                Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-08-08.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (41 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">With the advent of the COVID-19 pandemic, there was the hope that
+                data science approaches could help discover means for understanding, mitigating, and
+                treating the disease. This manifested itself in the creation of the COVID-19 Open
+                Research Dataset (CORD-19) which aggregated COVID-19- related scientific literature
+                for use by the data mining community. As a group of interdisciplinary informatics
+                researchers at NIST, we embarked on an effort to use our experience and previously
+                developed systems to explore whether we could enhance the CORD-19 data set and
+                facilitate its use. This effort produced a prototype scientific informatics system
+                that extended data curation, data repository, resource registry, term extraction and
+                indexing systems and resulted in a repackaging of CORD-19 as a Python data package.
+                This paper documents our efforts, provides lessons learned, and proposes a general
+                architecture for these types of systems.</abstract>
+      <note type="statement of responsibility">Eswaran Subrahmanian; Guillaume Sousa Amaral; Talapady N. Bhat; Mary
+                C. Brady; Kevin G. Brady; Jacob Collard; Sarra Chouder; Philippe Dessauw; Alden A.
+                Dima; John T. Elliott; Walid Keyrouz; Nicolas Lelouche; Benjamin Long; Rachael
+                Sexton; Ram Sriram.</note>
+      <note>August 2023.</note>
+      <note>Title from PDF title page (viewed November 7, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-08-04</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>COVID-19 (Disease)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer science</topic>
+      </subject>
+      <subject>
+         <topic>CORD-19</topic>
+      </subject>
+      <subject>
+         <topic>Curation</topic>
+      </subject>
+      <subject>
+         <topic>Infrastructure</topic>
+      </subject>
+      <subject>
+         <topic>Informatics</topic>
+      </subject>
+      <subject>
+         <topic>Search</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8479</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8479</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8479</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210884</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111405.0</recordChangeDate>
+         <recordIdentifier>991000614909608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

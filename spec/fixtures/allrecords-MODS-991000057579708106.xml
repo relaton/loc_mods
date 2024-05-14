@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>procedure for the effective recalibration of liquid-in-glass
+                thermometers</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85352113">
+         <namePart>Wise, Jacquelyn A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85352113</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85352113">
+         <namePart>Wise, Jacquelyn A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85352113</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1991</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1991.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">High quality liquid-in-glass thermometers require only one complete
+                calibration in their lifetime and it is possible to avoid the usual requirement for
+                complete recalibration of the instrument by the recalibration of a single previously
+                calibrated temperature. The need for recalibration of properly manufactured
+                liquid-in-glass thermometers is due to the gradual relaxation of residual mechanical
+                strains in the glass that have a significant effect on the volume of the bulb. The
+                recalibration of a single point provides a reliable indication of the effect of this
+                change in volume and provides a means for the accurate adjustment of the remainder
+                of the scale. The paper describes a procedure for the single temperature
+                recalibration of liquid-in-glass thermometers that can be performed in the user's
+                laboratory and the subsequent adjustment of the entire scale. The adjustment of the
+                scale that is required by the recent introduction of the new International
+                Temperature Scale (ITS-90) is also described.</abstract>
+      <note type="statement of responsibility">Jacquelyn A. Wise.</note>
+      <note>1991.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.819</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>819</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">926749445</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151026</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161137.0</recordChangeDate>
+         <recordIdentifier>991000057579708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

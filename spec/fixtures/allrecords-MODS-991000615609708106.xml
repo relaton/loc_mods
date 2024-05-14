@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Automated secure configuration guidance from the macOS security
+                compliance project</title>
+         <subTitle>(mSCP)</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Trapnell, Mark.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5266-3610">
+         <namePart>Trapnell, Mark.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5266-3610</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9315-3732">
+         <namePart>Trapnell, Eric.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9315-3732</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8055-8527">
+         <namePart>Souppaya, Murugiah.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8055-8527</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8928-6492">
+         <namePart>Gendler, Bob.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8928-6492</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Brodjieski, Dan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Golbig, Allen.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6334-9486">
+         <namePart>Scarfone, Karen.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6334-9486</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Heiserman, Blair.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Office of Information Systems Management</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New Edition.</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-07-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">The macOS Security Compliance Project (mSCP) provides resources that
+                system administrators, security professionals, security policy authors, information
+                security officers, and auditors can leverage to secure and assess macOS desktop and
+                laptop system security in an automated way. This publication introduces the mSCP and
+                gives an overview of the resources available from the project’s GitHub site, which
+                is continuously curated and updated to support each new release of macOS. The GitHub
+                site provides practical, actionable recommendations in the form of secure baselines
+                and associated rules. This publication also describes use cases for leveraging the
+                mSCP content. Updates from the previous version of this publication mainly involve
+                the new mSCP capability to create a custom benchmark by tailoring a
+                baseline.</abstract>
+      <note type="statement of responsibility">Mark Trapnell; Eric Trapnell; Murugiah Souppaya; Bob Gendler; Dan
+                Brodjieski; Allen Golbig; Karen Scarfone; Blair Heiserman.</note>
+      <note>July 2023.</note>
+      <note>Title from PDF title page (viewed November 13, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-06-29</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Software configuration management</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Information technology</topic>
+      </subject>
+      <subject>
+         <topic>Apple.</topic>
+      </subject>
+      <subject>
+         <topic>Baseline.</topic>
+      </subject>
+      <subject>
+         <topic>Configuration management.</topic>
+      </subject>
+      <subject>
+         <topic>Endpoint device security.</topic>
+      </subject>
+      <subject>
+         <topic>Information technology.</topic>
+      </subject>
+      <subject>
+         <topic>MacOS.</topic>
+      </subject>
+      <subject>
+         <topic>MacOS Security Compliance Project (mSCP).</topic>
+      </subject>
+      <subject>
+         <topic>Operating system security.</topic>
+      </subject>
+      <subject>
+         <topic>Security compliance.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-219r1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>800-219r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.SP.800-219r1</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-219r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210741</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111402.0</recordChangeDate>
+         <recordIdentifier>991000615609708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

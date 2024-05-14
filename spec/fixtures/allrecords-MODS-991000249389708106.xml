@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Accelerating scientific discovery through computation and
+                visualization</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2003032268">
+         <namePart>Sims, James S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2003032268</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2003032268">
+         <namePart>Sims, James S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2003032268</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Hagedorn, John G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ketcham, Peter M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Satterfield, Steven G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grifin, Terence J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2005016406">
+         <namePart>George, William L. (William Lowry)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2005016406</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007075776">
+         <namePart>Fowler, Howland A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007075776</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ende, Barbara A. am.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83650011">
+         <namePart>Hung, Howard K.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n83650011</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Bouldinl, Robert B. Bohnl John E. Koontzl Nicos S. Martysl Charles
+                E.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88141877">
+         <namePart>Warren, James A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88141877</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Feder, David L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Clark, Charles W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Filla, B. James.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no99041021">
+         <namePart>Devaney, Judith E. (Judith Ellen),</namePart>
+         <namePart type="date">1943-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no99041021</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2001</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2001.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">James S. Sims; John G. Hagedorn; Peter M. Ketcham; Steven G.
+                Satterfield; Terence J. Grifin; William L. George; Howland A. Fowler; Barbara A. am
+                Ende; Howard K. Hung; Robert B. Bohnl John E. Koontzl Nicos S. Martysl Charles E.
+                Bouldinl; James A. Warren; David L. Feder; Charles W. Clark; B. James Filla; Judith
+                E. Devaney.</note>
+      <note>January 22, 2001.</note>
+      <note>Title from PDF title page (viewed June 5, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh95008935">
+         <topic>High performance computing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/956032">
+         <topic>High performance computing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.6709</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>6709</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">714801851</identifier>
+      <identifier type="oclc">994303408</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190912</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200114084209.0</recordChangeDate>
+         <recordIdentifier>991000249389708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

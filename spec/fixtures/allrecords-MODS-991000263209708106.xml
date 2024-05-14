@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of Standard Reference Material 2859 and Standard
+                Reference Material 2861 restricted elements in polyvinyl chloride</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sieber, John R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sieber, John R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Molloy, John L.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bibb, Caroline E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boyce, Matthew W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Heckert, N. Alan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology has issued its
+                first Standard Reference Materials for elemental analysis of polyvinyl chloride
+                (PVC). The custom designed PVC blends contain elements regulated in consumer
+                products by the United States, the European Union, and other governments worldwide.
+                The regulated elements are antimony, arsenic, barium, bromine, cadmium, chromium,
+                lead, mercury, and selenium. Also, present in the PVC blend are elements from
+                performance additives: calcium, sulfur, and tin; and from contaminants: copper, and
+                iron. The development and certification project was designed and coordinated by NIST
+                with technical assistance from the U.S. Consumer Product Safety Commission,
+                Underwriters' Laboratories and the University of Washington Physics Department. This
+                report describes how the PVC blends were designed, manufactured, packaged, analyzed,
+                and value-assigned. Users will find descriptions of material heterogeneity testing
+                and information from several test methods used for quantitative analyses of the PVC
+                blends. The SRMs are available for purchase with one unit consisting of a single
+                bottle containing 25 g of extruded pellets. In addition to describing the
+                development of these SRMs, this report describes a process for creating calibrations
+                for X-ray fluorescence spectrometry with mass fraction values traceable to the
+                International System of Units using NIST SRM 3100 series, single element,
+                spectrometric solutions. After the issuance of the SRMs, they were analyzed to
+                obtain the mass fraction values for hexavalent chromium using a new, high-resolution
+                X-ray emission method. The new method is described briefly with reference given to a
+                detailed journal publication.</abstract>
+      <note type="statement of responsibility">John R. Sieber; John L. Molloy; Caroline E. Bibb; Matthew W. Boyce;
+                N. Alan Heckert.</note>
+      <note>April 2020.</note>
+      <note>Title from PDF title page (viewed April 30, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85104742">
+         <topic>Polyvinyl chloride</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1070840">
+         <topic>Polyvinyl chloride</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85107207">
+         <topic>Product safety</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1078248">
+         <topic>Product safety</topic>
+      </subject>
+      <subject>
+         <topic>Elemental analysis</topic>
+      </subject>
+      <subject>
+         <topic>Homogeneity testing</topic>
+      </subject>
+      <subject>
+         <topic>Inductively coupled plasma optical emission spectrometry
+                (ICPOES)</topic>
+      </subject>
+      <subject>
+         <topic>Oxidation state</topic>
+      </subject>
+      <subject>
+         <topic>Restricted substances</topic>
+      </subject>
+      <subject>
+         <topic>X-ray emission spectrometry (XES)</topic>
+      </subject>
+      <subject>
+         <topic>X-ray fluorescence spectrometry (XRF)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-200</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-200</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858922</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102145936.0</recordChangeDate>
+         <recordIdentifier>991000263209708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Recommendation for the Triple Data Encryption Algorithm (TDEA) block
+                cipher</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Barker, Elaine.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barker, Elaine.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mouha, Nicky.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This publication specifies the Triple Data Encryption Algorithm
+                (TDEA), including its primary component cryptographic engine, the Data Encryption
+                Algorithm (DEA). TDEA is intended to be used with a Special Publication (SP)
+                800-38-series-compliant mode of operation in a Federal Information Processing
+                Standard (FIPS) 140-2-compliant cryptographic module, TDEA may be used by federal
+                organizations to protect sensitive unclassified data. Protection of data during
+                transmission or while in storage may be necessary to maintain the confidentiality
+                and integrity of the information represented by the data. This Recommendation
+                defines the mathematical steps required to cryptographically protect data using TDEA
+                and to subsequently process such protected data. TDEA is made available for use by
+                federal agencies within the context of a total security program consisting of
+                physical security procedures, good information management practices, and computer
+                system/network access controls.</abstract>
+      <note type="statement of responsibility">Elaine Barker; Nicky Mouha.</note>
+      <note>November 2017.</note>
+      <note>Title from PDF title page (viewed November 17, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh89003285">
+         <topic>Computer science</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872451">
+         <topic>Computer science</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034453">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/884552">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh94001524">
+         <topic>Data encryption (Computer science)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/887935">
+         <topic>Data encryption (Computer science)</topic>
+      </subject>
+      <subject>
+         <topic>Block cypher</topic>
+      </subject>
+      <subject>
+         <topic>Triple data encryption algorithm</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-67r2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-67r2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1014186096</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">171207</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120952.0</recordChangeDate>
+         <recordIdentifier>991000192629708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

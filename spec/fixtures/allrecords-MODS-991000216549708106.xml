@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Influence of fire on the lateral resistance of cold-formed steel
+                shear walls ⁰₃ phase 2</title>
+         <subTitle>oriented strand board, strap braced, and gypsum-sheet steel composite
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hoehler, Matthew S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hoehler, Matthew S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Andres, Blanca.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bundy, Matthew F.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report presents experimental investigations of the performance
+                of cold-formed steel lateral force-resisting systems (CFS-LRFS) under combinations
+                of simulated earthquake and fire loading. Three types of shear wall systems are
+                investigated: gypsum-sheet steel composite panel sheathed walls, oriented strand
+                board (OSB) sheathed walls, and steel strap braced walls. Twenty-two 2.7 m tall by
+                3.7 m long test specimens are subjected sequentially to combinations of mechanical
+                (cyclic shear deformation) and thermal (fire) load. The mechanical loading setup and
+                protocol are based on ASTM E2126 Method C (CUREE Basic Loading Protocol). Fire loads
+                of varying intensity that represent the characteristics of actual fires are
+                investigated. The work is a step toward developing fragility curves (representations
+                of the probability of exceeding a given damage state as a function of an engineering
+                demand parameter) for these systems and is essential for performance-based design
+                for fire.</abstract>
+      <note type="statement of responsibility">Matthew S. Hoehler; Blanca Andres; Matthew F. Bundy.</note>
+      <note>March 2019.</note>
+      <note>Title from PDF title page (viewed March 1, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85127753">
+         <topic>Steel</topic>
+         <topic>Cold working</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1132480">
+         <topic>Steel</topic>
+         <topic>Cold working</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98003737">
+         <topic>Fire protection engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925515">
+         <topic>Fire protection engineering</topic>
+      </subject>
+      <subject>
+         <topic>Fire following earthquake</topic>
+      </subject>
+      <subject>
+         <topic>Gypsum-sheet steel composite panel</topic>
+      </subject>
+      <subject>
+         <topic>Performance-based design</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2038</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2038</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1097556740</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190417</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190417041851.0</recordChangeDate>
+         <recordIdentifier>991000216549708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

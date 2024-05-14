@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Minimum live loads allowable for use in design of buildings
+</title>
+         <subTitle>report of building code committee November 1, 1925</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n91116602">
+         <namePart>Woolson, Ira H. (Ira Harvey),</namePart>
+         <namePart type="date">1856-1927</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n91116602</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91116602">
+         <namePart>Woolson, Ira H. (Ira Harvey),</namePart>
+         <namePart type="date">1856-1927</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n91116602</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n78003877">
+         <namePart>Brown, Edwin H.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n78003877</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021136700">
+         <namePart>Miller, Rudolph P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021136700</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no90005264">
+         <namePart>Hatt, William Kendrick.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no90005264</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008044456">
+         <namePart>Newlin, J. A. (John A.),</namePart>
+         <namePart type="date">1872-1943</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008044456</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87890932">
+         <namePart>Kahn, Albert.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87890932</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021136701">
+         <namePart>Worcester, Joseph R.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021136701</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020066469">
+         <namePart>Cartwright, Frank P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020066469</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91072306">
+         <namePart>Gries, John M. (John Matthew),</namePart>
+         <namePart type="date">1877-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n91072306</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1925</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1925.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Ira H. Woolson; Edwin H. Brown; Rudolph P. Miller; William K. Hatt;
+                John A. Newlin; Albert Kahn; Joseph R. Worcester; Frank P. Cartwright; John M.
+                Gries.</note>
+      <note>1925.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.BH.7</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS building and housing; NBS BH</title>
+            <partNumber>7</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927735219</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20151105023936.0</recordChangeDate>
+         <recordIdentifier>991000076709708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

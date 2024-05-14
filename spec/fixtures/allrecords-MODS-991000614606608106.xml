@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Food nutrition and safety measurements quality assurance program
+</title>
+         <subTitle>exercise 1 final report</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Sallee, Colleen E. Bryan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2334-3925">
+         <namePart>Sallee, Colleen E. Bryan.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2334-3925</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0477-7637">
+         <namePart>Phillips, Melissa.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0477-7637</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Barber, Charles A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0843-9224">
+         <namePart>Burdette, Carolyn Q.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0843-9224</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Kotoski, Shaun P.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wood, Laura J.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-03-22.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (136 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Food Nutrition and Safety Measurements Quality Assurance Program
+                (FNSQAP) was launched in 2021. FNSQAP was established to assist laboratories in the
+                development and validation of new analytical methods, in improving the quality of
+                their analytical measurements, and in supporting compliance with federal regulations
+                enforced by the US FDA, USDA, and other international bodies. Exercise 1 of this
+                program offered the opportunity for laboratories to assess their in-house
+                measurements of nutritional elements (calcium, iron, potassium, and sodium), toxic
+                elements (arsenic, cadmium, lead, and mercury), water-soluble vitamins (folic acid),
+                fat-soluble vitamins (vitamin K), contaminants (glyphosate and acrylamide), and
+                dietary fiber in food and infant formula samples.</abstract>
+      <note type="statement of responsibility">Colleen E. Bryan Sallee; Melissa M. Phillips; Charles A. Barber;
+                Carolyn Q. Burdette; Shaun P. Kotoski; Laura J. Wood.</note>
+      <note>March 2023.</note>
+      <note>Title from PDF title page (viewed April 13, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-03-17</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fiber in human nutrition</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Vitamins, Fat-soluble</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Infant formulas</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Vitamins, Water-soluble</topic>
+      </subject>
+      <subject>
+         <topic>Food Nutrition and Safety Measurements Quality Assurance Program
+                (FNSQAP)</topic>
+      </subject>
+      <subject>
+         <topic>Contaminants</topic>
+      </subject>
+      <subject>
+         <topic>Nutritional elements</topic>
+      </subject>
+      <subject>
+         <topic>Toxic elements</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8447</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8447</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859188</identifier>
+      <identifier type="oclc">on1405859188</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111407.0</recordChangeDate>
+         <recordIdentifier>991000614606608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

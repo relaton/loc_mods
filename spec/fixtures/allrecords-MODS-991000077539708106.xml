@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Secure Domain Name System (DNS) deployment guide</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2015202084">
+         <namePart>Candramauḷi, Ār.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2015202084</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2015202084">
+         <namePart>Candramauḷi, Ār.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2015202084</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Rose, S. W.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2010</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2010.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document provides deployment guidelines for securing the Domain
+                Name System (DNS) in any enterprise a government agency or a corporate entity. The
+                deployment guidelines follow from an analysis of security objectives and consequent
+                protection approaches for all DNS components. This document was originally published
+                in May 2006. Since then the following IETF RFCs , FIPS and NIST Cryptographic
+                guidance documents have been published and this revision takes into account the
+                specifications and recommendations found in those documents - DNNSEC Operational
+                Practices (RFC 4641), Automated Updates for DNS Security (DNSSEC) Trust Anchors (RFC
+                5011), DNS Security (DNSSEC)Hashed Authenticated Denial of Existence (RFC 5155),
+                HMAC SHA TSIG Algorithm Identifiers (RFC 4635), The Keyed-Hash Message
+                Authentication Code (HMAC) (FIPS 198-1), Digital Signature Standard (FIPS 186-3) and
+                Recommendations for Key Management (SP 800-57P1 &amp; SP 800-57P3). In addition this
+                revision provides illustrations of Secure configuration examples using DNS Software
+                offering NSD, in addition to BIND, guidelines on Procedures for migrating to a new
+                Cryptographic Algorithm for signing of the Zone (Section 11.5), guidelines for
+                Procedures for migrating to NSEC3 specifications from NSEC for providing
+                authenticated denial of existence (Section 11.6) and deployment guidelines for
+                Split-Zone under different scenarios (Section 11.7).</abstract>
+      <note type="statement of responsibility">R. Chandramouli; S. W. Rose.</note>
+      <note>2010.</note>
+      <note>Superseded by NIST Special Publication 800-81-2.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Checklists</topic>
+      </subject>
+      <subject>
+         <topic>Denial of service</topic>
+      </subject>
+      <subject>
+         <topic>DNS</topic>
+      </subject>
+      <subject>
+         <topic>DNS Security Extensions</topic>
+      </subject>
+      <subject>
+         <topic>DNSSEC</topic>
+      </subject>
+      <subject>
+         <topic>Domain Name System</topic>
+      </subject>
+      <subject>
+         <topic>Information system security</topic>
+      </subject>
+      <subject>
+         <topic>Internet Protocol (IP)</topic>
+      </subject>
+      <subject>
+         <topic>Risks</topic>
+      </subject>
+      <subject>
+         <topic>Vulnerabilities</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-81r1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-81r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">927736504</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120954.0</recordChangeDate>
+         <recordIdentifier>991000077539708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

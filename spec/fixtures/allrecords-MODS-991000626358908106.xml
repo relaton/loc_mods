@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Aprendiendo del impacto del hurac n Mar a en Puerto Rico</title>
+         <subTitle>un informe de progreso</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Main, Joseph A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Main, Joseph A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dillard, Maria.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kuligowski, Erica D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Davis, Benjamin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dukes, Jazalyn.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Harrison, Kenneth.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Helgeson, Jennifer.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Johnson, Katherine.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Levitan, Marc.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mitrani-Reiser, Judith.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Weaver, Scott.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yeo, DongHun.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Aponte-Berm dez, Luis D.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cline, Joel.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kirsch, Thomas.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource :</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Joseph A. Main; Maria Dillard; Erica D. Kuligowski; Benjamin Davis;
+                Jazalyn Dukes; Kenneth Harrison; Jennifer Helgeson; Katherine Johnson; Marc Levitan;
+                Judith Mitrani-Reiser; Scott Weaver; DongHun Yeo; Luis D. Aponte-Berm dez; Joel
+                Cline; Thomas Kirsch.</note>
+      <note>Title from PDF title page (viewed March 14, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1262es</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1262es</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427207503</identifier>
+      <identifier type="oclc">on1427207503</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111505.0</recordChangeDate>
+         <recordIdentifier>991000626358908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

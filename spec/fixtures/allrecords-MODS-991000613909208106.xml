@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Preparation and standardization of 229Th SRM 4328d</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Colle, Ronald.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0829-0981">
+         <namePart>Colle, Ronald.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0829-0981</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1424-7613">
+         <namePart>Laureano-Perez, Lizbeth.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1424-7613</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6528-6271">
+         <namePart>DiGiorgio, Morgan.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6528-6271</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-02-24.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The certified massic activity for 229Th in SRM 4328d was obtained by
+                4παβ liquid scintillation (LS) counting by comparative measurements in 2022 against
+                SRM 4328c. Both SRMs were prepared from the identical 2007 229Th stock solution. SRM
+                4328c was standardized in 2007 by live-timed anticoincidence counting (a primary
+                standardization method) with confirmatory measurements by four other methods. The
+                comparative measurements were performed using two different commercial LS counters
+                and with LS counting sources prepared with two different cocktail compositions.
+                Homogeneity of SRM 4328d was confirmed by photonic emission spectrometry of the SRM
+                ampoules with a NaI(Tl) well counter. The certified massic activity of 229Th in SRM
+                4328d, based on the decay-corrected certified value for SRM 4328c, is (41.19 ± 0.41)
+                Bq·g-1 at k = 2 as of 1200 EST, 14 July 2022. This report documents the preparation,
+                standardization, and certification of SRM 4328d.</abstract>
+      <note type="statement of responsibility">Ronald Colle; Lizbeth Laureano-Perez; Morgan DiGiorgio.</note>
+      <note>February 2023.</note>
+      <note>Title from PDF title page (viewed September 28, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-02-23</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard Reference Materials Program (National Institute of Standards
+                and Technology (U.S.))</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Radioactivity</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Metrology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Liquid scintillators</topic>
+      </subject>
+      <subject>
+         <topic>Thorium-229</topic>
+      </subject>
+      <subject>
+         <topic>Activity</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-235</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>260-235</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-235</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253753</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111403.0</recordChangeDate>
+         <recordIdentifier>991000613909208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

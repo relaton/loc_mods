@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Automated driving system safety measurement part I</title>
+         <subTitle>operating envelope specification</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Griffor, Edward.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Griffor, Edward.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wollman, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Greer, Christopher.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-12-02.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (24 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The safety of Automated Driving System (ADS) equipped vehicles and
+                reliable methods for assessing that safety are critical for successfully deploying
+                these engineered systems into the market. This document presents a novel approach
+                for developing an ADS safety measurement methodology, which came from the NIST
+                Automated Driving System Safety Measurement (ADSSM) Technical Working Group. The new
+                approach brings together the concept of an Operating Envelope Specification (OES) a
+                structured description of environmental factors or aspects that an ADS may encounter
+                during operation and the NIST Framework for Cyber-Physical Systems.</abstract>
+      <note type="statement of responsibility">Edward Griffor; David Wollman; Christopher Greer.</note>
+      <note>December 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-11-19</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cooperating objects (Computer systems)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Motor vehicles</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Safety measures</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Automated vehicles</topic>
+      </subject>
+      <subject>
+         <topic>Automated driving system (ADS)</topic>
+      </subject>
+      <subject>
+         <topic>Automated Driving System safety measurement</topic>
+      </subject>
+      <subject>
+         <topic>Operational design domain (ODD)</topic>
+      </subject>
+      <subject>
+         <topic>Operating envelope specification (OES)</topic>
+      </subject>
+      <subject>
+         <topic>Vehicle safety measurement</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1900-301</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1900-301</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890188</identifier>
+      <identifier type="oclc">on1389890188</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111524.0</recordChangeDate>
+         <recordIdentifier>991000626409708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

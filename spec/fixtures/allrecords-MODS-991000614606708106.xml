@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Magnetic resonance imaging biomarker calibration service</title>
+         <subTitle>NMR measurement of isotropic water diffusion coefficient</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Boss, Michael A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boss, Michael A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9070-5255">
+         <namePart>Keenan, Kathryn E.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9070-5255</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8356-1660">
+         <namePart>Stupic, Karl F.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8356-1660</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Rentz, Nikki S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Stoffer, Cassandra M.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8788-2442">
+         <namePart>Russek, Stephen E.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8788-2442</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9515-0383">
+         <namePart>Koepke, Amanda A.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9515-0383</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3787-2577">
+         <namePart>Coakley, Kevin J.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3787-2577</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-10-03.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (90 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document describes a calibration service to measure the water
+                diffusion coefficient, or diffusivity, in reference materials and tissue mimics
+                using nuclear magnetic resonance (NMR) techniques. This calibration is restricted to
+                materials which exhibit isotropic Gaussian water diffusion. The measurement uses the
+                water proton spin as a tag and standard NMR gradient techniques to measure diffusion
+                of the proton magnetization, which, in low viscosity fluids, is largely determined
+                by the physical diffusion of water molecules. The calibrated materials are meant to
+                be used in phantoms (calibration devices) to verify the accuracy of magnetic
+                resonance imaging (MRI)-based water diffusion measurements. The local diffusion
+                coefficient (often referred to as the apparent diffusion coefficient in complex
+                materials) and other associated parameters, are used as image-based biomarkers to
+                assess the state of tissue cellular density, detect tissue anomalies, characterize
+                tumor type, evaluate treatment efficacy, and assess neural connectivity and neural
+                tissue degeneration. A biomarker, as defined by the U.S. Food and Drug
+                Administration, is a characteristic that is objectively measured and evaluated as an
+                indicator of normal biological processes, pathogenic processes, or biological
+                responses to a therapeutic intervention. [1] Diffusion coefficients, which describe
+                the rate that water protons move due to random thermal motion, are phenomenological
+                parameters that must be carefully defined and measured to enable rigorous
+                quantification and their use as biomarkers for clinical decision making. Diffusion
+                parameters, in addition to being dependent on local material properties, are
+                dependent on environmental parameters such as temperature, which must be controlled
+                and precisely and accurately measured.</abstract>
+      <note type="statement of responsibility">Michael A. Boss; Kathryn E. Keenan; Karl F. Stupic; Nikki S. Rentz;
+                Cassandra M. Stoffer; Stephen E. Russek; Amanda A. Koepke; Kevin J.
+                Coakley.</note>
+      <note>March 2023.</note>
+      <note>Title from PDF title page (viewed April 13, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-11-19</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Biochemical markers</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Magnetic resonance imaging</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Nuclear magnetic resonance</topic>
+      </subject>
+      <subject>
+         <topic>Water diffusion</topic>
+      </subject>
+      <subject>
+         <topic>Proton magnetization diffusion</topic>
+      </subject>
+      <subject>
+         <topic>MRI phantoms</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.250-100</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>250-100</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859187</identifier>
+      <identifier type="oclc">on1405859187</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111409.0</recordChangeDate>
+         <recordIdentifier>991000614606708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

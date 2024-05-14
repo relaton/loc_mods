@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Standard reference materials</title>
+         <subTitle>uranium-235 isotope abundance standard reference materials for gamma
+                spectrometry measurements</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022000177">
+         <namePart>Connolly, V. E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022000177</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022087519">
+         <namePart>DeBievre, P.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022087519</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002884">
+         <namePart>Eschbach, H. L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022002884</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022017949">
+         <namePart>Gramlich, J. W.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022017949</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113184">
+         <namePart>Machlan, L. A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021113184</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr90009210">
+         <namePart>Meyer, H.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr90009210</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n94006824">
+         <namePart>Trahey, N. M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n94006824</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022067389">
+         <namePart>Van Audenhove, J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022067389</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022047281">
+         <namePart>Zook, A. Creig.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022047281</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79100480">
+         <namePart>Carpenter, B. Stephen.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79100480</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1986</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>1986.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">B. S. Carpenter; J. W. Gramlich; L. A. Machlan; P. DeBievre,H. L.
+                Eschbach,H. Meyer,J. Van Audenhove,V. E. Connolly,N. M. Trahey,A. C.
+                Zook.</note>
+      <note>1986.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.SP.260-96</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS special publication; NBS special pub; NBS SP</title>
+            <partNumber>260-96</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">926740553</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151026</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20151026025816.0</recordChangeDate>
+         <recordIdentifier>991000061349708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

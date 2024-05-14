@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Formal methods for statistical software</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2005073624">
+         <namePart>Black, Paul E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2005073624</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2005073624">
+         <namePart>Black, Paul E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2005073624</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="fast">Software.</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Statistical software encompasses several distinct classes of
+                software. This report explains what formal methods, tools, and approaches may be
+                able to increase assurance of results of using statistical software and implementing
+                differential privacy. To provide context, we present an exemplary process for
+                assured results. The parts are data assurance, algorithm design, software
+                production, correctness proofs, postproduction assurance of software, and result
+                checking. We note a workshop we organized to support this paper and finish with
+                recommended formal methods, tools, and researchers doing particularly pertinent
+                work.</abstract>
+      <note type="statement of responsibility">Paul E. Black.</note>
+      <note>October 2019.</note>
+      <note>Title from PDF title page (viewed October 17, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99003622">
+         <topic>Formal methods (Computer science)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/932926">
+         <topic>Formal methods (Computer science)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010113696">
+         <topic>Social sciences</topic>
+         <topic>Statistical methods</topic>
+         <genre>Software</genre>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1122983">
+         <topic>Social sciences</topic>
+         <topic>Statistical methods</topic>
+      </subject>
+      <subject>
+         <topic>Correctness proofs</topic>
+      </subject>
+      <subject>
+         <topic>Software assurance</topic>
+      </subject>
+      <subject>
+         <topic>Differential privacy</topic>
+      </subject>
+      <subject>
+         <topic>Software quality</topic>
+      </subject>
+      <subject>
+         <topic>Static analysis</topic>
+      </subject>
+      <subject>
+         <topic>Static source code analyzers</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8274</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8274</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132805824</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20191223014819.0</recordChangeDate>
+         <recordIdentifier>991000232259708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

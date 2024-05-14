@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Securing the digital threat for smart manufacturing</title>
+         <subTitle>a reference model for blockchain-based product data traceability
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Krima, Sylvere.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Krima, Sylvere.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9024-2059">
+         <namePart>Hedberg, Thomas,</namePart>
+         <namePart type="termsOfAddress">Jr.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9024-2059</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0866-9572">
+         <namePart>Barnard Feeney, Allison.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0866-9572</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Manufacturing is moving to a digital paradigm where data is produced
+                and consumed faster than ever. Managing this quantity of data is critical to daily
+                operations and requires access to trustworthy data. Data management is an
+                rapidly-evolving field that is adapting to support new requirements and the
+                exponentially increasing quantity of data. The technologies and strategies to manage
+                data are diverse--from a centralized database and single source of truth, to
+                distributed systems and cloud storage/computing--and each with their own strengths
+                and flaws. While a single-source-of-truth can easily be corrupted or tampered with,
+                distributed systems often face synchronization issues. Organizations that deal with
+                large amounts of data must identify these strengths and flaws accurately to find the
+                best solutions. In this paper, we discuss blockchain, the foundation of the bitcoin
+                electronic currency, as a data management technology. Blockchain is a distributed
+                storage framework that is virtually tamper resistant, has a native
+                synchronization-discrepancy-resistance mechanism and is already highly praised in
+                the financial world. We explore opportunities in the manufacturing area where
+                digital product data is becoming a critical asset and present our initial assessment
+                and early recommendations on how to record product data transactions on a
+                blockchain.</abstract>
+      <note type="statement of responsibility">Sylvere Krima; Thomas Hedberg; Allison Barnard Feeney.</note>
+      <note>February 2019.</note>
+      <note>Title from PDF title page (viewed February 5, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00009202">
+         <topic>Information modeling</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/972569">
+         <topic>Information modeling</topic>
+      </subject>
+      <subject>
+         <topic>Data traceability</topic>
+      </subject>
+      <subject>
+         <topic>Blockchain</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.300-6</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>300-6</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1085510855</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190212</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190212115452.0</recordChangeDate>
+         <recordIdentifier>991000203589708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

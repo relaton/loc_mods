@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Experimental design for measuring the voltage and current waveforms
+                of appliance usage in the NIST Net-Zero Energy Residential Test Facility
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Omar, Farhad.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Omar, Farhad.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-09-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (23 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Buildings as a set of electric loads and sources can play an
+                essential role in managing the stability of the power system in a smart grid.
+                Traditionally, buildings assumed a passive rule in the day-to-day operation of the
+                electric grid. Utilities controlled the supply of energy to match the demand of
+                buildings. However, the power distribution grid dynamics are rapidly changing due to
+                an increase in the integration of renewable energy, electric vehicles, and
+                non-linear loads. This technical note only describes the experimental set up for
+                measuring the voltage and current waveform data resulting from the operation of a
+                two-stage air-source heat pump, a clothes dryer, a clothes washer, a refrigerator, a
+                photovoltaic inverter, and a dishwasher. The experimental measurement set up is
+                designed for the Net-Zero Energy Residential Test Facility (NZERTF) on the National
+                Institute of Standards and Technology (NIST) campus in Gaithersburg, MD. Future
+                results are intended to develop better load forecasting models and analyze the
+                propagation of power quality issues on both sides of the utility meter while
+                operating these appliances. The technical note also provides information about the
+                gain and frequency response of the voltage and current sensors as well as the
+                uncertainty of measurement.</abstract>
+      <note type="statement of responsibility">Farhad Omar.</note>
+      <note>September 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-09-26</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Frequency response (Electrical engineering)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Measurement uncertainty (Statistics)</topic>
+      </subject>
+      <subject>
+         <topic>Current data</topic>
+      </subject>
+      <subject>
+         <topic>Experimental data</topic>
+      </subject>
+      <subject>
+         <topic>Monitoring system</topic>
+      </subject>
+      <subject>
+         <topic>Sensor gains</topic>
+      </subject>
+      <subject>
+         <topic>Voltage data</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2238</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2238</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890492</identifier>
+      <identifier type="oclc">on1389890492</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111512.0</recordChangeDate>
+         <recordIdentifier>991000626253308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

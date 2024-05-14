@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Resilience for critical facilities</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Scott, Donald R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scott, Donald R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cerino, A. Christopher.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pekelnicky, Robert G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Yu, Kent.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-01-24.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (203 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The three categories of critical facilities addressed in this
+                document are hospitals, K-12 educational facilities, and data centers. This review
+                focuses on both requirements for new building design as well as for existing
+                building renovations or additions for the flood, wind, and seismic hazards. An
+                overall review of current design practices for these three categories of critical
+                facilities within our communities is discussed, along with some of the best
+                practices currently being utilized to provide more resilience within these
+                facilities. The target audience of this report includes industry associations,
+                design professionals, building code officials, city planners, and
+                researchers.</abstract>
+      <note type="statement of responsibility">Donald R. Scott; A. Christopher Cerino; Robert G. Pekelnicky; Kent
+                Yu.</note>
+      <note>January 2023.</note>
+      <note>Title from PDF title page (viewed May 25, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-01-24</note>
+      <note type="funding">Contract number 1333ND18DNB630011</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Building laws</topic>
+      </subject>
+      <subject>
+         <topic>Critical facilities</topic>
+      </subject>
+      <subject>
+         <topic>Building codes and standards</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.23-037</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract
+                report</title>
+            <partNumber>23-037</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859180</identifier>
+      <identifier type="oclc">on1405859180</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111405.0</recordChangeDate>
+         <recordIdentifier>991000614606308106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

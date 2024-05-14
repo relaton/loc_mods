@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Challenges and approaches for particle size analysis on micrographs
+                of nanoparticles loaded onto textile surfaces</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Underwood, Samuel J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Underwood, Samuel J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gorham, Justin M.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This NIST Special Publication (SP) is one in a series of NIST SPs
+                that address research needs articulated in the National Nanotechnology Initiative
+                (NNI) Environmental, Health, and Safety Research Strategy published in 2011[1]. This
+                Strategy identified a Nanomaterial Measurement Infrastructure (NMI) as essential for
+                science-based risk assessment and risk management of nanotechnology-enabled products
+                as pertaining to human health, exposure, and the environment. NIST was identified as
+                the lead federal agency in the NMI core research area of the Strategy. This research
+                area includes development of measurement tools for the detection and
+                characterization of engineered nanomaterials in nanotechnology-enabled products.
+                Textiles containing silver nanoparticles are consumer products of great interest for
+                nanotechnology environmental, health, and safety (nano-EHS) research and for product
+                regulation. Detection and characterization of these nanomaterials is a focus of this
+                SP The protocol in this SP describes challenges and solutions for acquiring and
+                analyzing microscope images of nanoparticles to give particle size distributions. An
+                example methodology is also proposed which is designed to be high throughput and
+                internally consistent while minimizing the number of subjective choices. While this
+                protocol was developed with the AgNP- loaded textile system in mind, the strategies
+                described herein could be applied to particles of any size, and the required
+                micrographs could be gathered via SEM, TEM, light microscopy, or myriad other
+                techniques</abstract>
+      <note type="statement of responsibility">Samuel J. Underwood; Justin M. Gorham.</note>
+      <note>May 2017.</note>
+      <note>Title from PDF title page (viewed May 31, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85042221">
+         <topic>Electron microscopy</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/906682">
+         <topic>Electron microscopy</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93000864">
+         <topic>Nanostructured materials</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1032630">
+         <topic>Nanostructured materials</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002000242">
+         <topic>Nanoscience</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1032629">
+         <topic>Nanoscience</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85089689">
+         <topic>Nanoparticles</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1032624">
+         <topic>Nanoparticles</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85134321">
+         <topic>Textile fabrics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1148636">
+         <topic>Textile fabrics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh88006884">
+         <topic>Consumer goods</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/876326">
+         <topic>Consumer goods</topic>
+      </subject>
+      <subject>
+         <topic>Size analysis</topic>
+      </subject>
+      <subject>
+         <topic>ImageJ</topic>
+      </subject>
+      <subject>
+         <topic>fillin</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1200-22</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1200-22</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">988944064</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170605</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163203.0</recordChangeDate>
+         <recordIdentifier>991000190149708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

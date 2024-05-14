@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Recommendation for applications using approved hash algorithms
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Dang, Q. H.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dang, Q. H.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2009</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2009.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Cryptographic hash functions that compute a fixed- length message
+                digest from arbitrary length messages are widely used for many purposes in
+                information security. This document provides security guidelines for achieving the
+                required or desired security strengths when using cryptographic applications that
+                employ the approved cryptographic hash functions specified in Federal Information
+                Processing Standard (FIPS) 180-3. These include functions such as digital signature
+                applications, Keyed-hash Message Authentication Codes (HMACs) and Hash-based Key
+                Derivation Functions (HKDFs).</abstract>
+      <note type="statement of responsibility">Q. H. Dang.</note>
+      <note>2009.</note>
+      <note>Superseded by NIST Special Publication 800-107r1.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Cryptographic hash function</topic>
+      </subject>
+      <subject>
+         <topic>Digital signatures</topic>
+      </subject>
+      <subject>
+         <topic>Hash algorithms</topic>
+      </subject>
+      <subject>
+         <topic>Hash function</topic>
+      </subject>
+      <subject>
+         <topic>Hash value</topic>
+      </subject>
+      <subject>
+         <topic>Hash-based key derivation algorithms</topic>
+      </subject>
+      <subject>
+         <topic>HMAC</topic>
+      </subject>
+      <subject>
+         <topic>Message digest</topic>
+      </subject>
+      <subject>
+         <topic>Randomized hashing</topic>
+      </subject>
+      <subject>
+         <topic>Random number generation</topic>
+      </subject>
+      <subject>
+         <topic>SHA</topic>
+      </subject>
+      <subject>
+         <topic>Truncated hash values</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-107</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-107</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">516352778</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120941.0</recordChangeDate>
+         <recordIdentifier>991000077729708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

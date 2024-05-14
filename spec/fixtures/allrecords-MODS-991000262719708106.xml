@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Assessing the predictive capability for real-scale residential
+                upholstered furniture mock-up fires using cone calorimeter measurements</title>
+         <subTitle>part 1, real-scale experiments</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n86085883">
+         <namePart>Pitts, William M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86085883</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86085883">
+         <namePart>Pitts, William M.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86085883</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Werrel, Martin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fernandez, Marco G.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Long, Mary A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Eisenberg, Evan A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79086097">
+         <namePart>Filliben, James J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79086097</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Runyon, Cory D.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This is the first of three reports describing a study designed to
+                assess the feasibility of utilizing small-scale measurements in a cone calorimeter
+                as inputs for predicting the burning (flaming) behavior of real-scale residential
+                upholstered furniture (RUF). Here the focus is the experimental approach and results
+                for the real-scale experiments. A literature review provides the rationale for our
+                interest in RUF and summarizes previous efforts to characterize and regulate its
+                burning behavior. The RUF items considered are mockups consisting of four cushions
+                arranged in a chair configuration and mounted on a metal stand. The effects on
+                burning behavior of changes in five types of materials - Fire Barrier, Polyurethane
+                Foam, Polyester Fiber Wrap, Upholstery Cover Fabric, and Sewing Thread - previously
+                identified as possibly affecting RUF burning are considered. Four of the material
+                factors have two conditions, while Barrier has three (i.e., no barrier, or one of
+                two barrier types). A reduced factorial design utilizing 20 different material
+                combinations is used along with a minimum of two repeats for each combination. The
+                experimental behaviors of interest are flame spread (characterized by time-resolved
+                flame edge contours on the back and seat cushions) and fire growth (characterized by
+                heat release rate measurements). A variety of parameters are used to characterize
+                the temporal variations of both. Graphical representations of the results suggest
+                that three of the factors (Barrier, Foam, and Fabric) have easily identified effects
+                on mock-up burning behavior. This finding is confirmed by a variety of analyses
+                showing these three factors have statistically significant effects on mock-up
+                burning behaviors, with Barrier and Fabric having strong and roughly equal effects
+                and Foam somewhat weaker effects. Changes in Fiber Wrap or Thread result in no
+                statistically significant effects on the parameters. It is also shown that
+                interactions between Barrier and Foam are statistically significant and will need to
+                be considered in approaches designed to predict burning behavior. In addition to
+                characterization of flame spread and fire growth, supplementary measurements of mass
+                and radiative heat flux at six locations around the mock-ups provide additional
+                insights concerning mock-up burning behavior. The real-scale results are compared to
+                previous studies to provide additional understanding of RUF burning. and its
+                dependence on material properties.</abstract>
+      <note type="statement of responsibility">William M. Pitts; Martin Werrel; Marco G. Fernandez; Mary A. Long;
+                Evan A. Eisenberg; James J. Filliben; Cory D. Runyon.</note>
+      <note>February 2020.</note>
+      <note>Title from PDF title page (viewed March 2, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048985">
+         <topic>Flame spread</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/926986">
+         <topic>Flame spread</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85141218">
+         <topic>Upholstered furniture</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1162067">
+         <topic>Upholstered furniture</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85135003">
+         <topic>Thread</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1150288">
+         <topic>Thread</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85127580">
+         <topic>Statistics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1132103">
+         <topic>Statistics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110340">
+         <topic>Radiation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1086839">
+         <topic>Radiation</topic>
+      </subject>
+      <subject>
+         <topic>Fire barriers</topic>
+      </subject>
+      <subject>
+         <topic>Flame spread rate</topic>
+      </subject>
+      <subject>
+         <topic>Mock-ups</topic>
+      </subject>
+      <subject>
+         <topic>Polyester fiber wrap</topic>
+      </subject>
+      <subject>
+         <topic>Flexible polyurethane foam</topic>
+      </subject>
+      <subject>
+         <topic>Heat release rate</topic>
+      </subject>
+      <subject>
+         <topic>Sewing thread</topic>
+      </subject>
+      <subject>
+         <topic>Thermal radiation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1246</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1246</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1163858341</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161919.0</recordChangeDate>
+         <recordIdentifier>991000262719708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Promoting access to voting</title>
+         <subTitle>recommendations for addressing barriers to private and independent
+                voting for people with disabilities</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Buchanan, Kerrianne E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Buchanan, Kerrianne E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mangold, Kevin C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Laskowski, Sharon J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Reczek, Karen K.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-03-23.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (113 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">As stated in Executive Order (EO) 14019, Promoting Access to Voting,
+                the right to vote is the foundation of American democracy. The EO further recognizes
+                that People with disabilities continue to face barriers to voting and are denied
+                legally required accommodations in exercising their fundamental rights and the
+                ability to vote privately and independently. NIST produced this NIST Special
+                Publication in response to its responsibilities described in Section 7 of the EO.
+                NIST was specifically tasked to: 1. Evaluate the steps needed to ensure that the
+                online National Mail Voter Registration Form is accessible to people with
+                disabilities, and 2. Identify barriers and publish recommendations to remove
+                barriers preventing individuals with disabilities from voting. Five systemic
+                barriers voters with disabilities face throughout the voting process for privately
+                and independently voting are identified. Recommended actions to overcome these
+                barriers and promote access to voting for voters with disabilities are described. In
+                many cases, existing best practices and guidance are recommended to be broadly
+                applied to voting systems and processes across the country. This publication also
+                presents recommendations to address barriers identified in specific aspects of the
+                voting process that includes voter registration and the National Mail Voter
+                Registration Form, vote-by-mail, using voting technology for in-person voting,
+                voting at polling locations, and training and documentation for poll
+                workers.</abstract>
+      <note type="statement of responsibility">Kerrianne E. Buchanan; Kevin C. Mangold; Sharon J. Laskowski; Karen
+                K. Reczek, editor.</note>
+      <note>March 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-12-07</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Americans with Disabilities Act of 1990</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Help America Vote Act of 2002</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Voting Rights Act of 1965</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Barrier-free design</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Polling places</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Self-help devices for people with disabilities</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Assistive computer technology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Ballot</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Voting</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Disabilities</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Election workers</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>People with disabilities--Printing and writing systems</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Absentee voting</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Postal voting</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Voter registration</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Suffrage</topic>
+      </subject>
+      <subject>
+         <topic>Accessible polling place</topic>
+      </subject>
+      <subject>
+         <topic>Accessible voting system</topic>
+      </subject>
+      <subject>
+         <topic>Ballot marking device (BMD)</topic>
+      </subject>
+      <subject>
+         <topic>Electronic ballot delivery</topic>
+      </subject>
+      <subject>
+         <topic>Electronic ballot marking</topic>
+      </subject>
+      <subject>
+         <topic>Executive Order 14019</topic>
+      </subject>
+      <subject>
+         <topic>In-person voting</topic>
+      </subject>
+      <subject>
+         <topic>National Mail Voter Registration Form (NMVRF)</topic>
+      </subject>
+      <subject>
+         <topic>National Voter Registration Form (NVRF)</topic>
+      </subject>
+      <subject>
+         <topic>Poll worker training</topic>
+      </subject>
+      <subject>
+         <topic>Remote accessible vote-by-mail (RAVBM)</topic>
+      </subject>
+      <subject>
+         <topic>Voter guide</topic>
+      </subject>
+      <subject>
+         <topic>Voter independence</topic>
+      </subject>
+      <subject>
+         <topic>Voter privacy</topic>
+      </subject>
+      <subject>
+         <topic>Voting technology</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1273</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1273</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890323</identifier>
+      <identifier type="oclc">on1389890323</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111513.0</recordChangeDate>
+         <recordIdentifier>991000626253608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

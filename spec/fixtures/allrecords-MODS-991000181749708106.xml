@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Effects of wind speed and angle on fire spread along privacy fences
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022022789">
+         <namePart>Johnsson, Erik L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022022789</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022022789">
+         <namePart>Johnsson, Erik L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022022789</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139790">
+         <namePart>Maranghides, Alexander.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139790</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A series of experiments was conducted to examine fire spread along
+                fences subjected to wind at various speeds and angles. Specifically, sections of
+                western redcedar, California redwood, or vinyl privacy fences were ignited with a
+                burner. Wind fields of 9 m/s, 13.5 m/s, or 18 m/s aligned with, perpendicular to, or
+                at a 45 angle to the fences were applied during the experiments. To simulate fine
+                fuels typically present in real installations, dried shredded hardwood mulch beds
+                were placed under most of the fence sections. Also, some fence sections were coated
+                with fence preservative to assess its effect on fire spread. Pans of mulch were
+                downwind targets for firebrands produced by the burning fence and mulch bed. At all
+                wind speeds tested, a mulch bed was required for flames to spread. Fastest flame
+                spread was achieved with the fence aligned with the wind field. During most
+                experiments, the burning mulch and fences produced firebrands which ignited spot
+                fires in the mulch targets. These experiments demonstrated that ignited wood fence
+                structures can be rapid conduits for fire along them and potentially spread fire to
+                attached or adjacent structures. Additionally, it was found that burning fences can
+                produce spot fires from their own firebrand generation. This study of fence fire
+                spread is part of a series designed to better inform standards and codes regarding
+                placement of landscape features around homes at risk of exposure to wildland-urban
+                interface fires.</abstract>
+      <note type="statement of responsibility">Erik L. Johnsson; Alexander Maranghides.</note>
+      <note>Title from PDF title page (viewed July 28, 2016).</note>
+      <note>July 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh97000810">
+         <topic>Fire management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925455">
+         <topic>Fire management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048572">
+         <topic>Fires</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925697">
+         <topic>Fires</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1894</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1894</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">958885904</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160921</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20160926090654.0</recordChangeDate>
+         <recordIdentifier>991000181749708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

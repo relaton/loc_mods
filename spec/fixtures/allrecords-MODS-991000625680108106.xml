@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Seismic evaluation of a 2-story cold-formed steel framed building
+                using ASCE 41-17</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Speicher, Matthew S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Speicher, Matthew S.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Olivares, Ivana.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Schafer, Benjamin W.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (40 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The objective of this report is to assess the adequacy of new
+                provisions in ASCE 41 for seismic assessment of cold-formed steel framed buildings.
+                A two-story cold-formed steel (CFS) framed building that has been designed to
+                contemporary seismic standards (ASCE 7 and AISI S400) and tested on a shake table
+                was selected as the archetype building for this study. Shake table tests of the
+                CFS-framed building indicated only minimal damage at earthquake levels exceeding the
+                ASCE 7 maximum considered earthquake. Further, previously conducted incremental
+                dynamic analyses of the CFS-framed building indicated the ASCE 7 design led to
+                acceptable collapse margin ratios, which equates to acceptable performance.
+                Assessment of the selected CFS-framed building is performed per the linear procedure
+                in ASCE 41. A retrofit design, and a new design, for the same CFS-framed building
+                are also completed per ASCE 41. The ASCE 41 assessment indicates that the building
+                is inadequate, despite the known good performance in experimental shaking and
+                complementary nonlinear time history analyses. The ASCE 41 retrofit requires nearly
+                a doubling in the strength of the shear walls and the remaining elements of the
+                seismic force resisting system. It is shown that ASCE 41 s predicted demands for
+                short period buildings, and its lack of a simple means to account for large system
+                overstrength, are the two primary contributors to the overly-conservative
+                predictions from the ASCE 41 provisions. These findings are intended to be used to
+                improve future versions of ASCE 41, with a focus on CFS-framed building
+                provisions.</abstract>
+      <note type="statement of responsibility">Matthew S. Speicher; Ivana Olivares; Benjamin W. Schafer.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Earthquake engineering</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Earthquake hazard analysis</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Building laws</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Génie parasismique</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Risques sismiques</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Building laws</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Earthquake engineering</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Earthquake hazard analysis</topic>
+      </subject>
+      <subject>
+         <topic>Performance-based design</topic>
+      </subject>
+      <subject>
+         <topic>Seismic assessment</topic>
+      </subject>
+      <subject>
+         <topic>Coldformed steel</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2116</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2116</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124421</identifier>
+      <identifier type="oclc">on1346124421</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111418.0</recordChangeDate>
+         <recordIdentifier>991000625680108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

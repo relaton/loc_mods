@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Instructions in using GSAS Rietveld software for quantitative X-ray
+                diffraction analysis of portland clinker and cement</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2007151334">
+         <namePart>Stutzman, Paul E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007151334</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007151334">
+         <namePart>Stutzman, Paul E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007151334</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Struble, Leslie.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2015</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2015.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">X-ray powder diffraction analysis is used in the cement industry as a
+                direct analytical method for phase identification and quantitative analysis of
+                clinker and cements. Quantitative methods initially relied on the development of
+                calibration curves, employing multiple reference mixtures of cement phases with an
+                internal standard to develop a plot of diffraction peak intensity ratios vs. mass
+                fraction ratios. Obstacles to this approach were the availability of reference
+                standards that adequately replicated those phases in the clinker or cement, and the
+                ability to accurately measure diffraction peak intensities because of severe peak
+                overlap. The Rietveld method for analysis of powder diffraction data addresses both
+                of these difficulties through use of refineable crystal structure models to
+                calculate the individual phase diffraction patterns and a whole-pattern fitting
+                procedure to minimize the difference between the measured diffraction pattern and
+                set of calculated phase patterns. This approach has revolutionized the application
+                of X-ray powder diffraction in many scientific disciplines, including that of
+                hydraulic cements, but can be a complicated method to learn. This tutorial is
+                intended to provide an introduction to the application of Rietveld analysis to
+                portland cement clinker and cements using examples developed from one of the NIST
+                SRM clinkers and two portland cements.</abstract>
+      <note type="statement of responsibility">Paul Stutzman; Leslie Struble.</note>
+      <note>Title from PDF title page (viewed June 30, 2016).</note>
+      <note>June 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2015152161">
+         <name type="personal">
+            <namePart>Clinker.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85021731">
+         <topic>Cement</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/850432">
+         <topic>Cement</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>X-Ray diffraction</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1884</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1884</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">958885897</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160921</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20160926090654.0</recordChangeDate>
+         <recordIdentifier>991000181719708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

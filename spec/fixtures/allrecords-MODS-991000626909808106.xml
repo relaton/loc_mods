@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Key practices in cyber supply chain risk management</title>
+         <subTitle>observations from industry</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Boyens, Jon M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boyens, Jon M.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4043-4121">
+         <namePart>Paulsen, Celia.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4043-4121</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Bartol, Nadya.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Winkler, Kris.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gimbi, James.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2021-02-10.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (31 pages) : tables (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In today's highly connected, inter-dependent world, all organizations
+                rely on others for critical products and services. However, the reality of
+                globalization, while providing many benefits, has resulted in a world where
+                organizations no longer fully control -- and often do not have full visibility into
+                -- the supply ecosystems of the products that they make or the services that they
+                deliver. With more and more businesses becoming digital, producing digital products
+                and services, and moving their workloads to the cloud, the impact of a cybersecurity
+                event today is greater than ever before and could include personal data loss,
+                significant financial losses, compromise of product integrity or safety, and even
+                loss of life. Organizations can no longer protect themselves by simply securing
+                their own infrastructures since their electronic perimeter is no longer meaningful;
+                threat actors intentionally target the suppliers of more cyber-mature organizations
+                to take advantage of the weakest link. That is why identifying, assessing, and
+                mitigating cyber supply chain risks is a critical capability to ensure business
+                resilience. The multidisciplinary approach to managing these types of risks is
+                called Cyber Supply Chain Risk Management (C-SCRM). This document provides the ever-
+                increasing community of digital businesses a set of Key Practices that any
+                organization can use to manage cybersecurity risks associated with their supply
+                chains. The Key Practices presented in this document can be used to implement a
+                robust C-SCRM function at an organization of any size, scope, and complexity. These
+                practices combine the information contained in existing C-SCRM government and
+                industry resources with the information gathered during the 2015 and 2019 NIST
+                research initiatives.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Jon M. Boyens; Celia Paulsen; Nadya Bartol; Kris Winkler; James
+                Gimbi.</note>
+      <note>February 2021.</note>
+      <note>Title from PDF title page (viewed April 08, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-02-10</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Best practices</topic>
+      </subject>
+      <subject>
+         <topic>Cyber supply chain risk management</topic>
+      </subject>
+      <subject>
+         <topic>C-SCRM</topic>
+      </subject>
+      <subject>
+         <topic>External dependency management</topic>
+      </subject>
+      <subject>
+         <topic>Information and communication technology supply chain risk
+                management</topic>
+      </subject>
+      <subject>
+         <topic>ICT SCRM</topic>
+      </subject>
+      <subject>
+         <topic>Key practices</topic>
+      </subject>
+      <subject>
+         <topic>Supplier</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain assurance</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain risk</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain risk assessment</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain risk management</topic>
+      </subject>
+      <subject>
+         <topic>Supply chain security</topic>
+      </subject>
+      <subject>
+         <topic>Third-party risk management</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8276</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8276</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8276</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240408</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240418180550.0</recordChangeDate>
+         <recordIdentifier>991000626909808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

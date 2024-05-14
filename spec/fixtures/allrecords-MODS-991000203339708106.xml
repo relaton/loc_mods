@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST nanotechnology environmental, health, and safety research
+                program</title>
+         <subTitle>2009 2016</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/nb2017015327">
+         <namePart>Kaiser, Debra L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2017015327</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2017015327">
+         <namePart>Kaiser, Debra L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2017015327</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4166-2724">
+         <namePart>Hackley, Vincent A.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4166-2724</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In response to needs of a government-wide initiative in
+                nanotechnology led by a subcommittee within the White House s Office of Science and
+                Technology Policy, NIST established a nanotechnology environmental, health, and
+                safety (nano-EHS) research program in 2009 that remained active through 2016. This
+                document summarizes the NIST Nano-EHS Program goals, projects, outputs, and impacts.
+                The program was designed to address, in collaboration with other agencies, the
+                research needs for a comprehensive U.S. measurement infrastructure for nano-EHS as
+                identified by federal agencies participating in the National Nanotechnology
+                Initiative. Such an infrastructure included a suite of measurement tools methods,
+                protocols, standards (reference materials and documentary), instruments, models, and
+                benchmark (validated) data. The NIST Nano-EHS Program made substantial progress in
+                developing the required infrastructure, producing 9 reference materials, 24
+                web-accessible protocols, and 212 archival journal articles, 59% of which have been
+                published in journals with impact factors greater than 3. In addition, program team
+                members held leadership positions in the nanotechnology committees of major
+                standards development organizations and led and contributed to the development of
+                standards in these committees.</abstract>
+      <note type="statement of responsibility">Debra L. Kaiser; Vincent A. Hackley.</note>
+      <note>November 2018.</note>
+      <note>Title from PDF title page (viewed November 26, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh91001490">
+         <topic>Nanotechnology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1032639">
+         <topic>Nanotechnology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93000864">
+         <topic>Nanostructured materials</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1032630">
+         <topic>Nanostructured materials</topic>
+      </subject>
+      <subject>
+         <topic>Nanotechnology environmental, health, and safety program
+                (Nano-EHS)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1233</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1233</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1084487365</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161707.0</recordChangeDate>
+         <recordIdentifier>991000203339708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

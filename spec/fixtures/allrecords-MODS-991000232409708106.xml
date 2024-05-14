@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Compartment fire experiments on long-span composite-beams with simple
+                shear connections part 1</title>
+         <subTitle>experimental design and beam behavior at ambient temperature
+</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2007044470">
+         <namePart>Ramesh, Selvarajah,</namePart>
+         <namePart type="date">1976-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007044470</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007044470">
+         <namePart>Ramesh, Selvarajah,</namePart>
+         <namePart type="date">1976-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007044470</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139159">
+         <namePart>Choe, Lisa.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139159</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139146">
+         <namePart>Seif, Mina.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139146</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Hoehler, Matthew.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86864993">
+         <namePart>Grosshandler, William Lytle.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86864993</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Sauca, Ana.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021146338">
+         <namePart>Bundy, Matthew.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021146338</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0587-4500">
+         <namePart>Luecke, William.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0587-4500</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015144646">
+         <namePart>Bao, Yi.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015144646</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Klegseth, Matthew.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006047372">
+         <namePart>Chen, Genda.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2006047372</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr95008253">
+         <namePart>Reilly, John.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr95008253</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2014106577">
+         <namePart>Glisic, Branko.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2014106577</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A series of compartment fire experiments was conducted on long-span
+                steel-concrete composite floor beams designed and constructed following U.S.
+                building codes and standards. The test program consisted of five 12.8 m long
+                composite floor beam specimens with various end support conditions. Each specimen
+                was constructed as a partially-composite beam consisting of a W18 35 steel beam and
+                an 83 mm thick lightweight concrete slab cast on top of 76 mm deep ribbed steel
+                decking units. Test variables included two types of simple shear connections
+                (shear-tab and welded/bolted double-angle connections) and the slab continuity over
+                girders. One specimen with the double-angle connections at the ends was tested at
+                ambient temperature and the remaining four specimens were tested under simultaneous
+                mechanical and fire loading. This report, Part 1, presents details of the test
+                setup, specimens, design basis of fire loading, instrumentation, and the behavior of
+                the composite beam with double-angle connections at ambient temperature. The ambient
+                temperature test indicated that the composite beam specimen failed by a shear stud
+                near the west end, followed by concrete breakout failure and yielding of the steel
+                beam. The measured moment capacity was approximately 80% of the calculated flexural
+                strength. The double-angle connection at the west end failed by weld fracture, which
+                caused collapse of the composite beam. The ambient behavior of the composite beam
+                specimen presented herein will serve as a baseline to compare with the composite
+                beam assemblies tested under combined mechanical loads and fire exposure, which are
+                presented in a subsequent report; Part 2 (Choe et al. 2019). The datasets obtained
+                from these tests provide technical information to advance performance-based design
+                of composite floor assemblies in steel-framed buildings subject to fire.</abstract>
+      <note type="statement of responsibility">Selvarajah Ramesh; Lisa Choe; Mina Seif; Matthew Hoehler; William
+                Grosshandler; Ana Sauca; Matthew Bundy; William Luecke; Yi Bao; Matthew Klegseth;
+                Genda Chen; John Reilly; Branko Glisic.</note>
+      <note>October 2019.</note>
+      <note>Title from PDF title page (viewed October 22, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029395">
+         <topic>Composite construction</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/871671">
+         <topic>Composite construction</topic>
+      </subject>
+      <subject>
+         <topic>Compartment fire</topic>
+      </subject>
+      <subject>
+         <topic>Experimental testing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2054</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2054</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132805731</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20191223014821.0</recordChangeDate>
+         <recordIdentifier>991000232409708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

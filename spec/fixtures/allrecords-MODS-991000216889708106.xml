@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Reference Material 8634</title>
+         <subTitle>ethylene tetrafluoroethylene for particle size distribution and
+                morphology</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Ripple, Dean.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ripple, Dean.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Telikepalli, Srivalli.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Steffens, Kristen.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2009000375">
+         <namePart>Carrier, Michael.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2009000375</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no99062227">
+         <namePart>Montgomery, Christopher.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no99062227</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79124531">
+         <namePart>Ritchie, Nicholas.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79124531</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2007202655">
+         <namePart>Lu, Zeng.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2007202655</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.).</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Reference works.</genre>
+      <genre authority="fast">Reference works.</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Reference Material (RM) 8634 is a NIST particle standard produced
+                from abraded ethylene tetrafluoroethylene (ETFE), a chemically inert polymer, that
+                will help standardize and allow more accurate monitoring of subvisible proteinaceous
+                particles in biotherapeutics. These ETFE particles resemble proteinaceous particles
+                in biotherapeutics because they are translucent, with a refractive index similar to
+                that of proteinaceous particles and have irregular morphology. RM 8634 has reference
+                values for particle size distribution (PSD), in the range of (1 to 30) ?m, and
+                morphology (aspect ratio, compactness, ellipse ratio). The PSD values were obtained
+                using flow imaging (FI), an in-house-devised stop-flow microscope (SFM), and a
+                static optical microscopic technique. For morphological assessment of the particles,
+                SFM, scanning electron microscopy (SEM), and static optical microscopy techniques
+                were employed. All techniques employed were highly characterized for instrument
+                biases and appropriate corrections were made; rigorous statistical analysis of the
+                data was performed to obtain the reference values. This document briefly describes
+                the preparation of the RM, data collection, data analysis, data compilation, and
+                reference value assignment. Detailed procedures of how the analyst can use this RM
+                to obtain PSD and morphology information, qualify instruments, reduce variability,
+                and correct for instrument biases are presented. The document also describes how the
+                analyst will be able to apply corrections, obtained from RM analysis, to
+                protein-like samples to obtain more accurate PSD and morphology information than if
+                the correction is based solely on polystyrene microspheres. Such a standard is the
+                first-of-its-kind available to the industry. We envision that RM 8634 will drive
+                industrial collaboration to better characterize and in turn, understand the
+                implications of proteinaceous particles in biotherapeutics.</abstract>
+      <note type="statement of responsibility">Dean Ripple; Srivalli Telikepalli; Kristen Steffens; Michael Carrier;
+                Christopher Montgomery; Nicholas Ritchie; Z. Q. John Lu.</note>
+      <note>May 2019.</note>
+      <note>Title from PDF title page (viewed May 1, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials.</namePart>
+         </name>
+      </subject>
+      <subject>
+         <topic>Particle size determination.</topic>
+      </subject>
+      <subject>
+         <topic>Ethylene tetrafluoroethylene (ETFE)</topic>
+      </subject>
+      <subject>
+         <topic>Flow imaging</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-193</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-193</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1100116551</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190506</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102145729.0</recordChangeDate>
+         <recordIdentifier>991000216889708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

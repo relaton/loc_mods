@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Effect of IF-WS2 nanolubricant on R134a boiling on a reentrant cavity
+                surface; extensive measurement and analysis details</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no00026878">
+         <namePart>Kedzierski, Mark A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no00026878</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no00026878">
+         <namePart>Kedzierski, Mark A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no00026878</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Lin, Lingnan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report quantifies the influence of inorganic fullerene-like
+                tungsten disulfide (IF-WS2) nanoparticles on the pool-boiling performance of
+                R134a/polyolester mixtures on a commercial (Turbo-ESP) boiling surface. Tungsten
+                disulfide nanoparticles, of roughly 150 nm, were used at a 15 % mass fraction in a
+                base polyolester lubricant to produce the test nanolubricant. The nanolubricant was
+                mixed with R134a at a 1 % mass fraction. The study showed that the nanolubricant
+                caused an average 37 % degradation in the boiling heat flux as compared to
+                R134a/neat-lubricant boiling on a reentrant cavity surface at the same superheat.
+                Similarly, boiling with R134a/neat-lubricant caused, on average, a 27 % degradation
+                in the boiling heat flux as compared to pure R134a boiling and the same superheat.
+                An analysis was presented which showed that the nanoparticles were too large and too
+                dense to promote a boiling enhancement. In addition, the fullerene-like structure
+                and the large size encouraged nanoparticle settling, which presumably filled
+                cavities of the boiling surface leading toadditional boiling
+                degradations.</abstract>
+      <note type="statement of responsibility">Kedzierski, Mark A.; Lin, Lingnan.</note>
+      <note>February 2019.</note>
+      <note>Title from PDF title page (viewed February 12, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.Energy, Energy
+                efficiency, Sustainability, additive, tungsten disulfide, pool boiling, enhanced
+                heat transfer, fullerene,nanolubricant, nanotechnology, refrigerants,
+                refrigerant/lubricant mixtures, structured surface</note>
+      <subject authority="lcsh">
+         <topic>Energy</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043129">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/909986">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009000375">
+         <topic>Sustainability</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Additives</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh91005662">
+         <topic>Fullerenes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/936022">
+         <topic>Fullerenes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh91001490">
+         <topic>Nanotechnology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1032639">
+         <topic>Nanotechnology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85112274">
+         <topic>Refrigerants</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1092702">
+         <topic>Refrigerants</topic>
+      </subject>
+      <subject>
+         <topic>Tungsten disulfide</topic>
+      </subject>
+      <subject>
+         <topic>Pool boiling</topic>
+      </subject>
+      <subject>
+         <topic>Enhanced heat transfer</topic>
+      </subject>
+      <subject>
+         <topic>Nanolubricant</topic>
+      </subject>
+      <subject>
+         <topic>Refrigerant/lubricant mixtures</topic>
+      </subject>
+      <subject>
+         <topic>Structured surface</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2033</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2033</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1085510950</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190212</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190212115452.0</recordChangeDate>
+         <recordIdentifier>991000203639708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>National Institute of Standards and Technology environmental scan
+                2023</title>
+         <subTitle>societal and technology landscape to inform science and technology
+                research</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Boggs, Ashley S. P.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9765-7559">
+         <namePart>Boggs, Ashley S. P.</namePart>
+         <nameIdentifier>(orcid)0000-0001-9765-7559</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2735-8809">
+         <namePart>Buchanan, Kerrianne.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2735-8809</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4071-2259">
+         <namePart>Evans, Heather.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4071-2259</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8889-4904">
+         <namePart>Griffith, David.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8889-4904</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0007-1343-515X">
+         <namePart>Meritis, Dimitrios.</namePart>
+         <nameIdentifier>(orcid)0009-0007-1343-515X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7317-0973">
+         <namePart>Ng, Lisa.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7317-0973</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0006-5155-0549">
+         <namePart>Sberegaeva, Anna.</namePart>
+         <nameIdentifier>(orcid)0009-0006-5155-0549</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6089-2635">
+         <namePart>Stephens, Michelle.</namePart>
+         <nameIdentifier>(orcid)0000-0001-6089-2635</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Office of the NIST Director.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-08-23.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color); tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The 2023 National Institute of Standards and Technology Environmental
+                Scan provides an analysis of key external factors that could impact NIST and the
+                fulfillment of its mission in coming years. The analyses were conducted through
+                three separate lenses: Societal &amp; Political(Sec. 2), Investment &amp;
+                Geopolitical (Sec. 3), and Technology &amp; Science (Sec. 4). Most of the issues
+                discussed in the previous environmental scans conducted in 2018 and 2020 are still
+                relevant, but a number of key issues have emerged in society that will impact NIST
+                since the writing of those reports. Societal, political, financial, and workforce
+                issues will challenge NIST to maintain and advance its leadership in metrology,
+                standards, and technology. However, a broad range of emerging technology issues
+                present opportunities for NIST to have significant impact in advancing the nation’s
+                innovation and industrial competitiveness.</abstract>
+      <note type="statement of responsibility">Ashley S. P. Boggs; Kerrianne Buchanan; Heather Evans; David
+                Griffith; Dimitrios Meritis; Lisa Ng; Anna Sberegaeva; Michelle Stephens.</note>
+      <note>August 2023.</note>
+      <note>Title from PDF title page (viewed December 07, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-08-17</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Strategic planning</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Buildings</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Construction</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Chemistry</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Electronics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fire</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Health</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Materials</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Technology</topic>
+      </subject>
+      <subject>
+         <topic>Environmental scan.</topic>
+      </subject>
+      <subject>
+         <topic>NIST policy.</topic>
+      </subject>
+      <subject>
+         <topic>Strategic planning.</topic>
+      </subject>
+      <subject>
+         <topic>Advanced communications.</topic>
+      </subject>
+      <subject>
+         <topic>Buildings and construction.</topic>
+      </subject>
+      <subject>
+         <topic>Chemistry.</topic>
+      </subject>
+      <subject>
+         <topic>Electronics.</topic>
+      </subject>
+      <subject>
+         <topic>Energy.</topic>
+      </subject>
+      <subject>
+         <topic>Fire.</topic>
+      </subject>
+      <subject>
+         <topic>Health.</topic>
+      </subject>
+      <subject>
+         <topic>Infrastructure.</topic>
+      </subject>
+      <subject>
+         <name type="personal">
+            <namePart>Infrastructure.</namePart>
+         </name>
+      </subject>
+      <subject>
+         <topic>Materials.</topic>
+      </subject>
+      <subject>
+         <topic>Technology.</topic>
+      </subject>
+      <subject>
+         <name type="personal">
+            <namePart>Technology.</namePart>
+         </name>
+      </subject>
+      <subject>
+         <topic>Manufacturing.</topic>
+      </subject>
+      <subject>
+         <topic>Bioscience.</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8482</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8482</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8482</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1415979117</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111406.0</recordChangeDate>
+         <recordIdentifier>991000617409508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

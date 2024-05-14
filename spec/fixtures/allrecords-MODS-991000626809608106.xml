@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Research report</title>
+         <subTitle>user perceptions of smart home privacy and security</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Haney, Julie M.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6017-9693">
+         <namePart>Haney, Julie M.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6017-9693</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7013-6603">
+         <namePart>Furman, Susanne M.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7013-6603</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Acar, Yasemin.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2020-11-16.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Smart home technologies may expose adopters to increased risk to
+                network security, information privacy, and physical safety. However, users may lack
+                understanding of the privacy and security implications, while devices fail to
+                provide transparency and configuration options. This results in little meaningful
+                mitigation action to protect users’ security and privacy. To better understand
+                users’ perceptions of smart home privacy and security, we conducted an in-depth
+                interview study of 40 smart home users. In this document, we report the study
+                findings related to perceptions of data collection/use, privacy and security
+                concerns, and mitigations employed to alleviate concerns. We found that users have
+                varied, and often unclear, understandings of how smart home data are collected and
+                used. In addition, although users may have security and privacy concerns, many
+                participants displayed a willingness to accept risks in favor of smart home
+                benefits, and they feel limited responsibility for mitigating these due to
+                constrained options or lack of knowledge to enact more sophisticated
+                countermeasures. While this report is not meant to be prescriptive, an understanding
+                of user perceptions may be used to inform future smart home security and privacy
+                guidance for manufacturers and users.</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Julie M. Haney; Susanne M. Furman; Yasemin Acar.</note>
+      <note>November 2020.</note>
+      <note>Title from PDF title page (viewed April 04, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2020-11-16</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Privacy</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Home automation</topic>
+      </subject>
+      <subject>
+         <topic>Usability</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8330</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8330</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8330</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240404</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240404160744.0</recordChangeDate>
+         <recordIdentifier>991000626809608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Checking the net contents of packaged goods</title>
+         <subTitle>as adopted by the 107th National Conference on Weights and Measures
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Butcher, Tina G.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2711-9442">
+         <namePart>Butcher, Tina G.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2711-9442</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7407-1950">
+         <namePart>Sefcik, David A.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7407-1950</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0576-8572">
+         <namePart>Warfield, Lisa.</namePart>
+         <nameIdentifier>(orcid)0000-0003-0576-8572</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2751-7881">
+         <namePart>Benham, Elizabeth J.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2751-7881</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Bowers, Shelby L.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8651-8326">
+         <namePart>Lippa, Katrice A.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8651-8326</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Physical Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">r 0</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New edition</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-02-13.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (290 pages): tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This handbook has been prepared as a procedural guide for the
+                compliance testing of net content statements on packaged goods. Compliance testing
+                of packaged goods is the determination of the conformance results of packaging,
+                distribution, and sale of commodities to specific legal requirements for net content
+                declarations. This handbook has been developed primarily for the use of state,
+                local, and some federal officials. However, it should be useful to commercial and
+                industrial establishments areas of packaging, distribution, and sale of commodities.
+                NIST has statutory responsibility for “cooperation with states in securing
+                uniformity of weights and measures laws and methods of inspection and publishes this
+                and other NIST Handbooks in partial fulfillment of this responsibility. This 2023
+                edition includes amendments made though the Committee on Laws and Regulations of the
+                National Conference on Weights and Measures (NCWM) with technical guidance from the
+                Office of Weights and Measures (OWM) of the National Institute of Standards and
+                Technology (NIST) and input from weights and measures officials and industry
+                representatives. These amendments were adopted by the NCWM at its 107th Annual
+                Meeting in July 2022. There may be years where there are no changes to this NIST
+                Handbook 133; therefore, it would not be published on an annual basis in such
+                instances. In conducting compliance testing, the conversion of measured quantity
+                values between systems of measurement (e.g., from the metric system to the U.S.
+                customary system) should be handled with careful regard to the implied
+                correspondence between measurement accuracy and the number of digits displayed. For
+                all conversions, the number of significant figures retained should be congruous with
+                the accuracy of the corresponding measurement. For this edition of NIST Handbook
+                133, all quantity values obtained from devices or through test procedures have been
+                rounded to two significant digits (e.g., 2.5 cm to 1.0 in), or to a precision level
+                applicable to the test equipment (e.g., 200 kPa for 25 psi or 35 MPs for 5000
+                psi).</abstract>
+      <note type="statement of responsibility">Tina G. Butcher; David A. Sefcik; Lisa Warfield; Elizabeth J. Benham;
+                Shelby L. Bowers; Katrice A. Lippa.</note>
+      <note>January 2023.</note>
+      <note>Title from PDF title page (viewed September 21, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-01-12.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Area</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Labeling</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Metrology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Packaging</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Weight</topic>
+      </subject>
+      <subject>
+         <topic>Area</topic>
+      </subject>
+      <subject>
+         <topic>Count.</topic>
+      </subject>
+      <subject>
+         <topic>Labeling</topic>
+      </subject>
+      <subject>
+         <topic>Length</topic>
+      </subject>
+      <subject>
+         <topic>Measures</topic>
+      </subject>
+      <subject>
+         <topic>Metrology</topic>
+      </subject>
+      <subject>
+         <topic>Packaging</topic>
+      </subject>
+      <subject>
+         <topic>Scale</topic>
+      </subject>
+      <subject>
+         <topic>Testing procedures</topic>
+      </subject>
+      <subject>
+         <topic>Testing methods</topic>
+      </subject>
+      <subject>
+         <topic>Thickness</topic>
+      </subject>
+      <subject>
+         <topic>Weights and measures</topic>
+      </subject>
+      <subject>
+         <topic>Volume</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.HB.133-2023</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook</title>
+            <partNumber>133-2023</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.HB.133-2020</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook; NIST HB</title>
+            <partNumber>133-2023</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253408</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111400.0</recordChangeDate>
+         <recordIdentifier>991000613409808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

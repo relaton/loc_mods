@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Developing cost functions for estimating solar photovoltaic system
+                installed and life cycle costs using historical quote data</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Webb, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Webb, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>O'Fallon, Cheyney.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-22.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (35 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Residential solar photovoltaic (PV) system installations have become
+                more prevalent as the installed cost has decreased over the last 10 years while
+                system performance has improved. As these installations have increased, so too has
+                interest in determining their economic value to a homeowner. PV installation cost
+                estimates have typically assumed the entire cost as marginal (average cost per watt)
+                using reported data aggregated to a state or country. This study implements a cost
+                function that includes a fixed cost and marginal cost element to account for
+                differences in cost structures while controlling for panel quality and specific
+                location. The analysis uses county level installed quote data applied to estimate
+                cost functions and apply these functions to life cycle cost analyses of the
+                Washington DC-Maryland-Virginia (DMV) metropolitan area while incorporating state
+                and county level differences in pricing and incentives. The estimated cost function
+                is found to provide an installed cost estimate that is statistically different than
+                using the traditional total average cost per watt approach for both standard and
+                premium systems up to 9 kW and 11 kWh, respectively. The analysis finds no
+                statistical difference in the installed cost function across counties, but clear
+                differences in the life-cycle cost-effectiveness to a homeowner due to state
+                policies and retail electricity prices. Absent financing, only PV systems in DC are
+                life-cycle cost effective compared to retail electricity due to DC s strong solar
+                renewable energy credit (SREC) market. PV can be cost effective in Maryland if
+                financing and incentives are applied while no combination of financing or incentives
+                makes PV cost effective in Virginia due to its lower relative electricity prices.
+                Sensitivity analysis finds that the homeowner s assumed discount rate and the
+                upcoming phase out of the federal investment tax credit (ITC) has a significant
+                impact on residential PV economics.</abstract>
+      <note type="statement of responsibility">David Webb; Joshua Kneifel; Cheyney O'Fallon.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed January 24, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Solar panels</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Life cycle costing</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Net present value</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Statistics</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Panneaux solaires</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Coût du cycle de vie</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Valeur actuelle nette</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Statistique</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>solar panels</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>statistics</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Life cycle costing</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Net present value</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Solar panels</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Statistics</topic>
+      </subject>
+      <subject>
+         <topic>Solar markets</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2113</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2113</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124602</identifier>
+      <identifier type="oclc">on1346124602</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111420.0</recordChangeDate>
+         <recordIdentifier>991000625679508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

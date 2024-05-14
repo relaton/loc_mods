@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST transactive energy modeling and simulation challenge phase II
+                final report</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/nb2003088423">
+         <namePart>Holmberg, David.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2003088423</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1738-8190">
+         <namePart>Holmberg, David.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1738-8190</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97033846">
+         <namePart>Burns, Martin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97033846</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6955-6926">
+         <namePart>Bushby, Steven.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6955-6926</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Gopstein, Avi.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n93047166">
+         <namePart>McDermott, Tom.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n93047166</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2013003700">
+         <namePart>Tang, Yingying.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2013003700</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007092744">
+         <namePart>Huang, Qiuhua.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007092744</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019147720">
+         <namePart>Pratt, Annabelle.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019147720</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ruth, Mark.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ding, Fei.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bichpuriya, Yogesh.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rajagopal, Narayanan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008089168">
+         <namePart>Ilić, Marija.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008089168</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Jaddivada, Rupamathi.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008173862">
+         <namePart>Neema, Himanshu.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008173862</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The NIST Transactive Energy (TE) Modeling and Simulation Challenge
+                for the Smart Grid (Challenge) spanned from 2015 to 2018. The TE Challenge was
+                initiated to identify simulation tools and expertise that might be developed or
+                combined in co-simulation platforms to enable the evaluation of transactive energy
+                approaches. Phase I of the Challenge spanned 2015 to 2016, with team efforts that
+                improved understanding of TE concepts, identified relevant simulation tools and
+                co-simulation platforms, and inspired the development of a TE co-simulation abstract
+                component model that paved the way for Phase II. The Phase II effort spanned Spring
+                2017 through Spring 2018, where the teams collaboratively developed a specific TE
+                problem scenario, a common grid topology, and common reporting metrics to enable
+                direct comparison of results from simulation of each team's TE approach for the
+                defined scenario. This report presents an overview of the TE Challenge, the TE
+                abstract component model, and the common scenario. It also compiles the individual
+                Challenge participants' research reports from Phase II. The common scenario involves
+                a weather event impacting a distribution grid with very high penetration of
+                photovoltaics, leading to voltage regulation challenges that are to be mitigated by
+                TE methods. Four teams worked with this common scenario and different TE models to
+                incentivize distributed resource response to voltage deviations, performing these
+                simulations on different simulation platforms. A fifth team focused on a
+                co-simulation platform that can be used for online TE simulations with existing
+                co-simulation components. The TE Challenge Phase II has advanced co-simulation
+                modeling tools and platforms for TE system performance analysis, developed a
+                referenceable TE scenario that can support ongoing comparative simulations, and
+                demonstrated various TE approaches for managing voltage on a distribution grid with
+                high penetration of photovoltaics.</abstract>
+      <note type="statement of responsibility">David Holmberg; Martin Burns; Steven Bushby, Avi Gopstein; Tom
+                McDermott; Yingying Tang; Qiuhua Huang; Annabelle Pratt; Mark Ruth; Fei Ding; Yogesh
+                Bichpuriya; Narayanan Rajagopal; Marija Ilic; Rupamathi Jaddivada; Himanshu
+                Neema.</note>
+      <note>May 2019.</note>
+      <note>Title from PDF title page (viewed May 3, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85122767">
+         <topic>Simulation methods</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1119166">
+         <topic>Simulation methods</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2011003732">
+         <topic>Smart power grids</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1792824">
+         <topic>Smart power grids</topic>
+      </subject>
+      <subject>
+         <topic>Co-simulation platform</topic>
+      </subject>
+      <subject>
+         <topic>Transactive energy</topic>
+      </subject>
+      <subject>
+         <topic>Voltage regulation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1900-603</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1900-603</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312505598</identifier>
+      <identifier type="oclc">1104329033</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190612</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102163222.0</recordChangeDate>
+         <recordIdentifier>991000217019708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

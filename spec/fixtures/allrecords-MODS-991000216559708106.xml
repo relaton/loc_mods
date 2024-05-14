@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Threshold schemes for cryptographic primitives</title>
+         <subTitle>challenges and opportunities in standardization and validation of
+                threshold cryptography</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Branda̋̋o, Luís T. A. N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Branda̋̋o, Luís T. A. N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mouha, Nicky.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Vassilev, Apostol.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Computer Security Division at the National Institute of Standards
+                and Technology is interested in promoting the security of implementations of
+                cryptographic primitives. This security depends not only on the theoretical
+                properties of the primitives but also on the ability to withstand attacks on their
+                implementations. It is thus important to mitigate breakdowns that result from
+                differences between ideal and real implementations of cryptographic algorithms. This
+                document overviews the possibility of implementing cryptographic primitives using
+                threshold schemes, where multiple components contribute to the operation in a way
+                that attains the desired security goals even if f out of n of its components are
+                compromised. There is also an identified potential in providing resistance against
+                side-channel attacks, which exploit inadvertent leakage from real implementations.
+                Security goals of interest include the secrecy of cryptographic keys, as well as
+                enhanced integrity and availability, among others. This document considers
+                challenges and opportunities related to standardization of threshold schemes for
+                cryptographic primitives. It includes examples illustrating security tradeoffs under
+                variations of system model and adversaries. It enumerates several high-level
+                characterizing features of threshold schemes, including the types of threshold, the
+                communication interfaces (with the environment and between components), the
+                executing platform (e.g., single device vs. multiple devices) and the setup and
+                maintenance requirements. The document poses a number of questions, motivating
+                aspects to take into account when considering standardization. A particular
+                challenge is the development of criteria that may help guide a selection of
+                threshold cryptographic schemes. An open question is deciding at what level each
+                standard should be defined (e.g., specific base techniques vs. conceptualized
+                functionalities) and which flexibility of parametrization they should allow.
+                Suitability to testing and validation of implementations are also major concerns to
+                be addressed. Overall, the document intends to support discussion about
+                standardization, including motivating an engagement from stakeholders. This is a
+                step towards enabling threshold cryptography within the US federal government and
+                beyond.</abstract>
+      <note type="statement of responsibility">Luís T. A. N. Branda̋̋o; Nicky Mouha; Apostol Vassilev.</note>
+      <note>March 2019.</note>
+      <note>Title from PDF title page (viewed March 1, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034453">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/884552">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010014091">
+         <topic>Threshold signatures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1763826">
+         <topic>Threshold signatures</topic>
+      </subject>
+      <subject>
+         <topic>Cryptographic primitives</topic>
+      </subject>
+      <subject>
+         <topic>Secure multi-party computation</topic>
+      </subject>
+      <subject>
+         <topic>Intrusion tolerance</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8214</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8214</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1097556741</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190417</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190417041851.0</recordChangeDate>
+         <recordIdentifier>991000216559708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

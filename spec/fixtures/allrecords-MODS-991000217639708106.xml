@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Considerations for managing Internet of Things (IoT) cybersecurity
+                and privacy risks</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Boeckl, Katie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boeckl, Katie.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1861-2609">
+         <namePart>Fagan, James Michael.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1861-2609</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no96031619">
+         <namePart>Fisher, William.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no96031619</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3777-3106">
+         <namePart>Lefkovitz, Naomi.</namePart>
+         <nameIdentifier>(orcid)0000-0003-3777-3106</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Megas, Katerina N.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2553-9304">
+         <namePart>Nadeau, Ellen.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2553-9304</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>O'Rourke, Danna Gabel.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Piccarreta, Ben.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6334-9486">
+         <namePart>Kent, Karen (Karen Ann)</namePart>
+         <nameIdentifier>(orcid)0000-0001-6334-9486</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Internet of Things (IoT) is a rapidly evolving and expanding
+                collection of diverse technologies that interact with the physical world. Many
+                organizations are not necessarily aware of the large number of IoT devices they are
+                already using and how IoT devices may affect cybersecurity and privacy risks
+                differently than conventional information technology (IT) devices do. The purpose of
+                this publication is to help federal agencies and other organizations better
+                understand and manage the cybersecurity and privacy risks associated with their
+                individual IoT devices throughout the devices lifecycles. This publication is the
+                introductory document providing the foundation for a planned series of publications
+                on more specific aspects of this topic.</abstract>
+      <note type="statement of responsibility">Katie Boeckl; Michael Fagan; William Fisher; Naomi Lefkovitz;
+                Katerina N. Megas; Ellen Nadeau; Danna Gabel O Rourke; Ben Piccarreta; Karen
+                Scarfone.</note>
+      <note>June 2019.</note>
+      <note>Title from PDF title page (viewed July 17, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+         <topic>Computer security</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2013000266">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894151">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85114200">
+         <topic>Risk management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1098164">
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity risk</topic>
+      </subject>
+      <subject>
+         <topic>Privacy risk</topic>
+      </subject>
+      <subject>
+         <topic>Risk mitigation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8228</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8228</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1110020442</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190724</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190724022415.0</recordChangeDate>
+         <recordIdentifier>991000217639708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

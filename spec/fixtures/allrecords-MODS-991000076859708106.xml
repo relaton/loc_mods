@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guide for developing security plans for federal information systems
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Swanson, M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Swanson, M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hash, J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bowen, P.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2006</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2006.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The objective of system security planning is to improve protection of
+                information system resources. All federal systems have some level of sensitivity and
+                require protection as part of good management practice. The protection of a system
+                must be documented in a system security plan. The completion of system security
+                plans is a requirement of the Office of Management and Budget (OMB) Circular A-130,
+                Management of Federal Information Resources, Appendix III, Security of Federal
+                Automated Information Resources, and Title III of the E-Government Act, entitled the
+                Federal Information Security Management Act (FISMA), The purpose of the system
+                security plan is to provide an overview of the security requirements of the system
+                and describe the controls in place or planned for meeting those requirements. The
+                system security plan also delineates responsibilities and expected behavior of all
+                individuals who access the system. The system security plan should be viewed as
+                documentation of the structured process of planning adequate, cost-effective
+                security protection for a system. It should reflect input from various managers with
+                responsibilities concerning the system, including information owners, the system
+                owner, and the senior agency information security officer (SAISO). Additional
+                information may be included in the basic plan and the structure and format organized
+                according to agency needs, so long as the major sections described in this document
+                are adequately covered and readily identifiable.</abstract>
+      <note type="statement of responsibility">M. Swanson; J. Hash; P. Bowen.</note>
+      <note>2006.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Authorize processing</topic>
+      </subject>
+      <subject>
+         <topic>Computer security</topic>
+      </subject>
+      <subject>
+         <topic>General support system</topic>
+      </subject>
+      <subject>
+         <topic>Major application</topic>
+      </subject>
+      <subject>
+         <topic>Management controls</topic>
+      </subject>
+      <subject>
+         <topic>Operational controls</topic>
+      </subject>
+      <subject>
+         <topic>Rules of behavior</topic>
+      </subject>
+      <subject>
+         <topic>Security plan</topic>
+      </subject>
+      <subject>
+         <topic>Technical controls</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-18r1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-18r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312486034</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315121005.0</recordChangeDate>
+         <recordIdentifier>991000076859708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

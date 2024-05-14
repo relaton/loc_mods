@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Manufacturing USA</title>
+         <subTitle>rapid response to COVID-19</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Brunner, Zahraha.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brunner, Zahraha.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Valdez, Zachary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ufford, Donald.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-03-23</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (36 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The report highlights the manufacturing innovation projects developed
+                by the institutes and their partners across the country to combat COVID-19.
+                Manufacturing USA network, comprised of federal agencies and their sponsored
+                manufacturing innovation institutes, assembled and utilized the flexibility, skills
+                and knowledge of their nationwide membership to address issues around domestic PPE,
+                enhanced production of vaccines and treatments, rapid testing, and more in order to
+                begin developing solutions. These public-private-partnerships convened members from
+                industry, academia, and government enabling a rapid response to the developing needs
+                across America based on their access to information and ability to deploy resources.
+                Their relevant and efficient plans, along with $73M in Coronavirus Aid, Relief, and
+                Economic Security (CARES) Act funds distributed through the Department of Commerce
+                and Department of Defense, allowed them to execute dozens of technology development
+                and education and workforce development projects.</abstract>
+      <note type="statement of responsibility">Zahraha Brunner; Zachary Valdez; Donald Ufford.</note>
+      <note>March 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-03-22.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Manufacturing USA (Program)</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>COVID-19 Pandemic, 2020-</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.600-7</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>600-7</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228902</identifier>
+      <identifier type="oclc">on1427228902</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111508.0</recordChangeDate>
+         <recordIdentifier>991000626385908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

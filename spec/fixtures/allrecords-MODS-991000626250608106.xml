@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Attribute-based access control for microservices-based applications
+                using a service mesh</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chandramouli, Ramaswamy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butcher, Zack.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chetal, Aradhna.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-08-06.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (41 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Deployment architecture in cloud-native applications now consists of
+                loosely coupled components, called microservices, with all application services
+                provided through a dedicated infrastructure, called a service mesh, independent of
+                the application code. Two critical security requirements in this architecture are to
+                build (1) the concept of zero trust by enabling mutual authentication in
+                communication between any pair of services and (2) a robust access control mechanism
+                based on an access control such as attribute-based access control (ABAC) that can be
+                used to express a wide set of policies and is scalable in terms of user base,
+                objects (resources), and deployment environment. This document provides deployment
+                guidance for building an authentication and authorization framework within the
+                service mesh that meets these requirements. A reference platform for hosting the
+                microservices-based application and a reference platform for the service mesh are
+                included to illustrate the concepts in the recommendations and provide the context
+                in terms of the components used in real-world deployments.</abstract>
+      <note type="statement of responsibility">Ramaswamy Chandramouli; Zack Butcher; Aradhna Chetal.</note>
+      <note>August 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-08-05</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Access control</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Authentication</topic>
+      </subject>
+      <subject>
+         <topic>Attribute-based access control</topic>
+      </subject>
+      <subject>
+         <topic>Authentication policy</topic>
+      </subject>
+      <subject>
+         <topic>Authorization policy</topic>
+      </subject>
+      <subject>
+         <topic>CI/CD</topic>
+      </subject>
+      <subject>
+         <topic>DevSecOps</topic>
+      </subject>
+      <subject>
+         <topic>JSON web token</topic>
+      </subject>
+      <subject>
+         <topic>Microservices-based application</topic>
+      </subject>
+      <subject>
+         <topic>Mutual TLS</topic>
+      </subject>
+      <subject>
+         <topic>Next generation access control</topic>
+      </subject>
+      <subject>
+         <topic>Policy enforcement point</topic>
+      </subject>
+      <subject>
+         <topic>Role-based access control</topic>
+      </subject>
+      <subject>
+         <topic>Service mesh</topic>
+      </subject>
+      <subject>
+         <topic>Service proxy</topic>
+      </subject>
+      <subject>
+         <topic>Zero trust</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-204B</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-204B</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389889854</identifier>
+      <identifier type="oclc">on1389889854</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111503.0</recordChangeDate>
+         <recordIdentifier>991000626250608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

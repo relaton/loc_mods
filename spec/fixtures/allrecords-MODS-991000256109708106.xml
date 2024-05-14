@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST-NPL bilateral comparison of guarded-hot-plate laboratories from
+                20 °C to 160 °C</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/nb97058583">
+         <namePart>Zarr, Robert R.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb97058583</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb97058583">
+         <namePart>Zarr, Robert R.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb97058583</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Wu, Jiyu.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085854">
+         <namePart>Liu, Hung-Kung,</namePart>
+         <namePart type="date">1952-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020085854</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A bilateral study to compare guarded-hot-plate measurements at
+                extended temperatures between laboratories at the National Institute of Standards
+                and Technology (NIST) and the National Physical Laboratory (NPL) is presented.
+                Measurements were conducted in accordance with standardized test methods (ISO 8302
+                or ASTM C 177) over a temperature range from 20 C̥ to 160 C̥ (293 K to 433 K).
+                Following a blind round-robin format, specimens of nonwoven fibrous glass mat,
+                approximately 22 mm thick and having a nominal bulk density of 200 kg m-3 , were
+                prepared and studied. Results of the study show that the thermal conductivity
+                measurements agree over the temperature range of interest to within +/-1.0 %, or
+                less. Consensus and individual laboratory fits to the data as a function of mean
+                temperature are presented graphically. Sources of measurement variability are
+                addressed.</abstract>
+      <note type="statement of responsibility">Robert R. Zarr; Jiyu Wu; Hung-Kung Liu.</note>
+      <note>January 2020.</note>
+      <note>Title from PDF title page (viewed January 27, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003011072">
+         <topic>Thermal conductivity</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1736449">
+         <topic>Thermal conductivity</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85066793">
+         <topic>Insulation (Heat)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/974462">
+         <topic>Insulation (Heat)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85139563">
+         <topic>Uncertainty</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1160832">
+         <topic>Uncertainty</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012002918">
+         <topic>Measurement uncertainty (Statistics)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894538">
+         <topic>Measurement uncertainty (Statistics)</topic>
+      </subject>
+      <subject>
+         <topic>Bilateral study</topic>
+      </subject>
+      <subject>
+         <topic>Fibrous glass mat</topic>
+      </subject>
+      <subject>
+         <topic>Guarded hot plate</topic>
+      </subject>
+      <subject>
+         <topic>Industrial insulation</topic>
+      </subject>
+      <subject>
+         <topic>Interlaboratory comparison</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2059</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2059</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1139336833</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">200205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20200205011258.0</recordChangeDate>
+         <recordIdentifier>991000256109708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

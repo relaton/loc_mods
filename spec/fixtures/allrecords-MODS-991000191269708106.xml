@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Method to improve point-based registration by restoring rigid-body
+                condition</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022010863">
+         <namePart>Franaszek, Marek.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022010863</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010863">
+         <namePart>Franaszek, Marek.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022010863</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no89007530">
+         <namePart>Cheok, Geraldine S.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no89007530</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The purpose of rigid-body registration is to find a rotation and
+                translation which transforms one coordinate frame to another. The procedure requires
+                measurement of common points (fiducials) in both frames. Noise and possible bias in
+                the acquired locations of fiducials adversely affect the quality of registration.
+                While the influence of noise can be mitigated by taking repeated measurements, bias
+                remains in the mean locations of fiducials and distorts the rigid-body condition.
+                The condition may be also violated when fiducials are attached to a non-rigid
+                object. We present a numerical method which calculates corrections in the locations
+                of measured fiducials and leads to the restoration of the rigid-body condition. Once
+                the registration transformation is calculated using the corrected fiducials, it can
+                be used to transform other points which are measured only in one coordinate frame
+                (target points). We estimate the corrections in these points by linearly
+                interpolating the corrections from neighboring fiducials. After interpolated
+                corrections are added to the target locations, there was a decrease in the target
+                registration error. The proposed method was evaluated using three different datasets
+                acquired with three different instruments.</abstract>
+      <note type="statement of responsibility">Marek Franaszek; Geraldine S. Cheok.</note>
+      <note>June 2017.</note>
+      <note>Title from PDF title page (viewed June 23, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85038376">
+         <topic>Discrimination</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/894985">
+         <topic>Discrimination</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85092179">
+         <topic>Noise</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1038354">
+         <topic>Noise</topic>
+      </subject>
+      <subject>
+         <topic>Point-based rigid-body registration</topic>
+      </subject>
+      <subject>
+         <topic>Target registration error</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8180</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8180</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1004771397</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170927103807.0</recordChangeDate>
+         <recordIdentifier>991000191269708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

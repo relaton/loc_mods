@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>2021 cybersecurity and privacy annual report</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>O'Reilly, Patrick.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>O'Reilly, Patrick.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rigopoulos, Kristina.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Feldman, Larry.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Witte, Greg.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-09-26.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (44 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">During Fiscal Year 2021 (FY 2021) from October 1, 2020, through
+                September 30, 2021 the NIST Information Technology Laboratory (ITL) Cybersecurity
+                and Privacy Program successfully responded to numerous challenges and opportunities
+                in security and privacy. This annual report highlights the FY 2021 research agenda
+                and activities for the ITL Cybersecurity and Privacy Program, including the ongoing
+                participation and development of international standards; the enhancement of privacy
+                and security risk management models, including those for the protection of
+                controlled unclassified information (CUI), systems engineering and cyber resiliency,
+                supply chains, and mobile technologies; the continued advancement of cryptographic
+                technologies, including updates to Federal Information Processing Standard (FIPS)
+                Publication 140-3, Security Requirements for Cryptographic Modules, and preparation
+                for post-quantum cryptographic methods; and improved infrastructure protection in
+                areas such as zero trust architectures and advanced networking security. NIST
+                maintained a strong focus on supporting small and medium-sized businesses (SMBs),
+                including updates to the Small Business Cybersecurity Corner website to make
+                resources easier to find and use and drawing on contributed cybersecurity resources
+                and feedback received from federal partners and the public.</abstract>
+      <note type="statement of responsibility">Patrick O'Reilly, editor; Kristina Rigopoulos, editor; Larry Feldman,
+                co-editor; Greg Witte, co-editor.</note>
+      <note>September 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-08-25</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Federal Information Security Management Act of
+                2002</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology). Information Access Division</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Privacy</topic>
+      </subject>
+      <subject>
+         <topic>Annual report</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity program</topic>
+      </subject>
+      <subject>
+         <topic>Program highlights</topic>
+      </subject>
+      <subject>
+         <topic>Information security</topic>
+      </subject>
+      <subject>
+         <topic>Program accomplishments</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-220</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-220</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890491</identifier>
+      <identifier type="oclc">on1389890491</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111503.0</recordChangeDate>
+         <recordIdentifier>991000626253508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

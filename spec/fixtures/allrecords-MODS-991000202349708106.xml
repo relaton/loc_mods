@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Blockchain technology overview</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2011141697">
+         <namePart>Yaga, Dylan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011141697</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141697">
+         <namePart>Yaga, Dylan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011141697</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2938-897X">
+         <namePart>Mell, Peter.</namePart>
+         <nameIdentifier>(orcid)0000-0003-2938-897X</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Roby, Nik.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6334-9486">
+         <namePart>Kent, Karen (Karen Ann)</namePart>
+         <nameIdentifier>(orcid)0000-0001-6334-9486</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Blockchains are tamper evident and tamper resistant digital ledgers
+                implemented in a distributed fashion (i.e., without a central repository) and
+                usually without a central authority (i.e., a bank, company, or government). At their
+                basic level, they enable a community of users to record transactions in a shared
+                ledger within that community, such that under normal operation of the blockchain
+                network no transaction can be changed once published. This document provides a
+                high-level technical overview of blockchain technology. The purpose is to help
+                readers understand how blockchain technology works.</abstract>
+      <note type="statement of responsibility">Dylan Yaga; Peter Mell; Nik Roby; Karen Scarfone.</note>
+      <note>October 2018.</note>
+      <note>Title from PDF title page (viewed October 2, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034453">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/884552">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Blockchain</topic>
+      </subject>
+      <subject>
+         <topic>Consensus model</topic>
+      </subject>
+      <subject>
+         <topic>Cryptocurrency</topic>
+      </subject>
+      <subject>
+         <topic>Cryptographic hash function</topic>
+      </subject>
+      <subject>
+         <topic>Asymmetric-key cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Distributed ledger</topic>
+      </subject>
+      <subject>
+         <topic>Distributed consensus algorithm</topic>
+      </subject>
+      <subject>
+         <topic>Proof of work</topic>
+      </subject>
+      <subject>
+         <topic>Proof of stake</topic>
+      </subject>
+      <subject>
+         <topic>Proof of authority</topic>
+      </subject>
+      <subject>
+         <topic>Proof of identity</topic>
+      </subject>
+      <subject>
+         <topic>Proof of elapsed time</topic>
+      </subject>
+      <subject>
+         <topic>Round robin</topic>
+      </subject>
+      <subject>
+         <topic>Soft fork</topic>
+      </subject>
+      <subject>
+         <topic>Hard fork</topic>
+      </subject>
+      <subject>
+         <topic>Smart contracts</topic>
+      </subject>
+      <subject>
+         <topic>Data oracle</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8202</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8202</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055658739</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004104109.0</recordChangeDate>
+         <recordIdentifier>991000202349708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Guidelines for the accreditation of personal identity verification
+                card issuers</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2015202084">
+         <namePart>Candramauḷi, Ār.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2015202084</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2015202084">
+         <namePart>Candramauḷi, Ār.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2015202084</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n89639822">
+         <namePart>Bailey, D.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n89639822</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ghadiali, N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Branstad, D. K.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2008</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2008.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The purpose of this publication is to provide appropriate and useful
+                guidelines for accrediting the reliability of issuers of Personal Identity
+                Verification cards that are established to collect, store, and disseminate personal
+                identity credentials and issue smart cards, based on the standards published in
+                response to Homeland Security Presidential Directive 12 (HSPD-12). These issuers,
+                who are the target of assessment and accreditation, are called Personal Identity
+                Verification Card Issuers or PCIs. The reliability of PCIs is of utmost importance
+                when one organization (e.g., a Federal agency or Federal contractor) is required to
+                trust the identity credentials and cards of individuals that were created and
+                issued, respectively, by another organization. This trust will only exist if
+                organizations relying on the credentials and cards issued by a given organization
+                have the necessary level of assurance that the reliability of the issuing
+                organization has been established through a formal accreditation process. This
+                publication provides an assessment and accreditation methodology for verifying that
+                issuers of PIV credentials and cards are reliably adhering to standards and
+                implementation directives developed under HSPD-12.</abstract>
+      <note type="statement of responsibility">R. Chandramouli; D. Bailey; N. Ghadiali; D. K. Branstad.</note>
+      <note>2008.</note>
+      <note>Superseded by NIST Speical Publication 800-79-2.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Accreditation</topic>
+      </subject>
+      <subject>
+         <topic>Credentials</topic>
+      </subject>
+      <subject>
+         <topic>HSPD-12</topic>
+      </subject>
+      <subject>
+         <topic>PCI</topic>
+      </subject>
+      <subject>
+         <topic>Personal Identity Verification</topic>
+      </subject>
+      <subject>
+         <topic>PIV</topic>
+      </subject>
+      <subject>
+         <topic>Security assessment</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-79-1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-79-1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">712601252</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120949.0</recordChangeDate>
+         <recordIdentifier>991000077519708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

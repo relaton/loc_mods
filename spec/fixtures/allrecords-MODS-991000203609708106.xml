@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST micronutrients measurement quality assurance program</title>
+         <subTitle>1984-1985 comparability studies results for round robins I, II, III
+                and V fat soluble vitamins and carotenoids in human serum</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
+         <namePart>Duewer, David L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019178574</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
+         <namePart>Duewer, David L.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019178574</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020100705">
+         <namePart>Kline, Margaret C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020100705</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80154485">
+         <namePart>MacCrehan, William A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n80154485</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80154422">
+         <namePart>May, Willie E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n80154422</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019187374">
+         <namePart>Paule, Robert C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019187374</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Parris, Reenie.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88662487">
+         <namePart>Schaffer, Robert.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88662487</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Thomas, Jeanice B.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.).</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">From 1984 to 2017, the National Institute of Standards and Technology
+                (NIST) and its precursor the National Burearu of Standards (NBS) coordinated what
+                became the Micronutrients Measurement Quality Assurance Program (MMQAP) for
+                laboratories that measure fat soluble vitamins and carotenoids in human serum and
+                plasma. This report describes the design of and results for the 1984 and 1985 MMQAP
+                Fat Soluble Vitamins and Carotenoids in Human Serum measurement comparability
+                improvement studies: Round Robins I, II, III, and V (selenium and zinc were the only
+                analytes in Round Robin IV). The test samples were: calibration solutions in Round
+                Robins I and II, fortified sera in Round Robin III, and natural plasma in Round
+                Robin V. Participant results were received for: Round Robin I between November 11
+                and December 24, 1984; Round Robin II between January 14 and February 19, 1985;
+                Round Robin III between March 2 and May 30, 1985; and Round Robin V between August 7
+                and December 12, 1985.</abstract>
+      <note type="statement of responsibility">David L. Duewer; Margaret C. Kline; William A. MacCrehan; Willie E.
+                May; Robert C. Paule; Reenie Parris; Robert Schaffer; Jeanice B. Thomas.</note>
+      <note>February 2019.</note>
+      <note>Title from PDF title page (viewed February 7, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85143952">
+         <topic>Vitamin A</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1168150">
+         <topic>Vitamin A</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85109438">
+         <topic>Quality assurance</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1084943">
+         <topic>Quality assurance</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Biomaterials</topic>
+      </subject>
+      <subject>
+         <topic>alpha-Tocopherol</topic>
+      </subject>
+      <subject>
+         <topic>beta-Carotene</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.7880-39</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>7880-39</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1085510948</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190212</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190212115452.0</recordChangeDate>
+         <recordIdentifier>991000203609708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

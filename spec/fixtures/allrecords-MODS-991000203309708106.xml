@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Health assessment measurements quality assurance program</title>
+         <subTitle>exercise 1 final report</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Barber, Charles A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Barber, Charles A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Benner, Jr., Bruce A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n95117018">
+         <namePart>Brown Thomas, Jeanice.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n95117018</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Burdette, Carolyn Q.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Camara, Johanna.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87874242">
+         <namePart>Long, Stephen.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87874242</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Murray, Jacolin A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Phillips, Melissa M.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Place, Benjamin J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Rimmer, Catherine A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022054622">
+         <namePart>Wood, Laura J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022054622</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Yu, Lee.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chinthalapati, Siva K.R.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tai, Susan S.-C.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The NIST Health Assessment Measurements Quality Assurance Program
+                (HAMQAP) was launched in collaboration with the National Institutes of Health (NIH)
+                Office of Dietary Supplements (ODS) in 2017. HAMQAP was established to enable
+                laboratories to improve the accuracy of measurements for demonstration of compliance
+                with various regulations by measuring samples that represent human intake (e.g.,
+                foods, dietary supplements, tobacco) and samples that represent human output (e.g.,
+                blood, serum, plasma, urine). Analytes are paired where possible to represent the
+                full spectrum of health assessment. Exercise 1 of this program offered the
+                opportunity for laboratories to assess their in-house measurements of nutritional
+                elements (iron and transferrin), contaminants (arsenic species and mycotoxins),
+                water-soluble vitamins (vitamin B12), fat-soluble vitamins (vitamin D and
+                metabolites), fatty acids, and botanical marker compounds (actein and
+                27-deoxyactein) in foods, botanical or dietary supplement ingredients, and human
+                serum, plasma, or urine.</abstract>
+      <note type="statement of responsibility">Charles A. Barber; Bruce A. Benner, Jr.; Jeanice Brown Thomas;
+                Carolyn Q. Burdette; Johanna Camara; Stephen Long; Jacolin A. Murray; Melissa M.
+                Phillips; Benjamin J. Place; Catherine A. Rimmer; Laura J. Wood; Lee Yu; Siva K.R.
+                Chinthalapati; Susan S.-C. Tai.</note>
+      <note>November 2018.</note>
+      <note>Title from PDF title page (viewed November 19, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <name type="corporate">
+            <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/643187">
+         <name type="corporate">
+            <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no97025070">
+         <name type="corporate">
+            <namePart>NIH Office of Dietary Supplements.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/727101">
+         <name type="corporate">
+            <namePart>NIH Office of Dietary Supplements.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85023011">
+         <topic>Analytical chemistry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/853459">
+         <topic>Analytical chemistry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85093473">
+         <topic>Nutrition policy</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1042296">
+         <topic>Nutrition policy</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85093451">
+         <topic>Nutrition</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1042187">
+         <topic>Nutrition</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8237</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8237</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1084487349</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190205022340.0</recordChangeDate>
+         <recordIdentifier>991000203309708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

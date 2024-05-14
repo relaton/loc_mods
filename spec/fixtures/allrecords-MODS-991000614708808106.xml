@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Report from the 2022 NIST Rapid Microbial Testing Methods (RMTM)
+                Workshop</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Servetas, Stephanie.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid):0000-0002-4924-4511">
+         <namePart>Servetas, Stephanie.</namePart>
+         <nameIdentifier>(orcid):0000-0002-4924-4511</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid):0000-0002-6980-3288">
+         <namePart>Lin, Nancy.</namePart>
+         <nameIdentifier>(orcid):0000-0002-6980-3288</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Chowdhury, Nadratun.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid):0000-0002-6980-3288">
+         <namePart>Jackson, Scott.</namePart>
+         <nameIdentifier>(orcid):0000-0002-6980-3288</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid):0000-0003-4565-1176">
+         <namePart>Kralj, Jason.</namePart>
+         <nameIdentifier>(orcid):0000-0003-4565-1176</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Lin-Gibson, Sheng.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sanders, Melody.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Eskandari, Tara.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Lab Name.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-08-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Safety and quality of advanced therapies, including cellular, gene,
+                and tissue-engineered medical products, is paramount for success of these products.
+                Sterility assurance testing confirming the absence of microbial contamination in
+                advanced therapy products is critical to establishing safety before patient dosing.
+                To date, culture-based compendial methods are employed as the gold standard for
+                sterility testing of pharmaceutical products. However, for advanced therapy therapy
+                products, the required cultivation period (e.g., 14 days or more) is incompatible
+                with the short (e.g., 2 days) product shelf life and jeopardizes healthcare outcomes
+                for critically ill patients who need these lifesaving therapies. Alternative rapid
+                microbial testing methods are increasingly being evaluated to reduce test result
+                turnaround time for advanced therapies, but are not yet widely adopted.NIST hosted a
+                Rapid Microbial Testing Methods (RMTMs) Workshop on April 19, 2022 to address
+                overarching themes relevant to the need to implement rapid microbial testing
+                methods. The workshop's goals were to identify measurement challenges and hurdles to
+                adopting RMTMs for advanced therapy products and to share and obtain feedback on
+                future efforts of the RMTM Consortium. To this end, subject matter experts from
+                relevant legal, regulatory, and scientific/technological spaces were invited to give
+                presentations related to two broad themes: 1. Barriers and Potential Solutions to
+                Adoption of RMTMs, and 2. Technologies and Tools for Rapid Microbial Detection.
+                Invited speakers also participated in panel discussions that actively engaged
+                audience members via live polling during facilitated and impromptu discussions. This
+                virtual workshop collectively served as a venue for shared knowledge and learning on
+                the state of the field for RMTMs and hurdles in their broad adoption, consequently
+                benefiting a diverse group of stakeholders. Additionally, the workshop promoted
+                greater awareness of the NIST RMTM Consortium and its activities. Summaries of the
+                presentations, discussion, and poll results are presented within this
+                report.</abstract>
+      <note type="statement of responsibility">Stephanie L Servetas; Nancy J. Lin; Nadratun N. Chowdhury; Scott A.
+                Jackson; Jason G. Kralj; Tara Eskandari; Melody Sanders; Sheng
+                Lin-Gibson.</note>
+      <note>August 2023.</note>
+      <note>Title from PDF title page (viewed October 31, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-05-19.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Regenerative medicine</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Reference sources</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Rapid methods (Microbiology)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Microbial contamination</topic>
+      </subject>
+      <subject>
+         <topic>Workshop report</topic>
+      </subject>
+      <subject>
+         <topic>Validation</topic>
+      </subject>
+      <subject>
+         <topic>Sterility testing</topic>
+      </subject>
+      <subject>
+         <topic>Microbial detection</topic>
+      </subject>
+      <subject>
+         <topic>FDA regulations</topic>
+      </subject>
+      <subject>
+         <topic>Consortium</topic>
+      </subject>
+      <subject>
+         <topic>Cell and gene therapy</topic>
+      </subject>
+      <subject>
+         <topic>Advanced therapy medicinal products</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1292</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication</title>
+            <partNumber>1292</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1292</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253954</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111409.0</recordChangeDate>
+         <recordIdentifier>991000614708808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

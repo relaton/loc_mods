@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>comparative analysis of NIST Charpy machines and internal reference
+                materials</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015169004">
+         <namePart>Lucon, Enrico.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015169004</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015169004">
+         <namePart>Lucon, Enrico.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015169004</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139166">
+         <namePart>Santoyo, Ray.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021139166</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report documents the results of a series of comparative analyses
+                which were conducted on the Charpy machines located at NIST in Boulder, Colorado.
+                The analyses were performed both on historical data, collected over a period of more
+                than 20 years, and newly obtained test results from almost 300 instrumented and
+                non-instrumented impact tests on verification specimens of low energy (13 J to 20
+                J), high energy (88 J to 136 J), and super-high energy (176 J to 244 J). The
+                comparative analyses were completed for the purpose of understanding the limits of
+                calibrating instrumented strikers for use in dynamic test through conventional
+                static calibration procedures. Test results, obtained both in the past and within
+                the current study, show that one of the so-called master machines (used to establish
+                reference values for ASTM verification specimens) delivers consistently lower energy
+                values than the other two master machines in the 15 J - 20 J range. This is
+                suspected to be due to its higher stiffness and hammer design (C-type), which
+                increases its natural frequency of vibration and causes early fracture in a
+                quasi-brittle (low-energy) test. The extremely large number of instrumented Charpy
+                tests performed within this investigation (more than 200) allowed us to assess the
+                reliability of the conventional static calibration procedure for our instrumented
+                strikers, as compared to different approaches for the adjustment/correction of
+                measured force values. Even though these approaches were found beneficial in
+                improving the between-machine consistency, statistically significant differences
+                remained nonetheless. It appears that, in order to reliably calibrate an
+                instrumented striker, forces must be applied at loading rates that are equivalent to
+                those encountered during actual tests (dynamic calibration of instrumented
+                strikers). This should become a clear objective of the NIST Charpy program going
+                forward.</abstract>
+      <note type="statement of responsibility">Enrico Lucon; Ray Santoyo.</note>
+      <note>Title from PDF title page (viewed September 27, 2016).</note>
+      <note>September 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85092789">
+         <topic>Notched bar testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1039586">
+         <topic>Notched bar testing</topic>
+      </subject>
+      <subject>
+         <topic>Calibration of instrumented strikers</topic>
+      </subject>
+      <subject>
+         <topic>Charpy absorbed energy</topic>
+      </subject>
+      <subject>
+         <topic>Charpy maximum force</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8145</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8145</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662196</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240201160651.0</recordChangeDate>
+         <recordIdentifier>991000188299708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

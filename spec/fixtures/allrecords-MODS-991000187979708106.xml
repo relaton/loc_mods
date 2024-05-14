@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Checking the net contents of packaged goods (HB 133 2017 ed)
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2014056629">
+         <namePart>Warfield, Lisa.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2014056629</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2014056629">
+         <namePart>Warfield, Lisa.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2014056629</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Sefcik, David A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006134842">
+         <namePart>Crown, Linda.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2006134842</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2019028800">
+         <namePart>Physical Measurement Laboratory (National Institute of Standards and
+                Technology (U.S.))</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019028800</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This handbook has been prepared as a procedural guide for the
+                compliance testing of net contents statements on packaged goods. Compliance testing
+                of packaged goods is the determination of the conformance results of the packaging,
+                distribution, and retailing process (the packages) to specific legal requirements
+                for net content declarations. This handbook has been developed primarily for the use
+                of government officials; however, it should also be useful to commercial and
+                industrial establishments in the areas of packaging, distribution, and sale of
+                commodities. In conducting compliance testing, the conversion of quantity values
+                from one measuring system to another (e.g., from the metric system to the
+                avoirdupois system) should be handled with careful regard to the implied
+                correspondence between accuracy of the data and the number of digits displayed. In
+                all conversion, the number of significant digits retained should ensure that
+                accuracy is neither sacrificed nor exaggerated. For this edition of Handbook 133,
+                all dimensions for test procedures, devices, or environments have been rounded to
+                two significant digits (e.g., 2.5 cm to 1.0 in) or to a precision level applicable
+                to the test equipment (e.g., 200 kPA for 25 psi and 35 MPs for 5000 psi).</abstract>
+      <note type="statement of responsibility">Lisa Warfield; David A. Sefcik; Linda D. Crown.</note>
+      <note>December 2016.</note>
+      <note>Title from PDF title page (viewed December 6, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85096514">
+         <topic>Packaging</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1050156">
+         <topic>Packaging</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85073623">
+         <topic>Labels</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/989774">
+         <topic>Labels</topic>
+      </subject>
+      <subject>
+         <topic>Package testing</topic>
+      </subject>
+      <subject>
+         <topic>Compliance testing</topic>
+      </subject>
+      <subject>
+         <topic>Content statement</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.HB.133-2017</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST handbook; NIST HB</title>
+            <partNumber>133-2017</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662140</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114118.0</recordChangeDate>
+         <recordIdentifier>991000187979708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

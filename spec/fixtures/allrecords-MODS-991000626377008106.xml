@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Consideraciones para la gestión de riesgos a la ciberseguridad y la
+                privacidad de internet de las cosas (IoT)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Boeckl, Katie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Boeckl, Katie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fagan, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fisher, William.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lefkovitz, Naomi.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Megas, Katerina N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nadeau, Ellen.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>O'Rourke, Danna Gabel.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Piccarreta, Ben.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Scarfone, Karen.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">programmed text</genre>
+      <genre authority="marcgt">government publication</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-03-29.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+      </language>
+      <language objectPart="translation">
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (50 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">La internet de las cosas (IoT) es un conjunto de diversas tecnolog as
+                que evolucionan y se difunden con rapidez, y que interact an con el mundo f sico.
+                Muchas organizaciones no se dan cuenta del gran n mero de dispositivos de IoT que ya
+                est n utilizando, ni de que los dispositivos de IoT pueden afectar a los riesgos a
+                la ciberseguridad y la privacidad de manera distinta de los dispositivos de tecnolog
+                a de la informaci n (TI) convencionales. El objetivo de esta publicaci n es ayudar a
+                los organismos federales y otras organizaciones a conocer y gestionar mejor los
+                riesgos a la ciberseguridad y la privacidad asociados con sus dispositivos
+                individuales de IoT durante el ciclo de vida de estos. Esta publicaci n es un
+                documento introductorio que sirve de base para una serie de publicaciones
+                planificadas sobre aspectos m s espec ficos de este tema.</abstract>
+      <note type="statement of responsibility">Katie Boeckl; Michael Fagan; William Fisher; Naomi Lefkovitz;
+                Katerina N. Megas; Ellen Nadeau; Danna Gabel O Rourke; Ben Piccarreta; Karen
+                Scarfone.</note>
+      <note>March 2021.</note>
+      <note>Title from PDF title page (viewed June 29, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-03-24</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity risk</topic>
+      </subject>
+      <subject>
+         <topic>Privacy risk</topic>
+      </subject>
+      <subject>
+         <topic>Risk mitigation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8228es</url>
+      </location>
+      <relatedItem type="otherVersion">
+         <name>
+            <namePart>10.6028/NIST.IR.8228</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8228es</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427229013</identifier>
+      <identifier type="oclc">on1427229013</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240404155010.0</recordChangeDate>
+         <recordIdentifier>991000626377008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Morphology of the Nevada cattle brands and their blazons</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Watt, William C.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Watt, William C.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ob</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1966</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology,</publisher>
+         <dateIssued>1966.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">remote</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">William C. Watt.</note>
+      <note>February 10, 1966.</note>
+      <note>Title from PDF title page (viewed Febraury 22, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cattle brands</topic>
+         <geographic>Nevada</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Semantics (Philosophy)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Linguistics</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Bovins</topic>
+         <topic>Marques</topic>
+         <geographic>Nevada</geographic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Sémantique (Philosophie)</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Linguistique</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>linguistics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst00849704">
+         <topic>Cattle brands</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst00999202">
+         <topic>Linguistics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst01112094">
+         <topic>Semantics (Philosophy)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst01205660">
+         <geographic>Nevada</geographic>
+      </subject>
+      <classification authority="lcc">QC100 .U843 no.9050 1966</classification>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.RPT.9050</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS report</title>
+            <partNumber>9050</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">994300747</identifier>
+      <identifier type="oclc">ocn994300747</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170724</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240216054316.3</recordChangeDate>
+         <recordIdentifier>991000625658208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

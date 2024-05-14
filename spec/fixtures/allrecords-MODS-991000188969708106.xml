@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Email authentication mechanisms: DMARC, SPF and DKIM</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Nightingale, Stephen J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Nightingale, Stephen J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In recent years the IETF has been making a range of efforts to secure
+                the email infrastructure and its use. Infrastructure protection includes source
+                authentication by RFC 7208 Sender Policy Framework (SPF), message integrity
+                authentication by RFC 6376 Domain Keys Identified Mail (DKIM), and domain owner
+                feedback on the effectiveness of these methods by RFC 7489 Domain- based Message
+                Authentication, Reporting and Conformance (DMARC). The High Assurance Domains (HAD)
+                secure email project at NIST has been supporting the development of these
+                initiatives by developing and deploying test infrastructure. This report describes
+                our cumulative experiences with a test system for DMARC and its related
+                protocols.</abstract>
+      <note type="statement of responsibility">Stephen J. Nightingale.</note>
+      <note>February 2017.</note>
+      <note>Title from PDF title page (viewed February 15, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh96007226">
+         <topic>Electronic mail messages</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/907328">
+         <topic>Electronic mail messages</topic>
+      </subject>
+      <subject>
+         <topic>DMARC</topic>
+      </subject>
+      <subject>
+         <topic>DKIM</topic>
+      </subject>
+      <subject>
+         <topic>SPF</topic>
+      </subject>
+      <subject>
+         <topic>DNS</topic>
+      </subject>
+      <subject>
+         <topic>SMTP</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1945</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1945</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">973934322</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170228</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170228021840.0</recordChangeDate>
+         <recordIdentifier>991000188969708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

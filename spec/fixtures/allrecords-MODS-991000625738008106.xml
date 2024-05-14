@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Evaluating the operational impact of contactless fingerprint imagery
+                on matcher performance</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Orandi, Shahram.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Orandi, Shahram.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Libert, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bandini, Bruce.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ko, Kenneth.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grantham, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Watson, Craig.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-09-15.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (45 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This study set out to examine the operational impact of introducing
+                contactless fingerprint imagery to a modern fingerprint matching system that was
+                designed for touch-collected images in either a standard Ten-Print operational
+                matching pathway or a Mobile ID optimized operational pathway, depending on
+                configuration. Contactless fingerprint imagery from six contactless devices were
+                used, along with mated imagery from two touch-based devices using a block
+                experimental design. Experimental cases were defined for the matching of contactless
+                fingerprint imagery as either probe or biometric reference database, and system
+                matching accuracy measured in terms of false negative identification rate (FNIR).
+                Due to the small data set available, the experiment was not structured to measure
+                false positive error rates. Results showed the viability of using contactless
+                imagery as the biometric reference database, albeit using these images will come at
+                the price of matching accuracy on the Ten-Print matcher (FNIR of 0.5?% worst case
+                for touch devices vs. FNIR of 1.6?% best case for contactless). The Mobile ID
+                matcher seemed to close the gap between contactless and touch with the best
+                performing contactless device in terms of accuracy (D3) performing at an FNIR of
+                0.8?% while the worst performing touch-to-touch device was measured at FNIR of 0.5?%
+                showing that Mobile ID optimizations may be key in the introduction of contactless
+                into existing matching pathways. Finally, the introduction of contactless imagery
+                did incur a larger throughput penalty on the Ten- Print matcher than it did on the
+                Mobile ID operational matcher.</abstract>
+      <note type="statement of responsibility">Shahram Orandi; John Libert; Bruce Bandini; Kenneth Ko; John
+                Grantham; Craig Watson.</note>
+      <note>September 2020.</note>
+      <note>Title from PDF title page (viewed October 8, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Fingerprints</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Identification biométrique</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Empreintes digitales</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Fingerprints</topic>
+      </subject>
+      <subject>
+         <topic>Contactless</topic>
+      </subject>
+      <subject>
+         <topic>Accuracy</topic>
+      </subject>
+      <subject>
+         <topic>Throughput</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8315</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8315</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1346124481</identifier>
+      <identifier type="oclc">on1346124481</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220927</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111446.0</recordChangeDate>
+         <recordIdentifier>991000625738008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

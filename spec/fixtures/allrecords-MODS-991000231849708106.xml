@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Room temperature fracture toughness characterization of additively
+                manufactured Ti-6Al-4V</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015169004">
+         <namePart>Lucon, Enrico.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015169004</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015169004">
+         <namePart>Lucon, Enrico.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015169004</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Benzing, Jake.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011023050">
+         <namePart>Hrabe, Nikolas Wilson.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011023050</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The room temperature elastic-plastic fracture toughness of additively
+                manufactured (AM) Ti-6Al-4V was characterized by means of Elastic Compliance (EC)
+                tests on Charpy-type fatigue precracked and side-grooved specimens. Various
+                fabrication and material conditions were investigated: as-built parameters (effects
+                of scan length and use of supports) and hot isostatic pressing parameters (effects
+                of temperature and cooling rate). The results, although strictly not fully compliant
+                with ASTM E1820-18ae1, can be considered representative of the fracture toughness of
+                the material in the different conditions, and compare favorably with literature data
+                for both non-AM and AM Ti-6Al-4V. Additional analyses were conducted with another
+                single-specimen approach (Normalization Data Reduction) and were compared with EC
+                results.</abstract>
+      <note type="statement of responsibility">Enrico Lucon; Jake Benzing; Nik Hrabe.</note>
+      <note>September 2019.</note>
+      <note>Title from PDF title page (viewed September 18, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Additives</topic>
+      </subject>
+      <subject>
+         <topic>Additive manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Elastic compliance</topic>
+      </subject>
+      <subject>
+         <topic>Fracture toughness</topic>
+      </subject>
+      <subject>
+         <topic>Normalization data reduction</topic>
+      </subject>
+      <subject>
+         <topic>Scan length</topic>
+      </subject>
+      <subject>
+         <topic>Ti-6Al-4V</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2065</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2065</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1120083274</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190919</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190919043258.0</recordChangeDate>
+         <recordIdentifier>991000231849708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

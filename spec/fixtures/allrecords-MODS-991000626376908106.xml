@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Workshop report</title>
+         <subTitle>test methods and metrics for effective HRI in collaborative
+                human-robot teams, ACM/IEEE Human-Robot Interaction Conference, 2019</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bagchi, Shelly.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bagchi, Shelly.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Aksu, Murat.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zimmerman, Megan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Marvel, Jeremy A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Antonishek, Brian.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ben Amor, Heni.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fong, Terry.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Mead, Ross.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wang, Yue.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020-12-28.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (18 pages) : tables (black and white)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Verified and validated test methods, being necessary to measure the
+                performance of complex systems, are important tools for driving innovation,
+                benchmarking and improving performance, and establishing trust in collaborative
+                human-robot teams. This full-day workshop aims to explore the metrology necessary
+                for repeatably and independently assessing the collaborative performance of robotic
+                systems in real-world human-robot interaction (HRI) scenarios. This workshop aims to
+                bridge the gaps between the theory and applications of HRI in industry, accelerating
+                the adoption of cutting edge technologies as the industry state-of-practice. The
+                interest in collaborative HRI is evident in the current market as well as standards
+                efforts toward manufacturing, social, medical, and service robot solutions. Though
+                these domains have been considered separate for many years, recent technological and
+                scientific advancements show that, while their applications may differ, the
+                underlying principles of HRI performance impact each identically. As such, this
+                workshop seeks to identify test methods and metrics for the holistic assessment and
+                assurance of collaborative HRI performance. The focus is on identifying the key
+                performance indicators of these seemingly disparate sectors, and additionally to
+                establish a community based on the principles of transparency, repeatability, &amp;
+                establishing trust in the assessment of collaborative HRI. The goal is to aid in the
+                advancement of HRI technologies through the development of experimental scenarios,
+                protocols, test methods, &amp; metrics for the verification and validation of
+                interaction solutions and interface designs.</abstract>
+      <note type="statement of responsibility">Shelly Bagchi; Murat Aksu; Megan Zimmerman; Jeremy A. Marvel; Brian
+                Antonishek; Heni Ben Amor; Terry Fong; Ross Mead; Yue Wang.</note>
+      <note>December 2020.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2020-12-21.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Human-robot interaction</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Metrology</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8339</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8339</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228923</identifier>
+      <identifier type="oclc">on1427228923</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111507.0</recordChangeDate>
+         <recordIdentifier>991000626376908106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

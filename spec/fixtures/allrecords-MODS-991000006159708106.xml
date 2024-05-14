@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Seismic behavior of partially-grouted masonry shear walls, phase 2
+</title>
+         <subTitle>effectiveness of bed-joint reinforcement</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Schultz, Arturo E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Schultz, Arturo E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hutchinson, Robert S.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2003123615">
+         <namePart>Building and Fire Research Laboratory (U.S.).</namePart>
+         <namePart>Structures Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003123615</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2001</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, Md. :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, Technology Administration, National Institute
+                of Standards and Technology; </publisher>
+         <dateIssued>2001.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">remote</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Arturo E. Schultz; Robert S. Hutchinson.</note>
+      <note>February 2001.</note>
+      <note>Structural engineering report no. ST-98-6.</note>
+      <note>Title from PDF title page (viewed on July 28, 2010).</note>
+      <note type="bibliography">Includes biblographical references.</note>
+      <note type="funding">Prepared for U.S. Department of Commerce, Structures Division,
+                Building and Fire Research Laboratory, National Institute of Standards and
+                Technology. USDOC/60NANB6D0121.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010110612">
+         <topic>Reinforced concrete construction</topic>
+         <topic>Testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1093492">
+         <topic>Reinforced concrete construction</topic>
+         <topic>Testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85030709">
+         <topic>Concrete construction</topic>
+         <topic>Joints</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/874285">
+         <topic>Concrete construction</topic>
+         <topic>Joints</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002007921">
+         <topic>Concrete walls</topic>
+         <topic>Testing</topic>
+         <topic>Mathematical models</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/874417">
+         <topic>Concrete walls</topic>
+         <topic>Testing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1012085">
+         <topic>Mathematical models</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/874410">
+         <topic>Concrete walls</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002007921">
+         <topic>Shear walls</topic>
+         <topic>Testing</topic>
+         <topic>Mathematical models</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1115441">
+         <topic>Shear walls</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1148240">
+         <topic>Testing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.01-808</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract report
+</title>
+            <partNumber>01-808</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312489127</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">100728</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20100728094719.0</recordChangeDate>
+         <recordIdentifier>991000006159708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

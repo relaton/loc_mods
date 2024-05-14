@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Manufacturing USA highlights report</title>
+         <subTitle>2022</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Brunner, Zahraha.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brunner, Zahraha.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-10-19.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (98 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Manufacturing USA is a network of public-private partnerships united
+                to secure U.S. global leadership in advanced manufacturing through large scale
+                collaboration on technology, supply chain, and workforce development. The network
+                includes the U.S. Departments of Commerce (DOC), Defense (DoD), and Energy (DOE), 16
+                manufacturing innovation institutes and six other federal partner agencies - NASA,
+                NSF, HHS, and the Departments of Agriculture, Education and Labor. Together, they
+                work towards accomplishing national manufacturing objectives to secure America's
+                future through manufacturing innovation, education, and collaboration. This report
+                provides a summary of the technology innovation and workforce development projects
+                involving the institutes and their 2,300 member organizations during Fiscal Year
+                2021.</abstract>
+      <note type="statement of responsibility">Zahraha Brunner.</note>
+      <note>October 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-04-05</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Manufacturing USA (Program)</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Department of Commerce</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Department of Defense</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>United States. Department of Energy</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>RAPID</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>COVID-19 (Disease)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>COVID-19 Pandemic, 2020-</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Pandemics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Labor supply</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Technological innovations</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Sustainability</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diversity in the workplace</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Equity</topic>
+      </subject>
+      <subject>
+         <topic>America Makes</topic>
+      </subject>
+      <subject>
+         <topic>AFFOA</topic>
+      </subject>
+      <subject>
+         <topic>ARM</topic>
+      </subject>
+      <subject>
+         <topic>AIM Photonics</topic>
+      </subject>
+      <subject>
+         <topic>BioMADE</topic>
+      </subject>
+      <subject>
+         <topic>BioFabUSA</topic>
+      </subject>
+      <subject>
+         <topic>CESMII</topic>
+      </subject>
+      <subject>
+         <topic>CyManII</topic>
+      </subject>
+      <subject>
+         <topic>IACMI</topic>
+      </subject>
+      <subject>
+         <topic>LIFT</topic>
+      </subject>
+      <subject>
+         <topic>MxD</topic>
+      </subject>
+      <subject>
+         <topic>NIIMBL</topic>
+      </subject>
+      <subject>
+         <topic>NextFlex</topic>
+      </subject>
+      <subject>
+         <topic>PowerAmerica</topic>
+      </subject>
+      <subject>
+         <topic>REMADE</topic>
+      </subject>
+      <subject>
+         <topic>Advanced manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Competitiveness</topic>
+      </subject>
+      <subject>
+         <topic>Pandemic response</topic>
+      </subject>
+      <subject>
+         <topic>Workforce development</topic>
+      </subject>
+      <subject>
+         <topic>Technology development</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.600-11</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>600-11</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890483</identifier>
+      <identifier type="oclc">on1389890483</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111505.0</recordChangeDate>
+         <recordIdentifier>991000626248008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

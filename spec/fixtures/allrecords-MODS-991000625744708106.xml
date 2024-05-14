@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST roadmap toward criteria for threshold schemes for cryptographic
+                primitives</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>BrandaÌ³o, LuiÌ¹s T. A. N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>BrandaÌ³o, LuiÌ¹s T. A. N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Davidson, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Vassilev, Apostol.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2020</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2020.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (39 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document constitutes a preparation toward devising criteria for
+                the standardization of threshold schemes for cryptographic primitives by the
+                National Institute of Standards and Technology (NIST). The large diversity of
+                possible threshold schemes, as identified in the NIST Internal Report (NISTIR) 8214,
+                is structured along two main tracks: single-device and multi-party. Each track
+                covers cryptographic primitives in several possible threshold modes. The potential
+                for real-world applications is taken as an important motivating factor for
+                differentiating the pertinence of each possible threshold scheme. Also, the
+                selection of items for standardization needs to consider diverse features, such as
+                advanced security properties, configurability of parameters, testing and validation,
+                modularity and composability (e.g., of gadgets vs. composites), and specification
+                detail. Overall, the organization put forward serves as a preparation for an
+                upcoming solicitation of feedback useful for considering a variety of threshold
+                schemes, while differentiating standardization paths and timelines that may depend
+                on the levels of technical and standardization challenges. This approach paves the
+                way for an effective engagement with the community of stakeholders and constitutes a
+                preparation for devising criteria for standardization and subsequent calls for
+                contributions. While the terms standards and standardization are used throughout
+                this report to refer to a set of possible final products, this does not imply a
+                Federal Information Processing Standard (FIPS) as one or as the only intended format
+                for NIST products of future threshold schemes for cryptographic
+                primitives.</abstract>
+      <note type="statement of responsibility">LuiÌ¹s T. A. N. BrandaÌ³o; Michael Davidson; Apostol
+                Vassilev.</note>
+      <note>July 2020.</note>
+      <note>Title from PDF title page (viewed July 16, 2020).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Testing</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer software</topic>
+         <topic>Validation</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Computer Security</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Software Validation</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Cryptographie</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Sécurité informatique</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Essais (Technologie)</topic>
+      </subject>
+      <subject authority="rvm">
+         <topic>Logiciels</topic>
+         <topic>Validation</topic>
+      </subject>
+      <subject authority="aat">
+         <topic>testing</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Computer software</topic>
+         <topic>Validation</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject authority="fast">
+         <topic>Testing</topic>
+      </subject>
+      <subject>
+         <topic>Threshold schemes</topic>
+      </subject>
+      <subject>
+         <topic>Cryptographic primitives</topic>
+      </subject>
+      <subject>
+         <topic>Threshold cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Secure multi-party computation</topic>
+      </subject>
+      <subject>
+         <topic>Intrusion tolerance</topic>
+      </subject>
+      <subject>
+         <topic>Resistance to side-channel attacks</topic>
+      </subject>
+      <subject>
+         <topic>Secure implementations</topic>
+      </subject>
+      <subject>
+         <topic>Distributed systems</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8214A</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8214A</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1311601103</identifier>
+      <identifier type="oclc">on1311601103</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">220421</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240203002450.0</recordChangeDate>
+         <recordIdentifier>991000625744708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

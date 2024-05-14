@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Airflow and indoor air quality models of DOE prototype commercial
+                buildings</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022064506">
+         <namePart>Ng, Lisa C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022064506</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022064506">
+         <namePart>Ng, Lisa C.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022064506</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015170653">
+         <namePart>Musser, Amy.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015170653</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9542-3318">
+         <namePart>Persily, Andrew K.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9542-3318</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076634">
+         <namePart>Emmerich, Steven J. (Steven John)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2003076634</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A previous report, NIST Technical Note 1734, Airflow and Indoor Air
+                Quality Models of DOE Reference Commercial Buildings [1], detailed the CONTAM models
+                of the 16 U. S. Department of Energy (DOE) reference commercial building models [2].
+                DOE developed the EnergyPlus building models for use in assessing new technologies
+                and supporting the development of energy codes in pursuing building energy
+                efficiency improvements. The DOE commercial reference buildings were developed to
+                represent buildings that were constructed before 1980, constructed between
+                1980-2003, and constructed in 2004. Further details on the DOE reference building
+                models can be found in Deru, et al. (2). Since the release of the DOE reference
+                building models, updates have been made by Pacific Northwest National Laboratory
+                (PNNL) so that the modeled buildings comply with newer versions of ASHRAE Standard
+                90.1 Energy Standard for Buildings Except Low-Rise Residential Buildings [3] and the
+                International Energy Conservation Code (IECC) [4]. These building models are
+                referred to as the prototype buildings, rather than the reference buildings. Thus,
+                NIST Technical Note 1734 is updated in this report to reflect the changes to the
+                CONTAM models to match the prototype buildings that comply with ASHRAE Standard
+                90.1-2013. Updates to the NIST Technical Note 1734 are denoted by red text in this
+                document. In general, the building geometry and layout of the prototype buildings
+                are the same as the reference buildings, with minor changes to the layout of the
+                Large Office only. In addition, both the reference and prototype building models
+                contain 16 building types. However, the reference buildings include a Supermarket
+                while the prototype buildings include a Highrise Apartment. DOE did not provide
+                reasoning for excluding a Supermarket from the prototype set [5]. All CONTAM models
+                of the prototype buildings required updates to the building envelope airtightness,
+                ventilation airflow rates, ventilation system operation, occupancy, and thermostat
+                setpoint schedules.</abstract>
+      <note type="statement of responsibility">Lisa C. Ng; Amy Musser; Andrew K. Persily; Steven J.
+                Emmerich.</note>
+      <note>October 2019.</note>
+      <note>Title from PDF title page (viewed October 24, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043129">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/909986">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007001498">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1742477">
+         <topic>Indoor air quality</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017769">
+         <topic>Buildings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840962">
+         <topic>Buildings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85142747">
+         <topic>Ventilation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1165252">
+         <topic>Ventilation</topic>
+      </subject>
+      <subject>
+         <topic>CONTAM</topic>
+      </subject>
+      <subject>
+         <topic>Airflow</topic>
+      </subject>
+      <subject>
+         <topic>EnergyPlus</topic>
+      </subject>
+      <subject>
+         <topic>Prototype buildings</topic>
+      </subject>
+      <subject>
+         <topic>Building simulation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2072</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2072</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1132805866</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">191223</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20191223014821.0</recordChangeDate>
+         <recordIdentifier>991000232429708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Commissioning ASHRAE high-performance sequences of operation for
+                multiple-zone variable air volume air handling units</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Milesi Ferretti, Natascha.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Milesi-Ferretti, Natascha.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007101805">
+         <namePart>Galler, Michael A.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2007101805</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107279">
+         <namePart>Bushby, Steven T.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021107279</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Sorra, Justin.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">ASHRAE Guideline 36 High Performance Sequences of Operation for HVAC
+                Systems was developed to provide a reference set of high-performance control
+                sequences for air-side heating, ventilating and air-conditioning (HVAC) equipment,
+                including multiple-zone variable-air-volume (VAV) air handlers and associated
+                terminal equipment. The intent is that high-performance buildings will perform
+                better if well-known sequences of operation are specified and controls contractors
+                refine their products to correctly implement them. In this work functional
+                performance tests for the Guideline 36 sequences were developed and implemented
+                using the HVAC-Cx commissioning tool. The HVAC-Cx Functional Performance Test Module
+                was used to commission an implementation of Guideline 36 sequences in the NIST
+                Virtual Cybernetic Building Testbed. The functional performance tests are described
+                and the effectiveness of using the HVAC-Cx tool for detecting faults and
+                implementation errors is evaluated.</abstract>
+      <note type="statement of responsibility">Natascha Milesi Ferretti; Michael A. Galler; Steven T. Bushby; Justin
+                Sorra.</note>
+      <note>February 2019.</note>
+      <note>Title from PDF title page (viewed February 22, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85127315">
+         <topic>Standards, Engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1131487">
+         <topic>Standards, Engineering</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017734">
+         <topic>Building laws</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840692">
+         <topic>Building laws</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043129">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/909986">
+         <topic>Energy consumption</topic>
+      </subject>
+      <subject>
+         <topic>BACnet</topic>
+      </subject>
+      <subject>
+         <topic>HVAC</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2024</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2024</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1097556879</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190417</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190417041851.0</recordChangeDate>
+         <recordIdentifier>991000216509708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Measured emission spectra of selected AWS-3 LTE transmitters
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n00000300">
+         <namePart>Frey, Michael.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n00000300</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n00000300">
+         <namePart>Frey, Michael.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n00000300</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88633231">
+         <namePart>Sanders, Geoffrey.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88633231</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Splett, Jolene.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ladbury, John.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87828162">
+         <namePart>Sanders, Frank.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87828162</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Kord, Azizollah.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2016045473">
+         <namePart>Jacobs, Ryan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2016045473</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Version three of Advanced Wireless Services (AWS-3) radio systems
+                will soon use spectrum that is adjacent to bands currently used by airborne
+                telemetry links at U.S. government test and training ranges (TTRs). It is possible
+                that out-of-band (OoB) and spurious emissions from AWS-3 base stations (within LTE
+                these are referred to as evolved node Bs, or eNBs) and their associated mobile units
+                (called user equipment or UEs) might cause interference to these adjacent-band
+                telemetry receivers. Electromagnetic compatibility (EMC) analyses for such
+                interference will rely on knowing the power spectra of the OoB and spurious
+                emissions of AWS-3 eNBs and UEs on frequencies used by telemetry link receivers. To
+                determine these power spectra, the authors have measured transmitter OoB and
+                spurious emissions of an AWS-3 eNB and selected UEs. Adaptive power attenuation
+                allowed these measurements to be made with over 100 decibels (dB) of dynamic range.
+                The measurements have been collected in a variety of resolution bandwidths,
+                transmitter modulations, and types of transmitter loading (i.e., number of resource
+                blocks used) for two measurement detector modes. The results of those measurements
+                are provided in this report. In general, AWS-3 eNB and UE transmitted emission
+                spectra are found to be insensitive to variations in transmitter modulations, and
+                resource block configurations. The measured power spectra of the eNBs and UEs vary
+                in direct proportion to measurement (or receiver) bandwidth (i.e., as 10 log
+                measurement bandwidth) with an approximate offset of about 10 dB between peak and
+                average levels. The measurement results indicate that AWS-3 eNB and UE power spectra
+                were suppressed by at least 100 dB in the adjacent telemetry bands for the devices
+                tested. The results can now be factored into EMC analyses for AWS-3 transmitters
+                operating in proximity to telemetry receivers.</abstract>
+      <note type="statement of responsibility">Michael Frey; Geoffrey Sanders; Jolene Splett; John Ladbury; Frank
+                Sanders; Azizollah Kord; Ryan Jacobs.</note>
+      <note>December 2017.</note>
+      <note>Title from PDF title page (viewed January 16, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh92006740">
+         <topic>Wireless communication systems</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1176209">
+         <topic>Wireless communication systems</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Band sharing</topic>
+      </subject>
+      <subject>
+         <topic>Band sharing analysis</topic>
+      </subject>
+      <subject>
+         <topic>Interference analysis</topic>
+      </subject>
+      <subject>
+         <topic>eNodeB (eNB)</topic>
+      </subject>
+      <subject>
+         <topic>Emission spectrum</topic>
+      </subject>
+      <subject>
+         <topic>Telemetry links</topic>
+      </subject>
+      <subject>
+         <topic>User equipment (UE)</topic>
+      </subject>
+      <subject>
+         <topic>AWS-3</topic>
+      </subject>
+      <subject>
+         <topic>1755-1780 MHz</topic>
+      </subject>
+      <subject>
+         <topic>2155⁰₃2180 MHz</topic>
+      </subject>
+      <subject>
+         <topic>Band 66</topic>
+      </subject>
+      <subject>
+         <topic>Aeronautical mobile telemetry (AMT)</topic>
+      </subject>
+      <subject>
+         <topic>Out of band (OoB) emissions</topic>
+      </subject>
+      <subject>
+         <topic>Spectrum measurements</topic>
+      </subject>
+      <subject>
+         <topic>Spectrum sharing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1980</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1980</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1027219086</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180305</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20180305121856.0</recordChangeDate>
+         <recordIdentifier>991000196369708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

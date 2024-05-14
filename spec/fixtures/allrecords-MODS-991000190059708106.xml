@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Case Studies of Community Resilience and Disaster Recovery from the
+                2013 Boulder County Floods</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021152899">
+         <namePart>Clavin, Christopher T.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152899</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152899">
+         <namePart>Clavin, Christopher T.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152899</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152903">
+         <namePart>Petropoulos, Zoe E.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152903</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152906">
+         <namePart>Gupta, Nayanee.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152906</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152912">
+         <namePart>Tokita, Christopher K.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152912</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">In September 2013, an area of the Rocky Mountains region referred to
+                as the Colorado Front Range experienced unprecedented rainfall that resulted in
+                multiple days of flooding. This flooding caused significant damage to homes,
+                commercial structures, roads, bridges, infrastructure systems, and parks and open
+                space across the region, including Boulder County⁰₉s communities and mountain towns.
+                Flooding, particularly flash flooding, is a primary hazard of concern in the region.
+                The City of Boulder and Boulder County have implemented programs and preparedness
+                measures to mitigate the risk, respond to, and recover from floods. Boulder County
+                communities have been investing for decades to improve infrastructure systems, avoid
+                development in hazard-prone areas, and implement financial and administrative
+                programs to mitigate potential flooding damage. Government officials who had gained
+                experience during the 2010 Fourmile Canyon Wildfire were also responsible for
+                ensuring that their communities had the resources and support necessary to rebuild
+                and restore community services after the 2013 flood. In the years since the 2013
+                flood, communities have rebuilt and recovered with an emphasis on reducing future
+                vulnerability. The collective experiences of those who helped prepare for and
+                recover from the Boulder County flood are documented in this series of case studies
+                of community resilience planning. The IDA Science and Technology Policy Institute,
+                with support from the National Institute for Standards and Technology (NIST)
+                Community Resilience Group, conducted case studies of Boulder County community
+                resilience planning before, during, and after the 2013 flood. Three case studies
+                focus on unincorporated Boulder County, the City of Boulder, and the towns of Lyons
+                and Jamestown. A primary focus of the research was to document the recovery efforts
+                within each case study; the programs, policies, or broader efforts employed by each
+                community to design and construct resilient infrastructure; and the efforts to
+                ensure community services (e.g., housing and public health) were provided throughout
+                the multi-year recovery process. Research is based on publicly available literature,
+                including reports published by Boulder County governments, and discussions with
+                Boulder County community officials in 2015 and 2016.</abstract>
+      <note type="statement of responsibility">Christopher T. Clavin; Zoe E. Petropoulos; Nayanee Gupta; Christopher
+                K. Tokita.</note>
+      <note>April 2017.</note>
+      <note>Title from PDF title page (viewed April 25, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85049168">
+         <topic>Floods</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/927573">
+         <topic>Floods</topic>
+      </subject>
+      <subject>
+         <topic>Community resilience</topic>
+      </subject>
+      <subject>
+         <topic>Disaster recovery</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.16-011</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST GCR; NIST grant-contract report; NIST grant contract report
+</title>
+            <partNumber>16-011</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">988608565</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170601</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170606115832.0</recordChangeDate>
+         <recordIdentifier>991000190059708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

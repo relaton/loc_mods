@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Transitions</title>
+         <subTitle>recommendation for transitioning the use of cryptographic algorithms
+                and key lengths</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/nb2015019673">
+         <namePart>Barker, E. B.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2015019673</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2015019673">
+         <namePart>Barker, E. B.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2015019673</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Roginsky, A. L.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2011</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2011.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">At the start of the 21st century, the National Institute of Standards
+                and Technology (NIST) began the task of providing cryptographic key management
+                guidance, which includes defining and implementing appropriate key management
+                procedures, using algorithms that adequately protect sensitive information, and
+                planning ahead for possible changes in the use of cryptography because of algorithm
+                breaks or the availability of more powerful computing techniques. NIST Special
+                Publication (SP) 800-57, Part 1 was the first document produced in this effort, and
+                includes a general approach for transitioning from one algorithm or key length to
+                another. This Recommendation (SP 800-131A) provides more specific guidance for
+                transitions to the use of stronger cryptographic keys and more robust
+                algorithms.</abstract>
+      <note type="statement of responsibility">E. B. Barker; A. L. Roginsky.</note>
+      <note>2011.</note>
+      <note>Superseded by NIST Special Publication 800-131Ar1 in November
+                2015.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Cryptographic algorithm</topic>
+      </subject>
+      <subject>
+         <topic>Digital signatures</topic>
+      </subject>
+      <subject>
+         <topic>Encryption</topic>
+      </subject>
+      <subject>
+         <topic>Hash function</topic>
+      </subject>
+      <subject>
+         <topic>Key agreement</topic>
+      </subject>
+      <subject>
+         <topic>Key derivation</topic>
+      </subject>
+      <subject>
+         <topic>Key management</topic>
+      </subject>
+      <subject>
+         <topic>Key transport</topic>
+      </subject>
+      <subject>
+         <topic>Key wrapping</topic>
+      </subject>
+      <subject>
+         <topic>Message authentication codes</topic>
+      </subject>
+      <subject>
+         <topic>Random number generation</topic>
+      </subject>
+      <subject>
+         <topic>Security strength</topic>
+      </subject>
+      <subject>
+         <topic>Transition</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-131a</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-131a</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312500350</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120946.0</recordChangeDate>
+         <recordIdentifier>991000077939708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

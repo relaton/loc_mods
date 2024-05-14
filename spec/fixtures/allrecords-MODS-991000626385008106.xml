@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Securing property management systems</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Newhouse, William.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Newhouse, William.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ekstrom, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Finke, Jeff.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Harriston, Marisa.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-03-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (224 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Hotels have become targets for malicious actors wishing to exfiltrate
+                sensitive data, deliver malware, or profit from undetected fraud. Property
+                management systems, which are central to hotel operations, present attractive attack
+                surfaces. This example implementation strives to increase the cybersecurity of the
+                Property Management System (PMS) and offer privacy protections for the data in the
+                PMS. The objective of this guide was to build a standards-based example
+                implementation that utilizes readily available commercial off-the-shelf components
+                that enhance the security of a PMS. The NCCoE at NIST built a PMS reference design
+                in a laboratory environment to demonstrate methods to improve the cybersecurity of a
+                PMS. The PMS reference design included the PMS, a credit card payment platform, and
+                an analogous ancillary hotel system. In this example implementation, a physical
+                access control system was used as the ancillary system. The principal capabilities
+                include protecting sensitive data, enforcing role-based access control, and
+                monitoring for anomalies. The principal recommendations include implementing
+                cybersecurity concepts such as zero trust architecture, moving target defense,
+                tokenization of credit card data, and role-based authentication. The PMS environment
+                outlined in this guide encourages hoteliers and similar stakeholders to adopt
+                effective cybersecurity and privacy concepts by using standard components that are
+                composed of open-source and commercially available components.</abstract>
+      <note type="statement of responsibility">William Newhouse; Michael Ekstrom; Jeff Finke; Marisa
+                Harriston.</note>
+      <note>March 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-03-03.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Access control</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Cybersecurity</topic>
+      </subject>
+      <subject>
+         <topic>Property management systems</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1800-27</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1800-27</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228927</identifier>
+      <identifier type="oclc">on1427228927</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111505.0</recordChangeDate>
+         <recordIdentifier>991000626385008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

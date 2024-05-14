@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Greenhouse gas emissions and dispersion</title>
+         <subTitle>3. reducing uncertainty in estimating source strangth and location
+                through plume inversion models</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Prasad, Kuldeep.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Prasad, Kuldeep.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pintar, Adam.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022030666">
+         <namePart>Hu, Heming.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022030666</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022049578">
+         <namePart>Lopez-Coto, Israel.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022049578</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Ngo, Dennis.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021060616">
+         <namePart>Whetstone, James R.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021060616</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2015</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2015.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Recent development of accurate instruments for measuring greenhouse
+                gas concentrations and the ability to mount them in ground-based vehicles has
+                provided an opportunity to make temporally and spatially resolved measurements in
+                the vicinity of suspected source locations, and for subsequently estimating the
+                source location and strength. The basic approach of using downwind atmospheric
+                measurements in an inversion methodology to predict the source strength and location
+                is an ill-posed problem and results in large uncertainty. In this report, we present
+                a new measurement methodology for reducing the uncertainty in predicting source
+                strength from downwind measurements associated with inverse modeling. In order to
+                demonstrate the approach, an inversion methodology built around a plume dispersion
+                model is developed. Synthetic data derived from an assumed source distribution is
+                used to compare and contrast the predicted source strength and location. The effect
+                of introducing various levels of noise in the synthetic data or uncertainty in
+                meteorological variables on the inversion methodology is studied. Results indicate
+                that the use of noisy measurement data had a small effect on the total predicted
+                source strength, but gave rise to several spurious sources (in many cases 8-10
+                sources were detected, while the assumed source distribution only consisted of 2
+                sources). Use of noisy measurement data for inversion also introduced large
+                uncertainty in the location of the predicted sources. A mathematical model for
+                estimating an upper bound on the uncertainty, and a bootstrap statistical approach
+                for determining the variability in the predicted source distribution is
+                demonstrated. The new measurement methodology, which involves using measurement data
+                from two or more wind directions, combined together as part of a single inversion
+                process is presented. Results of the bootstrap process indicated that the
+                uncertainty in locating sources reduced significantly when measurements are made
+                using the new proposed measurement approach. The proposed measurement system can be
+                significant in determining emission inventories in urban domains at a high level of
+                reliability, and for studying the role of remediation measures.</abstract>
+      <note type="statement of responsibility">Kuldeep Prasad; Adam Pintar; Heming Hu; Israel Lopez-Coto; Dennis
+                Ngo; James R. Whetstone.</note>
+      <note>Title from PDF title page (viewed September 30, 2015).</note>
+      <note>September 2015.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Greenhouse gas emissions</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85109440">
+         <topic>Quality control</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1084966">
+         <topic>Quality control</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1175</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1175</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">958885804</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">160921</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161602.0</recordChangeDate>
+         <recordIdentifier>991000181569708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

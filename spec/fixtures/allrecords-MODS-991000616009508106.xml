@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Prioritizing cybersecurity risk for enterprise risk management
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Quinn, Stephen.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1436-684X">
+         <namePart>Quinn, Stephen.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1436-684X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4741-422X">
+         <namePart>Ivy, Nahla.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4741-422X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7689-427X">
+         <namePart>Barret, Matthew.</namePart>
+         <nameIdentifier>(orcid)0000-0002-7689-427X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5425-1097">
+         <namePart>Witte, Greg.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5425-1097</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Gardner, R. K.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2022-02-10.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This document is the second in a series that supplements NIST
+                Interagency/Internal Report(NISTIR) 8286, Integrating Cybersecurity and Enterprise
+                Risk Management (ERM). This series provides additional detail regarding the
+                enterprise application of cybersecurity risk information; the previous document,
+                NISTIR 8286A, provided detail regarding stakeholder risk guidance and risk
+                identification and analysis. This second publication describes the need for
+                determining the priorities of each of those risks in light of their potential impact
+                on enterprise objectives, as well as options for properly treating that risk. This
+                report describes how risk priorities and risk response information are added to the
+                cybersecurity risk register (CSRR) in support of an overall enterprise risk
+                register. Information about the selection of and projected cost of risk response
+                will be used to maintain a composite view of cybersecurity risks throughout the
+                enterprise, which may be used to confirm and, if necessary, adjust risk strategy to
+                ensure mission success.</abstract>
+      <note type="statement of responsibility">Stephen Quinn; Nahla Ivy; Matthew Barrett; Greg Witte; R. K.
+                Gardner.</note>
+      <note>February 2022.</note>
+      <note>Title from PDF title page (viewed November 17, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-01-14</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Risk transfer</topic>
+      </subject>
+      <subject>
+         <topic>Risk sharing</topic>
+      </subject>
+      <subject>
+         <topic>Risk response</topic>
+      </subject>
+      <subject>
+         <topic>Risk prioritization</topic>
+      </subject>
+      <subject>
+         <topic>Risk optimization</topic>
+      </subject>
+      <subject>
+         <topic>Risk mitigation</topic>
+      </subject>
+      <subject>
+         <topic>Risk conditioning</topic>
+      </subject>
+      <subject>
+         <topic>Risk avoidance</topic>
+      </subject>
+      <subject>
+         <topic>Risk aggregation</topic>
+      </subject>
+      <subject>
+         <topic>Risk acceptance</topic>
+      </subject>
+      <subject>
+         <topic>Key risk indicator (KRI)</topic>
+      </subject>
+      <subject>
+         <topic>Key performance indicator (KPI)</topic>
+      </subject>
+      <subject>
+         <topic>Key performance indicator</topic>
+      </subject>
+      <subject>
+         <topic>Enterprise risk management (ERM)</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity risk register (CSRR)</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity risk measurement</topic>
+      </subject>
+      <subject>
+         <topic>Cybersecurity risk management</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8286B</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR</title>
+            <partNumber>8286B</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8286B</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210899</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111406.0</recordChangeDate>
+         <recordIdentifier>991000616009508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

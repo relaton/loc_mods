@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">An  </nonSort>
+         <title>evaluation design for comparing netflow based network anomaly
+                detection systems using synthetic malicious traffic</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bardhan, Shuvo.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bardhan, Shuvo.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hatada, Mitsuhiro.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Filliben, James.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Montgomery, Douglas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jia, Alexander.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-03-02.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (27 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In this paper, we present a procedure to evaluate and compare
+                multiple netflow based network anomaly detection (NF-NAD) systems based on accuracy
+                of detection and mean time of detection. Conventionally, different variations of
+                benign or normal traffic have been used to evaluate NF-NAD systems. Here we showcase
+                a methodology where benign traffic is constant through the entirety of the
+                experiment. We create different variations of synthetic malicious traffic to
+                evaluate and compare NF-NAD systems. A two-phase approach is used to measure the
+                accuracy and learning capability of the NF-NAD system. We have created a designed
+                experiment (having factors, levels and design points) to showcase our
+                methodology.</abstract>
+      <note type="statement of responsibility">Shuvo Bardhan; Mitsuhiro Hatada; James Filliben; Douglas Montgomery;
+                Alexander Jia.</note>
+      <note>March 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-03-01.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Intrusion detection systems (Computer security)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Experimental design</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2142</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2142</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228988</identifier>
+      <identifier type="oclc">on1427228988</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111505.0</recordChangeDate>
+         <recordIdentifier>991000626382108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

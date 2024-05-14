@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Summary report on the industry forum for monitoring, diagnostics, and
+                prognostics for manufacturing operations</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Weiss, Brian A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Weiss, Brian A.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2003014858">
+         <namePart>Brundage, Michael.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2003014858</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Tamm, Yannick.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Makila, Tommi.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Pellegrino, Joan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) hosted the
+                Industry Forum: Advanced Monitoring, Diagnostic, and Prognostic for Manufacturing
+                Operations on May 8- 11, 2018, on the NIST Gaithersburg (Maryland) campus. The
+                purpose of the Industry Forum was to discuss the current trends, successes,
+                challenges, and needs related to advanced monitoring, diagnostic, and prognostic
+                technologies (collectively known as Prognostics and Health Management (PHM)) for
+                enhancing maintenance and control strategies within manufacturing operations. The
+                conclusion of the event featured an American Society of Mechanical Engineers (ASME)
+                Standards meeting for the Advanced Monitoring, Diagnostics, and Prognostics for
+                Manufacturing Operations Subcommittee1 to prioritize work activities for standards
+                and guidelines. This report documents the four-day event, summarizing presentations
+                and brainstorming sessions, in addition to detailing the key priority topics for
+                standards and guidelines. The next steps in this effort are presented towards the
+                end of this document, including planning for the next standards meeting (which has
+                since occurred in October 2018 in Cincinnati, Ohio) and the 2019 Measurement and
+                Evaluation for Prognostics and Health Management in Manufacturing Forum (ME4PHM)
+                workshop.</abstract>
+      <note type="statement of responsibility">Brian A. Weiss; Michael Brundage; Yannick Tamm; Tommi Makila; Joan
+                Pellegrino.</note>
+      <note>April 2019.</note>
+      <note>Title from PDF title page (viewed April 23, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85107135">
+         <topic>Process control</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1078020">
+         <topic>Process control</topic>
+      </subject>
+      <subject>
+         <topic>Factory operations planning and control</topic>
+      </subject>
+      <subject>
+         <topic>Prognostics</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-23</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-23</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1100116875</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190506</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190506050402.0</recordChangeDate>
+         <recordIdentifier>991000216809708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

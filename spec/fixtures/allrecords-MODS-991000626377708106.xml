@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Workshop summary report for cybersecurity risks in consumer home
+                internet of things (IoT) devices virtual workshop</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Megas, Katerina N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fagan, Michael.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Megas, Katerina N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bell Cuthill, Barbara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Raguso, Mary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wiltberger, John.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-03-29.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (23 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report provides a summary of the discussion and findings from
+                the NIST Cybersecurity Risks in Consumer Home IoT Devices virtual workshop in
+                October 2020. NIST Interagency Report (NISTIR) 8259, Foundational Cybersecurity
+                Activities for IoT Device Manufacturers, and NISTIR 8259A, IoT Device Cybersecurity
+                Capability Core Baseline, provide general guidance on how manufacturers can approach
+                their role of fulfilling their customers' cybersecurity needs and capabilities. As
+                discussed in those documents, particular sectors and use cases may require more
+                specific guidance than what is included in NISTIR 8259A's core baseline for Internet
+                of Things (IoT) devices. To better understand the consumer home device sector, NIST
+                collected observations on the cybersecurity device capabilities in a number of
+                devices available in the first half of 2019. These observations were published in
+                Draft NISTIR 8267, Security Review of Consumer Home Internet of Things (IoT)
+                Products. The information in Draft NISTIR 8267 was foundational for the NIST
+                Cybersecurity Risks in Consumer Home IoT Devices virtual workshop. The workshop
+                gathered further community input on the concerns with consumer home IoT device
+                cybersecurity.</abstract>
+      <note type="statement of responsibility">Katerina N. Megas; Michael Fagan; Barbara Cuthill; Mary Raguso; John
+                Wiltberger.</note>
+      <note>March 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-03-24.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Computer security</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Internet of things</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8333</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8333</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228920</identifier>
+      <identifier type="oclc">on1427228920</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111507.0</recordChangeDate>
+         <recordIdentifier>991000626377708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

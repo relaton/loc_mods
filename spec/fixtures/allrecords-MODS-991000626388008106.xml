@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Mapping employee networks through the NIST Interactions Survey
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Espinal, Laura.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Espinal, Laura.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Young, Camila E.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Zwolak, Justyna P.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>National Institute of Standards and Technology.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-06-21.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (62 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">As we begin to adopt approaches to help the U.S. National Institute
+                of Standards and Technology (NIST) become a more inclusive organization, we need a
+                way to assess the current level of inclusivity. The extent to which individuals have
+                access to information and resources is largely associated with inclusion in the
+                workplace, suggesting that analysis of individuals social networks may be an
+                important component of this assessment. Network surveys provide a unique lens
+                through which a wide range of networks, including networks of collaboration,
+                mentorship, and trust, can be studied. As a result of such studies, efforts to
+                improve on inclusivity can be directed towards where they are needed the most.
+                Herein, we describe the NIST Interactions Survey a data collection tool developed
+                for mapping and analyzing personal ego networks of NIST Federal Employees and aimed
+                at quantifying the work- and career advice-related networks. In this study, we
+                assess inclusivity at NIST through the lens of social network analysis to provide
+                NIST with insights about the current work climate. With an overall response rate of
+                approximately 25%, we find that the structure of the work- and advice-related ego
+                networks provides important insights into the interaction patterns at NIST. An
+                analysis of the network data confirms a siloed effect associated with the
+                Organizational Unit affiliation of the respondents and their connections in the work
+                and advice networks. Interestingly, we find that, while the composition of work ego
+                networks tend to be quite aligned with what would be expected based on the workforce
+                demographics, interactions in the advice ego networks reveal preferences associated
+                with age and gender. In terms of gender, male employees show preference for
+                male-dominated advice networks, which is not surprising given our predominantly male
+                workforce. For female employees, however, we observe three distinct types of advice
+                networks: two capturing strong preferences to seek advice from
+                single-gender-dominated networks, be it male or female, and a third one with the
+                gender composition quite evenly balanced. In terms of age preferences, we find that
+                younger employees tend to seek advice from more experienced colleagues.
+                Interestingly, no discernible differences are observed between the networks of
+                minority and non-minority employees for either work or advice. Based on these
+                findings, we recommend strategies for bridging the silos between the Laboratories
+                and the rest of the Organizational Units, nurturing informal connections among
+                female colleagues, and mapping employee networks among different minority groups
+                (e.g. American Indian, Asian, Black, Hispanic, Native Hawaiian, Other). Although
+                other approaches are possible, we believe that the recommendations proposed in this
+                report will be a good start for NIST to become the inclusive organization we aspire
+                to be.</abstract>
+      <note type="statement of responsibility">Laura Espinal; Camila E. Young; Justyna P. Zwolak.</note>
+      <note>June 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-06-16.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Employee networks</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Diversity in the workplace</topic>
+      </subject>
+      <subject>
+         <topic>Inclusivity</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8375</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal
+                report</title>
+            <partNumber>8375</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1427228959</identifier>
+      <identifier type="oclc">on1427228959</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240318</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111508.0</recordChangeDate>
+         <recordIdentifier>991000626388008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

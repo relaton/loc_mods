@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>structure of medium-scale pool fires</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Falkenstein-Smith, Ryan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Falkenstein-Smith, Ryan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Sung, Kunhyuk.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chen, Jian.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Harris, Kimberly.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hamins, Anthony.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New edition</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-01-05.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (85 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report documents a series of time-averaged gas species
+                measurements made along the centerline of methanol, ethanol, acetone, methane, and
+                propane pool fires steadily burning in a quiescent environment. All gas species
+                measurements are obtained using a Gas Chromatograph/ Mass Spectrometer System
+                (GC/MS) for gas samples extracted at various heights above the fire and repeated at
+                least twice at each location. Gas species volume fractions are determined via the
+                GC/MS using predetermined calibration factors. Soot mass fractions are
+                simultaneously measured during the gas sampling process. The gas species volume and
+                soot mass fractions are compared at different heights within the fire and across a
+                variety of different fuels. Other fire parameters are measured as well, including
+                time-averaged temperature and velocity measurements and mass burning
+                rates.</abstract>
+      <note type="statement of responsibility">Ryan Falkenstein-Smith; Kunhyuk Sung; Jian Chen; Kimberly Harris;
+                Anthony Hamins.</note>
+      <note>January 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-04-30</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Acetone</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Ethanol</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Methane</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Methanol</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Propane</topic>
+      </subject>
+      <subject>
+         <topic>Gas pool fires</topic>
+      </subject>
+      <subject>
+         <topic>Gas species measurements</topic>
+      </subject>
+      <subject>
+         <topic>Liquid pool fires</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2082e2</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2082e2</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890202</identifier>
+      <identifier type="oclc">on1389890202</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111420.0</recordChangeDate>
+         <recordIdentifier>991000625719708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Energetics of small and moderate-scale gaseous pool fires
+</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n87136328">
+         <namePart>Hamins, Anthony,</namePart>
+         <namePart type="date">1956-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87136328</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87136328">
+         <namePart>Hamins, Anthony,</namePart>
+         <namePart type="date">1956-</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n87136328</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016-11.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A series of measurements were made to characterize the global
+                properties of moderate-sized pool fires steadily burning in a quiescent environment.
+                A wide range of parameters were considered including lightly and heavily sooting
+                hydrocarbon fuels (methane, propane and acetylene), burners varying from 0.1 m to
+                1.0 m in diameter, and total heat release rates from about 0.4 kW to 200 kW. These
+                conditions yielded flames that were 0.1 m to 2 m in mean height. Measurements were
+                made characterizing the time-averaged mass burning rate and the distributions of
+                radiative heat flux emitted. The data allowed determination of the fraction of the
+                enthalpy released as radiation, a key global parameter characterizing a fire. The
+                heat feedback to the fuel surface was modeled and compared to measurements. Hundreds
+                of measurements were made in scores of experiments, which were distilled into a
+                handful of time-averaged quantities per experiment.</abstract>
+      <note type="statement of responsibility">Anthony Hamins.</note>
+      <note>November 2016.</note>
+      <note>Title from PDF title page (viewed November 30, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110340">
+         <topic>Radiation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1086839">
+         <topic>Radiation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85059761">
+         <topic>Heat</topic>
+         <topic>Convection</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/953790">
+         <topic>Heat</topic>
+         <topic>Convection</topic>
+      </subject>
+      <subject>
+         <topic>Pool fires</topic>
+      </subject>
+      <subject>
+         <topic>Radiative fraction</topic>
+      </subject>
+      <subject>
+         <topic>Combustion efficiency</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1926</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1926</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">980304354</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170330</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111141.0</recordChangeDate>
+         <recordIdentifier>991000189369708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

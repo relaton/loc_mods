@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Generator fleet characteristics model</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>O Fallon, Cheyney.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5931-4173">
+         <namePart>O Fallon, Cheyney.</namePart>
+         <nameIdentifier>(orcid)0000-0002-5931-4173</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Gopstein, Avi.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Communications Technology Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-02-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (36 pages) : tables (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This manuscript presents the Generator Fleet Characteristics Model
+                (GFCM), a general purpose tool for the analysis of power system operations,
+                economics, and resilience. The GFCM is a collection of MATLAB functions that use
+                publicly available data with national coverage to produce year-long (8760 hour)
+                analyses of the electric grid at the balancing authority level. As the name implies,
+                the GFCM builds up a series of snapshots of electric grid conditions and outcomes
+                using the economics of the generator feet as a starting point for understanding
+                system complexity and dynamics. While the synchronous inertia application we present
+                here uses the GFCM to build a detailed picture of the present state of electric grid
+                operations and market outcomes, the model is designed to facilitate counterfactual
+                study through the comparison of model outputs by an analyst that systematically
+                varies inputs. The GFCM forms a modeling framework intended to aide in the
+                formulation of what if questions regarding how the grid might operate under changing
+                ambient conditions while harnessing evolving technologies.</abstract>
+      <note type="statement of responsibility">Cheyney O Fallon; Avi Gopstein.</note>
+      <note>February 2023.</note>
+      <note>Title from PDF title page (viewed May 31, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-02-01</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Economics</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Electricity</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Infrastructure (Economics)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Electric power systems</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Smart power grids</topic>
+      </subject>
+      <subject>
+         <topic>Generator fleet</topic>
+      </subject>
+      <subject>
+         <topic>Interoperability</topic>
+      </subject>
+      <subject>
+         <topic>Operations</topic>
+      </subject>
+      <subject>
+         <topic>Resilience</topic>
+      </subject>
+      <subject>
+         <topic>Synchronous inertia</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2246</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2246</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859622</identifier>
+      <identifier type="oclc">on1405859622</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111410.0</recordChangeDate>
+         <recordIdentifier>991000614604008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

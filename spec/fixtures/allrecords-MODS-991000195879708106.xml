@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>workshop report on "electron microscopy frontiers: challenges and
+                opportunities"</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bonevich, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bonevich, John.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chiaramonti Debay, Ann.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Herzing, Andrew.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88005764">
+         <namePart>Keller, Bob.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88005764</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Lau, June.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2017</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2017.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">For two days beginning on March 8, 2017, a planning workshop entitled
+                Electron Microscopy Frontiers: Opportunities and Challenges was hosted by the
+                Material Measurement Laboratory (MML) of the National Institute of Standards and
+                Technology (NIST). Grass root efforts from electron microscopists across three MML
+                divisions (642, 643, and 647) and two campuses (Boulder and Gaithersburg)
+                co-organized this event. The organizers (in alphabetical order) John Bonevich, Ann
+                Chiaramonti Debay, Andrew Herzing, Robert Keller, and June Lau, contributed equally
+                to this workshop as well as this final report. The information contained herein is
+                based in part on the results of the workshop, which was attended by stakeholders
+                working in the field of electron microscopy (EM), as well as non-microscopy experts
+                in selected fields. This report presents the expert perspectives of the
+                participants, but is not intended to be taken as prevailing opinion across the
+                represented field. Ideas from a series of conversations among the organizers prior
+                to, and following the workshop, are also reflected in this writing.</abstract>
+      <note type="statement of responsibility">John Bonevich; Ann Chiaramonti Debay; Andrew Herzing; Bob Keller;
+                June Lau.</note>
+      <note>December 2017.</note>
+      <note>Title from PDF title page (viewed December 20, 2017).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85042221">
+         <topic>Electron microscopy</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/906682">
+         <topic>Electron microscopy</topic>
+      </subject>
+      <subject>
+         <topic>Soft matter</topic>
+      </subject>
+      <subject>
+         <topic>Advanced computing</topic>
+      </subject>
+      <subject>
+         <topic>Additive manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Materials characterization</topic>
+      </subject>
+      <subject>
+         <topic>Ionizing radiation metrology</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1217</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1217</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1022268039</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">180208</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20231219161619.0</recordChangeDate>
+         <recordIdentifier>991000195879708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

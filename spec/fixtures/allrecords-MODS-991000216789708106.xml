@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>2018 NIST/OAGi workshop</title>
+         <subTitle>enabling composable service-oriented manufacturing systems
+</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Ivezic, Nenad.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ivezic, Nenad.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kulvatunyou, Boonserm.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Wehrle, Kym.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2003014858">
+         <namePart>Brundage, Michael.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2003014858</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79011775">
+         <namePart>Lu, Yan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79011775</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Noller, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kumara, Soundar.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019156765">
+         <namePart>Wuest, Thorsten.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019156765</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011073862">
+         <namePart>Kiritsis, Dimitris.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2011073862</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021120231">
+         <namePart>Wallace, Evan.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021120231</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Onkham, Wilawan.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2005176335">
+         <namePart>Jones, Albert.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2005176335</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report summarizes the results from the 2018 NIST/OAGi Workshop:
+                Enabling Composable ServiceOriented Manufacturing Systems, which was held at the
+                National Institute of Standards and Technology campus in Gaithersburg, MD, on April
+                23-24, 2018. This was the fourth in this series of workshops begun in 2015 to foster
+                a shared vision of a new Smart Manufacturing (SM) platform to support Composable
+                Service-Oriented Manufacturing (SOM) systems. The purpose of the workshop series is
+                to identify and discuss challenges in advancing the vision within the context of
+                open cloud service platforms for Smart Manufacturing systems. Like the previous
+                workshop reports, the document gives (1) summaries of presentations on Smart
+                Manufacturing and the theme of Composable Service-Oriented Manufacturing systems,
+                (2) summaries of the six breakout sessions, each providing a unique perspective on
+                the theme, and (3) the key findings from the workshop.</abstract>
+      <note type="statement of responsibility">Nenad Ivezic; Boonserm Kulvatunyou; Kym Wehrle; Michael Brundage; Yan
+                Lu; David Noller; Soundar Kumara; Thorsten Wuest; Dimitris Kiritsis; Evan Wallace;
+                Wilawan Onkham; Albert Jones.</note>
+      <note>April 2019.</note>
+      <note>Title from PDF title page (viewed April 19, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+         <topic>Manufacturing processes</topic>
+      </subject>
+      <subject>
+         <topic>Smart manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Service-oriented manufacturing</topic>
+      </subject>
+      <subject>
+         <topic>Standards development</topic>
+      </subject>
+      <subject>
+         <topic>Digital manufacturing</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.AMS.100-21</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST advanced manufacturing series; NIST AMS</title>
+            <partNumber>100-21</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1100116684</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190506</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190506050402.0</recordChangeDate>
+         <recordIdentifier>991000216789708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

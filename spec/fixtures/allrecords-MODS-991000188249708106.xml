@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST/NIH Vitamin D Metabolites Quality Assurance Program report of
+                participant results: winter 2014 comparability study (exercise 8)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Bedner, Mary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Bedner, Mary.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Tai, Susan S.-C.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+         <namePart>Material Measurement Laboratory (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) has
+                established a Vitamin D Metabolites Quality Assurance Program (VitDQAP) in
+                collaboration with the National Institutes of Health (NIH) Office of Dietary
+                Supplements. Participants in the eighth exercise of this program, the Winter 2014
+                Comparability Study, were asked to use the methodology of their choice to measure
+                concentrations of 25-hydroxyvitamin D in pooled human serum control and study
+                materials distributed by NIST. The study materials consisted of Standard Reference
+                Material (SRM) 909c Human Serum and VitDQAP-III (a material designed for the
+                VitDQAP). SRM 968d Fat-Soluble Vitamins, Carotenoids, and Cholesterol in Human Serum
+                Level 1 was provided as a control material. Participants provided their data to
+                NIST, where it was compiled and evaluated for trueness relative to the NIST value
+                and concordance within the participant community. A report of results was provided
+                to all participants of the study, and laboratories were identified by code numbers
+                known only to them. The results from this eighth study are reported along with a
+                summary of the analytical methods used.</abstract>
+      <note type="statement of responsibility">Mary Bedner; Susan S.-C. Tai.</note>
+      <note>Title from PDF title page (viewed September 27, 2016).</note>
+      <note>September 2016.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85022986">
+         <topic>Chemistry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85023011">
+         <topic>Analytical chemistry</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/853459">
+         <topic>Analytical chemistry</topic>
+      </subject>
+      <subject>
+         <topic>Bioscience</topic>
+      </subject>
+      <subject>
+         <topic>Health</topic>
+      </subject>
+      <subject>
+         <topic>Organic analytical chemistry</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8133</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8133</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662189</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240201161414.0</recordChangeDate>
+         <recordIdentifier>991000188249708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

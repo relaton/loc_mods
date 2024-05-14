@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST special database 301</title>
+         <subTitle>nail to nail fingerprint challenge dry run</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Fiumara, Gregory.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Fiumara, Gregory.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020148726">
+         <namePart>Flanagan, Patricia.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020148726</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020148759">
+         <namePart>Schwarz, Matthew.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020148759</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020148717">
+         <namePart>Tabassi, Elham.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020148717</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020149143">
+         <namePart>Boehnen, Christopher.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2020149143</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">In April 2017, the Intelligence Advanced Research Projects Activity
+                (IARPA) held a dry run for the data collection portion of its Nail to Nail (N2N)
+                Fingerprint Challenge. This data collection event was designed to ensure that the
+                real data collection event held in September 2017 would be successful. To this end,
+                real biometric data from unhabituated individuals needed to be collected. The
+                National Institute of Standards and Technology (NIST), on behalf of IARPA, has
+                released a dataset of the biometric images obtained during the N2N Fingerprint
+                Challenge dry run data collection. The image distribution, entitled Special Database
+                301 (SD 301), can be freely downloaded from the NIST website.</abstract>
+      <note type="statement of responsibility">Gregory Fiumara; Patricia Flanagan; Matthew Schwarz; ElhamTabassi;
+                Christopher Boehnen.</note>
+      <note>July 2018.</note>
+      <note>Title from PDF title page (viewed July 11, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001010964">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
+         <topic>Biometric identification</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048337">
+         <topic>Fingerprints</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/924859">
+         <topic>Fingerprints</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85068076">
+         <topic>Iris (Eye)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/978890">
+         <topic>Iris (Eye)</topic>
+      </subject>
+      <subject>
+         <topic>Biometrics</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2002</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2002</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1055659185</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">181004</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20181004111339.0</recordChangeDate>
+         <recordIdentifier>991000202399708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

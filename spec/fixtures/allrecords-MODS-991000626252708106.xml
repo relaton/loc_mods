@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Report from the NIST workshop</title>
+         <subTitle>launch of the Rapid Microbial Testing Methods Consortium</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lin, Nancy J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lin, Nancy J.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Jackson, Scott A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Servetas, Stephanie.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Parratt, Kirsten.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Dunkers, Joy.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Eskandari, Tara.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Lin-Gibson, Sheng.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-09-27.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (42 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">On September 17, 2020, NIST hosted a virtual workshop to launch the
+                Rapid Microbial Testing Methods (RMTM) Consortium. The RMTM Consortium aims to
+                address the need for measurements and standards to increase confidence in the use of
+                rapid testing for microbial contaminants in regenerative medicine and advanced
+                therapy products. The purpose of the workshop was to publicize the launch of the
+                Consortium, recruit new members, and obtain feedback from stakeholders on both the
+                challenges with respect to applying RMTMs and potential solutions that the
+                Consortium could provide. Over 250 attendees from industry, government, academia,
+                and other organizations participated in the workshop. Invited speakers and panelists
+                provided stimulus for discussion, and feedback from the stakeholders was obtained
+                via question submission and polling. This report summarizes the presentations,
+                discussions, and poll results from the workshop. Overall, the stakeholders supported
+                the three proposed topic areas for the Consortium: reference materials, testing
+                methods, and interlaboratory studies. Based on input from the workshop and poll, the
+                proposed scope of the reference materials topic was expanded to consider DNA and
+                other reference materials, in addition to whole cell materials. Likewise, the
+                testing methods scope was increased to encompass validation schema as well as the
+                test methodologies. As a next step, the Consortium began monthly meetings in
+                November 2020, for members to discuss and finalize the scope and proposed working
+                groups for the Consortium. It is expected that the Consortium will lead to
+                measurement assurance solutions and improved approaches for the community to
+                develop, validate, and implement RMTMs.</abstract>
+      <note type="statement of responsibility">Nancy J. Lin; Scott A. Jackson; Stephanie Servetas; Kirsten Parratt;
+                Joy Dunkers; Tara Eskandari; Sheng Lin-Gibson.</note>
+      <note>September 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-12-07</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Medical supplies</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Medical instruments and apparatus</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Cellular therapy</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Gene therapy</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Consortia</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Microbial contamination</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Rapid methods (Microbiology)</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards</topic>
+      </subject>
+      <subject>
+         <topic>Workshop reports</topic>
+      </subject>
+      <subject>
+         <topic>Advanced therapy medical products</topic>
+      </subject>
+      <subject>
+         <topic>Microbial detection</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.1272</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>1272</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890494</identifier>
+      <identifier type="oclc">on1389890494</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111507.0</recordChangeDate>
+         <recordIdentifier>991000626252708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

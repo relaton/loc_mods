@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Wind-driven fire spread to a structure from firewood piles
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Johnsson, Erik L.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1170-7370">
+         <namePart>Johnsson, Erik L.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1170-7370</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7163-4623">
+         <namePart>Butler, Kathryn.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7163-4623</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4227-8866">
+         <namePart>Fernandez, Marco G.</namePart>
+         <nameIdentifier>(orcid)0000-0002-4227-8866</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0407-5849">
+         <namePart>Nazare, Shonali.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0407-5849</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3545-2475">
+         <namePart>Maranghides, Alexander.</namePart>
+         <nameIdentifier>(orcid)0000-0002-3545-2475</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-03-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (93 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">A series of field experiments was conducted to examine the effects on
+                fire spread toward a structure for firewood piles under conditions that may be
+                encountered in a wildland-urban interface (WUI) fire. The fire behavior of a variety
+                of firewood types in multiple configurations was studied under various wind
+                conditions. The 62 experiments conducted included long range firebrand travel and
+                mitigation experiments. Wood types included kiln-dried oak, maple, pine, and undried
+                oak. Configuration variations included woodpile height, orientation, and elevation
+                on a rack. A wind machine provided a mean wind speed between 6 m/s and 14 m/s (13
+                mi/h to 31 mi/h). The woodpiles were ignited by a propane burner on the ground at
+                the end farthest from a small structure located between 0 m and 7.32 m (0 ft to 24
+                ft) downwind of the woodpile. A target mulch bed at the base of the structure tested
+                the ability of firebrands produced by the burning woodpile to ignite spot fires that
+                threatened the structure. The experiments in this study demonstrated that firewood
+                piles can be rapid sources of spot fire ignitions and can easily spread fire to
+                nearby structures. Rapid fire growth on and substantial flames from the woodpiles
+                were found for all wood types and configurations. Fire behavior was classified as
+                mostly high with medium hazard for only the lowest wind condition. In all cases,
+                spot fire generation was affected by the wind field; the structure created both
+                upward flow (enhanced by buoyancy) and a vortex that deposited firebrands next to
+                the structure. During all experiments, the burning woodpile produced firebrands that
+                ignited spot fires in the target mulch bed. In long range experiments, firebrands
+                from a woodpile caused ignitions over 26 m (85 ft) downwind. This study of the fire
+                hazard of woodpiles is part of a series designed to better inform standards and
+                codes regarding placement of landscape features around homes that are at risk of
+                exposure to wildland-urban interface fires.</abstract>
+      <note type="statement of responsibility">Erik L. Johnsson; Kathryn Butler; Marco G. Fernandez; Shonali Nazare;
+                Alexander Maranghides.</note>
+      <note>April 2023.</note>
+      <note>Title from PDF title page (viewed September 20, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-03-27</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Wildland-urban interface</topic>
+      </subject>
+      <subject>
+         <topic>Embers</topic>
+      </subject>
+      <subject>
+         <topic>Firewood piles</topic>
+      </subject>
+      <subject>
+         <topic>Woodpile fires</topic>
+      </subject>
+      <subject>
+         <topic>Firebrands</topic>
+      </subject>
+      <subject>
+         <topic>Fire spread</topic>
+      </subject>
+      <subject>
+         <topic>Structural ignition</topic>
+      </subject>
+      <subject>
+         <topic>Structure vulnerability</topic>
+      </subject>
+      <subject>
+         <topic>Wind-driven fires</topic>
+      </subject>
+      <subject>
+         <topic>WUI fires</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2251</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2251</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1411253624</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111402.0</recordChangeDate>
+         <recordIdentifier>991000612509008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

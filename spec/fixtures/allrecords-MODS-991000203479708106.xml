@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>calibration of timing accuracy in the NIST cyber-physical systems
+                testbed</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2008000717">
+         <namePart>Weiss, Marc.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008000717</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008000717">
+         <namePart>Weiss, Marc.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2008000717</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Li-Baboud, Ya-Shian.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Anand, Dhananjay.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Brady Jr., Kevin G.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2003004025">
+         <namePart>Boyton, Paul,</namePart>
+         <namePart type="date">1848-1924</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr2003004025</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Nguyen, Cuong.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97033846">
+         <namePart>Burns, Martin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97033846</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Gopstein, Avi.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2018</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2018.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">We propose a general methodology for assessing the time accuracy and
+                uncertainties, and report results from a project to calibrate timing in the NIST
+                Cyber-Physical System (CPS) and Smart Grid Testbeds. We measured clock
+                synchronization accuracy and stability as well as latencies for potential
+                experiments in the testbeds. We determined calibrations of GPS receivers to
+                UTC(NIST) with an uncertainty of 16 ns. However, an anomaly occurred coincident with
+                a power shutdown, which resulted in a total uncertainty of receiver calibrations
+                against UTC(NIST) of 100 ns. Synchronization at testbed locations relative to an
+                IEEE 1588 Precision Time Protocol (PTP) grandmaster was found to have a max offset
+                of 36 ns ± 6 ns one sigma from the grandmaster through two transparent clocks (TCs).
+                Finally, we measured the time error relative to the grandmaster of an embedded
+                device attached to a switch without PTP support with a mean offset of 50 Âèys ± 10
+                Âèys, and at 8 ms ± 500 Âèys for timestamping at the general-purpose input/output
+                (GPIO). We report the methodology used, as well as some of the challenges
+                encountered and solutions developed in the process.</abstract>
+      <note type="statement of responsibility">Marc Weiss; Ya-Shian Li-Baboud; Dhananjay Anand; Kevin G. Brady Jr.;
+                Paul Boynton; Cuong Nguyen; Martin Burns; Avi Gopstein.</note>
+      <note>December 2018.</note>
+      <note>Title from PDF title page (viewed December 17, 2018).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012002854">
+         <topic>Cooperating objects (Computer systems)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1893355">
+         <topic>Cooperating objects (Computer systems)</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2013000266">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894151">
+         <topic>Internet of things</topic>
+      </subject>
+      <subject>
+         <topic>Timing characterization</topic>
+      </subject>
+      <subject>
+         <topic>Testbeds</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2030</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2030</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1084487329</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190205</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190205022340.0</recordChangeDate>
+         <recordIdentifier>991000203479708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

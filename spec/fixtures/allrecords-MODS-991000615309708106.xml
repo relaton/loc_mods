@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Impact of dynamic prices on distribution grid power quality
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Holmberg, David.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1738-8190">
+         <namePart>Holmberg, David.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1738-8190</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0618-0060">
+         <namePart>Omar, Farhad.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0618-0060</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9986-7784">
+         <namePart>Roth, Thomas.</namePart>
+         <nameIdentifier>(orcid)0000-0002-9986-7784</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory; Communications Technology
+                Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-08-16.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (22 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Dynamic price signals may provide a way to support integration of
+                customer distributed energy resources (DER) into the electric grid and to help
+                manage DER flexibility to support distribution system and bulk grid needs. Use of
+                DER flexibility includes peak shifting in response to forward market prices,
+                real-time regulation in response to 5-minute prices, and, potentially, voltage
+                regulation in response to distribution nodal prices. The work presented here
+                compares two approaches for managing heat pump cooling to provide grid services. The
+                first approach implements a rule-based real-time controller that manages power
+                consumption based on 5-minute real-time prices. The second controller uses a
+                building model-based approach to optimize load based on day-ahead hourly prices.
+                These approaches are evaluated in GridLAB-D simulations. Simulation results show
+                both controllers adjusting temperature setpoints in response to price movement,
+                reducing customer cost while staying within pre-defined comfort boundaries. These
+                temperature adjustments resulted in significant power flow volatility at the
+                substation. The average power flow change for the real-time controller, time step to
+                time step, was approximately 10 % of the peak load. Some observed power flow changes
+                were equivalent to simultaneously turning off or on all price-responsive loads on
+                the grid. This power flow volatility resulted in voltage volatility at customer
+                meters and greatly increased voltage regulator and capacitor bank actions. Analysis
+                suggests that power flow volatility may be expected when many devices are
+                price-responsive and controllers have the goal of reducing cost without considering
+                voltage. Care must be taken to reduce the volatility of the price signal and boost
+                hosting capacity to support synchronized price response by a large percentage of
+                load.</abstract>
+      <note type="statement of responsibility">David Holmberg; Thomas Roth; Farhad Omar.</note>
+      <note>August 2023.</note>
+      <note>Title from PDF title page (viewed November 08, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-05-11</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Distribution grid</topic>
+      </subject>
+      <subject>
+         <topic>Dynamic pricing</topic>
+      </subject>
+      <subject>
+         <topic>GridLAB-D</topic>
+      </subject>
+      <subject>
+         <topic>Hosting capacity</topic>
+      </subject>
+      <subject>
+         <topic>Power quality</topic>
+      </subject>
+      <subject>
+         <topic>Volatility</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2261</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2261</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1412210894</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230803</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111357.0</recordChangeDate>
+         <recordIdentifier>991000615309708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

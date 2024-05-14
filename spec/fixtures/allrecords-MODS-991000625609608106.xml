@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Intelligent building agents laboratory</title>
+         <subTitle>air system design</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Pertzborn, Amanda J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1473-7500">
+         <namePart>Pertzborn, Amanda J.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1473-7500</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0003-8009-1547">
+         <namePart>Veronica, Daniel A.</namePart>
+         <nameIdentifier>(orcid)0009-0003-8009-1547</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0007-9383-5224">
+         <namePart>Glaeser, Glen A.</namePart>
+         <nameIdentifier>(orcid)0009-0007-9383-5224</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">f00</placeTerm>
+         </place>
+         <dateIssued encoding="marc">mdu</dateIssued>
+         <issuance>monographic</issuance>
+         <edition>New version</edition>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2024-01-25.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology has constructed
+                the Intelligent Building Agents Laboratory (IBAL) to demonstrate the potential for
+                distributed, intelligent software agents to optimize the control of heating,
+                ventilation, and air-conditioning systems in commercial buildings. The goal of the
+                optimization is to improve the economic and energy performance of building systems
+                while maintaining occupant comfort. This paper describes the design of, and the
+                equipment in, the airside system of the IBAL.</abstract>
+      <targetAudience authority="marctarget">adult</targetAudience>
+      <note type="statement of responsibility">Amanda J. Pertzborn; Daniel A. Veronica; Glen A. Glaeser.</note>
+      <note>January 2024.</note>
+      <note>Title from PDF title page (viewed March 08, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2024-01-18</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Heating and ventilation industry</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Intelligent agents (Computer software)</topic>
+      </subject>
+      <subject>
+         <topic>Air system</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2025r1</url>
+      </location>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.TN.2025</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2025r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240308</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111358.0</recordChangeDate>
+         <recordIdentifier>991000625609608106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

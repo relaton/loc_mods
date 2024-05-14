@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Response time impact of smoke alarms</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Gilbert, Stanley W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Gilbert, Stanley W.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Cleary, Thomas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Reneke, Paul A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Peacock, Richard.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butry, David.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-09-09.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (31 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">It can be assumed that smoke alarms reduce reported fires and
+                casualties by reducing on average the amount of time it takes to detect a fire. This
+                paper sets out to determine by how much that detection time is reduced. It does so
+                by comparing the effect of smoke-alarm presents (and time of day) to the effect of
+                fire-department travel time using data from the National Fire Incident Reporting
+                System. On average, smoke alarms reduce reporting time by 19.2 ( 0.016) minutes.
+                This is comparable to the average time delay from having a fire at night. If smoke
+                alarms are present, having a fire at night (between the hours of 11 and 6) adds 18.1
+                ( 0.013) minutes, and without an alarm, having a fire at night adds on average 20.5
+                ( 0.024). Smoke alarms are more effective at night, saving 2.4 ( 0.016) minutes more
+                at night than during the day.</abstract>
+      <note type="statement of responsibility">Stanley W Gilbert; Thomas Cleary; Paul A. Reneke; Richard Peacock;
+                David Butry.</note>
+      <note>September 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-08-20</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Fires</topic>
+      </subject>
+      <subject>
+         <topic>Home fires</topic>
+      </subject>
+      <subject>
+         <topic>Smoke alarms</topic>
+      </subject>
+      <subject>
+         <topic>Response times</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2174</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2174</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890100</identifier>
+      <identifier type="oclc">on1389890100</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111451.0</recordChangeDate>
+         <recordIdentifier>991000626246008106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

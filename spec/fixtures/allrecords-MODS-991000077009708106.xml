@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Managing information security risk</title>
+         <subTitle>organization, mission, and information system view</subTitle>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>Joint Task Force Transformation Initiative.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Joint Task Force Transformation Initiative.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2011</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2011.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The purpose of Special Publication 800-39 is to provide guidance for
+                an integrated, organization-wide program for managing information security risk to
+                organizational operations (i.e., mission, functions, image, and reputation),
+                organizational assets, individuals, other organizations, and the Nation resulting
+                from the operation and use of federal information systems. Special Publication
+                800-39 provides a structured, yet flexible approach for managing information
+                security risk that is intentionally broad-based, with the specific details of
+                assessing, responding to, and monitoring risk on an ongoing basis provided by other
+                supporting NIST security standards and guidelines. The guidance provided in this
+                publication is not intended to replace or subsume other risk-related activities,
+                programs, processes, or approaches that organizations have implemented or intend to
+                implement addressing areas of risk management covered by other legislation,
+                directives, policies, programmatic initiatives, or mission/business requirements.
+                Rather, the information security risk management guidance described herein is
+                complementary to and can be used as part of a more comprehensive Enterprise Risk
+                Management (ERM) program.</abstract>
+      <note type="statement of responsibility">Joint Task Force Transformation Initiative.</note>
+      <note>2011.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Enterprise risk management</topic>
+      </subject>
+      <subject>
+         <topic>Information system</topic>
+      </subject>
+      <subject>
+         <topic>Mission</topic>
+      </subject>
+      <subject>
+         <topic>Organization</topic>
+      </subject>
+      <subject>
+         <topic>Responsibilities</topic>
+      </subject>
+      <subject>
+         <topic>Risk assessment</topic>
+      </subject>
+      <subject>
+         <topic>Risk management</topic>
+      </subject>
+      <subject>
+         <topic>Roles</topic>
+      </subject>
+      <subject>
+         <topic>Security</topic>
+      </subject>
+      <subject>
+         <topic>Continuous monitoring</topic>
+      </subject>
+      <subject>
+         <topic>Joint task force transformation initiative</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-39</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-39</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">811576135</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315121004.0</recordChangeDate>
+         <recordIdentifier>991000077009708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

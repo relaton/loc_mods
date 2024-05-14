@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Humanized monoclonal antibody IgG1k, NISTmAb RM 8671 summary of 5
+                year stability verification (5YSV)</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Yandrofski, Katharina</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0570-8011">
+         <namePart>Yandrofski, Katharina.</namePart>
+         <nameIdentifier>(orcid)0000-0002-0570-8011</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5353-3343">
+         <namePart>Schiel, John E.</namePart>
+         <nameIdentifier>(orcid)0000-0001-5353-3343</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6790-830X">
+         <namePart>Mouchahoir, Trina.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6790-830X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4687-6123">
+         <namePart>Telikepalli, Srivalli.</namePart>
+         <nameIdentifier>(orcid)0000-0003-4687-6123</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6413-1339">
+         <namePart>Ripple, Dean C.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6413-1339</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7540-5860">
+         <namePart>Phinney, Karen W.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7540-5860</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6860-5853">
+         <namePart>Marino, John P.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6860-5853</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1406-633X">
+         <namePart>DeRose, Paul C.</namePart>
+         <nameIdentifier>(orcid)0000-0002-1406-633X</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8430-6757">
+         <namePart>Heckert, N. Alan.</namePart>
+         <nameIdentifier>(orcid)0000-0002-8430-6757</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2023-03-01.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (74 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">NISTmAb RM 8671 is an IgG1k monoclonal antibody that has been
+                extensively characterized and released as the first of its kind biopharmaceutical
+                reference material in 2016. This material was intended primarily for use in
+                evaluating the performance of methods for determining physicochemical and
+                biophysical attributes of monoclonal antibodies. It also provides a representative
+                test molecule for development of novel technologies for therapeutic protein
+                characterization. The lifecycle management of NISTmAb includes a long-term stability
+                verification to evaluate the homogeneity and stability for the first 3 lots
+                (14HB-D001, 14HB-D-002, and 14HB-D-003) of this material. Initial certification to
+                assign property values and confirm identification used a wide variety of analytical
+                methods including UVVis spectrophotometry, size exclusion chromatography, capillary
+                electrophoresis, dynamic light scattering, flow imaging, and peptide mapping.
+                Reported here is a summary of these analytical methods and results for the 5-year
+                stability verification (5YSV) for RM 8671 demonstrating the material is homogeneous
+                and stable.</abstract>
+      <note type="statement of responsibility">Katharina Yandrofski; John E. Schiel; Trina Mouchahoir; Srivalli
+                Telikepalli; Dean C. Ripple; Karen W. Phinney; John P. Marino; Paul C. DeRose; Alan
+                N. Heckert.</note>
+      <note>March 2023</note>
+      <note>Title from PDF title page (viewed April 14, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-03-27</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard Reference Materials Program (National Institute of Standards
+                and Technology (U.S.))</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Monoclonal antibodies</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Pharmaceutical biotechnology</topic>
+      </subject>
+      <subject>
+         <topic>NISTmAb</topic>
+      </subject>
+      <subject>
+         <topic>Monoclonal antibody</topic>
+      </subject>
+      <subject>
+         <topic>Biotherapeutic</topic>
+      </subject>
+      <subject>
+         <topic>Biopharmaceutical</topic>
+      </subject>
+      <subject>
+         <topic>System suitability</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-237</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-237</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1405859677</identifier>
+      <identifier type="oclc">on1405859677</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">231024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111410.0</recordChangeDate>
+         <recordIdentifier>991000614605508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

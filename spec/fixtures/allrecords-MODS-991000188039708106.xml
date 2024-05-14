@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Rheological measurement of suspensions without slippage: experimental
+                and model</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022065425">
+         <namePart>Olivas, Alex.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022065425</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022065425">
+         <namePart>Olivas, Alex.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022065425</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Helsel, Michelle A.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Martys, Nicos.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ferraris, Chiara.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2005016406">
+         <namePart>George, William L. (William Lowry)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2005016406</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019038210">
+         <namePart>Ferron, Raissa.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2019038210</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <namePart>Information Technology Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2016</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2016.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Rheological measurements of suspensions are often performed using a
+                rotational rheometer. In this type of rheometer, the tested fluid is sheared between
+                two surfaces, one of which is rotating to generate a laminar flow of the fluid
+                between the surfaces (i.e., a Couette flow). Manufacturers of commercially available
+                rheometers generally recommend the use of a standard oil of known viscosity to
+                verify that the rheometer is operating correctly. However, in the case of concrete
+                rheometers, this approach would require large volumes of oil and was deemed not
+                economically feasible by two international studies [1] [2]. The conclusion of those
+                international studies was that the optimal approach to calibrate concrete rheometers
+                would be to develop a non-Newtonian standard reference material (SRM) that contained
+                inclusions similar in size to aggregates used commonly in concrete. This could be
+                achieved by using a multi-stage approach where each stage corresponds to a different
+                level of complexity of the fluid. The first stage would be to create a paste
+                reference material, as was done in the SRM 2492 [3]. The second stage would be to
+                mimic the mortar phase of a concrete, and SRM 2493 [4], with 1 mm beads added to SRM
+                2492, accomplishes that goal. The third, and final stage, is the creation of SRM
+                2497 for concrete, with larger beads added to SRM 2493, which is currently in
+                development at National Institute of Standards and Technology (NIST). During the
+                certification of SRM 2493, it was found that differences in rheometer geometry
+                affect the accuracy of the rheological measurements. In order to gain fundamental
+                insight about the impact that different rheometer geometries have on measurements of
+                suspensions, a comprehensive analysis was conducted on three different rheometer
+                families. The analysis included both experimental testing and computer simulation.
+                The comparison between the model and rheological results showed that the increased
+                viscosity due to the addition of the 1 mm beads to SRM 2492 was significantly higher
+                in the Couette model than in the experimental data. It was also determined that some
+                geometries, such as a double spiral, resulted in a higher viscosity than a simple
+                serrated cylinder or vane. This finding led to the inference that slippage should
+                also be considered. Ultimately, this report highlights that industrial rheometers
+                experience slippage issues caused by their choice of geometry and their internal
+                boundary conditions (free surfaces), and discusses the most accurate alternative
+                available for calibrating rheometers.</abstract>
+      <note type="statement of responsibility">Alex Olivas; Michelle A. Helsel; Nicos Martys; Chiara Ferraris;
+                William L. George; Raissa Ferron.</note>
+      <note>December 2016.</note>
+      <note>Title from PDF title page (viewed December 12, 2016).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n42029756">
+         <titleInfo>
+            <title>Standard reference materials</title>
+         </titleInfo>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85113619">
+         <topic>Rheology</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1096929">
+         <topic>Rheology</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1946</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1946</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">967662146</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">170104</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20170104114118.0</recordChangeDate>
+         <recordIdentifier>991000188039708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

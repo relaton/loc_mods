@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>NIST electron elastic-scattering cross-section database</title>
+         <subTitle>version 5.0 user’s guide</subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Jablonski, Aleksander.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7460-8623">
+         <namePart>Jablonski, Aleksander.</namePart>
+         <nameIdentifier>(orcid)0000-0001-7460-8623</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6162-8841">
+         <namePart>Salvat, F.</namePart>
+         <nameIdentifier>(orcid)0000-0002-6162-8841</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8990-2286">
+         <namePart>Powell, Cedric.</namePart>
+         <nameIdentifier>(orcid)0000-0001-8990-2286</nameIdentifier>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">drama</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2023</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD:</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology;</publisher>
+         <dateIssued>2023-12-20.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (31 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Version 5.0 of the database was released in December 2023. Most
+                screens were redesigned. An option was added to provide samplers of polar
+                elastic-scattering angles that can be used in Monte Carlo simulations of electron
+                transport in solids (as was possible in Version 3.2 and earlier versions). However,
+                a more accurate numerical method has been implemented in Version 5.0, as described
+                in Appendix A. The new sampler is designed to generate scattering angles for
+                electron energies between 50 eV and 20 keV. The differential elastic-scattering
+                cross sections (DCSs) were calculated using the relativistic Dirac partial-wave
+                method, as described by Walker [3]. The scattering potential was obtained from the
+                self-consistent Dirac-Hartree-Fock electron density for free atoms [4] with the
+                local exchange potential of Furness and McCarthy [5]. The numerical calculations
+                were performed with the algorithm described by Salvat and Mayol [6]. Transport cross
+                sections were calculated from the DCSs as described by Jablonski et al.
+                [1].</abstract>
+      <targetAudience authority="marctarget">specialized</targetAudience>
+      <note type="statement of responsibility">Aleksander Jablonski; F. Salvat; Cedric J. Powell.</note>
+      <note>December 2023.</note>
+      <note>Title from PDF title page (viewed January 23, 2024).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2023-11-28</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.NSRDS.64-2023</url>
+      </location>
+      <relatedItem type="preceding" otherType="Supersedes" displayLabel="Supersedes">
+         <name>
+            <namePart>10.6028/NIST.NSRDS.64</namePart>
+         </name>
+      </relatedItem>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NSRDS-NIST; National standard reference data series</title>
+            <partNumber>64-2023</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1429312640</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">240123</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111411.0</recordChangeDate>
+         <recordIdentifier>991000624209808106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

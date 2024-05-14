@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Certification of Standard Reference Material 114r Portland cement
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Stutzman, Paul.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Stutzman, Paul.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Votri, Eduarda.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Toman, Blaza.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Material Measurement Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-06-06.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (40 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The SRM 114 series for portland cement fineness has been provided by
+                NIST since 1934 for use in calibrating instruments for measuring fineness
+                characteristics of portland cement and other powdered construction materials. SRM
+                114r is the latest of this series providing certified values for cement fineness by
+                Blaine apparatus, + 45 ?m (No. 325) Sieve, and informational values for particle
+                size distribution by light scattering. ASTM C01.25 Committee on Fineness provided a
+                range of desired materials properties, and the assistance of the Cement and Concrete
+                Reference Lab provided a number of candidate plants with materials conforming to the
+                Committee request. Approximately 1000 kg of cement was procured, homogenized, and
+                packaged. An inter-laboratory study was initiated to develop the data set used to
+                establish certified values. The certified values represent the consensus means and
+                uncertainties for the Blaine and + 45 ?m residue. Informational values on particle
+                size distribution are provided as the mean of the combined wet and dry laser
+                diffraction data.</abstract>
+      <note type="statement of responsibility">Paul Stutzman; Eduarda Votri; Blaza Toman.</note>
+      <note>June 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-05-26</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Standard reference materials</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Cement</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Specifications</topic>
+      </subject>
+      <subject>
+         <topic>Blaine fineness</topic>
+      </subject>
+      <subject>
+         <topic>Particle size distribution</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.260-226</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>260-226</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890422</identifier>
+      <identifier type="oclc">on1389890422</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111421.0</recordChangeDate>
+         <recordIdentifier>991000625719108106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

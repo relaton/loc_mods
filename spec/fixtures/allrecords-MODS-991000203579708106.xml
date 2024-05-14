@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Status report on the first round of the NIST post-quantum
+                cryptography standardization process</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Alagic, Gorjan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Alagic, Gorjan.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Alperin-Sheriff, Jacob.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Apon, Daniel.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n77001780">
+         <namePart>Cooper, David.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n77001780</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Dang, Quynh.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Liu, Yi-Kai.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1917-1531">
+         <namePart>Miller, Carl.</namePart>
+         <nameIdentifier>(orcid)0000-0003-1917-1531</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4868-6684">
+         <namePart>Moody, Dustin,</namePart>
+         <namePart type="date">1979-</namePart>
+         <nameIdentifier>(orcid)0000-0002-4868-6684</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2318-7563">
+         <namePart>Peralta, René.</namePart>
+         <nameIdentifier>(orcid)0000-0002-2318-7563</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Perlner, Ray.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91052212">
+         <namePart>Robinson, Angela.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n91052212</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Smith-Tone, Daniel.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+         <namePart>Information Technology Laboratory (National Institute of Standards
+                and Technology)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (black and white).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology is in the process
+                of selecting one or more public-key cryptographic algorithms through a public
+                competition-like process. The new public-key cryptography standards will specify one
+                or more additional digital signature, public-key encryption, and key-establishment
+                algorithms to augment FIPS 186-4, Digital Signature Standard (DSS), as well as
+                special publications SP 800-56A Revision 2, Recommendation for Pair-Wise Key
+                Establishment Schemes Using Discrete Logarithm Cryptography, and SP 800-56B,
+                Recommendation for Pair-Wise Key-Establishment Schemes Using Integer Factorization.
+                It is intended that these algorithms will be capable of protecting sensitive
+                information well into the foreseeable future, including after the advent of quantum
+                computers. In November 2017, 82 candidate algorithms were submitted to NIST for
+                consideration. Among these, 69 met both the minimum acceptance criteria and our
+                submission requirements, and were accepted as First-Round Candidates on Dec. 20,
+                2017, marking the beginning of the First Round of the NIST Post-Quantum Cryptography
+                Standardization Process. This report describes the evaluation criteria and selection
+                process, based on public feedback and internal review of the first-round candidates,
+                and summarizes the 26 candidate algorithms announced on January 30, 2019 for moving
+                forward to the second round of the competition. The 17 Second-Round Candidate
+                public-key encryption and key-establishment algorithms are BIKE, Classic McEliece,
+                CRYSTALS-KYBER, FrodoKEM, HQC, LAC, LEDAcrypt (merger of LEDAkem/LEDApkc), NewHope,
+                NTRU (merger of NTRUEncrypt/NTRU-HRSS-KEM), NTRU Prime, NTS-KEM, ROLLO (merger of
+                LAKE/LOCKER/Ouroboros-R), Round5 (merger of Hila5/Round2), RQC, SABER, SIKE, and
+                Three Bears. The 9 Second-Round Candidates for digital signatures are
+                CRYSTALS-DILITHIUM, FALCON, GeMSS, LUOV, MQDSS, Picnic, qTESLA, Rainbow, and
+                SPHINCS+.</abstract>
+      <note type="statement of responsibility">Gorjan Alagic; Jacob Alperin-Sheriff; Daniel Apon; David Cooper;
+                Quynh Dang; Yi-Kai Liu; Carl Miller; Dustin Moody; Rene Peralta; Ray Perlner; Angela
+                Robinson; Daniel Smith-Tone.</note>
+      <note>January 2019.</note>
+      <note>Title from PDF title page (viewed January 31, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034453">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/884552">
+         <topic>Cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007219">
+         <topic>Digital signatures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/893725">
+         <topic>Digital signatures</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00004804">
+         <topic>Public key cryptography</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1082562">
+         <topic>Public key cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Post-quantum cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Key-establishment mechanism (KEM)</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.IR.8240</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NISTIR; NIST IR; NIST interagency report; NIST internal report
+</title>
+            <partNumber>8240</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1085510854</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190212</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190212115452.0</recordChangeDate>
+         <recordIdentifier>991000203579708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

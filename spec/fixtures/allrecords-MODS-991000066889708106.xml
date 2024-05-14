@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>bibliography of sources of thermodynamic data for the systems
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Golderberg, Robert N.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Golderberg, Robert N.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85223448">
+         <namePart>Steckler, D. K.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85223448</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+         <namePart>United States.</namePart>
+         <namePart>National Bureau of Standards.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1985</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>1985.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Contained herein is a bibliography of sources of experimental and
+                correlated thermodynamic data for the systems CO2 + NH3 + H2O, CO2 + H2S + H2O, H2S
+                + NH3 + H2O, and CO2 + NH3 + H2S + H2O. The types of data in this bibliography
+                include all types of equilibrium data, including both equilibria in solution and
+                vapor-liquid equilibrium data, enthalpies, heat capacities, and densities. There are
+                215 references cited.</abstract>
+      <note type="statement of responsibility">Robert N. Golderberg; D. K. Steckler.</note>
+      <note>1985.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.SP.699</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NBS special publication; NBS special pub; NBS SP</title>
+            <partNumber>699</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312494158</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151026</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20151026025822.0</recordChangeDate>
+         <recordIdentifier>991000066889708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

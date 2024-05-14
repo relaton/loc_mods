@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Building for Environmental and Economic Sustainability (BEES) Online
+                2.1 technical manual</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015145270">
+         <namePart>Kneifel, Joshua.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015145270</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015145270">
+         <namePart>Kneifel, Joshua.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015145270</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113180">
+         <namePart>Lavappa, Priya.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021113180</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021116837">
+         <namePart>Polidoro, Brian.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021116837</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022021989">
+         <namePart>Greig, Anne Landfield.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022021989</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Engineering Laboratory.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2019</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2019.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (color).</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">Building stakeholders need practical metrics, data, and tools to
+                support decisions related to sustainable building product selection. The Engineering
+                Laboratory of the National Institute of Standards and Technology (NIST) has
+                addressed this national need by developing a new version of its metrics and tools
+                for sustainable building products, known as Building for Environmental and Economic
+                Sustainability (BEES) Online. BEES Online 2 implements the same BEES framework using
+                metrics based on process-based life-cycle assessment (LCA) and life-cycle costing
+                (LCC) approaches to assess the environmental and economic performance of building
+                products. BEES Online 2 includes a more user-friendly interface with more expansive
+                user customization, options, and guidance. Most products in BEES Online 1.0 (all
+                major product categories) as well as new products not in BEES Online 1.0 have been
+                transitioned to BEES Online 2, including updating the LCA and LCC results using
+                up-to-date methodologies and data sources, with focus on the largest and most widely
+                viewed product categories.</abstract>
+      <note type="statement of responsibility">Joshua Kneifel; Priya Lavappa; Brian Polidoro; Greig, Anne
+                Landfield.</note>
+      <note>September 2019.</note>
+      <note>Title from PDF title page (viewed September 18, 2019).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017769">
+         <topic>Buildings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840962">
+         <topic>Buildings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040850">
+         <topic>Economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/902116">
+         <topic>Economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93000430">
+         <topic>Life cycle costing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/998247">
+         <topic>Life cycle costing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040193">
+         <topic>Dwellings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/899978">
+         <topic>Dwellings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85028921">
+         <topic>Commercial buildings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/869373">
+         <topic>Commercial buildings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009000375">
+         <topic>Sustainability</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003001382">
+         <topic>Sustainable buildings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1139729">
+         <topic>Sustainable buildings</topic>
+      </subject>
+      <subject>
+         <topic>Life cycle assessment</topic>
+      </subject>
+      <subject>
+         <topic>Life cycle impact assessment</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2032r1</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2032r1</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1120083273</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">190919</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20190919043258.0</recordChangeDate>
+         <recordIdentifier>991000231839708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

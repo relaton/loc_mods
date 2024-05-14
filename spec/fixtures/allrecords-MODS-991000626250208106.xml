@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Validation capabilities of the NIST campus power system to evaluate
+                distributed control of grid-edge distributed energy resources</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Anand, Dhananjay.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Anand, Dhananjay.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ehsan, Md Amimul.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Freiheit, Collin.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Linn, Thomas.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Chen, Tzong Hao.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2021</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2021-08-11.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (62 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This report outlines NIST s validation tools, developed to help
+                address the smart grid semergent needs and complement research and standards
+                coordination efforts. Rapid ad-vances have enabled an opportunity for the grid to
+                autonomously and simultaneously con-trol generation, balance load, and regulate
+                power quality. The grid will need this coordi-nated control to regulate power
+                voltage, in real- time, to meet fast-changing power demands,especially with
+                increasing distributed energy resources. To do this, the grid needs mea- surements
+                from across the distribution network to accurately assess demand and preventnegative
+                impacts. It also needs improved situational awareness, which Advanced
+                MeteringInfrastructure (AMI) and other technologies can enable. Moreover, lessons
+                from AMI usecan aid research and development of a coordinated control system.
+                Additionally, such acoordinated control system depends a new operating paradigm with
+                new two-way infor-mation flows between aspects of the grid, or domains. NIST offers
+                such a paradigm in itsSmart Grid Framework 4.0.In going forward, industry has
+                concerns which must be addressed. Distribution systemoperators (DSO) need
+                centralized functions to coordinate distributed assets. To imple-ment such
+                centralization, DSOs need an understanding of bandwidth, security and
+                integrityconsiderations, while also ensuring performances at the grid s edges.
+                Industry is also con-cerned with how to represent uncertainties in a complex
+                cyber-physical system, like latencyand cyber- vulnerabilities.And, industry is
+                concerned that standards are focused more on de-vices, than on coordinated control
+                systems.</abstract>
+      <note type="statement of responsibility">Dhananjay Anand; Md Amimul Ehsan; Collin Freiheit; Thomas Linn; Tzong
+                Hao.</note>
+      <note>August 2021.</note>
+      <note>Title from PDF title page (viewed October 1, 2021).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2021-08-10</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Smart power grids</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Computer software Validation</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Electric power systems</topic>
+      </subject>
+      <subject>
+         <topic>Distributed energy resources</topic>
+      </subject>
+      <subject>
+         <topic>Distributed control</topic>
+      </subject>
+      <subject>
+         <topic>PV generators</topic>
+      </subject>
+      <subject>
+         <topic>Hardware-in-the-loop</topic>
+      </subject>
+      <subject>
+         <topic>Reference governor</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2173</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2173</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890069</identifier>
+      <identifier type="oclc">on1389890069</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111510.0</recordChangeDate>
+         <recordIdentifier>991000626250208106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

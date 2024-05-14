@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>US government cloud computing technology roadmap</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021142246">
+         <namePart>Badger, Lee.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021142246</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86808487">
+         <namePart>Bernstein, David.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n86808487</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr90002794">
+         <namePart>Bohn, Robert.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr90002794</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022086179">
+         <namePart>De Vaulx, Frederic.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022086179</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2003119907">
+         <namePart>Hogan, Mike.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2003119907</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021142260">
+         <namePart>Iorga, Michaela.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021142260</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2008025868">
+         <namePart>Mao, Jin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2008025868</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2002109331">
+         <namePart>Messina, John.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n2002109331</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015133576">
+         <namePart>Mills, Kevin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015133576</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021142263">
+         <namePart>Simmon, Eric.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021142263</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021142266">
+         <namePart>Sokol, Annie.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021142266</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021142267">
+         <namePart>Tong, Jin.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021142267</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021142270">
+         <namePart>Whiteside, Fred.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021142270</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021142261">
+         <namePart>Leaf, Dawn.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021142261</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015035849">
+         <namePart>NIST Cloud Computing Program (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2015035849</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2014</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2014.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations (some color).</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Lee Badger; David Bernstein; Robert Bohn; Frederic de Vaulx; Mike
+                Hogan; Michaela Iorga; Jian Mao; John Messina; Kevin Mills; Eric Simmon; Annie
+                Sokol; Jin Tong; Fred Whiteside; Dawn Leaf.</note>
+      <note>Title from PDF title page (viewed October 16, 2014).</note>
+      <note>October 2014.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008004883">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745899">
+         <topic>Cloud computing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007100596">
+         <topic>Administrative agencies</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/796723">
+         <topic>Administrative agencies</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
+         <geographic>United States</geographic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.500-293</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>500-293</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1255595456</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">141105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240102155343.0</recordChangeDate>
+         <recordIdentifier>991000045109708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

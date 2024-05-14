@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Economic analysis of ASCE 7-22 tornado load requirements</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Kneifel, Joshua.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Levitan, Marc.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Harris, Benchmark.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Haney, Blake.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Smith, Tom.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Butry, David.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Crawford, Shane.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>de Toledo, Nico.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Thomas, Douglas.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <namePart>Engineering Laboratory</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2022</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2022-03-30.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource (71 pages) : illustrations (color)</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">This study analyzes the potential economic impacts from
+                implementation of the new tornado load requirements in the ASCE 7-22 Standard:
+                Minimum Design Loads and Associated Criteria for Buildings and Other Structures, by
+                incorporation into the International Building Code (Proposal S63-22 in Ref. [3])
+                and/or direct adoption by Federal, state, and local governments. The Standard
+                requires that Risk Category III and IV buildings located in the tornado-prone region
+                (approximately equal to the area of the conterminous U.S. east of the Continental
+                Divide) be designed to resist tornado loads in addition to wind loads from other
+                types of storms. Risk Category III includes buildings that represent a substantial
+                hazard to human life in the event of failure (e.g., theaters and other assembly
+                occupancies, schools, nursing homes), while Risk Category IV is for essential
+                facilities (e.g., hospitals, fire and police stations, emergency operations
+                centers). The approach in this study is to (1) identify the potential numbers of
+                buildings that may be impacted, (2) compare tornado loads with existing wind load
+                requirements to understand when and where tornado loads will control design, (3)
+                determine what building elements will require changes in construction design when
+                tornado loads control, and (4) estimate the cost of these changes in construction
+                design. The adoption of the new tornado load requirements in the ASCE 7-22 standard
+                will impact a small fraction of new buildings in the United States. When excluding
+                residential occupancies with less than 50 units, the building stock occupancy types
+                for Risk Category III and IV buildings in the tornado-prone region represents 15.0 %
+                of the entire U.S. building stock and 18.3 % of the building stock in the
+                tornado-prone region. These results are effectively upper bound estimates as tornado
+                loads will not control over wind loads for all Risk Category III and IV buildings in
+                the tornado-prone region. Whether tornado loads control any aspect of the building
+                design over wind loads depends on many different climatological and building
+                characteristics. Geospatial analyses are used identify the impacts of several of
+                these variables. In general, the tornado design requirements will have the most
+                impact in the central and southeast U.S. Case studies are used to estimate the
+                relative magnitude of the potential cost impacts of five building elements (roof
+                systems, roof diaphragm, roof joists and wide flange beams and girders, exterior
+                wall framing, and foundation anchorages) for two building types (elementary school
+                and high school) for wind Exposure Categories B and C baseline building designs
+                across nine locations to provide a range of potential load requirements and
+                resulting cost implications. The results of the case studies show that tornado loads
+                can vary significantly, from less than wind loads to more than double the wind
+                loads. Tornado loads will not control for many locations and building types,
+                particularly those on the periphery of the tornado-prone region. For scenarios in
+                which the tornado loads do control, the construction design is often not influenced.
+                Of the nine cities considered in this study, three realize cost increases for at
+                least one exposure category for the elementary school and six for the high school.
+                Of all the building type location exposure combinations (36), only six (three for
+                each building type) realize cost impacts greater than 0.07 % of the project
+                budget.</abstract>
+      <note type="statement of responsibility">Joshua Kneifel; Marc Levitan; Benchmark Harris; Blake Haney; Tom
+                Smith; David Butry; Shane Crawford; Nico de Toledo; Douglas Thomas.</note>
+      <note>March 2022.</note>
+      <note>Title from PDF title page (viewed January 4, 2023).</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="venue">Approved by the NIST Editorial Review Board on 2022-03-24</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject authority="lcsh">
+         <topic>Tornadoes</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Atmospheric pressure</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Commercial buildings</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Building laws</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Standards, Engineering</topic>
+      </subject>
+      <subject>
+         <topic>Building economics</topic>
+      </subject>
+      <subject>
+         <topic>Tornado loads</topic>
+      </subject>
+      <subject>
+         <topic>Atmospheric pressure change</topic>
+      </subject>
+      <subject>
+         <topic>ASCE 7</topic>
+      </subject>
+      <subject>
+         <topic>Economic analysis</topic>
+      </subject>
+      <subject>
+         <topic>Institutional buildings</topic>
+      </subject>
+      <subject>
+         <topic>Essential facilities</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.2214</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>2214</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1389890336</identifier>
+      <identifier type="oclc">on1389890336</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">230711</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240401111508.0</recordChangeDate>
+         <recordIdentifier>991000626251508106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

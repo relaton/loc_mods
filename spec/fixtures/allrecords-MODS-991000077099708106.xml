@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Security guide for interconnecting information technology systems
+</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Grance, T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Grance, T.</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hash, J.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr96002687">
+         <namePart>Peck, Samuel,</namePart>
+         <namePart type="date">-1879</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nr96002687</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2003003208">
+         <namePart>Smith, J.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/nb2003003208</nameIdentifier>
+      </name>
+      <name type="personal">
+         <namePart>Korow-Diks, K.</namePart>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2002</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2002.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The Security Guide for Interconnecting Information Technology Systems
+                provides guidance for planning, establishing, maintaining, and terminating
+                interconnections between information technology (IT) systems that are owned and
+                operated by different organizations. They are consistent with the requirements
+                specified in the Office of Management and Budget (OMB) Circular A-130, Appendix III,
+                for system interconnection and information sharing. A system interconnection is
+                defined as the direct connection of two or more IT systems for the purpose of
+                sharing data and other information resources. The document describes benefits of
+                interconnecting IT systems, defines the basic components of an interconnection,
+                identifies methods and levels of interconnectivity, and discusses potential security
+                risks. The document then presents a life-cycle approach for system interconnections,
+                with an emphasis on security. Four phases are addressed: a) Planning the
+                interconnection: the organizations perform preliminary activities; examine
+                technical, security, and administrative issues; and form an agreement governing the
+                management, operation, and use of the interconnection; b) Establishing the
+                interconnection: the organizations develop and execute a plan for establishing the
+                interconnection, including implementing or configuring security controls; c)
+                Maintaining the interconnection: the organizations maintain the interconnection
+                after it is established to ensure that it operates properly and securely; and d)
+                Disconnecting the interconnection: one or both organizations may terminate the
+                interconnection. The termination should be conducted in a planned manner to avoid
+                disrupting the other party's system. In an emergency, however, one or both
+                organizations may choose to terminate the interconnection immediately. The document
+                provides recommended steps for completing each phase, emphasizing security measures
+                to protect the systems and shared data. The document also contains guides and
+                samples for developing an Interconnection Security Agreement (ISA) and a Memorandum
+                of Understanding/Agreement (MOU/A). The ISA specifies technical and security
+                requirements of the interconnection; the MOU/A defines the responsibilities of the
+                organizations. Finally, the document contains a guide for developing an
+                Implementation Plan to establish the interconnection.</abstract>
+      <note type="statement of responsibility">T. Grance; J. Hash; S. Peck; J. Smith; K. Korow-Diks.</note>
+      <note>2002.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Information systems security</topic>
+      </subject>
+      <subject>
+         <topic>Interconnecting systems</topic>
+      </subject>
+      <subject>
+         <topic>IT security</topic>
+      </subject>
+      <subject>
+         <topic>System development life cycle</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-47</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-47</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312505030</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120940.0</recordChangeDate>
+         <recordIdentifier>991000077099708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

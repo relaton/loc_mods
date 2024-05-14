@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Accelerated weathering of firefighter protective clothing melamine
+                fiber beads</title>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021152722">
+         <namePart>Nazaré, Shonali.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152722</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152722">
+         <namePart>Nazaré, Shonali.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021152722</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010832">
+         <namePart>Flynn, Shaun.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2022010832</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n95026885">
+         <namePart>Davis, Rick.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n95026885</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107282">
+         <namePart>Chin, Joannie.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/no2021107282</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.)</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2012</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Department of Commerce, National Institute of Standards and
+                Technology ;</publisher>
+         <dateIssued>2012.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource : illustrations.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">In this study, environmentally stressed OS fabrics containing
+                melamine fiber blends were evaluated for thermal and mechanical properties that are
+                critical to the protective performance of firefighter turnout gear. Environmental
+                stress factors that affect the durability of turnout gear include thermal exposures,
+                UV radiation, moisture exposures, abrasion, and laundering. The effect of fiber
+                blend, fabric construction, and finishing processes including water repellent
+                coating and pigmentation of melamine containing OS fabrics was also studied.
+                Melamine containing OS fabrics show comparable thermal protective performance and
+                have far more superior tear resistance when compared to the traditionally used
+                polyaramid blends. This study reveals that TPP rating of environmentally stressed OS
+                fabrics containing melamine fiber blends is well above the NFPA minimum TPP
+                requirement of 35 Cal/cm2. The tear strength of all melamine containing OS fabrics
+                exposed to environmental stressing has significantly deteriorated and most OS
+                fabrics, depending on fiber blend and fabric structure, would fail to meet
+                requirements of NFPA 1971 standard. The study thus suggests that environmental
+                stressing has more detrimental impact on tear strength than the thermal protective
+                performance of OS fabrics. Deterioration in tearing strength of all UV exposed OS
+                fabrics is largely due to photodegradation of constituent fibers. Changes in tear
+                strength of OS fabrics subjected to thermal exposures and laundering is cumulative
+                effect of loss in tensile strength of single yarns and dimensional stability of the
+                fabric itself.</abstract>
+      <note type="statement of responsibility">Shonali Nazare; Shaun Flynn; Rick Davis; Joannie Chin.</note>
+      <note>August 2012</note>
+      <note>CODEN: NTNUE2</note>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008008277">
+         <topic>Melamine</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1746937">
+         <topic>Melamine</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85027158">
+         <topic>Personal protective equipment</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1079632">
+         <topic>Personal protective equipment</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048493">
+         <topic>Fire fighters</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925379">
+         <topic>Fire fighters</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.TN.1751</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST technical note; NIST tech note; NIST TN</title>
+            <partNumber>1751</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">809378154</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">120907</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20120907031150.0</recordChangeDate>
+         <recordIdentifier>991000028229708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>

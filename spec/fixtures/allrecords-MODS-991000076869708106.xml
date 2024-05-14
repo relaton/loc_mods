@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<mods version="3.7">
+      <titleInfo>
+         <title>Modes of Operation Validation System for the Triple Data Encryption
+                Algorithm (TMOVS)</title>
+         <subTitle>requirements and procedures</subTitle>
+      </titleInfo>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85801337">
+         <namePart>Keller, S. S. (Samuel Smith),</namePart>
+         <namePart type="date">1867-1923</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85801337</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85801337">
+         <namePart>Keller, S. S. (Samuel Smith),</namePart>
+         <namePart type="date">1867-1923</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n85801337</nameIdentifier>
+      </name>
+      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+         <namePart>National Institute of Standards and Technology (U.S.).</namePart>
+         <namePart>Computer Security Division.</namePart>
+         <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">encyclopedia</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="lcgft">Technical reports.</genre>
+      <genre authority="fast">Technical reports.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ot</placeTerm>
+         </place>
+         <dateIssued encoding="marc">2012</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">Gaithersburg, MD :</placeTerm>
+         </place>
+         <publisher>U.S. Dept. of Commerce, National Institute of Standards and
+                Technology; </publisher>
+         <dateIssued>2012.</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>1 online resource.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Abstract">The National Institute of Standards and Technology (NIST) Modes of
+                Operation Validation System for the Triple Data Encryption Algorithm (TMOVS)
+                specifies the procedures involved in validating implementations of the Triple DES
+                algorithm in ANSI X9.52 - 1998, Triple Data Encryption Algorithm Modes of Operation.
+                Successful completion of the tests contained within the TMOVS is required to claim
+                conformance to ANSI X9.52-1998.The TMOVS is designed to perform automated testing on
+                Implementations Under Test (IUTs). This publication provides a brief overview of the
+                Triple DES algorithm and introduces the basic design and configuration of the TMOVS.
+                Included in this overview are the specifications for the two categories of tests
+                which make up the TMOVS, i.e., the Known Answer tests and the Modes tests. The
+                requirements and administrative procedures to be followed by those seeking formal
+                NIST validation of an implementation of the Triple DES algorithm are presented. The
+                requirements described include the specific protocols for communication between the
+                IUT and the TMOVS, the types of tests which the IUT must pass for format NIST
+                validation, and general instruction for accessing and interfacing the TMOVS. An
+                appendix with tables of values and results for the TDES Known Answer tests is also
+                provided.</abstract>
+      <note type="statement of responsibility">S. S. Keller.</note>
+      <note>2012.</note>
+      <note>Originally published 1999.</note>
+      <note>Title from PDF title page.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note type="system details">Mode of access: World Wide Web.</note>
+      <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
+      <subject>
+         <topic>Automated testing</topic>
+      </subject>
+      <subject>
+         <topic>Computer security</topic>
+      </subject>
+      <subject>
+         <topic>Cryptographic algorithms</topic>
+      </subject>
+      <subject>
+         <topic>Cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Federal Information Processing Standard (FIPS)</topic>
+      </subject>
+      <subject>
+         <topic>NVLAP</topic>
+      </subject>
+      <subject>
+         <topic>Secret key cryptography</topic>
+      </subject>
+      <subject>
+         <topic>Triple Data Encryption Algorithm (TDEA)</topic>
+      </subject>
+      <subject>
+         <topic>Triple Data Encryption Standard (TDES)</topic>
+      </subject>
+      <subject>
+         <topic>Validation</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.SP.800-20</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>NIST special publication; NIST special pub; NIST SP</title>
+            <partNumber>800-20</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1312507815</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NBS</recordContentSource>
+         <recordCreationDate encoding="marc">151105</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20240315120941.0</recordChangeDate>
+         <recordIdentifier>991000076869708106</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using MARC21slim2MODS3-7.xsl
+				(Revision 1.140 20200717)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods></modsCollection>
