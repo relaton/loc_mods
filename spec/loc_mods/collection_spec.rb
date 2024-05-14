@@ -6,35 +6,39 @@ RSpec.describe LocMods::Collection do
     expect(yaml).to_not be_nil
   end
 
-  it "round-trips a MODS entry" do
-    input = File.read("spec/fixtures/record_1.c14.xml")
+  limit = 100
+  Dir.glob("spec/fixtures/allrecords-MODS-*.xml").each do |f|
+    limit -= 1
+    break if limit == 0
 
-    output = LocMods::Collection.from_xml(input).to_xml(
-      pretty: true,
-      declaration: true,
-      encoding: "utf-8",
-    )
+    it "round-trips NIST MODS record: #{f.match(/(allrecords-MODS-\d+)/)[1]}" do
+      input = File.read(f)
 
-    # expect(input).to be_equivalent_to(output)
-    compare_c14n_xml(input, output)
+      output = LocMods::Collection.from_xml(input).to_xml(
+        pretty: true,
+        declaration: true,
+        encoding: "utf-8"
+      )
+
+      # expect(input).to be_equivalent_to(output)
+      compare_c14n_xml(input, output)
+    end
   end
 
-  require 'tempfile'
-  def compare_c14n_xml(input, output)
+  require "tempfile"
+  def xml_pretty_format(content)
     g = nil
-    r = nil
-    Tempfile.create('input.xml') do |f|
-      f.write(input)
+    Tempfile.create("temp.xml") do |f|
+      f.write(content)
       f.flush
-      puts "*" *20
-      puts "f.path #{f.path}"
-      g = `xmlstarlet c14n #{f.path}`
+      g = `xmlstarlet ed -L -O #{f.path}`
     end
-    Tempfile.create('output.xml') do |f|
-      f.write(output)
-      f.flush
-      r = `xmlstarlet c14n #{f.path}`
-    end
+    g
+  end
+
+  def compare_c14n_xml(input, output)
+    g = xml_pretty_format(input)
+    r = xml_pretty_format(output)
     expect(r).to eq(g)
   end
 end
