@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Test report - exposure and ambient dose equivalent rate measurements
                 in support of the ITRAP+10 testing</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022071928">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022071928">
          <namePart>Pibida, Leticia.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022071928</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022059245">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022059245">
          <namePart>Minniti, Ronaldo.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022059245</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no98124436">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no98124436">
          <namePart>O'Brien, M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no98124436</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113186">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113186">
          <namePart>Lucas, L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021113186</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Radiation and Biomolecular Physics Division, Physical Measurement
                 Laboratory.</namePart>

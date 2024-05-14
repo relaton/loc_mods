@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST Outdoor Structure Separation Experiments (NOSSE) with wind
@@ -11,27 +11,27 @@
       <name type="personal">
          <namePart>Maranghides, Alexander.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0407-584">
+      <name type="personal" xlink:href="(orcid)0000-0002-0407-584">
          <namePart>Nazare, Shonali.</namePart>
          <nameIdentifier>(orcid)0000-0002-0407-584</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7784-5023">
+      <name type="personal" xlink:href="(orcid)0000-0002-7784-5023">
          <namePart>Link, Eric.</namePart>
          <nameIdentifier>(orcid)0000-0002-7784-5023</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7163-4623">
+      <name type="personal" xlink:href="(orcid)0000-0001-7163-4623">
          <namePart>Butler, Kathryn.</namePart>
          <nameIdentifier>(orcid)0000-0001-7163-4623</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1170-7370">
+      <name type="personal" xlink:href="(orcid)0000-0003-1170-7370">
          <namePart>Johnsson. Erik L.</namePart>
          <nameIdentifier>(orcid)0000-0003-1170-7370</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1138-0307">
+      <name type="personal" xlink:href="(orcid)0000-0002-1138-0307">
          <namePart>Bundy, Matthew.</namePart>
          <nameIdentifier>(orcid)0000-0002-1138-0307</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1215-7350">
+      <name type="personal" xlink:href="(orcid)0000-0002-1215-7350">
          <namePart>Chernovsky, Artur A.</namePart>
          <nameIdentifier>(orcid)0000-0002-1215-7350</nameIdentifier>
       </name>

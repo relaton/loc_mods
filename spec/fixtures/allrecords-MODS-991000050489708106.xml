@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Tables of chemical kinetics homogeneous reactions (supplementary
@@ -11,12 +11,12 @@
       <name type="personal">
          <namePart>Astin, A. V.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85322315">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85322315">
          <namePart>Bigeleisen, J. (Jacob),</namePart>
          <namePart type="date">1919-2010</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85322315</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50023329">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50023329">
          <namePart>Noyes, Robert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50023329</nameIdentifier>
       </name>
@@ -32,14 +32,14 @@
       <name type="personal">
          <namePart>Amell, A. R.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80131947">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80131947">
          <namePart>Buncel, E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80131947</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Feldman, H. B.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84800500">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84800500">
          <namePart>Johnston, Harold S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84800500</nameIdentifier>
       </name>
@@ -52,7 +52,7 @@
       <name type="personal">
          <namePart>Merritt, P. E.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

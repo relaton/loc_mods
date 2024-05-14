@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Selecting rail properties for improvement</title>
@@ -14,25 +14,25 @@
       <name type="personal">
          <namePart>Gilsinn, J. F.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2013040639">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2013040639">
          <namePart>Hall, W. G.,</namePart>
          <namePart type="date">active 1917</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2013040639</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82008536">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82008536">
          <namePart>Johnson, C. R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82008536</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88094768">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88094768">
          <namePart>McLynn, J. M.,</namePart>
          <namePart type="date">1925-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88094768</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009021554">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009021554">
          <namePart>Watkins, R. H.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2009021554</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

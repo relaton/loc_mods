@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Certification of standard reference material® 2983</title>
@@ -8,59 +8,59 @@
       <name type="personal" usage="primary">
          <namePart>Bryan Sallee, Colleen E.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2334-3925">
+      <name type="personal" xlink:href="(orcid)0000-0002-2334-3925">
          <namePart>Bryan Sallee, Colleen E.</namePart>
          <nameIdentifier>(orcid)0000-0002-2334-3925</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Bachman, Melannie J.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6605-5229">
+      <name type="personal" xlink:href="(orcid)0000-0002-6605-5229">
          <namePart>Christopher, Steven J.</namePart>
          <nameIdentifier>(orcid)0000-0002-6605-5229</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5980-1887">
+      <name type="personal" xlink:href="(orcid)0000-0002-5980-1887">
          <namePart>Ellisor, Debra L.</namePart>
          <nameIdentifier>(orcid)0000-0002-5980-1887</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Ellisor, Michael B.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0001-9584-9116">
+      <name type="personal" xlink:href="(orcid)0009-0001-9584-9116">
          <namePart>Hoguet, Jennifer C.</namePart>
          <nameIdentifier>(orcid)0009-0001-9584-9116</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Huntington, Samuel L.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3804-137X">
+      <name type="personal" xlink:href="(orcid)0000-0003-3804-137X">
          <namePart>Luvonga, Caleb.</namePart>
          <nameIdentifier>(orcid)0000-0003-3804-137X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0864-8464">
+      <name type="personal" xlink:href="(orcid)0000-0002-0864-8464">
          <namePart>Moors, Amanda J.</namePart>
          <nameIdentifier>(orcid)0000-0002-0864-8464</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Nadarajan, Dhayaalini.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6339-7506">
+      <name type="personal" xlink:href="(orcid)0000-0002-6339-7506">
          <namePart>Narukawa, Tomohiro.</namePart>
          <nameIdentifier>(orcid)0000-0002-6339-7506</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0035-4373">
+      <name type="personal" xlink:href="(orcid)0000-0002-0035-4373">
          <namePart>Ness, Jennifer M.</namePart>
          <nameIdentifier>(orcid)0000-0002-0035-4373</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3124-1045">
+      <name type="personal" xlink:href="(orcid)0000-0003-3124-1045">
          <namePart>Pugh, Rebecca S.</namePart>
          <nameIdentifier>(orcid)0000-0003-3124-1045</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5242-7629">
+      <name type="personal" xlink:href="(orcid)0000-0001-5242-7629">
          <namePart>Yen, James H.</namePart>
          <nameIdentifier>(orcid)0000-0001-5242-7629</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8043-6853">
+      <name type="personal" xlink:href="(orcid)0000-0002-8043-6853">
          <namePart>Yu, Lee L.</namePart>
          <nameIdentifier>(orcid)0000-0002-8043-6853</nameIdentifier>
       </name>

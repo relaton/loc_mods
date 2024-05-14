@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Test procedures for the determination of the gross calorific value of
@@ -7,41 +7,41 @@
                 calorimeter</title>
          <subTitle>summary ofthe 1980 fiscal year results</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n82227144">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n82227144">
          <namePart>Kirklin, D. R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82227144</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82227144">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82227144">
          <namePart>Kirklin, D. R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82227144</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107281">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107281">
          <namePart>Colbert, J. C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021107281</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098844">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098844">
          <namePart>Churney, K. L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84098844</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Reilly, M. L.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2014112368">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2014112368">
          <namePart>Thornton, D. D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2014112368</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Ryan, R. V.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021041464">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021041464">
          <namePart>Ledford, A. E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021041464</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83062191">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83062191">
          <namePart>Domalski, E. S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83062191</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

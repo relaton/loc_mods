@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Air quality criteria for storage of paper-based archival records
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80113759">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80113759">
          <namePart>Mathey, Robert G.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80113759</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80113759">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80113759">
          <namePart>Mathey, Robert G.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80113759</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80031237">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80031237">
          <namePart>Silberstein, Samuel.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80031237</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79071460">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79071460">
          <namePart>Woods, James E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79071460</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Johnson, Warren B.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no91015578">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no91015578">
          <namePart>Lull, William P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no91015578</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2001028270">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2001028270">
          <namePart>Madson, Charles A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2001028270</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50013357">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50013357">
          <namePart>Turk, Amos.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50013357</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Westlin, Karl L.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81094425">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81094425">
          <namePart>Banks, Paul N.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81094425</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

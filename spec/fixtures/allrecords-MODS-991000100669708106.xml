@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">A  </nonSort>
          <title>minicomputer-based system for the measurement and analysis of
                 community noise</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79134667">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79134667">
          <namePart>Fisher, R. L. (Robert Lloyd)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79134667</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79134667">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79134667">
          <namePart>Fisher, R. L. (Robert Lloyd)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79134667</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021001605">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021001605">
          <namePart>Blomquist, Donald S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021001605</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Forrer, J. S.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021030521">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021030521">
          <namePart>Corley, Daniel M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021030521</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>persistent organic pollutants and vitamins in northern fur seals
@@ -18,7 +18,7 @@
       <name type="personal">
          <namePart>Schantz, Michele.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006074890">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006074890">
          <namePart>Keller, Jennifer.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2006074890</nameIdentifier>
       </name>
@@ -40,18 +40,18 @@
       <name type="personal">
          <namePart>Rhoderick, Jody.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022049409">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022049409">
          <namePart>Ness, Jennifer.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022049409</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Peterson, Danielle.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n90621360">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n90621360">
          <namePart>Becker, Paul.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n90621360</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

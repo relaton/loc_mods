@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Progress report, National Institute of Standards and Technology
@@ -11,11 +11,11 @@
          <title>Technical investigation of the May 22, 2011, tornado in Joplin,
                 Missouri</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
          <namePart>Kuligowski, Erica D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2011141182</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -48,21 +48,21 @@
       <note type="statement of responsibility">Erica D. Kuligowski.</note>
       <note>November 2012.</note>
       <note>CODEN: NSPUE2--Title page verso.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n80094148-781">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n80094148-781">
          <topic>Tornado damage</topic>
          <geographic>Missouri</geographic>
          <geographic>Joplin</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1748687">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1748687">
          <topic>Tornado damage</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003011733">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003011733">
          <topic>Tornado-structure interaction</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1199975">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1199975">
          <topic>Tornado-structure interaction</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1209528">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1209528">
          <geographic>Missouri</geographic>
          <geographic>Joplin</geographic>
       </subject>

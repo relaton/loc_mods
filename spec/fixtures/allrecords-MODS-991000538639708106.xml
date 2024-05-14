@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>CFAST</title>
          <subTitle>consolidated model of fire growth and smoke transport (version 5) :
                 technical reference guide</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86105945">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86105945">
          <namePart>Jones, Walter W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86105945</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79111603">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79111603">
          <namePart>Peacock, Richard D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79111603</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88098650">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88098650">
          <namePart>Forney, Glenn P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88098650</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008048705">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008048705">
          <namePart>Reneke, Paul A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2008048705</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2003102449">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2003102449">
          <namePart>Building and Fire Research Laboratory (U.S.).</namePart>
          <namePart>Fire Research Division.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003102449</nameIdentifier>
@@ -71,26 +71,26 @@
             <title>CFAST (Computer file)</title>
          </titleInfo>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005300">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005300">
          <topic>Fire</topic>
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925176">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925176">
          <topic>Fire</topic>
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925173">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925173">
          <topic>Fire</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005300">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005300">
          <topic>Smoke</topic>
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1121644">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1121644">
          <topic>Smoke</topic>
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1121641">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1121641">
          <topic>Smoke</topic>
       </subject>
       <location>

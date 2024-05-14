@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Laser induced damage in optical materials 1989</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80104706">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80104706">
          <namePart>Bennett, Harold Earl,</namePart>
          <namePart type="date">1929-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80104706</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80104706">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80104706">
          <namePart>Bennett, Harold Earl,</namePart>
          <namePart type="date">1929-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80104706</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n93011386">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n93011386">
          <namePart>Chase, Lloyd L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n93011386</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80045127">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80045127">
          <namePart>Guenther, Arthur Henry,</namePart>
          <namePart type="date">1931-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80045127</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88093955">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88093955">
          <namePart>Newnam, Brian E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88093955</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85181892">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85181892">
          <namePart>Soileau, M. J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85181892</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

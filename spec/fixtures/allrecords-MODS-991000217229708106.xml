@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Methodology for enabling forensic analysis using hypervisor
                 vulnerabilities data</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2003002931">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2003002931">
          <namePart>Chandramouli, Ramaswamy.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2003002931</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7387-5858">
+      <name type="personal" xlink:href="(orcid)0000-0002-7387-5858">
          <namePart>Chandramouli, Ramaswamy.</namePart>
          <nameIdentifier>(orcid)0000-0002-7387-5858</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007077737">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007077737">
          <namePart>Singhal, Anoop,</namePart>
          <namePart type="date">1958-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2007077737</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005074766">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005074766">
          <namePart>Wijesekera, Duminda.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2005074766</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2021021409">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2021021409">
          <namePart>Liu, Changwei,</namePart>
          <namePart type="date">1980-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2021021409</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
@@ -81,16 +81,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008004883">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008004883">
          <topic>Cloud computing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745899">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1745899">
          <topic>Cloud computing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
          <topic>Computer security</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
          <topic>Computer security</topic>
       </subject>
       <subject>

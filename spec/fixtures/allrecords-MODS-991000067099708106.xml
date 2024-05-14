@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Bibliographies of industrial interest</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85246909">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85246909">
          <namePart>Staples, B. R. (Bert R.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85246909</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85246909">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85246909">
          <namePart>Staples, B. R. (Bert R.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85246909</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87833390">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87833390">
          <namePart>Garvin, David,</namePart>
          <namePart type="date">1923-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87833390</nameIdentifier>
@@ -23,33 +23,33 @@
       <name type="personal">
          <namePart>Jobe, T. L., Jr.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82005513">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82005513">
          <namePart>Crenca, Jack.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82005513</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Jackson, C. R.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022055512">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022055512">
          <namePart>Wobbeking, T. F. (Theresa F.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022055512</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Joseph, R.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021145688">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021145688">
          <namePart>Brier, A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021145688</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022081357">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022081357">
          <namePart>Schumm, R. H. (Richard H.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022081357</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79063846">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79063846">
          <namePart>Goldberg, Robert N.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79063846</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

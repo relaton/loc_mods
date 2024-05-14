@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Hazard assessment of aluminum electrical wiring in residential use
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n88624034">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n88624034">
          <namePart>Bunten, E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88624034</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88624034">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88624034">
          <namePart>Bunten, E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88624034</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020067727">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020067727">
          <namePart>Donaldson, John L. (John Laurence)</namePart>
          <namePart type="date">1950-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020067727</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021037001">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021037001">
          <namePart>McDowell, Eugene C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021037001</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -58,35 +58,35 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040202">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040202">
          <topic>Dwellings</topic>
          <topic>Fires and fire prevention</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/900062">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/900062">
          <topic>Dwellings</topic>
          <topic>Fires and fire prevention</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005751">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005751">
          <topic>Electric wiring</topic>
          <topic>Fires and fire prevention</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/906213">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/906213">
          <topic>Electric wiring</topic>
          <topic>Fires and fire prevention</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/906210">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/906210">
          <topic>Electric wiring</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85004043">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85004043">
          <topic>Aluminum wire</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/806460">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/806460">
          <topic>Aluminum wire</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85042060">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85042060">
          <topic>Electric wiring, Interior</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/906225">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/906225">
          <topic>Electric wiring, Interior</topic>
       </subject>
       <location>

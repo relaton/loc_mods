@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Measuring the size of nanoparticles in aqueous media using batch-mode
@@ -12,7 +12,7 @@
       <name type="personal">
          <namePart>Olson, Nathan D.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2016052826">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2016052826">
          <namePart>Jackson, Scott A.,</namePart>
          <namePart type="date">1990-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2016052826</nameIdentifier>
@@ -20,7 +20,7 @@
       <name type="personal">
          <namePart>Lin, Nancy J.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
          <namePart>Material Measurement Laboratory (U.S.).</namePart>
          <namePart>Biosystems and Biomaterials Division.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
@@ -57,18 +57,18 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85084745">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85084745">
          <topic>Pathogenic microorganisms</topic>
          <genre>Identification</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1054937">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1054937">
          <topic>Pathogenic microorganisms</topic>
          <topic>Identification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85053924">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85053924">
          <topic>Genomes</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/940225">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/940225">
          <topic>Genomes</topic>
       </subject>
       <location>

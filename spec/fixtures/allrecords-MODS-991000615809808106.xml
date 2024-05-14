@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Physical models and dimensional traceability of 2.4 mm coaxial
@@ -9,27 +9,27 @@
       <name type="personal" usage="primary">
          <namePart>Jargon, Jeffrey A.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7897-6893">
+      <name type="personal" xlink:href="(orcid)0000-0002-7897-6893">
          <namePart>Jargon, Jeffrey A.</namePart>
          <nameIdentifier>(orcid)0000-0002-7897-6893</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8271-1505">
+      <name type="personal" xlink:href="(orcid)0000-0002-8271-1505">
          <namePart>Williams, Dylan F.</namePart>
          <nameIdentifier>(orcid)0000-0002-8271-1505</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4927-7209">
+      <name type="personal" xlink:href="(orcid)0000-0002-4927-7209">
          <namePart>Long, Christian J.</namePart>
          <nameIdentifier>(orcid)0000-0002-4927-7209</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4675-4636">
+      <name type="personal" xlink:href="(orcid)0000-0003-4675-4636">
          <namePart>Hagerstrom, Aaron M.</namePart>
          <nameIdentifier>(orcid)0000-0003-4675-4636</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8900-140X">
+      <name type="personal" xlink:href="(orcid)0000-0002-8900-140X">
          <namePart>Stelson, Angela C.</namePart>
          <nameIdentifier>(orcid)0000-0002-8900-140X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3189-0889">
+      <name type="personal" xlink:href="(orcid)0000-0003-3189-0889">
          <namePart>Stoup, John R.</namePart>
          <nameIdentifier>(orcid)0000-0003-3189-0889</nameIdentifier>
       </name>

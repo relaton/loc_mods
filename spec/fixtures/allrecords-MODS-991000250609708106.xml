@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Silicon microelectronics programs at the National Institute of
                 Standards and Technology</title>
          <subTitle>programs, activities, and accomplishments</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n00006019">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n00006019">
          <namePart>Knight, Stephen.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n00006019</nameIdentifier>
       </name>
@@ -16,7 +16,7 @@
       <name type="personal">
          <namePart>Buckley, Michele.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -53,25 +53,25 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no95024569">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no95024569">
          <name type="corporate">
             <namePart>National Semiconductor Metrology Program (U.S.)</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/706982">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/706982">
          <name type="corporate">
             <namePart>National Semiconductor Metrology Program (U.S.)</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
          <topic>Semiconductors</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1112241">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1112241">
          <topic>Semiconductors</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1112198">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1112198">
          <topic>Semiconductors</topic>
       </subject>
       <location>

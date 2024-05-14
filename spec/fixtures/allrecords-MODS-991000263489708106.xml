@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Theory of discrete event logistics systems (DELS)
@@ -14,16 +14,16 @@
       <name type="personal">
          <namePart>Thiers, George.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86821984">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86821984">
          <namePart>McGinnis, Leon F. (Leon Franklin),</namePart>
          <namePart type="date">1948-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86821984</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87943852">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87943852">
          <namePart>Bock, C. (Conrad)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87943852</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -85,10 +85,10 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
          <topic>Manufacturing processes</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
          <topic>Manufacturing processes</topic>
       </subject>
       <subject>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST technology transfer interactions</title>
@@ -17,7 +17,7 @@
       <name type="personal">
          <namePart>Nazario-Negron, Jimmy.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>National Institute of Standards and Technology.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
@@ -59,24 +59,24 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2010106770">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2010106770">
          <name type="corporate">
             <namePart>Center for Nanoscale Science and Technology (National Institute of
                 Standards and Technology)</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1924253">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1924253">
          <name type="corporate">
             <namePart>Center for Nanoscale Science and Technology (National Institute of
                 Standards and Technology)</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no00026531">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no00026531">
          <name type="corporate">
             <namePart>NIST Center for Neutron Research.</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/754774">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/754774">
          <name type="corporate">
             <namePart>NIST Center for Neutron Research.</namePart>
          </name>
@@ -86,25 +86,25 @@
             <namePart>CRADA report.</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no00011287">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no00011287">
          <name type="corporate">
             <namePart>Standard Reference Data Program (National Institute of Standards and
                 Technology (U.S.))</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/753451">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/753451">
          <name type="corporate">
             <namePart>Standard Reference Data Program (National Institute of Standards and
                 Technology (U.S.))</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no91030409">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no91030409">
          <name type="corporate">
             <namePart>Standard Reference Materials Program (National Institute of Standards
                 and Technology (U.S.))</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/673491">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/673491">
          <name type="corporate">
             <namePart>Standard Reference Materials Program (National Institute of Standards
                 and Technology (U.S.))</namePart>
@@ -115,22 +115,22 @@
             <namePart>SBIR (Series)</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85133192">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85133192">
          <topic>Technology transfer</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1145295">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1145295">
          <topic>Technology transfer</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2004003366">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2004003366">
          <topic>Publications</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1201065">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1201065">
          <topic>Publications</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85113042">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85113042">
          <topic>Research grants</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1095281">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1095281">
          <topic>Research grants</topic>
       </subject>
       <subject>

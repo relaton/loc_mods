@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST research data framework (RDaF): version 2.0</title>
@@ -7,27 +7,27 @@
       <name type="personal" usage="primary">
          <namePart>Hanisch, Robert.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6853-4602">
+      <name type="personal" xlink:href="(orcid)0000-0002-6853-4602">
          <namePart>Hanisch, Robert.</namePart>
          <nameIdentifier>(orcid)0000-0002-6853-4602</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5114-7588">
+      <name type="personal" xlink:href="(orcid)0000-0001-5114-7588">
          <namePart>Kaiser, Debra L.</namePart>
          <nameIdentifier>(orcid)0000-0001-5114-7588</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9619-306X">
+      <name type="personal" xlink:href="(orcid)0000-0001-9619-306X">
          <namePart>Yuan, Alda.</namePart>
          <nameIdentifier>(orcid)0000-0001-9619-306X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1217-701X">
+      <name type="personal" xlink:href="(orcid)0000-0002-1217-701X">
          <namePart>Medina-Smith, Andrea.</namePart>
          <nameIdentifier>(orcid)0000-0002-1217-701X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8924-1000">
+      <name type="personal" xlink:href="(orcid)0000-0001-8924-1000">
          <namePart>Carroll, Bonnie C.</namePart>
          <nameIdentifier>(orcid)0000-0001-8924-1000</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9808-4112">
+      <name type="personal" xlink:href="(orcid)0000-0002-9808-4112">
          <namePart>Campo, Eva.</namePart>
          <nameIdentifier>(orcid)0000-0002-9808-4112</nameIdentifier>
       </name>

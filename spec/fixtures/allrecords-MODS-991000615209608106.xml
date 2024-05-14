@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>A method for capturing thin multi-layer regions of powder from powder
@@ -8,19 +8,19 @@
       <name type="personal" usage="primary">
          <namePart>Das, Aniruddha.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6451-1657">
+      <name type="personal" xlink:href="(orcid)0000-0002-6451-1657">
          <namePart>Das, Aniruddha.</namePart>
          <nameIdentifier>(orcid)0000-0002-6451-1657</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4857-5164">
+      <name type="personal" xlink:href="(orcid)0000-0003-4857-5164">
          <namePart>Weaver, Jordan,</namePart>
          <nameIdentifier>(orcid)0000-0003-4857-5164</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8527-7380">
+      <name type="personal" xlink:href="(orcid)0000-0001-8527-7380">
          <namePart>Tarr, Jared</namePart>
          <nameIdentifier>(orcid)0000-0001-8527-7380</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3927-1118">
+      <name type="personal" xlink:href="(orcid)0000-0003-3927-1118">
          <namePart>Moylan, Shawn P.</namePart>
          <nameIdentifier>(orcid)0000-0003-3927-1118</nameIdentifier>
       </name>

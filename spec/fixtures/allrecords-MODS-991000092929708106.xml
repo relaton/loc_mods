@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>ICST/IAT automation project bibliography and brief review of
                 literature on machine-tool measurements for automatic control</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n91123186">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n91123186">
          <namePart>Vezzetti, Carol F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n91123186</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91123186">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n91123186">
          <namePart>Vezzetti, Carol F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n91123186</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79020003">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79020003">
          <namePart>Mayo-Wells, J. Franklin.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79020003</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no96024314">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no96024314">
          <namePart>Hilten, John S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no96024314</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79116607">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79116607">
          <namePart>Lederer, Paul S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79116607</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

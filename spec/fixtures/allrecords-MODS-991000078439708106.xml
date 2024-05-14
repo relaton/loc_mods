@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Responding to national needs 1994-2001</title>
          <subTitle>supplement to appendices</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80073967">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80073967">
          <namePart>Cunningham, Diane.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80073967</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80073967">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80073967">
          <namePart>Cunningham, Diane.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80073967</nameIdentifier>
       </name>
@@ -22,15 +22,15 @@
       <name type="personal">
          <namePart>Kelley, Sandra Lee.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2007010744">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2007010744">
          <namePart>Martin, Keith.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr2007010744</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88021195">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88021195">
          <namePart>Norris, John.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88021195</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

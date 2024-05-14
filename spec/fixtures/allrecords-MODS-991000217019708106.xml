@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST transactive energy modeling and simulation challenge phase II
                 final report</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/nb2003088423">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/nb2003088423">
          <namePart>Holmberg, David.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nb2003088423</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1738-8190">
+      <name type="personal" xlink:href="(orcid)0000-0002-1738-8190">
          <namePart>Holmberg, David.</namePart>
          <nameIdentifier>(orcid)0000-0002-1738-8190</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97033846">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no97033846">
          <namePart>Burns, Martin.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97033846</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6955-6926">
+      <name type="personal" xlink:href="(orcid)0000-0002-6955-6926">
          <namePart>Bushby, Steven.</namePart>
          <nameIdentifier>(orcid)0000-0002-6955-6926</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Gopstein, Avi.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n93047166">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n93047166">
          <namePart>McDermott, Tom.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n93047166</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2013003700">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2013003700">
          <namePart>Tang, Yingying.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2013003700</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007092744">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007092744">
          <namePart>Huang, Qiuhua.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2007092744</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019147720">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019147720">
          <namePart>Pratt, Annabelle.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2019147720</nameIdentifier>
       </name>
@@ -52,18 +52,18 @@
       <name type="personal">
          <namePart>Rajagopal, Narayanan.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008089168">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008089168">
          <namePart>Ilić, Marija.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2008089168</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Jaddivada, Rupamathi.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008173862">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008173862">
          <namePart>Neema, Himanshu.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2008173862</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -128,16 +128,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85122767">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85122767">
          <topic>Simulation methods</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1119166">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1119166">
          <topic>Simulation methods</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2011003732">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2011003732">
          <topic>Smart power grids</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1792824">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1792824">
          <topic>Smart power grids</topic>
       </subject>
       <subject>

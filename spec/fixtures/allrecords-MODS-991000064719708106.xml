@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Hydraulic research in the United States and Canada, 1976</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022021996">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022021996">
          <namePart>Gurewitz, Pauline H.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022021996</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022021996">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022021996">
          <namePart>Gurewitz, Pauline H.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022021996</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -49,24 +49,24 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n79007233-781">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n79007233-781">
          <topic>Hydraulic engineering</topic>
          <topic>Research</topic>
          <geographic>Canada</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/964620">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/964620">
          <topic>Hydraulic engineering</topic>
          <topic>Research</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
          <topic>Hydraulic engineering</topic>
          <topic>Research</topic>
          <geographic>United States</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204310">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1204310">
          <geographic>Canada</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
          <geographic>United States</geographic>
       </subject>
       <location>

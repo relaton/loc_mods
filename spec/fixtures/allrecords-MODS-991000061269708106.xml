@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standard reference materials</title>
          <subTitle>SRM 900, antiepilepsy drug level assay standard</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97070874">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no97070874">
          <namePart>Christensen, Richard G. (Richard Glen)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97070874</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022000229">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022000229">
          <namePart>Coxon, Bruce.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022000229</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021033625">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021033625">
          <namePart>Howell, Barbara F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021033625</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no90017628">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no90017628">
          <namePart>Mandel, Johnny.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no90017628</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019187374">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019187374">
          <namePart>Paule, Robert C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2019187374</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81116505">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81116505">
          <namePart>Reeder, Dennis J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81116505</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88662487">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88662487">
          <namePart>Schaffer, Robert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88662487</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

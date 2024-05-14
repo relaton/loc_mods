@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Surface topography analysis for a feasibility assessment of a
                 national ballistics imaging database</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n82209311">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n82209311">
          <namePart>Vorburger, T. V. (Theodore V.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82209311</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82209311">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82209311">
          <namePart>Vorburger, T. V. (Theodore V.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82209311</nameIdentifier>
       </name>
@@ -22,7 +22,7 @@
       <name type="personal">
          <namePart>Renegar, T. B.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79086097">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79086097">
          <namePart>Filliben, James J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79086097</nameIdentifier>
       </name>
@@ -35,11 +35,11 @@
       <name type="personal">
          <namePart>Zheng, A.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2001019433">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2001019433">
          <namePart>Song, J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2001019433</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2002086270">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2002086270">
          <namePart>Riley, M. (Megan)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2002086270</nameIdentifier>
       </name>
@@ -49,7 +49,7 @@
       <name type="personal">
          <namePart>Ballou, S. M.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

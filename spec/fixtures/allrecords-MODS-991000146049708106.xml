@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Proceedings of the dynamic measurement and control for autonomous
@@ -11,22 +11,22 @@
       <name type="personal">
          <namePart>Hong, Tsai.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n92055903">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n92055903">
          <namePart>Eastman, Roger.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n92055903</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012091704">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012091704">
          <namePart>Bostelman, Roger.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012091704</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79074377">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79074377">
          <namePart>Huang, Huimin.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79074377</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>McNorris, Brian.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

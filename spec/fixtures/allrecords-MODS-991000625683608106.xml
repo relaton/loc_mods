@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Development of a silica-resin direct filling material</title>
@@ -60,11 +60,11 @@
       <subject authority="rvm">
          <topic>Obturations (Dentisterie)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst00890671">
+      <subject authority="fast" xlink:href="(OCoLC)fst00890671">
          <topic>Dentistry</topic>
          <topic>Research</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst00924235">
+      <subject authority="fast" xlink:href="(OCoLC)fst00924235">
          <topic>Fillings (Dentistry)</topic>
       </subject>
       <classification authority="lcc">QC100 .U843 no.6333 1958</classification>

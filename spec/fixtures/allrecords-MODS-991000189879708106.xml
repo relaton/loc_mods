@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>CYCLE_D: NIST vapor compression cycle design program, version 5.1.1,
                 user's guide</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83009859">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83009859">
          <namePart>Brown, J. S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83009859</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83009859">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83009859">
          <namePart>Brown, J. S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83009859</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Domanski, P.A.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n97003163">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n97003163">
          <namePart>Lemmon, Eric W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n97003163</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <namePart>Material Measurement Laboratory.</namePart>
@@ -68,22 +68,22 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85002610">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85002610">
          <topic>Air conditioning</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/802264">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/802264">
          <topic>Air conditioning</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85112274">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85112274">
          <topic>Refrigerants</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1092702">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1092702">
          <topic>Refrigerants</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85134783">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85134783">
          <topic>Thermodynamics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1149832">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1149832">
          <topic>Thermodynamics</topic>
       </subject>
       <subject>

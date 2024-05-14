@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Experimental study of the effects of fuel type, fuel distribution and
                 vent size on full-scale underventilated compartment fires in an ISO 9705 room
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79009781">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79009781">
          <namePart>Lock, Andrew.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79009781</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79009781">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79009781">
          <namePart>Lock, Andrew.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79009781</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021146338">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021146338">
          <namePart>Bundy, Matthew.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021146338</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022022789">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022022789">
          <namePart>Johnsson, Erik L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022022789</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87136328">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87136328">
          <namePart>Hamins, Anthony,</namePart>
          <namePart type="date">1956-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87136328</nameIdentifier>
@@ -36,12 +36,12 @@
       <name type="personal">
          <namePart>Fuss, Paul.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021110738">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021110738">
          <namePart>Harris, Richard H.,</namePart>
          <namePart type="termsOfAddress">Jr.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021110738</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

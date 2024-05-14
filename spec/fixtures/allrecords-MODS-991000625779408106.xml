@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>TIN techniques for data analysis and surface construction
@@ -52,7 +52,7 @@
       <subject authority="rvm">
          <topic>Structures de données (Informatique)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst00887978">
+      <subject authority="fast" xlink:href="(OCoLC)fst00887978">
          <topic>Data structures (Computer science)</topic>
       </subject>
       <classification authority="lcc">QC100 .U56 no.7078 2004</classification>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">A  </nonSort>
@@ -12,11 +12,11 @@
       <name type="personal">
          <namePart>Bassham III, L. E.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no95033570">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no95033570">
          <namePart>Rukhin, Andrew L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no95033570</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015108597">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015108597">
          <namePart>Soto, J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015108597</nameIdentifier>
       </name>
@@ -26,26 +26,26 @@
       <name type="personal">
          <namePart>Smid, M. E.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2015019673">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2015019673">
          <namePart>Barker, E. B.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nb2015019673</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Leigh, S. D.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no00068298">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no00068298">
          <namePart>Levenson, M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no00068298</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no99065401">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no99065401">
          <namePart>Vangel, Mark Geoffrey.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no99065401</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96052388">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n96052388">
          <namePart>Banks, David L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n96052388</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96018967">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n96018967">
          <namePart>Heckert, N. A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n96018967</nameIdentifier>
       </name>
@@ -55,7 +55,7 @@
       <name type="personal">
          <namePart>Vo, S.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Computer Security Division.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>

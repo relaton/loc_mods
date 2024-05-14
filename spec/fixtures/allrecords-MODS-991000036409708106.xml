@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">An  </nonSort>
          <title>improved method of modeling infiltration in commercial building
                 energy models</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022064506">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022064506">
          <namePart>Ng, Lisa C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022064506</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076634">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076634">
          <namePart>Emmerich, Steven J. (Steven John)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003076634</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098896">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098896">
          <namePart>Persily, Andrew K.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84098896</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -55,16 +55,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85028921">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85028921">
          <topic>Commercial buildings</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/869373">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/869373">
          <topic>Commercial buildings</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043124">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043124">
          <topic>Energy conservation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/909912">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/909912">
          <topic>Energy conservation</topic>
       </subject>
       <location>

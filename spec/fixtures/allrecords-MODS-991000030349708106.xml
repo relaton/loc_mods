@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST intercomparison exercise program for organic contaminants in the
@@ -7,22 +7,22 @@
          <subTitle>description and results of 2007 organic intercomparison exercises
 </subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2007089499">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2007089499">
          <namePart>Schantz, Michele M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2007089499</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007089499">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007089499">
          <namePart>Schantz, Michele M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2007089499</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no00010703">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no00010703">
          <namePart>Parris, Reenie M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no00010703</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Wise, Stephen A.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -58,106 +58,106 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
          <topic>Particles</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1054123">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1054123">
          <topic>Particles</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1054113">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1054113">
          <topic>Particles</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85002571">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85002571">
          <topic>Air</topic>
          <topic>Analysis</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/802067">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/802067">
          <topic>Air</topic>
          <topic>Analysis</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85023022">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85023022">
          <topic>Chemistry, Organic</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/853501">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/853501">
          <topic>Chemistry, Organic</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
          <topic>Polychlorinated biphenyls</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1070335">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1070335">
          <topic>Polychlorinated biphenyls</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1070326">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1070326">
          <topic>Polychlorinated biphenyls</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
          <topic>Polycyclic aromatic hydrocarbons</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1070389">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1070389">
          <topic>Polycyclic aromatic hydrocarbons</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1070383">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1070383">
          <topic>Polycyclic aromatic hydrocarbons</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
          <topic>Mollusks</topic>
          <topic>Effect of water pollution on</topic>
          <geographic>United States</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1024922">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1024922">
          <topic>Mollusks</topic>
          <topic>Effect of water pollution on</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1024905">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1024905">
          <topic>Mollusks</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006221">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006221">
          <topic>Marine sediments</topic>
          <topic>Analysis</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1009959">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1009959">
          <topic>Marine sediments</topic>
          <topic>Analysis</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1009957">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1009957">
          <topic>Marine sediments</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
          <topic>Marine pollution</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1009846">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1009846">
          <topic>Marine pollution</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1009826">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1009826">
          <topic>Marine pollution</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005674">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005674">
          <topic>Testing laboratories</topic>
          <geographic>United States</geographic>
          <topic>Evaluation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1148251">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1148251">
          <topic>Testing laboratories</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/916975">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/916975">
          <topic>Evaluation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009125047">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009125047">
          <topic>Environmental monitoring</topic>
          <geographic>United States</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/913214">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/913214">
          <topic>Environmental monitoring</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
          <geographic>United States</geographic>
       </subject>
       <location>

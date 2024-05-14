@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standards and measurements of ionizing radiations in the 20th century
@@ -9,11 +9,11 @@
       <name type="personal" usage="primary">
          <namePart>Coursey, Bert M.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1794-1918">
+      <name type="personal" xlink:href="(orcid)0000-0003-1794-1918">
          <namePart>Coursey, Bert M.</namePart>
          <nameIdentifier>(orcid)0000-0003-1794-1918</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0001-9111-7356">
+      <name type="personal" xlink:href="(orcid)0009-0001-9111-7356">
          <namePart>Martin, Keith R.</namePart>
          <nameIdentifier>(orcid)0009-0001-9111-7356</nameIdentifier>
       </name>

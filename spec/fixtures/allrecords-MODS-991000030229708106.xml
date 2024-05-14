@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Corrosion resistance of materials for renovation of the United States
                 Botanic Garden Conservatory</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85111868">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85111868">
          <namePart>Escalante, E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85111868</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85111868">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85111868">
          <namePart>Escalante, E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85111868</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr92033489">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr92033489">
          <namePart>Ricker, Richard E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr92033489</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -58,27 +58,27 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no93027818">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no93027818">
          <name type="corporate">
             <namePart>United States Botanic Garden.</namePart>
             <namePart>Conservatory.</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/690602">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/690602">
          <name type="corporate">
             <namePart>United States Botanic Garden.</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no93027818">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no93027818">
          <name type="corporate">
             <namePart>United States Botanic Garden</namePart>
          </name>
          <topic>Rennovation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85033054">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85033054">
          <topic>Corrosion resistant materials</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/880365">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/880365">
          <topic>Corrosion resistant materials</topic>
       </subject>
       <location>

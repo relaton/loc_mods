@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Report on meeting of ISO/TC 6/SC 5 testing methods and quality
                 specifications for pulp</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n86812888">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n86812888">
          <namePart>Wilson, William K. (William Kester),</namePart>
          <namePart type="date">1913-2003</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86812888</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86812888">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86812888">
          <namePart>Wilson, William K. (William Kester),</namePart>
          <namePart type="date">1913-2003</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86812888</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021075936">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021075936">
          <namePart>Schulz, John H.,</namePart>
          <namePart type="date">1934-2015</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021075936</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006133627">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006133627">
          <namePart>Brandon, C. E. (Clarence E.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2006133627</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Borstelmann, Joseph L.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

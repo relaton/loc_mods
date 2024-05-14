@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">A  </nonSort>
          <title>NIST testbed for examining the accuracy of smart meters under high
                 harmonic waveform loads</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79118368">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79118368">
          <namePart>Steiner, Richard.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79118368</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79118368">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79118368">
          <namePart>Steiner, Richard.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79118368</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2016015974">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2016015974">
          <namePart>Farrell, Michael.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2016015974</nameIdentifier>
       </name>
@@ -27,11 +27,11 @@
       <name type="personal">
          <namePart>Sarwat, Sumaiyah.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n98089569">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n98089569">
          <namePart>Nelson, Thomas.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n98089569</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2019028800">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2019028800">
          <namePart>Physical Measurement Laboratory (National Institute of Standards and
                 Technology (U.S.))</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2019028800</nameIdentifier>
@@ -81,16 +81,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2011003732">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2011003732">
          <topic>Smart power grids</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1792824">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1792824">
          <topic>Smart power grids</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85041921">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85041921">
          <topic>Electric power systems</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/905529">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/905529">
          <topic>Electric power systems</topic>
       </subject>
       <subject>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Chemical kinetics data survey vi</title>
@@ -12,12 +12,12 @@
       <name type="personal">
          <namePart>Hampson, R. F.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87833390">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87833390">
          <namePart>Garvin, David,</namePart>
          <namePart type="date">1923-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87833390</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80091764">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80091764">
          <namePart>Herron, J. T.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80091764</nameIdentifier>
       </name>
@@ -39,7 +39,7 @@
       <name type="personal">
          <namePart>Tsang, W.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Public safety mobile application security requirements workshop
                 summary</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2009051024">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2009051024">
          <namePart>Ogata, Michael.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2009051024</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2009051024">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2009051024">
          <namePart>Ogata, Michael.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2009051024</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n92114452">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n92114452">
          <namePart>Guttman, Barbara.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n92114452</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Hastings, Nelson.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>

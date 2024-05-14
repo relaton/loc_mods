@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>ATP eligibility criteria for U.S. subsidiaries of foreign-owned
@@ -12,7 +12,7 @@
       <name type="personal">
          <namePart>Chang, Connie K. N.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -48,61 +48,61 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no95010830">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no95010830">
          <name type="corporate">
             <namePart>National Institute of Standards and Technology (U.S.).</namePart>
             <namePart>Advanced Technology Program.</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/704832">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/704832">
          <name type="corporate">
             <namePart>National Institute of Standards and Technology (U.S.).</namePart>
             <namePart>Advanced Technology Program.</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
          <topic>Corporations, Foreign</topic>
          <topic>Government policy</topic>
          <geographic>United States</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/880039">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/880039">
          <topic>Corporations, Foreign</topic>
          <topic>Government policy</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/880032">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/880032">
          <topic>Corporations, Foreign</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
          <topic>Subsidiary corporations</topic>
          <topic>Government policy</topic>
          <geographic>United States</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1136728">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1136728">
          <topic>Subsidiary corporations</topic>
          <topic>Government policy</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1136722">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1136722">
          <topic>Subsidiary corporations</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n78095330-781">
          <topic>Foreign subsidiaries</topic>
          <topic>Government policy</topic>
          <geographic>United States</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/931886">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/931886">
          <topic>Foreign subsidiaries</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1353198">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1353198">
          <topic>Government policy</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008110735">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008110735">
          <topic>Research, Industrial</topic>
          <geographic>United States</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1095378">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1095378">
          <topic>Research, Industrial</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
          <geographic>United States</geographic>
       </subject>
       <location>

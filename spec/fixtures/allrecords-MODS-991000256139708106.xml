@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Dolphins in human care sampling protocol and Sample Entry Assistant
@@ -14,7 +14,7 @@
       <name type="personal">
          <namePart>Ragland, Jared M.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
          <namePart>Material Measurement Laboratory (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
       </name>
@@ -69,28 +69,28 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85009170">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85009170">
          <topic>Bottlenose dolphin</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/837027">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/837027">
          <topic>Bottlenose dolphin</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85014927">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85014927">
          <topic>Blood</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/834550">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/834550">
          <topic>Blood</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85085317">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85085317">
          <topic>Milk</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1021615">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1021615">
          <topic>Milk</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85044173">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85044173">
          <topic>Environmental health</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/912999">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/912999">
          <topic>Environmental health</topic>
       </subject>
       <subject>

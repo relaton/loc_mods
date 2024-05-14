@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Trace hydrocarbon analysis</title>
          <subTitle>the National Bureau of Standards Prince William Sound</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n78076693">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n78076693">
          <namePart>Chesler, Stephen N.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n78076693</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n78076693">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n78076693">
          <namePart>Chesler, Stephen N.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n78076693</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -50,39 +50,39 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85136388">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85136388">
          <topic>Trace elements</topic>
          <topic>Analysis</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1153532">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1153532">
          <topic>Trace elements</topic>
          <topic>Analysis</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85106720-781">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85106720-781">
          <topic>Water</topic>
          <topic>Pollution</topic>
          <geographic>Alaska</geographic>
          <geographic>Prince William Sound</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1171279">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1171279">
          <topic>Water</topic>
          <topic>Pollution</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85003160-781">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85003160-781">
          <topic>Water</topic>
          <topic>Pollution</topic>
          <geographic>Alaska</geographic>
          <geographic>Alaska, Gulf of</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008122167">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008122167">
          <topic>Hydrocarbons</topic>
          <topic>Analysis</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/964829">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/964829">
          <topic>Hydrocarbons</topic>
          <topic>Analysis</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204480">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1204480">
          <geographic>Alaska</geographic>
       </subject>
       <location>

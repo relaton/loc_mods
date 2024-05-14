@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>On the solution of the Caterer problem</title>
@@ -10,7 +10,7 @@
       <name type="personal">
          <namePart>Gaddum, J. W.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n78042498">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n78042498">
          <namePart>Hoffman, A. J. (Alan Jerome),</namePart>
          <namePart type="date">1924-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n78042498</nameIdentifier>
@@ -18,7 +18,7 @@
       <name type="personal">
          <namePart>Sokolowsky, D.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -58,7 +58,7 @@
       <location>
          <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.RPT.2971</url>
       </location>
-      <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="series" xlink:href="https://id.loc.gov/authorities/names/no2008092611">
+      <relatedItem type="series" xlink:href="https://id.loc.gov/authorities/names/no2008092611">
          <titleInfo>
             <title>NBS report</title>
             <partNumber>2971</partNumber>

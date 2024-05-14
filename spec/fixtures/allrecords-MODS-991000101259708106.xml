@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Graffiti-resistant coatings</title>
          <subTitle>methods of test and preliminary selection criteria</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021007140">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021007140">
          <namePart>Godette, McClure.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021007140</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021007140">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021007140">
          <namePart>Godette, McClure.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021007140</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021049061">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021049061">
          <namePart>Post, Matthew.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021049061</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n92009697">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n92009697">
          <namePart>Campbell, P. G. (Peter G.),</namePart>
          <namePart type="date">1950-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n92009697</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

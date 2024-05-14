@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Building for Environmental and Economic Sustainability (BEES) Online
                 2.1 technical manual</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015145270">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015145270">
          <namePart>Kneifel, Joshua.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015145270</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015145270">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015145270">
          <namePart>Kneifel, Joshua.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015145270</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113180">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113180">
          <namePart>Lavappa, Priya.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021113180</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021116837">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021116837">
          <namePart>Polidoro, Brian.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021116837</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022021989">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022021989">
          <namePart>Greig, Anne Landfield.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022021989</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -77,43 +77,43 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017769">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017769">
          <topic>Buildings</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840962">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/840962">
          <topic>Buildings</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040850">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040850">
          <topic>Economics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/902116">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/902116">
          <topic>Economics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93000430">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93000430">
          <topic>Life cycle costing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/998247">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/998247">
          <topic>Life cycle costing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040193">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040193">
          <topic>Dwellings</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/899978">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/899978">
          <topic>Dwellings</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85028921">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85028921">
          <topic>Commercial buildings</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/869373">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/869373">
          <topic>Commercial buildings</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009000375">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009000375">
          <topic>Sustainability</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003001382">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003001382">
          <topic>Sustainable buildings</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1139729">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1139729">
          <topic>Sustainable buildings</topic>
       </subject>
       <subject>

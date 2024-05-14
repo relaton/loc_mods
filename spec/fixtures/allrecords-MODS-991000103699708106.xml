@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Truck Noise 1-D</title>
          <subTitle>empirical model for predicting in-service truck tire noise levels
 </subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n82049082">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n82049082">
          <namePart>Kilmer, R. D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82049082</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82049082">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82049082">
          <namePart>Kilmer, R. D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82049082</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Leasure, W. A., Jr.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021030521">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021030521">
          <namePart>Corley, Daniel M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021030521</nameIdentifier>
       </name>
@@ -27,7 +27,7 @@
       <name type="personal">
          <namePart>Shoemaker, C. O., Jr.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

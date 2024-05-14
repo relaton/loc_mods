@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>BioCTS 2012</title>
          <subTitle>advanced conformance test architectures and test suites for biometric
                 data interchange formats and biometric information records</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n92081962">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n92081962">
          <namePart>Podio, Fernando L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n92081962</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141697">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141697">
          <namePart>Yaga, Dylan.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2011141697</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021043974">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021043974">
          <namePart>McGinnis, Christofer J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021043974</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -52,34 +52,34 @@
       <note>"September 2012."</note>
       <note>GMD: electronic resource.</note>
       <note type="bibliography">Includes bibliographical references (page 27).</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007508">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007508">
          <topic>Biometric identification</topic>
          <topic>Computer programs</topic>
          <topic>Standards</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
          <topic>Biometric identification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872410">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872410">
          <topic>Computer programs</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005487">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005487">
          <topic>Biometric identification</topic>
          <topic>Data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832608">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/832608">
          <topic>Biometric identification</topic>
          <topic>Data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007508">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007508">
          <topic>Internetworking (Telecommunication)</topic>
          <topic>Standards</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/977307">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/977307">
          <topic>Internetworking (Telecommunication)</topic>
          <topic>Standards</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/977304">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/977304">
          <topic>Internetworking (Telecommunication)</topic>
       </subject>
       <location>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Retrofitting a residence for solar heating and cooling</title>
          <subTitle>the design and construction of the system</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79055325">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79055325">
          <namePart>Hill, James E.,</namePart>
          <namePart type="date">1942-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79055325</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79055325">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79055325">
          <namePart>Hill, James E.,</namePart>
          <namePart type="date">1942-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79055325</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -52,43 +52,43 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040195">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040195">
          <topic>Dwellings</topic>
          <topic>Air conditioning</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/899982">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/899982">
          <topic>Dwellings</topic>
          <topic>Air conditioning</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040203">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040203">
          <topic>Dwellings</topic>
          <topic>Heating and ventilation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/900075">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/900075">
          <topic>Dwellings</topic>
          <topic>Heating and ventilation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85124485">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85124485">
          <topic>Solar air conditioning</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1124899">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1124899">
          <topic>Solar air conditioning</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005648">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005648">
          <topic>Solar houses</topic>
          <topic>Testing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1125129">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1125129">
          <topic>Solar houses</topic>
          <topic>Testing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1125112">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1125112">
          <topic>Solar houses</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85124517">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85124517">
          <topic>Solar heating</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1125079">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1125079">
          <topic>Solar heating</topic>
       </subject>
       <location>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Public safety communications research division impact
                 report</title>
          <subTitle>fiscal years 2017 - 2019</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015103431">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015103431">
          <namePart>Glenn, Jeremy.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015103431</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015103431">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015103431">
          <namePart>Glenn, Jeremy.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015103431</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2008012518">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2008012518">
          <namePart>Shaw, Isabel.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nb2008012518</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022047038">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022047038">
          <namePart>Leh, Marc.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022047038</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Communications Technology Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
@@ -77,22 +77,22 @@
       <subject authority="lcsh">
          <topic>Communications</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007008878">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007008878">
          <topic>First responders</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1744217">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1744217">
          <topic>First responders</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85064599">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85064599">
          <topic>Impact</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/968053">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/968053">
          <topic>Impact</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008002399">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008002399">
          <topic>Public safety</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
          <topic>Public safety</topic>
       </subject>
       <subject>

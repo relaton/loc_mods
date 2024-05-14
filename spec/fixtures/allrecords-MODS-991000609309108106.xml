@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Specifications, tolerances, and other technical requirements for
@@ -8,39 +8,39 @@
       <name type="personal" usage="primary">
          <namePart>Butcher, Tina G.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2711-9442">
+      <name type="personal" xlink:href="(orcid)0000-0003-2711-9442">
          <namePart>Butcher, Tina G.</namePart>
          <nameIdentifier>(orcid)0000-0003-2711-9442</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9171-5906">
+      <name type="personal" xlink:href="(orcid)0000-0001-9171-5906">
          <namePart>Harshman, Richard A.</namePart>
          <nameIdentifier>(orcid)0000-0001-9171-5906</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2592-873X">
+      <name type="personal" xlink:href="(orcid)0000-0003-2592-873X">
          <namePart>Konijnenburg, Jan</namePart>
          <nameIdentifier>(orcid)0000-0003-2592-873X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8005-0758">
+      <name type="personal" xlink:href="(orcid)0000-0002-8005-0758">
          <namePart>Lee, G. Diane</namePart>
          <nameIdentifier>(orcid)0000-0002-8005-0758</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4807-9005">
+      <name type="personal" xlink:href="(orcid)0000-0003-4807-9005">
          <namePart>Williams, Juana S.</namePart>
          <nameIdentifier>(orcid)0000-0003-4807-9005</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0576-8572">
+      <name type="personal" xlink:href="(orcid)0000-0003-0576-8572">
          <namePart>Warfield, Lisa</namePart>
          <nameIdentifier>(orcid)0000-0003-0576-8572</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2751-7881">
+      <name type="personal" xlink:href="(orcid)0000-0002-2751-7881">
          <namePart>Benham, Elizabeth J.</namePart>
          <nameIdentifier>(orcid)0000-0002-2751-7881</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1902-362X">
+      <name type="personal" xlink:href="(orcid)0000-0002-1902-362X">
          <namePart>Bowers, Shelby L.</namePart>
          <nameIdentifier>(orcid)0000-0002-1902-362X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8651-8326">
+      <name type="personal" xlink:href="(orcid)0000-0001-8651-8326">
          <namePart>Lippa, Katrice A.</namePart>
          <nameIdentifier>(orcid)0000-0001-8651-8326</nameIdentifier>
       </name>

@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standard reference materials</title>
          <subTitle>the measurement of the catalytic (activity) concentration of seven
                 enzymes in NBS human serum SRM 909</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84167497">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84167497">
          <namePart>Alvarez, Robert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84167497</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87107983">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87107983">
          <namePart>Eberhardt, Keith R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87107983</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002025">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002025">
          <namePart>Elser, Robert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022002025</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002901">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002901">
          <namePart>Ewen, Lilian M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022002901</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79011230">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79011230">
          <namePart>McComb, Robert B.,</namePart>
          <namePart type="date">1926-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79011230</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81116505">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81116505">
          <namePart>Reeder, Dennis J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81116505</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022076003">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022076003">
          <namePart>Rej, Robert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022076003</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n78052299">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n78052299">
          <namePart>Shaw, Leslie M.,</namePart>
          <namePart type="date">1941-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n78052299</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022070326">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022070326">
          <namePart>Uriano, G. A. (George A.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022070326</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Bowers, Jr., George N.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88662487">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88662487">
          <namePart>Schaffer, Robert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88662487</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

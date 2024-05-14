@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Humanized monoclonal antibody IgG1k, NISTmAb RM 8671 summary of 5
@@ -8,39 +8,39 @@
       <name type="personal" usage="primary">
          <namePart>Yandrofski, Katharina</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0570-8011">
+      <name type="personal" xlink:href="(orcid)0000-0002-0570-8011">
          <namePart>Yandrofski, Katharina.</namePart>
          <nameIdentifier>(orcid)0000-0002-0570-8011</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5353-3343">
+      <name type="personal" xlink:href="(orcid)0000-0001-5353-3343">
          <namePart>Schiel, John E.</namePart>
          <nameIdentifier>(orcid)0000-0001-5353-3343</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6790-830X">
+      <name type="personal" xlink:href="(orcid)0000-0002-6790-830X">
          <namePart>Mouchahoir, Trina.</namePart>
          <nameIdentifier>(orcid)0000-0002-6790-830X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4687-6123">
+      <name type="personal" xlink:href="(orcid)0000-0003-4687-6123">
          <namePart>Telikepalli, Srivalli.</namePart>
          <nameIdentifier>(orcid)0000-0003-4687-6123</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6413-1339">
+      <name type="personal" xlink:href="(orcid)0000-0002-6413-1339">
          <namePart>Ripple, Dean C.</namePart>
          <nameIdentifier>(orcid)0000-0002-6413-1339</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7540-5860">
+      <name type="personal" xlink:href="(orcid)0000-0001-7540-5860">
          <namePart>Phinney, Karen W.</namePart>
          <nameIdentifier>(orcid)0000-0001-7540-5860</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6860-5853">
+      <name type="personal" xlink:href="(orcid)0000-0002-6860-5853">
          <namePart>Marino, John P.</namePart>
          <nameIdentifier>(orcid)0000-0002-6860-5853</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1406-633X">
+      <name type="personal" xlink:href="(orcid)0000-0002-1406-633X">
          <namePart>DeRose, Paul C.</namePart>
          <nameIdentifier>(orcid)0000-0002-1406-633X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8430-6757">
+      <name type="personal" xlink:href="(orcid)0000-0002-8430-6757">
          <namePart>Heckert, N. Alan.</namePart>
          <nameIdentifier>(orcid)0000-0002-8430-6757</nameIdentifier>
       </name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">A  </nonSort>
@@ -12,31 +12,31 @@
       <name type="personal">
          <namePart>Ball, Charles B.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85363594">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85363594">
          <namePart>Bassett, Edward M. (Edward Murray),</namePart>
          <namePart type="date">1863-1948</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85363594</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no90016319">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no90016319">
          <namePart>Bettman, Alfred,</namePart>
          <namePart type="date">1873-1945</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no90016319</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020066673">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020066673">
          <namePart>Hiett, Irving B.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020066673</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr92034145">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr92034145">
          <namePart>Ihlder, John,</namePart>
          <namePart type="date">1876-1958</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr92034145</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no00032899">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no00032899">
          <namePart>Knowles, Morris,</namePart>
          <namePart type="date">1869-1932</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no00032899</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82164062">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82164062">
          <namePart>McFarland, J. Horace (John Horace),</namePart>
          <namePart type="date">1859-1948</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82164062</nameIdentifier>
@@ -44,17 +44,17 @@
       <name type="personal">
          <namePart>Olmstead, Frederick Law.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr90006428">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr90006428">
          <namePart>Veiller, Lawrence,</namePart>
          <namePart type="date">1872-1959</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr90006428</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91072306">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n91072306">
          <namePart>Gries, John M. (John Matthew),</namePart>
          <namePart type="date">1877-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n91072306</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

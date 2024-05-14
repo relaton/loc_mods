@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Disaster resilence workshop</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022059387">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022059387">
          <namePart>Mizzen, David R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022059387</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022059387">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022059387">
          <namePart>Mizzen, David R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022059387</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Vickery, Peter J.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -51,12 +51,12 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2010052470">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2010052470">
          <titleInfo>
             <title>Community, environment and disaster risk management</title>
          </titleInfo>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n86707308">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n86707308">
          <titleInfo>
             <title>Disaster response and recovery</title>
          </titleInfo>
@@ -64,7 +64,7 @@
       <location>
          <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NIST.GCR.14-977</url>
       </location>
-      <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="series" xlink:href="https://id.loc.gov/authorities/names/no93019330">
+      <relatedItem type="series" xlink:href="https://id.loc.gov/authorities/names/no93019330">
          <titleInfo>
             <title>NIST GCR</title>
             <partNumber>14-977</partNumber>

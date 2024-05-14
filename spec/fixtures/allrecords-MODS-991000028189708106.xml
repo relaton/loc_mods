@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Model based enterprise / technical data package</title>
          <subTitle>summit report</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113187">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113187">
          <namePart>Lubell, Joshua.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021113187</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Chen, Kenway.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020102859">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020102859">
          <namePart>Horst, John.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020102859</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021110725">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021110725">
          <namePart>Frechette, Simon.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021110725</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015041998">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015041998">
          <namePart>Huang, Paul,</namePart>
          <namePart type="date">1990-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015041998</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -69,16 +69,16 @@
       <note>August 2012</note>
       <note>CODEN: NTNOEF</note>
       <note type="bibliography">Includes bibliographical references pages 28-29.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85107216">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85107216">
          <topic>Production management</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1078309">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1078309">
          <topic>Production management</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85080664">
          <topic>Manufacturing processes</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1008139">
          <topic>Manufacturing processes</topic>
       </subject>
       <location>

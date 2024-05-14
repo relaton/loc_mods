@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Unified telerobotic architecture project (UTAP) standard interface
                 environment (SIE)</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no89012238">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no89012238">
          <namePart>Lumia, Ronald.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no89012238</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no89012238">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no89012238">
          <namePart>Lumia, Ronald.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no89012238</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Michaloski, John.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85828023">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85828023">
          <namePart>Russell, Robert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85828023</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87819409">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87819409">
          <namePart>Wheatley, Thomas.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87819409</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Backes, Paul.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91051854">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n91051854">
          <namePart>Lee, Sukhan.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n91051854</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87859781">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87859781">
          <namePart>Steele, Robert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87859781</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

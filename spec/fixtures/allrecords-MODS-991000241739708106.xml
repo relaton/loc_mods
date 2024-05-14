@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Summary and results of the NIST Workshop on Proposed Guidelines for
@@ -12,7 +12,7 @@
       <name type="personal">
          <namePart>Shenton, Harry W. III.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -48,32 +48,32 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001964">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001964">
          <topic>Seismic waves</topic>
          <topic>Damping</topic>
          <topic>Congresses</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1111288">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1111288">
          <topic>Seismic waves</topic>
          <topic>Damping</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/875219">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/875219">
          <topic>Congresses and conventions</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007102219">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007102219">
          <topic>Buildings</topic>
          <topic>Earthquake effects</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/841003">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/841003">
          <topic>Buildings</topic>
          <topic>Earthquake effects</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008118540">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008118540">
          <topic>Earthquake resistant design</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/900877">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/900877">
          <topic>Earthquake resistant design</topic>
       </subject>
       <location>

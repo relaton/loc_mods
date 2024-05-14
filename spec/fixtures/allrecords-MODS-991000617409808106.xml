@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>De-identifying government datasets</title>
@@ -8,23 +8,23 @@
       <name type="personal" usage="primary">
          <namePart>Garfnkel, Simson.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1294-2831">
+      <name type="personal" xlink:href="(orcid)0000-0003-1294-2831">
          <namePart>Garfinkel, Simson.</namePart>
          <nameIdentifier>(orcid)0000-0003-1294-2831</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3203-3742">
+      <name type="personal" xlink:href="(orcid)0000-0002-3203-3742">
          <namePart>Near, Joseph.</namePart>
          <nameIdentifier>(orcid)0000-0002-3203-3742</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0361-5409">
+      <name type="personal" xlink:href="(orcid)0000-0003-0361-5409">
          <namePart>Dajani, Aref.</namePart>
          <nameIdentifier>(orcid)0000-0003-0361-5409</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8885-7273">
+      <name type="personal" xlink:href="(orcid)0000-0002-8885-7273">
          <namePart>Singer, Phyllis.</namePart>
          <nameIdentifier>(orcid)0000-0002-8885-7273</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9706-389X">
+      <name type="personal" xlink:href="(orcid)0000-0001-9706-389X">
          <namePart>Guttman, Barbara.</namePart>
          <nameIdentifier>(orcid)0000-0001-9706-389X</nameIdentifier>
       </name>

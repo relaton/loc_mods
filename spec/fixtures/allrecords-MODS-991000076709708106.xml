@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Minimum live loads allowable for use in design of buildings
 </title>
          <subTitle>report of building code committee November 1, 1925</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n91116602">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n91116602">
          <namePart>Woolson, Ira H. (Ira Harvey),</namePart>
          <namePart type="date">1856-1927</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n91116602</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91116602">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n91116602">
          <namePart>Woolson, Ira H. (Ira Harvey),</namePart>
          <namePart type="date">1856-1927</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n91116602</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n78003877">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n78003877">
          <namePart>Brown, Edwin H.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n78003877</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021136700">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021136700">
          <namePart>Miller, Rudolph P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021136700</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no90005264">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no90005264">
          <namePart>Hatt, William Kendrick.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no90005264</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008044456">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2008044456">
          <namePart>Newlin, J. A. (John A.),</namePart>
          <namePart type="date">1872-1943</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2008044456</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87890932">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87890932">
          <namePart>Kahn, Albert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87890932</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021136701">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021136701">
          <namePart>Worcester, Joseph R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021136701</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020066469">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020066469">
          <namePart>Cartwright, Frank P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020066469</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91072306">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n91072306">
          <namePart>Gries, John M. (John Matthew),</namePart>
          <namePart type="date">1877-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n91072306</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

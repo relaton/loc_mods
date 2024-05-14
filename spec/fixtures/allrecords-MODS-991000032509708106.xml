@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Forensic science laboratories</title>
@@ -12,15 +12,15 @@
       <name type="personal">
          <namePart>Aguilar, James.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb99154281">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nb99154281">
          <namePart>Barnes, Tom.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nb99154281</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85336382">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85336382">
          <namePart>Browne, Joseph.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85336382</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91024161">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n91024161">
          <namePart>Kennedy, Alison.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n91024161</nameIdentifier>
       </name>
@@ -33,7 +33,7 @@
       <name type="personal">
          <namePart>Burney, Yvette.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no98038038">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no98038038">
          <namePart>Byrd, John.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no98038038</nameIdentifier>
       </name>
@@ -64,7 +64,7 @@
       <name type="personal">
          <namePart>Leben, Deborah.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009093673">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009093673">
          <namePart>Matheson, Greg.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2009093673</nameIdentifier>
       </name>
@@ -74,14 +74,14 @@
       <name type="personal">
          <namePart>Smither, Jennifer.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012050127">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012050127">
          <namePart>Taylor, Melissa.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012050127</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Watts, Aliece.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Law Enforcement Standards Office, Office of Special
                 Programs.</namePart>
@@ -123,10 +123,10 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034009">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034009">
          <topic>Crime laboratories</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/883047">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/883047">
          <topic>Crime laboratories</topic>
       </subject>
       <subject authority="lcsh">

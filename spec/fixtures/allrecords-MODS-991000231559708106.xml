@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Situational awareness for electric utilities</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n92118514">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n92118514">
          <namePart>McCarthy, Jim.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n92118514</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n92118514">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n92118514">
          <namePart>McCarthy, Jim.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n92118514</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Alexander, Otis.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n95034876">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n95034876">
          <namePart>Crouse, Sarah Edwards,</namePart>
          <namePart type="date">approximately 1780-approximately 1860</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n95034876</nameIdentifier>
@@ -26,11 +26,11 @@
       <name type="personal">
          <namePart>Peloquin, Chris.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2001014962">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2001014962">
          <namePart>Symington, Susan.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr2001014962</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb98030333">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nb98030333">
          <namePart>Thibault, André.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nb98030333</nameIdentifier>
       </name>
@@ -40,7 +40,7 @@
       <name type="personal">
          <namePart>Viani, Karen.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
@@ -104,25 +104,25 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
          <topic>Computer security</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
          <topic>Computer security</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043141">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85043141">
          <topic>Energy industries</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/910110">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/910110">
          <topic>Energy industries</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh87002293">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh87002293">
          <topic>Information technology</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007007736">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007007736">
          <topic>Situational awareness</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1743826">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1743826">
          <topic>Situational awareness</topic>
       </subject>
       <subject>

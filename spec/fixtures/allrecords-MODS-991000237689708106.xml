@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Fire-plume-generated ceiling jet characteristics and convective heat
@@ -7,15 +7,15 @@
                 environment</title>
          <subTitle>uniform temperature ceiling and walls</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83170952">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83170952">
          <namePart>Cooper, Leonard Y.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83170952</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83170952">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83170952">
          <namePart>Cooper, Leonard Y.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83170952</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -54,19 +54,19 @@
       <subject authority="lcsh">
          <topic>CEILHT (Computer file)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002007921">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002007921">
          <topic>Nuclear reactors</topic>
          <topic>Fires and fire prevention</topic>
          <topic>Mathematical models</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1040799">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1040799">
          <topic>Nuclear reactors</topic>
          <topic>Fires and fire prevention</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1012085">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1012085">
          <topic>Mathematical models</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1040734">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1040734">
          <topic>Nuclear reactors</topic>
       </subject>
       <location>

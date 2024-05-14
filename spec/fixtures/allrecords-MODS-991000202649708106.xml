@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Research needs to support immediate occupancy building performance
@@ -11,11 +11,11 @@
       <name type="personal">
          <namePart>Sattar, Siamak.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002021681">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002021681">
          <namePart>McAllister, Therese.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr2002021681</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85322039">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85322039">
          <namePart>Johnson, Katherine.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85322039</nameIdentifier>
       </name>
@@ -25,14 +25,14 @@
       <name type="personal">
          <namePart>Segura, Christopher.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no98130261">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no98130261">
          <namePart>McCabe, Steven.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no98130261</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Fung, Juan.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003096723">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003096723">
          <namePart>Abrahams, Leslie.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003096723</nameIdentifier>
       </name>
@@ -42,15 +42,15 @@
       <name type="personal">
          <namePart>Levitan, Marc.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85801363">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85801363">
          <namePart>Harrison, Kenneth.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85801363</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82002023">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82002023">
          <namePart>Harris, John.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82002023</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -133,10 +133,10 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017693">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017693">
          <topic>Building</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840551">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/840551">
          <topic>Building</topic>
       </subject>
       <subject>

@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Report of experimental results for the international fire model
                 benchmarking and validation exercise #3</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87136328">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87136328">
          <namePart>Hamins, Anthony,</namePart>
          <namePart type="date">1956-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87136328</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139790">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139790">
          <namePart>Maranghides, Alexander.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021139790</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022022789">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022022789">
          <namePart>Johnsson, Erik L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022022789</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139801">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139801">
          <namePart>Donnelly, Michelle.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021139801</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2010118971">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2010118971">
          <namePart>Yang, Jiann C. (Jiann Chyuan)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2010118971</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85389470">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85389470">
          <namePart>Mulholland, G. W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85389470</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139786">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139786">
          <namePart>Anleitner, Robert L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021139786</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2003102449">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2003102449">
          <namePart>Building and Fire Research Laboratory (U.S.).</namePart>
          <namePart>Fire Research Division.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003102449</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n2007091335">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n2007091335">
          <namePart>U.S. Nuclear Regulatory Commission.</namePart>
          <namePart>Division of Risk Assessment and Special Projects.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2007091335</nameIdentifier>
@@ -85,15 +85,15 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005300">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005300">
          <topic>Fire</topic>
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925176">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925176">
          <topic>Fire</topic>
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925173">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925173">
          <topic>Fire</topic>
       </subject>
       <location>

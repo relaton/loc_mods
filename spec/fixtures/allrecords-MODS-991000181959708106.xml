@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Validation for downstream computer aided manufacturing and coordinate
                 metrology processes</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022002972">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022002972">
          <namePart>Barnard Feeney, Allison.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022002972</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002972">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002972">
          <namePart>Barnard Feeney, Allison.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022002972</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022027368">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022027368">
          <namePart>Hedberg, Thomas,</namePart>
          <namePart type="termsOfAddress">Jr.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022027368</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>

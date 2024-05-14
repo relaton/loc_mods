@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST micronutrients measurement quality assurance program: spring and
@@ -12,22 +12,22 @@
       <name type="personal">
          <namePart>Craft, Neal E.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
          <namePart>Duewer, David L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2019178574</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020100705">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020100705">
          <namePart>Kline, Margaret C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020100705</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019187374">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019187374">
          <namePart>Paule, Robert C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2019187374</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Ruegg, Fillmer C.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88662487">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88662487">
          <namePart>Schaffer, Robert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88662487</nameIdentifier>
       </name>
@@ -37,7 +37,7 @@
       <name type="personal">
          <namePart>Thomas, Jeanice B.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
          <namePart>Material Measurement Laboratory (U.S.).</namePart>
          <namePart>Information Technology Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
@@ -85,16 +85,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85143952">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85143952">
          <topic>Vitamin A</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1168150">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1168150">
          <topic>Vitamin A</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85109438">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85109438">
          <topic>Quality assurance</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1084943">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1084943">
          <topic>Quality assurance</topic>
       </subject>
       <subject>

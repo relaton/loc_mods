@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Fracture testing of large-scale thin-sheet aluminum alloy</title>
@@ -10,7 +10,7 @@
       <name type="personal">
          <namePart>deWit, Roland.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88012961">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88012961">
          <namePart>Fields, Richard J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88012961</nameIdentifier>
       </name>
@@ -20,11 +20,11 @@
       <name type="personal">
          <namePart>Harne, Donald E.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2008045243">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2008045243">
          <namePart>Foecke, Tim.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2008045243</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -61,46 +61,46 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005648">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005648">
          <topic>Airplanes</topic>
          <topic>Fuselage</topic>
          <topic>Testing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/803226">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/803226">
          <topic>Airplanes</topic>
          <topic>Fuselage</topic>
          <topic>Testing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/803220">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/803220">
          <topic>Airplanes</topic>
          <topic>Fuselage</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85002772">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85002772">
          <topic>Airframes</topic>
          <topic>Fatigue</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/802916">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/802916">
          <topic>Airframes</topic>
          <topic>Fatigue</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005648">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005648">
          <topic>Airplanes</topic>
          <topic>Materials</topic>
          <topic>Testing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/803297">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/803297">
          <topic>Airplanes</topic>
          <topic>Materials</topic>
          <topic>Testing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/803290">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/803290">
          <topic>Airplanes</topic>
          <topic>Materials</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85004001">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85004001">
          <topic>Aluminum construction</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/806360">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/806360">
          <topic>Aluminum construction</topic>
       </subject>
       <location>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standard reference materials</title>
          <subTitle>polystyrene films for calibrating the wavelength scale of infrared
                 spectrophotometers - SRM 1921</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n94100713">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n94100713">
          <namePart>Datla, Raju Umapathi.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n94100713</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82136978">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82136978">
          <namePart>Hsia, J. J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82136978</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84034243">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84034243">
          <namePart>Wang, Lan.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84034243</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96068280">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n96068280">
          <namePart>Gupta, Devinder.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n96068280</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

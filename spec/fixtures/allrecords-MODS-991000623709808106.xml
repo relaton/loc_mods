@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Certification of standard reference material® 2386 avocado powder
@@ -8,18 +8,18 @@
       <name type="personal" usage="primary">
          <namePart>Phillips, Melissa M..</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0477-7637">
+      <name type="personal" xlink:href="(orcid)0000-0003-0477-7637">
          <namePart>Phillips, Melissa M.</namePart>
          <nameIdentifier>(orcid)0000-0003-0477-7637</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4294-7636">
+      <name type="personal" xlink:href="(orcid)0000-0002-4294-7636">
          <namePart>Wood, Laura</namePart>
          <nameIdentifier>(orcid)0000-0002-4294-7636</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Browning, Joseph..</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9486-7056">
+      <name type="personal" xlink:href="(orcid)0000-0002-9486-7056">
          <namePart>Caceres, George</namePart>
          <nameIdentifier>(orcid)0000-0002-9486-7056</nameIdentifier>
       </name>
@@ -32,26 +32,26 @@
       <name type="personal">
          <namePart>Lee, Abigail.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4115-6231">
+      <name type="personal" xlink:href="(orcid)0000-0003-4115-6231">
          <namePart>Murphy, Karen</namePart>
          <nameIdentifier>(orcid)0000-0003-4115-6231</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Oflaz, Rabia.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6366-1901">
+      <name type="personal" xlink:href="(orcid)0000-0002-6366-1901">
          <namePart>Paul, Rick L .</namePart>
          <nameIdentifier>(orcid)0000-0002-6366-1901</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0953-5215">
+      <name type="personal" xlink:href="(orcid)0000-0003-0953-5215">
          <namePart>Place, Benjamin</namePart>
          <nameIdentifier>(orcid)0000-0003-0953-5215</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8759-454X">
+      <name type="personal" xlink:href="(orcid)0000-0001-8759-454X">
          <namePart>Brown Thomas, Jeanice</namePart>
          <nameIdentifier>(orcid)0000-0001-8759-454X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5242-7629">
+      <name type="personal" xlink:href="(orcid)0000-0001-5242-7629">
          <namePart>Yen, James H.</namePart>
          <nameIdentifier>(orcid)0000-0001-5242-7629</nameIdentifier>
       </name>

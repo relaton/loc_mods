@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Technical evaluation, testing, and validatiaon of the usability of
@@ -7,11 +7,11 @@
          <subTitle>empirically based use cases for validating safety-enhanced usability
                 and guidelines for standardization</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020085953">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020085953">
          <namePart>Lowry, Svetlana Z.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020085953</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085953">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085953">
          <namePart>Lowry, Svetlana Z.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020085953</nameIdentifier>
       </name>
@@ -21,20 +21,20 @@
       <name type="personal">
          <namePart>Taylor, Sheryl.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2010005162">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2010005162">
          <namePart>Patterson, Emily S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2010005162</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2005072199">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2005072199">
          <namePart>Prettyman, Sandra Spickard,</namePart>
          <namePart type="date">1957-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2005072199</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009093489">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009093489">
          <namePart>Simmons, Debora.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2009093489</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2006018513">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2006018513">
          <namePart>Brick, David.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr2006018513</nameIdentifier>
       </name>
@@ -44,7 +44,7 @@
       <name type="personal">
          <namePart>Gibbons, Michael C.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
@@ -106,11 +106,11 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85083013">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85083013">
          <topic>Medical records</topic>
          <topic>Data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1014552">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1014552">
          <topic>Medical records</topic>
          <topic>Data processing</topic>
       </subject>

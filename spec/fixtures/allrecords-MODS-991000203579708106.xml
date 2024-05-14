@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Status report on the first round of the NIST post-quantum
@@ -17,7 +17,7 @@
       <name type="personal">
          <namePart>Apon, Daniel.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n77001780">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n77001780">
          <namePart>Cooper, David.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n77001780</nameIdentifier>
       </name>
@@ -27,30 +27,30 @@
       <name type="personal">
          <namePart>Liu, Yi-Kai.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1917-1531">
+      <name type="personal" xlink:href="(orcid)0000-0003-1917-1531">
          <namePart>Miller, Carl.</namePart>
          <nameIdentifier>(orcid)0000-0003-1917-1531</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4868-6684">
+      <name type="personal" xlink:href="(orcid)0000-0002-4868-6684">
          <namePart>Moody, Dustin,</namePart>
          <namePart type="date">1979-</namePart>
          <nameIdentifier>(orcid)0000-0002-4868-6684</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2318-7563">
+      <name type="personal" xlink:href="(orcid)0000-0002-2318-7563">
          <namePart>Peralta, René.</namePart>
          <nameIdentifier>(orcid)0000-0002-2318-7563</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Perlner, Ray.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n91052212">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n91052212">
          <namePart>Robinson, Angela.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n91052212</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Smith-Tone, Daniel.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
@@ -114,22 +114,22 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034453">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85034453">
          <topic>Cryptography</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/884552">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/884552">
          <topic>Cryptography</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007219">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007219">
          <topic>Digital signatures</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/893725">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/893725">
          <topic>Digital signatures</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00004804">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00004804">
          <topic>Public key cryptography</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1082562">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1082562">
          <topic>Public key cryptography</topic>
       </subject>
       <subject>

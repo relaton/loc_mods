@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Cost analysis of inadequate interoperability in the U.S. capital
                 facilities industry</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2004022282">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2004022282">
          <namePart>Gallaher, Michael P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2004022282</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79016676">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79016676">
          <namePart>Chapman, Robert E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79016676</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no99020791">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no99020791">
          <namePart>Building and Fire Research Laboratory (U.S.).</namePart>
          <namePart>Office of Applied Economics.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no99020791</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Information Technology and Electronics Office.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
@@ -60,25 +60,25 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009122093">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009122093">
          <topic>Costs, Industrial</topic>
          <geographic>United States</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/880748">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/880748">
          <topic>Costs, Industrial</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005354">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005354">
          <topic>Construction industry</topic>
          <geographic>United States</geographic>
          <topic>Cost control</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93000430">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93000430">
          <topic>Life cycle costing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/998247">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/998247">
          <topic>Life cycle costing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
          <geographic>United States</geographic>
       </subject>
       <location>

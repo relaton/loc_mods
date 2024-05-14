@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Composite materials interface characterization</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85346478">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85346478">
          <namePart>Wadley, H. N. G. (Haydn N. G.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85346478</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85346478">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85346478">
          <namePart>Wadley, H. N. G. (Haydn N. G.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85346478</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84052636">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84052636">
          <namePart>Simmons, J. A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84052636</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Clough, R. B.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005080838">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005080838">
          <namePart>Biancaniello, Frank S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2005080838</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Drescher-Krasicka, E.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80052306">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80052306">
          <namePart>Rosen, M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80052306</nameIdentifier>
       </name>
@@ -36,7 +36,7 @@
       <name type="personal">
          <namePart>Hirschman, K.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Bitemark analysis</title>
@@ -8,19 +8,19 @@
       <name type="personal" usage="primary">
          <namePart>Sauerwein, Kelly.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9855-3030">
+      <name type="personal" xlink:href="(orcid)0000-0001-9855-3030">
          <namePart>Sauerwein, Kelly.</namePart>
          <nameIdentifier>(orcid)0000-0001-9855-3030</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6472-9157">
+      <name type="personal" xlink:href="(orcid)0000-0001-6472-9157">
          <namePart>Butler, John M.</namePart>
          <nameIdentifier>(orcid)0000-0001-6472-9157</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0174-9019">
+      <name type="personal" xlink:href="(orcid)0000-0002-0174-9019">
          <namePart>Reczek, Karen K.</namePart>
          <nameIdentifier>(orcid)0000-0002-0174-9019</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4881-1465">
+      <name type="personal" xlink:href="(orcid)0000-0002-4881-1465">
          <namePart>Reed, Christina.</namePart>
          <nameIdentifier>(orcid)0000-0002-4881-1465</nameIdentifier>
       </name>

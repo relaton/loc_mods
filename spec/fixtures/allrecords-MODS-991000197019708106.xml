@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Report on the NIST/DHS/FDA workshop</title>
          <subTitle>standards for pathogen detection for biosurveillance and clinical
                 applications August 14-15, 2017</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n97008968">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n97008968">
          <namePart>Jackson, Scott.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n97008968</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n97008968">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n97008968">
          <namePart>Jackson, Scott.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n97008968</nameIdentifier>
       </name>
@@ -20,7 +20,7 @@
       <name type="personal">
          <namePart>Kralj, Jason.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
          <namePart>Material Measurement Laboratory (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
       </name>
@@ -72,16 +72,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85084744">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85084744">
          <topic>Pathogenic microorganisms</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1054934">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1054934">
          <topic>Pathogenic microorganisms</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85037008">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85037008">
          <topic>DNA</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/886555">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/886555">
          <topic>DNA</topic>
       </subject>
       <subject authority="lcsh">
@@ -90,22 +90,22 @@
       <subject authority="lcsh">
          <topic/>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002000809">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002000809">
          <topic>Genomics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/940228">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/940228">
          <topic>Genomics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012000572">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012000572">
          <topic>Metagenomics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894560">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1894560">
          <topic>Metagenomics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00003585">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00003585">
          <topic>Bioinformatics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832181">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/832181">
          <topic>Bioinformatics</topic>
       </subject>
       <subject>

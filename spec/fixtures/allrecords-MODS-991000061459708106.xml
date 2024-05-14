@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standard reference materials</title>
          <subTitle>application of some metal SRM's as thermometric fixed
                 points</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022070831">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022070831">
          <namePart>Pfeiffer, Earl R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022070831</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88682174">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88682174">
          <namePart>Riddle, John L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88682174</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83001400">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83001400">
          <namePart>Furukawa, George T.,</namePart>
          <namePart type="date">1921-2006</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83001400</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

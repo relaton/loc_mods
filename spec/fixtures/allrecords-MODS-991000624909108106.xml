@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Continuous mobile manipulator performance measurement data
@@ -8,27 +8,27 @@
       <name type="personal" usage="primary">
          <namePart>Aboul-Enein, Omar.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5361-4589">
+      <name type="personal" xlink:href="(orcid)0000-0002-5361-4589">
          <namePart>Aboul-Enein, Omar</namePart>
          <nameIdentifier>(orcid)0000-0002-5361-4589</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7704-5587">
+      <name type="personal" xlink:href="(orcid)0000-0002-7704-5587">
          <namePart>Medeiros, Henry</namePart>
          <nameIdentifier>(orcid)0000-0002-7704-5587</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1789-6985">
+      <name type="personal" xlink:href="(orcid)0000-0003-1789-6985">
          <namePart>Shah, Mili</namePart>
          <nameIdentifier>(orcid)0000-0003-1789-6985</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3234-4345">
+      <name type="personal" xlink:href="(orcid)0000-0003-3234-4345">
          <namePart>Li-Baboud, Ya-Shian</namePart>
          <nameIdentifier>(orcid)0000-0003-3234-4345</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8605-7758">
+      <name type="personal" xlink:href="(orcid)0000-0002-8605-7758">
          <namePart>Bostelman, Roger</namePart>
          <nameIdentifier>(orcid)0000-0002-8605-7758</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0003-3420-4888">
+      <name type="personal" xlink:href="(orcid)0009-0003-3420-4888">
          <namePart>Virts, Ann</namePart>
          <nameIdentifier>(orcid)0009-0003-3420-4888</nameIdentifier>
       </name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Guide to Operational Technology (OT) security</title>
@@ -7,27 +7,27 @@
       <name type="personal" usage="primary">
          <namePart>Stouffer, Keith.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1220-5487">
+      <name type="personal" xlink:href="(orcid)0000-0003-1220-5487">
          <namePart>Stouffer, Keith.</namePart>
          <nameIdentifier>(orcid)0000-0003-1220-5487</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6489-2621">
+      <name type="personal" xlink:href="(orcid)0000-0002-6489-2621">
          <namePart>Pease, Michael.</namePart>
          <nameIdentifier>(orcid)0000-0002-6489-2621</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5488-8645">
+      <name type="personal" xlink:href="(orcid)0000-0002-5488-8645">
          <namePart>Tang, CheeYee.</namePart>
          <nameIdentifier>(orcid)0000-0002-5488-8645</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8451-0515">
+      <name type="personal" xlink:href="(orcid)0000-0001-8451-0515">
          <namePart>Zimmerman, Timothy.</namePart>
          <nameIdentifier>(orcid)0000-0001-8451-0515</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7446-7506">
+      <name type="personal" xlink:href="(orcid)0000-0002-7446-7506">
          <namePart>Pillitteri, Victoria.</namePart>
          <nameIdentifier>(orcid)0000-0002-7446-7506</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5007-3887">
+      <name type="personal" xlink:href="(orcid)0000-0002-5007-3887">
          <namePart>Lightman, Suzanne.</namePart>
          <nameIdentifier>(orcid)0000-0002-5007-3887</nameIdentifier>
       </name>
@@ -37,7 +37,7 @@
       <name type="personal">
          <namePart>Saravia, Stephanie.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2003-3817">
+      <name type="personal" xlink:href="(orcid)0000-0002-2003-3817">
          <namePart>Sherule, Aslam.</namePart>
          <nameIdentifier>(orcid)0000-0002-2003-3817</nameIdentifier>
       </name>

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Effect of outdoor exposure on the water permeability of masonry walls
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2018080970">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2018080970">
          <namePart>Fishburn, Cyrus Charles,</namePart>
          <namePart type="date">1892-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2018080970</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2018080970">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2018080970">
          <namePart>Fishburn, Cyrus Charles,</namePart>
          <namePart type="date">1892-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2018080970</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85252653">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85252653">
          <namePart>Parsons, Douglas E. (Douglas Eugene),</namePart>
          <namePart type="date">1894-1978</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85252653</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no00051873">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no00051873">
          <namePart>Petersen, Perry H.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no00051873</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

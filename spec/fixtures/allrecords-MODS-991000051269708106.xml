@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Mechanics of pneumatic tires</title>
@@ -10,11 +10,11 @@
       <name type="personal">
          <namePart>Gehman, S. D.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81075933">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81075933">
          <namePart>Ludema, K. C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81075933</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no96004677">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no96004677">
          <namePart>Backer, Stanley,</namePart>
          <namePart type="date">1920-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no96004677</nameIdentifier>
@@ -25,12 +25,12 @@
       <name type="personal">
          <namePart>Matsui, J.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82005843">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82005843">
          <namePart>Clark, Samuel K. (Samuel Kelly),</namePart>
          <namePart type="date">1924-2006</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82005843</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012120664">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012120664">
          <namePart>Gough, V. E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012120664</nameIdentifier>
       </name>
@@ -43,11 +43,11 @@
       <name type="personal">
          <namePart>van Eldik Thieme, H. C. A.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84193387">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84193387">
          <namePart>Pacejka, H. B.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84193387</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

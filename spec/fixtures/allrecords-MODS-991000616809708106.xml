@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Report on high energy arcing fault experiments</title>
@@ -9,47 +9,47 @@
       <name type="personal" usage="primary">
          <namePart>Taylor, Gabriel.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0001-0098-0075">
+      <name type="personal" xlink:href="(orcid)0009-0001-0098-0075">
          <namePart>Taylor, Gabriel.</namePart>
          <nameIdentifier>(orcid)0009-0001-0098-0075</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9015-4959">
+      <name type="personal" xlink:href="(orcid)0000-0001-9015-4959">
          <namePart>Putorti Jr., Anthony.</namePart>
          <nameIdentifier>(orcid)0000-0001-9015-4959</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6667-7055">
+      <name type="personal" xlink:href="(orcid)0000-0001-6667-7055">
          <namePart>Bareham, Scott.</namePart>
          <nameIdentifier>(orcid)0000-0001-6667-7055</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0426-2249">
+      <name type="personal" xlink:href="(orcid)0000-0002-0426-2249">
          <namePart>Brown, Christopher U.</namePart>
          <nameIdentifier>(orcid)0000-0002-0426-2249</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3913-0243">
+      <name type="personal" xlink:href="(orcid)0000-0003-3913-0243">
          <namePart>Tam, Wai Cheong.</namePart>
          <nameIdentifier>(orcid)0000-0003-3913-0243</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7039-5835">
+      <name type="personal" xlink:href="(orcid)0000-0001-7039-5835">
          <namePart>Falkenstein-Smith, Ryan.</namePart>
          <nameIdentifier>(orcid)0000-0001-7039-5835</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0005-1698-1696">
+      <name type="personal" xlink:href="(orcid)0009-0005-1698-1696">
          <namePart>Fink, Stephen.</namePart>
          <nameIdentifier>(orcid)0009-0005-1698-1696</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6279-5908">
+      <name type="personal" xlink:href="(orcid)0000-0002-6279-5908">
          <namePart>Heck, Michael.</namePart>
          <nameIdentifier>(orcid)0000-0002-6279-5908</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0001-0360-311X">
+      <name type="personal" xlink:href="(orcid)0009-0001-0360-311X">
          <namePart>Hnetkovsky, Edward.</namePart>
          <nameIdentifier>(orcid)0009-0001-0360-311X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0001-9645-284X">
+      <name type="personal" xlink:href="(orcid)0009-0001-9645-284X">
          <namePart>Melly, Nicholas.</namePart>
          <nameIdentifier>(orcid)0009-0001-9645-284X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0008-6042-4063">
+      <name type="personal" xlink:href="(orcid)0009-0008-6042-4063">
          <namePart>Hamburger, Kenneth.</namePart>
          <nameIdentifier>(orcid)0009-0008-6042-4063</nameIdentifier>
       </name>

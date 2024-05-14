@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Calibration requirements for EHF satellite communication systems
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2010029755">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2010029755">
          <namePart>Baird, Ramon C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2010029755</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2010029755">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2010029755">
          <namePart>Baird, Ramon C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2010029755</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Daywitt, W. C.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009038038">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009038038">
          <namePart>Newell, Albert C.,</namePart>
          <namePart type="date">1820-1909</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2009038038</nameIdentifier>
@@ -27,14 +27,14 @@
       <name type="personal">
          <namePart>Repjar, A. G.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021022659">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021022659">
          <namePart>Wait, D. F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021022659</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Estin, A. J.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

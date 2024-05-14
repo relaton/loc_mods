@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Foundational PNT profile</title>
@@ -9,26 +9,26 @@
       <name type="personal" usage="primary">
          <namePart>Bartock, Michael.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0875-4555">
+      <name type="personal" xlink:href="(orcid)0000-0003-0875-4555">
          <namePart>Bartock, Michael.</namePart>
          <nameIdentifier>(orcid)0000-0003-0875-4555</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Brule, Joseph.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3234-4345">
+      <name type="personal" xlink:href="(orcid)0000-0003-3234-4345">
          <namePart>Li-Baboud, Ya-Shian.</namePart>
          <nameIdentifier>(orcid)0000-0003-3234-4345</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5007-3887">
+      <name type="personal" xlink:href="(orcid)0000-0002-5007-3887">
          <namePart>Lightman, Suzanne.</namePart>
          <nameIdentifier>(orcid)0000-0002-5007-3887</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5559-733X">
+      <name type="personal" xlink:href="(orcid)0000-0002-5559-733X">
          <namePart>McCarthy, James.</namePart>
          <nameIdentifier>(orcid)0000-0002-5559-733X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0174-9019">
+      <name type="personal" xlink:href="(orcid)0000-0002-0174-9019">
          <namePart>Reczek, Karen.</namePart>
          <nameIdentifier>(orcid)0000-0002-0174-9019</nameIdentifier>
       </name>

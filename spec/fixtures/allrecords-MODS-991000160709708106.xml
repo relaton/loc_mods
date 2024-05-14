@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Simulation of the merged spectrum technique for aligning planar
@@ -11,22 +11,22 @@
       <name type="personal">
          <namePart>Wittman, Ronald C.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88112373">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88112373">
          <namePart>Newell, Allen C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112373</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84176584">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84176584">
          <namePart>Stubenrauch, Carl F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84176584</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>MacReynolds, Katherine.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83218675">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83218675">
          <namePart>Francis, Michael H.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83218675</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Protecting the integrity of internet routing</title>
@@ -11,18 +11,18 @@
       <name type="personal">
          <namePart>Haag, William.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no00013999">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no00013999">
          <namePart>Montgomery, Doug.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no00013999</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97036643">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no97036643">
          <namePart>Barker, William C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97036643</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Tan, Allen.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
@@ -76,22 +76,22 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98006078">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98006078">
          <topic>BGP (Computer network protocol)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/824866">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/824866">
          <topic>BGP (Computer network protocol)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009009013">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009009013">
          <topic>Denial of service attacks</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1749399">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1749399">
          <topic>Denial of service attacks</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh96009727">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh96009727">
          <topic>Internet service providers</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/977291">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/977291">
          <topic>Internet service providers</topic>
       </subject>
       <subject>

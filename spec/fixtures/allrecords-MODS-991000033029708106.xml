@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST micronutrients measurement quality assurance program summer 2011
@@ -7,18 +7,18 @@
          <subTitle>results for round robin LXX fat-soluble vitamins and carotenoids in
                 human serum and round robin 35 ascorbic acid in human serum</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
          <namePart>Duewer, David L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2019178574</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019178574">
          <namePart>Duewer, David L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2019178574</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Thomas, Jeanice B.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Chemical Sciences Division, Materials Measurement
                 Laboratory.</namePart>
@@ -56,16 +56,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85136391">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85136391">
          <topic>Trace elements in nutrition</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1153553">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1153553">
          <topic>Trace elements in nutrition</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85109438">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85109438">
          <topic>Quality assurance</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1084943">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1084943">
          <topic>Quality assurance</topic>
       </subject>
       <location>

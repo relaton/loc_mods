@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">A  </nonSort>
@@ -16,7 +16,7 @@
       <name type="personal">
          <namePart>Harper, Kari K.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no93022887">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no93022887">
          <namePart>Manufacturing Engineering Laboratory (U.S.).</namePart>
          <namePart>Manufacturing Metrology Division.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no93022887</nameIdentifier>
