@@ -6,7 +6,7 @@ require_relative "string_plus_language"
 
 module LocMods
   class HierarchicalPart < Shale::Mapper
-    attribute :content, StringPlusLanguage
+    attribute :content, Shale::Type::String
     attribute :level, Shale::Type::Value
     attribute :period, Shale::Type::Value
     attribute :authority, Shale::Type::String
@@ -15,7 +15,7 @@ module LocMods
 
     xml do
       root "territory"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_content to: :content
       map_attribute "level", to: :level

@@ -14,7 +14,7 @@ This gem is developed using the MODS 3.7 XSD schema.
 
 [source,ruby]
 ----
-require 'loc-mods'
+require 'loc_mods'
 
 # Single record under `<modsCollection>`
 LocMods::Collection.from_xml(File.read("spec/fixtures/record_1.xml"))

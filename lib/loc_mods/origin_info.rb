@@ -28,11 +28,11 @@ module LocMods
     attribute :date_other, DateOther, collection: true
     attribute :edition, Edition, collection: true
     attribute :issuance, Shale::Type::String, collection: true
-    attribute :frequency, StringPlusLanguagePlusAuthority, collection: true
+    attribute :frequency, Shale::Type::String, collection: true
 
     xml do
       root "originInfo"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "lang", to: :lang
       map_attribute "script", to: :script

@@ -6,7 +6,7 @@ require_relative "string_plus_language"
 
 module LocMods
   class Abstract < Shale::Mapper
-    attribute :content, StringPlusLanguage
+    attribute :content, Shale::Type::String
     attribute :display_label, Shale::Type::String
     attribute :type, Shale::Type::String
     attribute :shareable, Shale::Type::Value
@@ -16,7 +16,7 @@ module LocMods
 
     xml do
       root "abstract"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_content to: :content
       map_attribute "displayLabel", to: :display_label

@@ -8,13 +8,13 @@ module LocMods
   class Detail < Shale::Mapper
     attribute :type, Shale::Type::String
     attribute :level, Shale::Type::Integer
-    attribute :number, StringPlusLanguage, collection: true
-    attribute :caption, StringPlusLanguage, collection: true
-    attribute :title, StringPlusLanguage, collection: true
+    attribute :number, Shale::Type::String, collection: true
+    attribute :caption, Shale::Type::String, collection: true
+    attribute :title, Shale::Type::String, collection: true
 
     xml do
       root "detail"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "type", to: :type
       map_attribute "level", to: :level

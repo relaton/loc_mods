@@ -8,7 +8,7 @@ module LocMods
   class Occupation < LocMods::StringPlusLanguagePlusAuthority
     xml do
       root "occupation"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_content to: :content
       map_attribute "authority", to: :authority

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "loc-mods"
+require "loc_mods"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

@@ -6,7 +6,7 @@ require_relative "string_plus_language_plus_authority"
 
 module LocMods
   class TypeOfResource < Shale::Mapper
-    attribute :content, StringPlusLanguagePlusAuthority
+    attribute :content, Shale::Type::String
     attribute :collection, Shale::Type::Value
     attribute :manuscript, Shale::Type::Value
     attribute :display_label, Shale::Type::String
@@ -15,7 +15,7 @@ module LocMods
 
     xml do
       root "typeOfResource"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_content to: :content
       map_attribute "collection", to: :collection

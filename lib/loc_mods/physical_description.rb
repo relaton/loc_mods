@@ -16,14 +16,14 @@ module LocMods
     attribute :alt_rep_group, Shale::Type::String
     attribute :form, Form, collection: true
     attribute :reformatting_quality, Shale::Type::String, collection: true
-    attribute :internet_media_type, StringPlusLanguage, collection: true
+    attribute :internet_media_type, Shale::Type::String, collection: true
     attribute :extent, Extent, collection: true
     attribute :digital_origin, Shale::Type::String, collection: true
     attribute :note, PhysicalDescriptionNote, collection: true
 
     xml do
       root "physicalDescription"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "lang", to: :lang
       map_attribute "script", to: :script

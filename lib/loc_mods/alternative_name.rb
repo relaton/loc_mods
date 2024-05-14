@@ -15,15 +15,15 @@ module LocMods
     attribute :display_label, Shale::Type::String
     attribute :alt_type, Shale::Type::String
     attribute :name_part, NamePart, collection: true
-    attribute :display_form, StringPlusLanguage, collection: true
-    attribute :affiliation, StringPlusLanguage, collection: true
+    attribute :display_form, Shale::Type::String, collection: true
+    attribute :affiliation, Shale::Type::String, collection: true
     attribute :role, Role, collection: true
-    attribute :description, StringPlusLanguage, collection: true
+    attribute :description, Shale::Type::String, collection: true
     attribute :name_identifier, Identifier, collection: true
 
     xml do
       root "alternativeName"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "lang", to: :lang
       map_attribute "script", to: :script

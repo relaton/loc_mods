@@ -24,8 +24,8 @@ module LocMods
     attribute :display_label, Shale::Type::String
     attribute :alt_rep_group, Shale::Type::String
     attribute :usage, Shale::Type::Value
-    attribute :topic, StringPlusLanguagePlusAuthority, collection: true
-    attribute :geographic, StringPlusLanguagePlusAuthority, collection: true
+    attribute :topic, Shale::Type::String, collection: true
+    attribute :geographic, Shale::Type::String, collection: true
     attribute :temporal, Temporal, collection: true
     attribute :title_info, SubjectTitleInfo, collection: true
     attribute :name, SubjectName, collection: true
@@ -37,7 +37,7 @@ module LocMods
 
     xml do
       root "subject"
-      namespace "http://www.loc.gov/mods/v3", "xmlns"
+      namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "ID", to: :id
       map_attribute "authority", to: :authority
