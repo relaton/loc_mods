@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Procedures for precise determination of thermal radiation properties,
                 November 1963 to October 1964</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n50044722">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n50044722">
          <namePart>Richmond, Joseph C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50044722</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50044722">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50044722">
          <namePart>Richmond, Joseph C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50044722</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002001044">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002001044">
          <namePart>Dunn, Thomas.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr2002001044</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50003117">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50003117">
          <namePart>DeWitt, David P.,</namePart>
          <namePart type="date">1934-2005</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50003117</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83650001">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83650001">
          <namePart>Hayes, Warren D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83650001</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -64,17 +64,17 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85022004">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85022004">
          <topic>Ceramic materials</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/850974">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/850974">
          <topic>Ceramic materials</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85082087">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85082087">
          <topic>Materials</topic>
          <topic>Thermal properties</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1011896">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1011896">
          <topic>Materials</topic>
          <topic>Thermal properties</topic>
       </subject>

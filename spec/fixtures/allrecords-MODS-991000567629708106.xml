@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Analysis of needs and existing capabilities for full-scale fire
                 resistance testing</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no95034552">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no95034552">
          <namePart>Beitel, Jesse J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no95034552</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no95034552">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no95034552">
          <namePart>Beitel, Jesse J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no95034552</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85194209">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85194209">
          <namePart>Iwankiw, Nestor.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85194209</nameIdentifier>
       </name>
       <name type="corporate">
          <namePart>Hughes Associates.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no91023146">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no91023146">
          <namePart>Building and Fire Research Laboratory (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no91023146</nameIdentifier>
       </name>
@@ -77,29 +77,29 @@
                 Laboratory, National Institute of Standards and Building Technology by Hughes
                 Associates. NA1341-02-W-0686.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005648">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005648">
          <topic>Fire resistant materials</topic>
          <topic>Testing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925523">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925523">
          <topic>Fire resistant materials</topic>
          <topic>Testing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925519">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925519">
          <topic>Fire resistant materials</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048529">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048529">
          <topic>Fire testing</topic>
          <topic>Laboratories</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925555">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925555">
          <topic>Fire testing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002011456">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002011456">
          <topic>Building failures</topic>
          <topic>Identification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840662">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/840662">
          <topic>Building failures</topic>
       </subject>
       <location>

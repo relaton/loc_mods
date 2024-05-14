@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">A  </nonSort>
@@ -12,12 +12,12 @@
       <name type="personal">
          <namePart>Brandy, Herbert T.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003051247">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003051247">
          <namePart>Donmez, M. Alkan,</namePart>
          <namePart type="date">1955-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003051247</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79041171">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79041171">
          <namePart>Gilsinn, David,</namePart>
          <namePart type="date">1943-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79041171</nameIdentifier>
@@ -25,22 +25,22 @@
       <name type="personal">
          <namePart>Han, Chin San.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n89671016">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n89671016">
          <namePart>Kennedy, Michael D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n89671016</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003115013">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003115013">
          <namePart>Ling, Alice V. (Alice Valeria)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003115013</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Wilkin, Neil D.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83016058">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83016058">
          <namePart>Yee, Kenneth W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83016058</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

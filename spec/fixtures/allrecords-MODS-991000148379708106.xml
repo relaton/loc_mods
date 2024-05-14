@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Improving the computational efficiency of the blitzstein-diaconis
@@ -11,7 +11,7 @@
       <name type="personal">
          <namePart>Moseman, Elizabeth.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015104603">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015104603">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology).</namePart>
          <namePart>Applied and Computational Mathematics Division.</namePart>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Economic effects of metallic corrosion in the United States Part I
@@ -11,26 +11,26 @@
       <name type="personal">
          <namePart>Bennett, L. H.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79109029">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79109029">
          <namePart>Kruger, Jerome.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79109029</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022067790">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022067790">
          <namePart>Parker, R. L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022067790</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88112129">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88112129">
          <namePart>Passaglia, Elio.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112129</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Reimann, C.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82090367">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82090367">
          <namePart>Ruff, Arthur W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82090367</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50013969">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50013969">
          <namePart>Yakowitz, Harvey,</namePart>
          <namePart type="date">1939-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50013969</nameIdentifier>
@@ -38,7 +38,7 @@
       <name type="personal">
          <namePart>Berman, E. B.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -76,17 +76,17 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85033050">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85033050">
          <topic>Corrosion and anti-corrosives</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/880341">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/880341">
          <topic>Corrosion and anti-corrosives</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85084241">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85084241">
          <topic>Metals</topic>
          <topic>Surfaces</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1018201">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1018201">
          <topic>Metals</topic>
          <topic>Surfaces</topic>
       </subject>

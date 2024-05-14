@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>2017 NIST/OAGi workshop</title>
@@ -15,36 +15,36 @@
       <name type="personal">
          <namePart>Kulvatunyou, Boonserm.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2006082353">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2006082353">
          <namePart>Brandl, Dennis.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2006082353</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Macchi, Marco.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79011775">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79011775">
          <namePart>Lu, Yan.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79011775</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Noller, David.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2003012487">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2003012487">
          <namePart>Davis, Jim.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nb2003012487</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019156765">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2019156765">
          <namePart>Wuest, Thorsten.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2019156765</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011073862">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011073862">
          <namePart>Kiritsis, Dimitris.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2011073862</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Witherell, Paul.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -99,10 +99,10 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85094833">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85094833">
          <topic>Ontology</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1045995">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1045995">
          <topic>Ontology</topic>
       </subject>
       <subject>

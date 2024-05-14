@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Structure signited by Virginia WUI fires</title>
          <subTitle>February 2015 to February 2017</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79137078">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79137078">
          <namePart>Evans, David D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79137078</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79137078">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79137078">
          <namePart>Evans, David D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79137078</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Scott, Lavern R.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098841">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098841">
          <namePart>Walton, W. Douglas.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84098841</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -76,28 +76,28 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010006912">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010006912">
          <topic>Wildland-urban interface</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1762420">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1762420">
          <topic>Wildland-urban interface</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048572">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048572">
          <topic>Fires</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925697">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925697">
          <topic>Fires</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85057452">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85057452">
          <topic>Ground cover fires</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/948158">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/948158">
          <topic>Ground cover fires</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n79022909">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n79022909">
          <geographic>Virginia</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204597">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1204597">
          <geographic>Virginia</geographic>
       </subject>
       <subject>

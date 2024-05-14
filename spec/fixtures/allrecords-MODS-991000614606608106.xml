@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Food nutrition and safety measurements quality assurance program
@@ -9,18 +9,18 @@
       <name type="personal" usage="primary">
          <namePart>Sallee, Colleen E. Bryan.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2334-3925">
+      <name type="personal" xlink:href="(orcid)0000-0002-2334-3925">
          <namePart>Sallee, Colleen E. Bryan.</namePart>
          <nameIdentifier>(orcid)0000-0002-2334-3925</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0477-7637">
+      <name type="personal" xlink:href="(orcid)0000-0003-0477-7637">
          <namePart>Phillips, Melissa.</namePart>
          <nameIdentifier>(orcid)0000-0003-0477-7637</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Barber, Charles A.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0843-9224">
+      <name type="personal" xlink:href="(orcid)0000-0002-0843-9224">
          <namePart>Burdette, Carolyn Q.</namePart>
          <nameIdentifier>(orcid)0000-0002-0843-9224</nameIdentifier>
       </name>

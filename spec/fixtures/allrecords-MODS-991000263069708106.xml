@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Summary</title>
          <subTitle>workshop on machine learning for optical communication systems
 </subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2017029288">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2017029288">
          <namePart>Gordon, Josh.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2017029288</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2017029288">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2017029288">
          <namePart>Gordon, Josh.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2017029288</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2002010614">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2002010614">
          <namePart>Battou, Abdella.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2002010614</nameIdentifier>
       </name>
@@ -33,7 +33,7 @@
       <name type="personal">
          <namePart>Tornatore, Massimo.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n94074638">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n94074638">
          <namePart>Pedro, João.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n94074638</nameIdentifier>
       </name>
@@ -43,7 +43,7 @@
       <name type="personal">
          <namePart>Westdorp, Jim.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology).</namePart>
          <namePart>Communications Technology Laboratory.</namePart>
@@ -97,28 +97,28 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85008180">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85008180">
          <topic>Artificial intelligence</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/817247">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/817247">
          <topic>Artificial intelligence</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85079324">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85079324">
          <topic>Machine learning</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1004795">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1004795">
          <topic>Machine learning</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2014000092">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2014000092">
          <topic>Software-defined networking (Computer network technology)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1910200">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1910200">
          <topic>Software-defined networking (Computer network technology)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85137016">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85137016">
          <topic>Transponders</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1154952">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1154952">
          <topic>Transponders</topic>
       </subject>
       <subject>

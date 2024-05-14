@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Optical radiation measurements</title>
          <subTitle>Photometric instrumentation and research (1970 to 1971)</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80098949">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80098949">
          <namePart>Zalewski, Edward F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80098949</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80098949">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80098949">
          <namePart>Zalewski, Edward F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80098949</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022079900">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022079900">
          <namePart>Schaefer, A. Russell.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022079900</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81079054">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81079054">
          <namePart>Mohan, Kshitij,</namePart>
          <namePart type="date">1945-2010</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81079054</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88207818">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88207818">
          <namePart>McSparron, Donald A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88207818</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

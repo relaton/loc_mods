@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Studies of porous metal coated surgical implants</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83062183">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83062183">
          <namePart>Fraker, A. C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83062183</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83062183">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83062183">
          <namePart>Fraker, A. C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83062183</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82090367">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82090367">
          <namePart>Ruff, Arthur W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82090367</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n92072144">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n92072144">
          <namePart>Van Orden, A. C.,</namePart>
          <namePart type="date">1954-1998</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n92072144</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009146147">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2009146147">
          <namePart>Hahn, H.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2009146147</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86093093">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86093093">
          <namePart>Bailey, A. J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86093093</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Olson, C. D.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

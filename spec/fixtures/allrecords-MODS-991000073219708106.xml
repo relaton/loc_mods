@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Software tools</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n94005633">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n94005633">
          <namePart>Hardy, I. Trotter.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n94005633</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n94005633">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n94005633">
          <namePart>Hardy, I. Trotter.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n94005633</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50053002">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50053002">
          <namePart>Leong-Hong, Belkis.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50053002</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50023370">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50023370">
          <namePart>Fife, Dennis W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50023370</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

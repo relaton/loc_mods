@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Best practices for reducing the potential for progressive collapse in
                 buildings</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80097474">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80097474">
          <namePart>Ellingwood, Bruce R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80097474</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80097474">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80097474">
          <namePart>Ellingwood, Bruce R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80097474</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Smilowitz, Robert.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n98071089">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n98071089">
          <namePart>Dusenberry, Donald O.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n98071089</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022001252">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022001252">
          <namePart>Duthinh, Dat.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022001252</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50049233">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50049233">
          <namePart>Lew, H. S. (Hai Sang)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50049233</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83169750">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83169750">
          <namePart>Carino, Nicholas J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83169750</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Safety rules for the installation and maintenance of electric supply
@@ -7,16 +7,16 @@
          <subTitle>comprising part 2 and the grounding rules of the fifth edition of the
                 national electrical safety code</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -52,19 +52,19 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85041677">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85041677">
          <topic>Electrical engineering</topic>
          <topic>Safety measures</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1728630">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1728630">
          <topic>Electrical engineering</topic>
          <topic>Safety measures</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85000371">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85000371">
          <topic>Accidents</topic>
          <topic>Prevention</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/795276">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/795276">
          <topic>Accidents</topic>
          <topic>Prevention</topic>
       </subject>

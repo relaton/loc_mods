@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Space commerce workshop report</title>
@@ -22,7 +22,7 @@
       <name type="personal">
          <namePart>Holzinger, Marcus.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
          <namePart>Material Measurement Laboratory (U.S.).</namePart>
          <namePart>Physical Measurement Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
@@ -73,52 +73,52 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh95007821">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh95007821">
          <topic>Aerospace engineering</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/798623">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/798623">
          <topic>Aerospace engineering</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85125939">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85125939">
          <topic>Space industrialization</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1127744">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1127744">
          <topic>Space industrialization</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007007736">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007007736">
          <topic>Situational awareness</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1743826">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1743826">
          <topic>Situational awareness</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85112798">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85112798">
          <topic>Remote sensing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1094469">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1094469">
          <topic>Remote sensing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85133192">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85133192">
          <topic>Technology transfer</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1145295">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1145295">
          <topic>Technology transfer</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh86002655">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh86002655">
          <topic>Space debris</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1127669">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1127669">
          <topic>Space debris</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029533">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029533">
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872518">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872518">
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85003487">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85003487">
          <topic>Algorithms</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/805020">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/805020">
          <topic>Algorithms</topic>
       </subject>
       <subject>

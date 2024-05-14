@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST transportation systems and functional recovery workshop report
@@ -8,27 +8,27 @@
       <name type="personal" usage="primary">
          <namePart>Beyzaei, Christine Z.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6724-1632">
+      <name type="personal" xlink:href="(orcid)0000-0001-6724-1632">
          <namePart>Beyzaei, Christine Z.</namePart>
          <nameIdentifier>(orcid)0000-0001-6724-1632</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7199-8750">
+      <name type="personal" xlink:href="(orcid)0000-0001-7199-8750">
          <namePart>Johnson, Katherine J.</namePart>
          <nameIdentifier>(orcid)0000-0001-7199-8750</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4094-2962">
+      <name type="personal" xlink:href="(orcid)0000-0002-4094-2962">
          <namePart>Nikolaou, Sissy.</namePart>
          <nameIdentifier>(orcid)0000-0002-4094-2962</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1096-7015">
+      <name type="personal" xlink:href="(orcid)0000-0003-1096-7015">
          <namePart>Sattar, Siamak.</namePart>
          <nameIdentifier>(orcid)0000-0003-1096-7015</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6114-7992">
+      <name type="personal" xlink:href="(orcid)0000-0002-6114-7992">
          <namePart>Dukes, Jazalyn.</namePart>
          <nameIdentifier>(orcid)0000-0002-6114-7992</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3959-1808">
+      <name type="personal" xlink:href="(orcid)0000-0003-3959-1808">
          <namePart>Saadat, Yalda.</namePart>
          <nameIdentifier>(orcid)0000-0003-3959-1808</nameIdentifier>
       </name>

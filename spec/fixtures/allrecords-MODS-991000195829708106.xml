@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">The  </nonSort>
@@ -12,15 +12,15 @@
       <name type="personal">
          <namePart>Godil, Afzal.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005043592">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005043592">
          <namePart>Grother, Patrick J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2005043592</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020151015">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020151015">
          <namePart>Ngan, Mei.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020151015</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
@@ -70,34 +70,34 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85045926">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85045926">
          <topic>Evaluation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/916975">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/916975">
          <topic>Evaluation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029337">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029337">
          <topic>Competition</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/871464">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/871464">
          <topic>Competition</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93000548">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93000548">
          <topic>Benchmarking (Management)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/830291">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/830291">
          <topic>Benchmarking (Management)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85008180">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85008180">
          <topic>Artificial intelligence</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/817247">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/817247">
          <topic>Artificial intelligence</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85066148">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85066148">
          <topic>Information retrieval</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/972619">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/972619">
          <topic>Information retrieval</topic>
       </subject>
       <subject>

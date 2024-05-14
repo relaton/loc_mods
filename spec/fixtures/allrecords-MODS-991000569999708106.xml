@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Analysis of FDS thermal detector response prediction capability
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015093002">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015093002">
          <namePart>Hurley, Morgan J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015093002</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015093002">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015093002">
          <namePart>Hurley, Morgan J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015093002</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Munguia, Alex.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no91023146">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no91023146">
          <namePart>Building and Fire Research Laboratory (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no91023146</nameIdentifier>
       </name>
@@ -65,33 +65,33 @@
             <title>DETECT-QS (Computer file)</title>
          </titleInfo>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005300">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005300">
          <topic>Fire</topic>
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925176">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925176">
          <topic>Fire</topic>
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925173">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925173">
          <topic>Fire</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005674">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005674">
          <topic>Fire detectors</topic>
          <topic>Evaluation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925283">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925283">
          <topic>Fire detectors</topic>
          <topic>Evaluation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925281">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925281">
          <topic>Fire detectors</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005734">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005734">
          <topic>Fire</topic>
          <topic>Experiments</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925178">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925178">
          <topic>Fire</topic>
          <topic>Experiments</topic>
       </subject>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standard reference materials</title>
@@ -12,23 +12,23 @@
       <name type="personal">
          <namePart>Levin, B. C.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2017045941">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2017045941">
          <namePart>Hancock, D. K.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2017045941</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022030396">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022030396">
          <namePart>Holland, K. A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022030396</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n98801341">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n98801341">
          <namePart>Cheng, H. (Hung)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n98801341</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022076355">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022076355">
          <namePart>Richie, K. L. (Kristy L.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022076355</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -89,31 +89,31 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007508">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007508">
          <topic>DNA</topic>
          <topic>Analysis</topic>
          <topic>Standards</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/886556">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/886556">
          <topic>DNA</topic>
          <topic>Analysis</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh89002539">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh89002539">
          <topic>Polymerase chain reaction</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1070553">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1070553">
          <topic>Polymerase chain reaction</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85053732">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85053732">
          <topic>Gene amplification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/939610">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/939610">
          <topic>Gene amplification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85093159">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85093159">
          <topic>Nucleotide sequence</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1041106">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1041106">
          <topic>Nucleotide sequence</topic>
       </subject>
       <location>

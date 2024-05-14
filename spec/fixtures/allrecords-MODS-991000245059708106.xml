@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Process specification language</title>
@@ -11,30 +11,30 @@
       <name type="personal">
          <namePart>Knutilla, Amy.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005044700">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005044700">
          <namePart>Schlenoff, Craig.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2005044700</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86824954">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86824954">
          <namePart>Ray, Steven.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86824954</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n98880827">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n98880827">
          <namePart>Polyak, Stephen T.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n98880827</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n90632061">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n90632061">
          <namePart>Tate, Austin.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n90632061</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Cheah, Shu Chiun.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50021951">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50021951">
          <namePart>Anderson, Richard C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50021951</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -71,26 +71,26 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010108526">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010108526">
          <topic>Process control</topic>
          <topic>Data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1078026">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1078026">
          <topic>Process control</topic>
          <topic>Data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008110081">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008110081">
          <topic>Production control</topic>
          <topic>Data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1078271">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1078271">
          <topic>Production control</topic>
          <topic>Data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85107313">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85107313">
          <topic>Programming languages (Electronic computers)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1078704">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1078704">
          <topic>Programming languages (Electronic computers)</topic>
       </subject>
       <location>

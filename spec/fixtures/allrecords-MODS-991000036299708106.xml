@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Biological and Environmental Monitoring and Archival of Sea Turtle
@@ -10,15 +10,15 @@
       <name type="personal">
          <namePart>Keller, Jennifer M.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003078510">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003078510">
          <namePart>Pugh, Rebecca S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003078510</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86085576">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86085576">
          <namePart>Becker, Paul R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86085576</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
          <namePart>Material Measurement Laboratory (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
       </name>
@@ -54,16 +54,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85044212">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85044212">
          <topic>Environmental specimen banking</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/913530">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/913530">
          <topic>Environmental specimen banking</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85104528">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85104528">
          <topic>Pollutants</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1070047">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1070047">
          <topic>Pollutants</topic>
       </subject>
       <location>

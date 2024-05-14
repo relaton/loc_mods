@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Certification of standard reference material® 3666</title>
@@ -8,15 +8,15 @@
       <name type="personal" usage="primary">
          <namePart>Green, Ashley Beasley.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2065-4218">
+      <name type="personal" xlink:href="(orcid)0000-0002-2065-4218">
          <namePart>Green, Ashley Beasley.</namePart>
          <nameIdentifier>(orcid)0000-0002-2065-4218</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9415-8452">
+      <name type="personal" xlink:href="(orcid)0000-0002-9415-8452">
          <namePart>Camara, Johanna.</namePart>
          <nameIdentifier>(orcid)0000-0002-9415-8452</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8430-6757">
+      <name type="personal" xlink:href="(orcid)0000-0002-8430-6757">
          <namePart>Heckert, N. Alan.</namePart>
          <nameIdentifier>(orcid)0000-0002-8430-6757</nameIdentifier>
       </name>

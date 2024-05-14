@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Economic decision guide software (EDGe$) with loss amplification and
@@ -15,14 +15,14 @@
       <name type="personal">
          <namePart>Ayyub, Bilal</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3692-7874">
+      <name type="personal" xlink:href="(orcid)0000-0002-3692-7874">
          <namePart>Helgeson, Jennifer</namePart>
          <nameIdentifier>(orcid)0000-0002-3692-7874</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Gore, Christina</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5134-9419">
+      <name type="personal" xlink:href="(orcid)0000-0002-5134-9419">
          <namePart>Butry, David</namePart>
          <nameIdentifier>(orcid)0000-0002-5134-9419</nameIdentifier>
       </name>

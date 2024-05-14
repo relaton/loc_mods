@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST Phish Scale user guide</title>
@@ -7,11 +7,11 @@
       <name type="personal" usage="primary">
          <namePart>Dawkins, Shanée.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8114-0608">
+      <name type="personal" xlink:href="(orcid)0000-0002-8114-0608">
          <namePart>Dawkins, Shanee.</namePart>
          <nameIdentifier>(orcid)0000-0002-8114-0608</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6433-884X">
+      <name type="personal" xlink:href="(orcid)0000-0002-6433-884X">
          <namePart>Jacobs, Jody.</namePart>
          <nameIdentifier>(orcid)0000-0002-6433-884X</nameIdentifier>
       </name>

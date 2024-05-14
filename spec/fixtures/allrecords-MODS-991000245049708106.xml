@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST design repository workshop, 19-20 November, 1996</title>
@@ -11,17 +11,17 @@
       <name type="personal">
          <namePart>Szykman, Simon.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n97029427">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n97029427">
          <namePart>Sriram, Ram D.,</namePart>
          <namePart type="date">1957-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n97029427</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97044899">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no97044899">
          <namePart>Smith, Stephen J. J.,</namePart>
          <namePart type="date">1973-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97044899</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -57,41 +57,41 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001533">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001533">
          <topic>Industrial design</topic>
          <topic>Data processing</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1730193">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1730193">
          <topic>Industrial design</topic>
          <topic>Data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1730190">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1730190">
          <topic>Industrial design</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008103073">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008103073">
          <topic>Engineering design</topic>
          <topic>Data processing</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/910460">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/910460">
          <topic>Engineering design</topic>
          <topic>Data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85066163">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85066163">
          <topic>Information storage and retrieval systems</topic>
          <topic>Design, Industrial</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/972781">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/972781">
          <topic>Information storage and retrieval systems</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001533">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001533">
          <topic>Information storage and retrieval systems</topic>
          <topic>Engineering design</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/2026288">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/2026288">
          <topic>Information storage and retrieval systems</topic>
          <topic>Engineering design</topic>
       </subject>

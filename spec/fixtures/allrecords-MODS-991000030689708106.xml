@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Markup instructions for extended friction ridge features</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022087567">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022087567">
          <namePart>Taylor, Melissa K.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022087567</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139174">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139174">
          <namePart>Chapman, Will.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021139174</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2018039492">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2018039492">
          <namePart>Hicklin, R. Austin.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2018039492</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113181">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113181">
          <namePart>Kiebuzinski, George.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021113181</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005005842">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005005842">
          <namePart>Komarinski, Peter.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2005005842</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139180">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139180">
          <namePart>Mayer-Splain, John.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021139180</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139172">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139172">
          <namePart>Wallner, Rachel.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021139172</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Office of Special Programs, Law Enforcement Standards
                 Office.</namePart>
@@ -71,25 +71,25 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001487">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001487">
          <topic>Forensic sciences</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/932011">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/932011">
          <topic>Forensic sciences</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008120595">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008120595">
          <topic>Fingerprints</topic>
          <topic>Identification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1425293">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1425293">
          <topic>Fingerprints</topic>
          <topic>Identification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002011456">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002011456">
          <topic>Palmprints</topic>
          <topic>Identification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1051792">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1051792">
          <topic>Palmprints</topic>
       </subject>
       <location>

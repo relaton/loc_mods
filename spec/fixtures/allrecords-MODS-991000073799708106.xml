@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">The  </nonSort>
          <title>SRI hierarchical development methodology (HDM) and its
                 application to the development of secure software</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n81051106">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n81051106">
          <namePart>Levitt, Karl N.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81051106</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81051106">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81051106">
          <namePart>Levitt, Karl N.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81051106</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81049827">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81049827">
          <namePart>Neumann, Peter,</namePart>
          <namePart type="date">1932-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81049827</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81049645">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81049645">
          <namePart>Robinson, Lawrence,</namePart>
          <namePart type="date">1949-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81049645</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

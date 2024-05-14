@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standards for computer aided manufacturing</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022002898">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022002898">
          <namePart>Evans, John M.,</namePart>
          <namePart type="termsOfAddress">Jr.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022002898</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002898">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002898">
          <namePart>Evans, John M.,</namePart>
          <namePart type="termsOfAddress">Jr.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022002898</nameIdentifier>
@@ -20,35 +20,35 @@
       <name type="personal">
          <namePart>Little, John L.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81084213">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81084213">
          <namePart>Albus, James Sacra.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81084213</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n77013106">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n77013106">
          <namePart>Barbera, Anthony J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n77013106</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50023370">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50023370">
          <namePart>Fife, Dennis W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50023370</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50023905">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50023905">
          <namePart>Fong, Elizabeth.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50023905</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79041171">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79041171">
          <namePart>Gilsinn, David,</namePart>
          <namePart type="date">1943-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79041171</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80084529">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80084529">
          <namePart>Holberton, Frances E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80084529</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Lucas, Brian G.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n77017550">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n77017550">
          <namePart>Lyon, Gordon.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n77017550</nameIdentifier>
       </name>
@@ -61,7 +61,7 @@
       <name type="personal">
          <namePart>Mabel, Vick V.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

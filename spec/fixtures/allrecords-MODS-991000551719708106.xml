@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Guidelines on PDA forensics</title>
          <subTitle>recommendations of the National Institute of Standards and Technology
 </subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2005021550">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2005021550">
          <namePart>Jansen, Wayne A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2005021550</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005021550">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2005021550">
          <namePart>Jansen, Wayne A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2005021550</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n00090690">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n00090690">
          <namePart>Ayers, Rick.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n00090690</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2008015449">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2008015449">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology).</namePart>
          <namePart>Computer Security Division.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2008015449</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2002051730">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2002051730">
          <namePart>United States.</namePart>
          <namePart>Department of Homeland Security.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2002051730</nameIdentifier>
@@ -64,20 +64,20 @@
       <note type="bibliography">Includes bibliographical references (pages 52-54).</note>
       <note type="system details">Mode of access: Would Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007508">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00007508">
          <topic>Computer crimes</topic>
          <topic>Investigation</topic>
          <topic>Standards</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872065">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872065">
          <topic>Computer crimes</topic>
          <topic>Investigation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99002077">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99002077">
          <topic>Pocket computers</topic>
          <topic>Access control</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1067594">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1067594">
          <topic>Pocket computers</topic>
       </subject>
       <location>

@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Evaluation of selected Navy equipment for the women-aboard-ship
                 program</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83062181">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n83062181">
          <namePart>Palla, Robert L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83062181</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83062181">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83062181">
          <namePart>Palla, Robert L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83062181</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Jones, Clarke E.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113674">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113674">
          <namePart>Lovett, C. Denver.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021113674</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85084863">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85084863">
          <namePart>Porter, Louis G.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85084863</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80004000">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80004000">
          <namePart>Collins, Belinda Lowenhaupt.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80004000</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -76,60 +76,60 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n79059051">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n79059051">
          <name type="corporate">
             <namePart>United States.</namePart>
             <namePart>Navy.</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/533204">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/533204">
          <name type="corporate">
             <namePart>United States.</namePart>
             <namePart>Navy.</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh89000359">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh89000359">
          <name type="corporate">
             <namePart>United States.</namePart>
             <namePart>Navy</namePart>
          </name>
          <topic>Women</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/533204">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/533204">
          <name type="corporate">
             <namePart>United States.</namePart>
             <namePart>Navy.</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85141002">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85141002">
          <name type="corporate">
             <namePart>United States.</namePart>
             <namePart>Navy</namePart>
          </name>
          <topic>Safety measures</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/971664">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/971664">
          <topic>Industrial safety</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85005588">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85005588">
          <topic>Anthropometry</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/810253">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/810253">
          <topic>Anthropometry</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85147275">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85147275">
          <topic>Women</topic>
          <topic>Anthropometry</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1176580">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1176580">
          <topic>Women</topic>
          <topic>Anthropometry</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85121604">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85121604">
          <topic>Ships</topic>
          <topic>Equipment and supplies</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1116479">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1116479">
          <topic>Ships</topic>
          <topic>Equipment and supplies</topic>
       </subject>

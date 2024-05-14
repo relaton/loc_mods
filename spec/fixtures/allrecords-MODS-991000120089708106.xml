@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Task 1</title>
@@ -19,33 +19,33 @@
       <name type="personal">
          <namePart>Jorgensen, Ove.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86844702">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86844702">
          <namePart>Curtis, David.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86844702</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no97027777">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no97027777">
          <namePart>Bruno, Richard.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97027777</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2019031888">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2019031888">
          <namePart>Inooka, Tatsuo.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2019031888</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>van Koppen, Chris.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86873444">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86873444">
          <namePart>Isakson, Per.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86873444</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Perrin, Guy-Roland.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80074228">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80074228">
          <namePart>Faist, André P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80074228</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Description and results of the 2007 NIST/NOAA interlaboratory
                 comparison exercise program for organic contaminants in marine mammal tissues
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2017142157">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2017142157">
          <namePart>Kucklick, John R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2017142157</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2017142157">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2017142157">
          <namePart>Kucklick, John R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2017142157</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003078510">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003078510">
          <namePart>Pugh, Rebecca S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003078510</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86085576">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86085576">
          <namePart>Becker, Paul R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86085576</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007089499">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007089499">
          <namePart>Schantz, Michele M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2007089499</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Wise, Stephen A.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2017095034">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2017095034">
          <namePart>Rowles, Teresa K.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2017095034</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

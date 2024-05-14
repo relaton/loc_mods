@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>The NIST plan for providing public access to results of federally
@@ -9,67 +9,67 @@
       <name type="personal" usage="primary">
          <namePart>Sharpless, Katherine E.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6569-198X">
+      <name type="personal" xlink:href="(orcid)0000-0001-6569-198X">
          <namePart>Sharpless, Katherine E.</namePart>
          <nameIdentifier>(orcid)0000-0001-6569-198X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4340-2558">
+      <name type="personal" xlink:href="(orcid)0000-0002-4340-2558">
          <namePart>Avila, Regina.</namePart>
          <nameIdentifier>(orcid)0000-0002-4340-2558</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4445-1044">
+      <name type="personal" xlink:href="(orcid)0000-0002-4445-1044">
          <namePart>Boisvert, Ronald.</namePart>
          <nameIdentifier>(orcid)0000-0002-4445-1044</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0008-4529-2955">
+      <name type="personal" xlink:href="(orcid)0009-0008-4529-2955">
          <namePart>Dohne, A. Kirk.</namePart>
          <nameIdentifier>(orcid)0009-0008-4529-2955</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0002-3708-719X">
+      <name type="personal" xlink:href="(orcid)0009-0002-3708-719X">
          <namePart>Fowler, James.</namePart>
          <nameIdentifier>(orcid)0009-0002-3708-719X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4813-9071">
+      <name type="personal" xlink:href="(orcid)0000-0003-4813-9071">
          <namePart>Glenn, Rachel B.</namePart>
          <nameIdentifier>(orcid)0000-0003-4813-9071</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2302-9442">
+      <name type="personal" xlink:href="(orcid)0000-0002-2302-9442">
          <namePart>Greene, Gretchen R.</namePart>
          <nameIdentifier>(orcid)0000-0002-2302-9442</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6853-4602">
+      <name type="personal" xlink:href="(orcid)0000-0002-6853-4602">
          <namePart>Hanisch, Robert.</namePart>
          <nameIdentifier>(orcid)0000-0002-6853-4602</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1217-701X">
+      <name type="personal" xlink:href="(orcid)0000-0002-1217-701X">
          <namePart>Medina-Smith, Andrea.</namePart>
          <nameIdentifier>(orcid)0000-0002-1217-701X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1941-1021">
+      <name type="personal" xlink:href="(orcid)0000-0003-1941-1021">
          <namePart>Munter, Alan E.</namePart>
          <nameIdentifier>(orcid)0000-0003-1941-1021</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0009-9366-4124">
+      <name type="personal" xlink:href="(orcid)0009-0009-9366-4124">
          <namePart>Petrousky, Julie.</namePart>
          <nameIdentifier>(orcid)0009-0009-9366-4124</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0083-9554">
+      <name type="personal" xlink:href="(orcid)0000-0003-0083-9554">
          <namePart>Ralchenko, Yuri.</namePart>
          <nameIdentifier>(orcid)0000-0003-0083-9554</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0007-8244-0382">
+      <name type="personal" xlink:href="(orcid)0009-0007-8244-0382">
          <namePart>Rowland, Carolyn D.</namePart>
          <nameIdentifier>(orcid)0009-0007-8244-0382</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0008-8627-4999">
+      <name type="personal" xlink:href="(orcid)0009-0008-8627-4999">
          <namePart>St. Pierre, James A.</namePart>
          <nameIdentifier>(orcid)0009-0008-8627-4999</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8463-9156">
+      <name type="personal" xlink:href="(orcid)0000-0002-8463-9156">
          <namePart>Wunderlich, Adam.</namePart>
          <nameIdentifier>(orcid)0000-0002-8463-9156</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0002-8321-1366">
+      <name type="personal" xlink:href="(orcid)0009-0002-8321-1366">
          <namePart>Zhang, Jon.</namePart>
          <nameIdentifier>(orcid)0009-0002-8321-1366</nameIdentifier>
       </name>

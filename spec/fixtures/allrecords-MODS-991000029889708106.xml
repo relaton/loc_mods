@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>High-temperature guarded-hot-plate and pipe measurements</title>
          <subTitle>: 2nd Operators Workshop (March 19-20, 2012) Co-sponsored by ASTM
                 Committee C16 on Thermal Insulation</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no95021595">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no95021595">
          <namePart>Zarr, Robert.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no95021595</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2003100986">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2003100986">
          <namePart>Whitaker, Thomas.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nb2003100986</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85807736">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85807736">
          <namePart>Tyler, F. (Frank)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85807736</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -52,20 +52,20 @@
       <note>"November 2012."</note>
       <note>"CODEN: NTNOEF"--Title page verso.</note>
       <note>GMD: electronic resource.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008121504">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008121504">
          <topic>Heat</topic>
          <topic>Transmission</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/953838">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/953838">
          <topic>Heat</topic>
          <topic>Transmission</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85134787">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85134787">
          <topic>Thermoelectric apparatus and appliances</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1149857">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1149857">
          <topic>Thermoelectric apparatus and appliances</topic>
       </subject>
       <location>

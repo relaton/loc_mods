@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Cybersecurity framework profile for hybrid satellite networks (HSN)
@@ -8,43 +8,43 @@
       <name type="personal" usage="primary">
          <namePart>McCarthy, James.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5559-733X">
+      <name type="personal" xlink:href="(orcid)0000-0002-5559-733X">
          <namePart>McCarthy, James.</namePart>
          <nameIdentifier>(orcid)0000-0002-5559-733X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4247-1735">
+      <name type="personal" xlink:href="(orcid)0000-0003-4247-1735">
          <namePart>Mamula, Dan.</namePart>
          <nameIdentifier>(orcid)0000-0003-4247-1735</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7987-6050">
+      <name type="personal" xlink:href="(orcid)0000-0002-7987-6050">
          <namePart>Brule, Joseph.</namePart>
          <nameIdentifier>(orcid)0000-0002-7987-6050</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-3617-3846">
+      <name type="personal" xlink:href="(orcid)0000-0003-3617-3846">
          <namePart>Meldorf, Karri.</namePart>
          <nameIdentifier>(orcid)0000-0003-3617-3846</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-5860-5094">
+      <name type="personal" xlink:href="(orcid)0000-0001-5860-5094">
          <namePart>Jennings, Rory.</namePart>
          <nameIdentifier>(orcid)0000-0001-5860-5094</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6412-8105">
+      <name type="personal" xlink:href="(orcid)0000-0002-6412-8105">
          <namePart>Wiltberger, John.</namePart>
          <nameIdentifier>(orcid)0000-0002-6412-8105</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6183-2300">
+      <name type="personal" xlink:href="(orcid)0000-0001-6183-2300">
          <namePart>Thorpe, Chris.</namePart>
          <nameIdentifier>(orcid)0000-0001-6183-2300</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9408-1838">
+      <name type="personal" xlink:href="(orcid)0000-0002-9408-1838">
          <namePart>Dombrowski, John.</namePart>
          <nameIdentifier>(orcid)0000-0002-9408-1838</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4255-280X">
+      <name type="personal" xlink:href="(orcid)0000-0003-4255-280X">
          <namePart>Lattin, O’Ryan.</namePart>
          <nameIdentifier>(orcid)0000-0003-4255-280X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0009-0502-0792">
+      <name type="personal" xlink:href="(orcid)0009-0009-0502-0792">
          <namePart>Sepassi, Sam.</namePart>
          <nameIdentifier>(orcid)0009-0009-0502-0792</nameIdentifier>
       </name>

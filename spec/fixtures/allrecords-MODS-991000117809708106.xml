@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Generating standard reference electromagnetic fields in the NIST
                 anechoic chamber, 0.2 to 40 GHz</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2011026733">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2011026733">
          <namePart>Hill, D. A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2011026733</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011026733">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011026733">
          <namePart>Hill, D. A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2011026733</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81115121">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81115121">
          <namePart>Kanda, Motohisa.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81115121</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81115002">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81115002">
          <namePart>Larsen, E. B.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81115002</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82208381">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82208381">
          <namePart>Koepke, Galen H.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82208381</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84149359">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84149359">
          <namePart>Orr, R. David.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84149359</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

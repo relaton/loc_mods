@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Use of an on-line computer in neutron time-of-flight measurements
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80025819">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n80025819">
          <namePart>Heaton, H. T.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80025819</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80025819">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80025819">
          <namePart>Heaton, H. T.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80025819</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -50,16 +50,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85094711">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85094711">
          <topic>Online data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1045942">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1045942">
          <topic>Online data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85135421">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85135421">
          <topic>Time-of-flight mass spectrometry</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1151187">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1151187">
          <topic>Time-of-flight mass spectrometry</topic>
       </subject>
       <location>

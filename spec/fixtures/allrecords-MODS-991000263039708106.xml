@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">A  </nonSort>
          <title>summary of industrial verification, validation, and uncertainty
                 quantification procedures in computational fluid dynamics</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2018048920">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2018048920">
          <namePart>Yeo, DongHun.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2018048920</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2018048920">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2018048920">
          <namePart>Yeo, DongHun.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2018048920</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -68,37 +68,37 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007008173">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007008173">
          <topic>Computational fluid dynamics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745072">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1745072">
          <topic>Computational fluid dynamics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85044723">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85044723">
          <topic>Error</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/915026">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/915026">
          <topic>Error</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012002918">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2012002918">
          <topic>Measurement uncertainty (Statistics)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894538">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1894538">
          <topic>Measurement uncertainty (Statistics)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029527">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029527">
          <topic>Computer programs</topic>
          <topic>Validation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872447">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872447">
          <topic>Computer programs</topic>
          <topic>Validation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029528">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029528">
          <topic>Computer programs</topic>
          <topic>Verification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872448">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872448">
          <topic>Computer programs</topic>
          <topic>Verification</topic>
       </subject>

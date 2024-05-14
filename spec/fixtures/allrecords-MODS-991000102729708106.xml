@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Guide to improving the performance of a manipulator system for
                 nuclear fuel handling through computer controls</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022002898">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2022002898">
          <namePart>Evans, John M.,</namePart>
          <namePart type="termsOfAddress">Jr.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022002898</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002898">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022002898">
          <namePart>Evans, John M.,</namePart>
          <namePart type="termsOfAddress">Jr.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022002898</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81084213">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81084213">
          <namePart>Albus, James Sacra.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81084213</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n77013106">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n77013106">
          <namePart>Barbera, Anthony J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n77013106</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81077938">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81077938">
          <namePart>Rosey.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81077938</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Truitt, William B.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

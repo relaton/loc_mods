@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Concerning a microwave refractometer</title>
@@ -12,7 +12,7 @@
       <name type="personal">
          <namePart>Schunemann, R.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88040009">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88040009">
          <namePart>Steffen, W. L. (William L.),</namePart>
          <namePart type="date">1947-2023</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88040009</nameIdentifier>
@@ -23,12 +23,12 @@
       <name type="personal">
          <namePart>Thompson, Moody C. Jr.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -64,22 +64,22 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85112264">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85112264">
          <topic>Refractometers</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1092678">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1092678">
          <topic>Refractometers</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110586">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85110586">
          <topic>Radio waves</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087617">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1087617">
          <topic>Radio waves</topic>
       </subject>
       <location>
          <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.RPT.6027</url>
       </location>
-      <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="series" xlink:href="https://id.loc.gov/authorities/names/no2008092611">
+      <relatedItem type="series" xlink:href="https://id.loc.gov/authorities/names/no2008092611">
          <titleInfo>
             <title>NBS report</title>
             <partNumber>6027</partNumber>

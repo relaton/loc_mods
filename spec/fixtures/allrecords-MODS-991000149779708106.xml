@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Corrosion of materials used in steam generating boiler systems
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85111868">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n85111868">
          <namePart>Escalante, E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85111868</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85111868">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85111868">
          <namePart>Escalante, E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85111868</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n93051600">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n93051600">
          <namePart>Mathews, Samuel,</namePart>
          <namePart type="date">1816-1891</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n93051600</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87126800">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87126800">
          <namePart>Fink, J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87126800</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Accumulation and fate of tributyltin species in microbial biofilms
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no90009596">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no90009596">
          <namePart>Blair, W. R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no90009596</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no90009596">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no90009596">
          <namePart>Blair, W. R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no90009596</nameIdentifier>
       </name>
@@ -22,12 +22,12 @@
       <name type="personal">
          <namePart>Jewett, K. L.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83061707">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83061707">
          <namePart>Brinckman, Frederick E.,</namePart>
          <namePart type="date">1928-2001</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83061707</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

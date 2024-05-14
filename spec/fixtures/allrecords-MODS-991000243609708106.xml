@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>American National Standard for Information Systems</title>
          <subTitle>data format for the interchange of fingerprint, facial &amp; SMT
                 information</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79053041">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79053041">
          <namePart>American National Standards Institute.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79053041</nameIdentifier>
       </name>
@@ -51,28 +51,28 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85095159">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85095159">
          <topic>Optical pattern recognition</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1046784">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1046784">
          <topic>Optical pattern recognition</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh97003901">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh97003901">
          <topic>Human face recognition (Computer science)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/963060">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/963060">
          <topic>Human face recognition (Computer science)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048337">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048337">
          <topic>Fingerprints</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/924859">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/924859">
          <topic>Fingerprints</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003004752">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003004752">
          <topic>Simultaneous multithreading processors</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1119190">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1119190">
          <topic>Simultaneous multithreading processors</topic>
       </subject>
       <location>

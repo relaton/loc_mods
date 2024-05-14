@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standard reference materials</title>
@@ -7,32 +7,32 @@
                 - selection, preparation, certification, and use of SRM 930 and SRM 1930
 </subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n77010153">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n77010153">
          <namePart>Burke, R. W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n77010153</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87889301">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87889301">
          <namePart>Messman, J. D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87889301</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021120232">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021120232">
          <namePart>Smith, Melody V.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021120232</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107281">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107281">
          <namePart>Colbert, J. C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021107281</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50007015">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50007015">
          <namePart>Mavrodineanu, Radu,</namePart>
          <namePart type="date">1910-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50007015</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81011447">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81011447">
          <namePart>Travis, John C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81011447</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

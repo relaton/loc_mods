@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Interoperability assessment 2019</title>
@@ -14,23 +14,23 @@
       <name type="personal">
          <namePart>Grantham, John.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020151062">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020151062">
          <namePart>Bandini, Bruce.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020151062</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020148737">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020148737">
          <namePart>Ko, Kenneth.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020148737</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020043056">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020043056">
          <namePart>Orandi, Shahram.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020043056</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021005762">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021005762">
          <namePart>Watson, Craig.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021005762</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
@@ -82,24 +82,24 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048337">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048337">
          <topic>Fingerprints</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/924859">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/924859">
          <topic>Fingerprints</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008120595">
-         <topic>Fingerprints</topic>
-         <topic>Identification</topic>
-      </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1425293">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008120595">
          <topic>Fingerprints</topic>
          <topic>Identification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001010964">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1425293">
+         <topic>Fingerprints</topic>
+         <topic>Identification</topic>
+      </subject>
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001010964">
          <topic>Biometric identification</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/832607">
          <topic>Biometric identification</topic>
       </subject>
       <subject>

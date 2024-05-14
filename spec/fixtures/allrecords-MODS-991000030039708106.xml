@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Building the materials innovation infrastructure</title>
          <subTitle>data and standards</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n88141877">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n88141877">
          <namePart>Warren, James A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88141877</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88141877">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88141877">
          <namePart>Warren, James A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88141877</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84012297">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84012297">
          <namePart>Boisvert, Ronald F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84012297</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -52,18 +52,18 @@
       <note>A Materials Genome Initiative Workshop.</note>
       <note>Summary report for workshop held May 14-14, 2012, Washington,
                 D.C.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85082082">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85082082">
          <topic>Materials</topic>
          <topic>Research</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1011865">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1011865">
          <topic>Materials</topic>
          <topic>Research</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85066163">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85066163">
          <topic>Information storage and retrieval systems</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/972781">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/972781">
          <topic>Information storage and retrieval systems</topic>
       </subject>
       <location>

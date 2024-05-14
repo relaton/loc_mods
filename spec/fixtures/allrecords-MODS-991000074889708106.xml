@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Radiation processing dosimetry calibration services and measurement
                 assurance program</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n88230886">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n88230886">
          <namePart>Humphreys, Jimmy C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88230886</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88230886">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88230886">
          <namePart>Humphreys, Jimmy C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88230886</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Puhl, James M.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82209458">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82209458">
          <namePart>Seltzer, Stephen M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82209458</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88230888">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88230888">
          <namePart>McLaughlin, William L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88230888</nameIdentifier>
       </name>
@@ -30,12 +30,12 @@
       <name type="personal">
          <namePart>Bensen, Debra L.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85311945">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85311945">
          <namePart>Walker, Marlon L. (Marlon LeBrone),</namePart>
          <namePart type="date">1958-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85311945</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

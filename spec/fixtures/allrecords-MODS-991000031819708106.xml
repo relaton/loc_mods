@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Greenhouse gas emissions and dispersion</title>
@@ -9,27 +9,27 @@
       <name type="personal">
          <namePart>Prasad, Kuldeep.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2014094381">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2014094381">
          <namePart>Li, Kevin.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2014094381</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022062345">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022062345">
          <namePart>Moore, Elizabeth F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022062345</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012119699">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012119699">
          <namePart>Bryant, Rodney A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012119699</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr96020299">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr96020299">
          <namePart>Johnson, Aaron.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr96020299</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021060616">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021060616">
          <namePart>Whetstone, James R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021060616</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory, Material Measurement Laboratory, Physical
                 Measurement Laboratory, Laboratory Programs.</namePart>
@@ -68,17 +68,17 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98006982">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh98006982">
          <topic>Greenhouse gas mitigation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/947703">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/947703">
          <topic>Greenhouse gas mitigation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048515">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85048515">
          <topic>Fire prevention</topic>
          <topic>Research</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925487">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925487">
          <topic>Fire prevention</topic>
          <topic>Research</topic>
       </subject>

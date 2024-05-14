@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">A  </nonSort>
          <title>roadmap for successful regional alliances and multistakeholder
                 partnerships to build the cybersecurity workforce</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2019252004">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2019252004">
          <namePart>Santos, Danielle.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2019252004</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2019252004">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2019252004">
          <namePart>Santos, Danielle.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2019252004</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n89253813">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n89253813">
          <namePart>Goel, Sanjay.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n89253813</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2021060304">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2021060304">
          <namePart>Costanzo, John.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2021060304</nameIdentifier>
       </name>
@@ -28,7 +28,7 @@
       <name type="personal">
          <namePart>Buddelmeyer, Patty.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no97056762</nameIdentifier>
@@ -73,40 +73,40 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85003677">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85003677">
          <topic>Alliances</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/805586">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/805586">
          <topic>Alliances</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
          <topic>Computer security</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
          <topic>Computer security</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040989">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040989">
          <topic>Education</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/902499">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/902499">
          <topic>Education</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85098395">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85098395">
          <topic>Partnership</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1054190">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1054190">
          <topic>Partnership</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2018001580">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2018001580">
          <topic>Stakeholder management</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/2008976">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/2008976">
          <topic>Stakeholder management</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85073724">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85073724">
          <topic>Labor supply</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/990165">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/990165">
          <topic>Labor supply</topic>
       </subject>
       <subject>

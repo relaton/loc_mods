@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Corrosion and metal artifacts - a dialogue between conservators and
                 archaeologists and corrosion scientists</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n50039620">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n50039620">
          <namePart>Brown, B. F. (Benjamin Floyd),</namePart>
          <namePart type="date">1920-1981</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50039620</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50039620">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50039620">
          <namePart>Brown, B. F. (Benjamin Floyd),</namePart>
          <namePart type="date">1920-1981</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50039620</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021146390">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021146390">
          <namePart>Burnett, Harry C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021146390</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85093819">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85093819">
          <namePart>Chase, W. T. (William Thomas)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85093819</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85299090">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85299090">
          <namePart>Goodway, Martha.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85299090</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79109029">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79109029">
          <namePart>Kruger, Jerome.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79109029</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Pourbaix, Marce.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -74,29 +74,29 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009115053">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009115053">
          <topic>Antiquities</topic>
          <topic>Collection and preservation</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/810747">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/810747">
          <topic>Antiquities</topic>
          <topic>Collection and preservation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001533">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001533">
          <topic>Art objects</topic>
          <topic>Conservation and restoration</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/815681">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/815681">
          <topic>Art objects</topic>
          <topic>Conservation and restoration</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008101795">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008101795">
          <topic>Corrosion and anti-corrosives</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/880344">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/880344">
          <topic>Corrosion and anti-corrosives</topic>
          <topic>Congresses</topic>
       </subject>

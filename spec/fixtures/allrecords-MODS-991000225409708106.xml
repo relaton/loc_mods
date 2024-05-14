@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Solar-geophysical data</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79091137">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79091137">
          <namePart>United States.</namePart>
          <namePart>Environmental Science Services Administration.</namePart>
          <namePart>Institute for Telecommunication Sciences and Aeronomy.</namePart>
@@ -13,17 +13,17 @@
       <name type="personal">
          <namePart>Aeronomy, Environmental Science Services Administration.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n50060789">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n50060789">
          <namePart>Institute for Telecommunication Sciences.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50060789</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79091137">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79091137">
          <namePart>United States.</namePart>
          <namePart>Environmental Science Services Administration.</namePart>
          <namePart>Institute for Telecommunication Sciences and Aeronomy.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79091137</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Central Radio Propagation Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>

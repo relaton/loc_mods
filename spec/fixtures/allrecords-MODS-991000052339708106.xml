@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Experiments and modeling of structural steel elements exposed to fire
                 (Appendices D-G)</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n87136328">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n87136328">
          <namePart>Hamins, Anthony,</namePart>
          <namePart type="date">1956-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87136328</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87136328">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87136328">
          <namePart>Hamins, Anthony,</namePart>
          <namePart type="date">1956-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87136328</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139790">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139790">
          <namePart>Maranghides, Alexander.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021139790</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no00054299">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no00054299">
          <namePart>McGrattan, Kevin B.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no00054299</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022022789">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022022789">
          <namePart>Johnsson, Erik L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022022789</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84149352">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84149352">
          <namePart>Ohlemiller, T. J. (Thomas J.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84149352</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Dennelly, Michelle K.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2010118971">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2010118971">
          <namePart>Yang, Jiann C. (Jiann Chyuan)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2010118971</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85389470">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85389470">
          <namePart>Mulholland, G. W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85389470</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022073694">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022073694">
          <namePart>Prasad, Kuldeep R.,</namePart>
          <namePart type="date">1964-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022073694</nameIdentifier>
@@ -50,15 +50,15 @@
       <name type="personal">
          <namePart>Kukuck, Scott R.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139786">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139786">
          <namePart>Anleitner, Robert L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021139786</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002021681">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002021681">
          <namePart>McAllister, Therese.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr2002021681</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

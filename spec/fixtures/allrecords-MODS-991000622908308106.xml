@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Cybersecurity framework profile for liquefied natural gas
@@ -8,7 +8,7 @@
       <name type="personal" usage="primary">
          <namePart>Newhouse, William.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-4873-7648">
+      <name type="personal" xlink:href="(orcid)0000-0002-4873-7648">
          <namePart>Newhouse, William</namePart>
          <nameIdentifier>(orcid)0000-0002-4873-7648</nameIdentifier>
       </name>
@@ -21,7 +21,7 @@
       <name type="personal">
          <namePart>Warren, Jason</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0836-244X">
+      <name type="personal" xlink:href="(orcid)0000-0002-0836-244X">
          <namePart>Thompson, Michael</namePart>
          <nameIdentifier>(orcid)0000-0002-0836-244X</nameIdentifier>
       </name>

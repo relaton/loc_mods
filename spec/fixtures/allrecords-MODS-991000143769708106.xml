@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Terrain Characterization for TRL-6 evaluation of an unmanned ground
@@ -14,25 +14,25 @@
       <name type="personal">
          <namePart>Hong, Tsai.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107287">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021107287">
          <namePart>Chang, Tommy.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021107287</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2020005685">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2020005685">
          <namePart>Scott, Harry.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2020005685</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Legowik, Steve.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no89007530">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no89007530">
          <namePart>Cheok, Geraldine S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no89007530</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Giauque, Chuck.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79041171">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79041171">
          <namePart>Gilsinn, David,</namePart>
          <namePart type="date">1943-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79041171</nameIdentifier>
@@ -40,7 +40,7 @@
       <name type="personal">
          <namePart>Witzgall, Christopher.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Final report on the collapse of World Trade Center Building
@@ -13,55 +13,55 @@
       <name type="personal">
          <namePart>Shyam-Sunder, Sivaraj.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96095572">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n96095572">
          <namePart>Gann, Richard G.,</namePart>
          <namePart type="date">1944-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n96095572</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86864993">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86864993">
          <namePart>Grosshandler, William Lytle.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86864993</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Lew, Hai S.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84003199">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84003199">
          <namePart>Bukowski, Richard.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84003199</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Sadek, Fahim H.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021137929">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021137929">
          <namePart>Gayle, Frank W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021137929</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85099473">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85099473">
          <namePart>Gross, John L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85099473</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002021681">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002021681">
          <namePart>McAllister, Therese.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr2002021681</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006027919">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2006027919">
          <namePart>Averill, Jason D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2006027919</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82227148">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82227148">
          <namePart>Lawson, J. R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82227148</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79041177">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79041177">
          <namePart>Nelson, H. E. (Harold E.),</namePart>
          <namePart type="date">1929-2011</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79041177</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076607">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076607">
          <namePart>Cauffman, Stephen A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003076607</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -119,26 +119,26 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001000147">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2001000147">
          <topic>September 11 Terrorist Attacks, 2001</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017728">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017728">
          <topic>Building failures</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840662">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/840662">
          <topic>Building failures</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85123270">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85123270">
          <topic>Skyscrapers</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1120291">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1120291">
          <topic>Skyscrapers</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99011001">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99011001">
          <topic>Tall buildings</topic>
          <topic>Fires and fire prevention</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1142317">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1142317">
          <topic>Tall buildings</topic>
          <topic>Fires and fire prevention</topic>
       </subject>

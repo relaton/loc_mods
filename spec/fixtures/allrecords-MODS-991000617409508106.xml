@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>National Institute of Standards and Technology environmental scan
@@ -10,35 +10,35 @@
       <name type="personal" usage="primary">
          <namePart>Boggs, Ashley S. P.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9765-7559">
+      <name type="personal" xlink:href="(orcid)0000-0001-9765-7559">
          <namePart>Boggs, Ashley S. P.</namePart>
          <nameIdentifier>(orcid)0000-0001-9765-7559</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2735-8809">
+      <name type="personal" xlink:href="(orcid)0000-0002-2735-8809">
          <namePart>Buchanan, Kerrianne.</namePart>
          <nameIdentifier>(orcid)0000-0002-2735-8809</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-4071-2259">
+      <name type="personal" xlink:href="(orcid)0000-0003-4071-2259">
          <namePart>Evans, Heather.</namePart>
          <nameIdentifier>(orcid)0000-0003-4071-2259</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8889-4904">
+      <name type="personal" xlink:href="(orcid)0000-0002-8889-4904">
          <namePart>Griffith, David.</namePart>
          <nameIdentifier>(orcid)0000-0002-8889-4904</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0007-1343-515X">
+      <name type="personal" xlink:href="(orcid)0009-0007-1343-515X">
          <namePart>Meritis, Dimitrios.</namePart>
          <nameIdentifier>(orcid)0009-0007-1343-515X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-7317-0973">
+      <name type="personal" xlink:href="(orcid)0000-0001-7317-0973">
          <namePart>Ng, Lisa.</namePart>
          <nameIdentifier>(orcid)0000-0001-7317-0973</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0006-5155-0549">
+      <name type="personal" xlink:href="(orcid)0009-0006-5155-0549">
          <namePart>Sberegaeva, Anna.</namePart>
          <nameIdentifier>(orcid)0009-0006-5155-0549</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-6089-2635">
+      <name type="personal" xlink:href="(orcid)0000-0001-6089-2635">
          <namePart>Stephens, Michelle.</namePart>
          <nameIdentifier>(orcid)0000-0001-6089-2635</nameIdentifier>
       </name>

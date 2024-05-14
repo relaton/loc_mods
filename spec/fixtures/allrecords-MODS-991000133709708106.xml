@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Review of material provided by EPA on the analysis for organic
                 chemicals in the EPA Love Canal monitoring study</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n78076694">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n78076694">
          <namePart>Hertz, Harry S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n78076694</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n78076694">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n78076694">
          <namePart>Hertz, Harry S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n78076694</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Ku, H. H.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021036573">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021036573">
          <namePart>Liggett, Walter S.,</namePart>
          <namePart type="termsOfAddress">Jr.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021036573</nameIdentifier>
@@ -24,7 +24,7 @@
       <name type="personal">
          <namePart>McClendon, L. T.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85118616">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85118616">
          <namePart>Taylor, J. K.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85118616</nameIdentifier>
       </name>
@@ -34,7 +34,7 @@
       <name type="personal">
          <namePart>Kirchhoff, W. H.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

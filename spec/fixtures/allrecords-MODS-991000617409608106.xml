@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Physical component libraries for SysPhS modeling and simulation in
@@ -8,15 +8,15 @@
       <name type="personal" usage="primary">
          <namePart>Manion, Charles A.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0008-5273-1995">
+      <name type="personal" xlink:href="(orcid)0009-0008-5273-1995">
          <namePart>Manion, Charles A.</namePart>
          <nameIdentifier>(orcid)0009-0008-5273-1995</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0009-3172-120X">
+      <name type="personal" xlink:href="(orcid)0009-0009-3172-120X">
          <namePart>Bock, Conrad.</namePart>
          <nameIdentifier>(orcid)0009-0009-3172-120X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0331-2929">
+      <name type="personal" xlink:href="(orcid)0000-0002-0331-2929">
          <namePart>Barbau, Raphael.</namePart>
          <nameIdentifier>(orcid)0000-0002-0331-2929</nameIdentifier>
       </name>

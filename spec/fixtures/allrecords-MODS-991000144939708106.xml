@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>FRVT 2006 and ICE 2006 large-scale results</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n98036715">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n98036715">
          <namePart>Phillips, P. Jonathon.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n98036715</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n98036715">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n98036715">
          <namePart>Phillips, P. Jonathon.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n98036715</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Scruggs, W. Todd.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020090376">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020090376">
          <namePart>O'Toole, A. J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020090376</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87923222">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87923222">
          <namePart>Flynn, P. J. (Patrick J.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87923222</nameIdentifier>
       </name>
@@ -29,11 +29,11 @@
       <name type="personal">
          <namePart>Schott, Cathy L.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2010019845">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2010019845">
          <namePart>Sharpe, Matthew.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nb2010019845</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

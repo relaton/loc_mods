@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">An  </nonSort>
@@ -12,7 +12,7 @@
       <name type="personal">
          <namePart>Young, William F..</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -49,57 +49,57 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99002304">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99002304">
          <topic>Public safety</topic>
          <topic>Communication systems</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
          <topic>Public safety</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1146038">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1146038">
          <topic>Telecommunication systems</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n79091289-781">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n79091289-781">
          <topic>Radio</topic>
          <geographic>Colorado</geographic>
          <geographic>Boulder</geographic>
          <topic>Transmitter-receivers</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087053">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1087053">
          <topic>Radio</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087151">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1087151">
          <topic>Radio</topic>
          <topic>Transmitter-receivers</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005487">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99005487">
          <topic>Spectrum analyzers</topic>
          <topic>Data processing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1129129">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1129129">
          <topic>Spectrum analyzers</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2002006406">
          <topic>Radio waves</topic>
          <topic>Attenuation</topic>
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087618">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1087618">
          <topic>Radio waves</topic>
          <topic>Attenuation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1715944">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1715944">
          <topic>Measurement</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1206092">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1206092">
          <geographic>Colorado</geographic>
          <geographic>Boulder</geographic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99004820">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99004820">
          <geographic>Colorado</geographic>
          <topic>Buildings, structures, etc</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1210251">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1210251">
          <geographic>Colorado</geographic>
       </subject>
       <location>

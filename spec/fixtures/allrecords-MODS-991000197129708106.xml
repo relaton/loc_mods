@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>NIST interlaboratory study of aerosol absorption measurements using
@@ -14,7 +14,7 @@
       <name type="personal">
          <namePart>Radney, James G.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
          <namePart>Material Measurement Laboratory (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>
       </name>
@@ -59,22 +59,22 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85001419">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85001419">
          <topic>Aerosols</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/798589">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/798589">
          <topic>Aerosols</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85000245">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85000245">
          <topic>Absorption</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/794733">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/794733">
          <topic>Absorption</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85095199">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85095199">
          <topic>Optoacoustic spectroscopy</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1046907">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1046907">
          <topic>Optoacoustic spectroscopy</topic>
       </subject>
       <location>

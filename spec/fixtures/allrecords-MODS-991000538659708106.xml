@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Workshop on building occupant movement during fire emergencies
@@ -7,20 +7,20 @@
          <subTitle>June 10-11, 2004, National Institute of Standards and Technology
 </subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79111603">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79111603">
          <namePart>Peacock, Richard D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79111603</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
          <namePart>Kuligowski, Erica D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2011141182</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79034818">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79034818">
          <namePart>United States.</namePart>
          <namePart>General Services Administration.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79034818</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2003102449">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2003102449">
          <namePart>Building and Fire Research Laboratory (U.S.).</namePart>
          <namePart>Fire Research Division.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003102449</nameIdentifier>
@@ -62,30 +62,30 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001533">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001533">
          <topic>Buildings</topic>
          <topic>Evacuation</topic>
          <topic>Computer simulation</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/841071">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/841071">
          <topic>Buildings</topic>
          <topic>Evacuation</topic>
          <topic>Computer simulation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/841070">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/841070">
          <topic>Buildings</topic>
          <topic>Evacuation</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001533">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001533">
          <topic>Fire escapes</topic>
          <topic>Computer simulation</topic>
          <genre>Congresses</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/925321">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/925321">
          <topic>Fire escapes</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872518">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872518">
          <topic>Computer simulation</topic>
       </subject>
       <location>

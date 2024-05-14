@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Building for environmental and economic sustainability (BEES) online
                 2.0 technical manual</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015145270">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2015145270">
          <namePart>Kneifel, Joshua.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015145270</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015145270">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015145270">
          <namePart>Kneifel, Joshua.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015145270</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022021989">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022021989">
          <namePart>Greig, Anne Landfield.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022021989</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113180">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113180">
          <namePart>Lavappa, Priya.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021113180</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021116837">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021116837">
          <namePart>Polidoro, Brian.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021116837</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -77,43 +77,43 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009000375">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009000375">
          <topic>Sustainability</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90000985">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90000985">
          <topic>Greenhouse gases</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/947707">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/947707">
          <topic>Greenhouse gases</topic>
       </subject>
       <subject authority="lcsh">
          <topic>Buildings</topic>
          <topic>Design and construction</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85002686">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85002686">
          <topic>Air quality</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/802503">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/802503">
          <topic>Air quality</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85145600">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85145600">
          <topic>Water quality</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1171832">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1171832">
          <topic>Water quality</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85124443">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85124443">
          <topic>Soils</topic>
          <topic>Quality</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1124797">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1124797">
          <topic>Soils</topic>
          <topic>Quality</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85044173">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85044173">
          <topic>Environmental health</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/912999">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/912999">
          <topic>Environmental health</topic>
       </subject>
       <location>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Security analysis of first responder mobile and wearable devices
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020086934">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020086934">
          <namePart>Franklin, Joshua M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020086934</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020086934">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020086934">
          <namePart>Franklin, Joshua M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020086934</nameIdentifier>
       </name>
@@ -22,7 +22,7 @@
       <name type="personal">
          <namePart>Griffith, Jaydee L.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no97056762">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology).</namePart>
          <namePart>Communications Technology Laboratory.</namePart>
@@ -73,34 +73,34 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh90001862">
          <topic>Computer security</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872484">
          <topic>Computer security</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007008878">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2007008878">
          <topic>First responders</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1744217">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1744217">
          <topic>First responders</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2013000266">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2013000266">
          <topic>Internet of things</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1894151">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1894151">
          <topic>Internet of things</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008002399">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2008002399">
          <topic>Public safety</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1745346">
          <topic>Public safety</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2015001347">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2015001347">
          <topic>Wearable technology</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1922404">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1922404">
          <topic>Wearable technology</topic>
       </subject>
       <subject>

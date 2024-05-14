@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Final report on the collapse of the Dallas Cowboys indoor practice
                 facility, May 2, 2009</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85099473">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85099473">
          <namePart>Gross, John L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85099473</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011168767">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011168767">
          <namePart>Main, Joseph A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2011168767</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no98084569">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no98084569">
          <namePart>Phan, Long T. (Long Thanh),</namePart>
          <namePart type="date">1958-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no98084569</nameIdentifier>
@@ -21,15 +21,15 @@
       <name type="personal">
          <namePart>Sadek, Fahim H.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076607">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003076607">
          <namePart>Cauffman, Stephen A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003076607</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82208378">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82208378">
          <namePart>Jorgensen, David P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82208378</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no91023146">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no91023146">
          <namePart>Building and Fire Research Laboratory (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no91023146</nameIdentifier>
       </name>
@@ -66,16 +66,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85129201">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85129201">
          <topic>Structural failures</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1135679">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1135679">
          <topic>Structural failures</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85146878">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85146878">
          <topic>Wind-pressure</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1175736">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1175736">
          <topic>Wind-pressure</topic>
       </subject>
       <location>

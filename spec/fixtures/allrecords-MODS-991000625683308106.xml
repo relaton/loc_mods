@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Markov chain analysis of a sorting machine</title>
@@ -52,11 +52,11 @@
       <subject authority="rvm">
          <topic>Processus de Markov</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst01006078">
+      <subject authority="fast" xlink:href="(OCoLC)fst01006078">
          <topic>Mail sorting</topic>
          <topic>Testing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="(OCoLC)fst01010347">
+      <subject authority="fast" xlink:href="(OCoLC)fst01010347">
          <topic>Markov processes</topic>
       </subject>
       <classification authority="lcc">QC100 .U843 no.8022 1963</classification>

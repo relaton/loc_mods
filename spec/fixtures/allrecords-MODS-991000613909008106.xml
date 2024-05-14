@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>ITS10 conference digest</title>
@@ -7,19 +7,19 @@
       <name type="personal" usage="primary">
          <namePart>Tew, Weston.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9124-3339">
+      <name type="personal" xlink:href="(orcid)0000-0001-9124-3339">
          <namePart>Meyer, Christopher W.</namePart>
          <nameIdentifier>(orcid)0000-0001-9124-3339</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8005-089X">
+      <name type="personal" xlink:href="(orcid)0000-0001-8005-089X">
          <namePart>Miller, Kathryn.</namePart>
          <nameIdentifier>(orcid)0000-0001-8005-089X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9979-9136">
+      <name type="personal" xlink:href="(orcid)0000-0002-9979-9136">
          <namePart>Tew, Weston L.</namePart>
          <nameIdentifier>(orcid)0000-0002-9979-9136</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8999-9441">
+      <name type="personal" xlink:href="(orcid)0000-0002-8999-9441">
          <namePart>Yoon, Howard W.</namePart>
          <nameIdentifier>(orcid)0000-0002-8999-9441</nameIdentifier>
       </name>

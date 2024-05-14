@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Towards a new approach for evaluating fire blocking barrier fabrics
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152722">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152722">
          <namePart>Nazaré, Shonali.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021152722</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Pitts, William.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010832">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010832">
          <namePart>Flynn, Shaun.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022010832</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2001042426">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2001042426">
          <namePart>Shields, John R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2001042426</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152727">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021152727">
          <namePart>Davis, Rick D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021152727</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -65,10 +65,10 @@
       <subject authority="lcsh">
          <topic>Flammability</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85141218">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85141218">
          <topic>Upholstered furniture</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1162067">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1162067">
          <topic>Upholstered furniture</topic>
       </subject>
       <location>

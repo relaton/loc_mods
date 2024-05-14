@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Wireless network security</title>
          <subTitle>802.11, Bluetooth and handheld devices : recommendations of the
                 National Institute of Standards and Technology</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2007053177">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2007053177">
          <namePart>Karygiannis, Tom.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2007053177</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007053177">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2007053177">
          <namePart>Karygiannis, Tom.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2007053177</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Owens, Les.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2008015449">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2008015449">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology).</namePart>
          <namePart>Computer Security Division.</namePart>
@@ -57,28 +57,28 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh92006740">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh92006740">
          <topic>Wireless communication systems</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1176209">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1176209">
          <topic>Wireless communication systems</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003001289">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2003001289">
          <topic>IEEE 802.11 (Standard)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/966347">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/966347">
          <topic>IEEE 802.11 (Standard)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00004813">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00004813">
          <topic>Bluetooth technology</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/835078">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/835078">
          <topic>Bluetooth technology</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93005979">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh93005979">
          <topic>Pocket computers</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1067594">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1067594">
          <topic>Pocket computers</topic>
       </subject>
       <location>

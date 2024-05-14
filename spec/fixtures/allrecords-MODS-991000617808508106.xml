@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>It’s not always what the eye can see – challenges in the evaluation
@@ -8,15 +8,15 @@
       <name type="personal" usage="primary">
          <namePart>Goad, Kurtis.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0008-0639-2582">
+      <name type="personal" xlink:href="(orcid)0009-0008-0639-2582">
          <namePart>Goad, Kurtis.</namePart>
          <nameIdentifier>(orcid)0009-0008-0639-2582</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-9036-0744">
+      <name type="personal" xlink:href="(orcid)0000-0001-9036-0744">
          <namePart>Mangold, Kevin.</namePart>
          <nameIdentifier>(orcid)0000-0001-9036-0744</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-7013-6603">
+      <name type="personal" xlink:href="(orcid)0000-0002-7013-6603">
          <namePart>Furman, Susanne.</namePart>
          <nameIdentifier>(orcid)0000-0002-7013-6603</nameIdentifier>
       </name>

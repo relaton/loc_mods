@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Testing and modelling of fresh concrete rheology</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2001019109">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n2001019109">
          <namePart>Ferraris, Chiara F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2001019109</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2001019109">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2001019109">
          <namePart>Ferraris, Chiara F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2001019109</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n90717996">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n90717996">
          <namePart>Larrard, François de.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n90717996</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -52,25 +52,25 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005811">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh00005811">
          <topic>Concrete</topic>
          <topic>Formability</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/874126">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/874126">
          <topic>Concrete</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85030672">
-         <topic>Concrete</topic>
-         <topic>Fluid dynamics</topic>
-      </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/874183">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85030672">
          <topic>Concrete</topic>
          <topic>Fluid dynamics</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85113619">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/874183">
+         <topic>Concrete</topic>
+         <topic>Fluid dynamics</topic>
+      </subject>
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85113619">
          <topic>Rheology</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1096929">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1096929">
          <topic>Rheology</topic>
       </subject>
       <location>

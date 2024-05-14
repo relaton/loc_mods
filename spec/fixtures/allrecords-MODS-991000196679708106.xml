@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Prediction of solidification phases in Cr-Ni stainless steel alloys
@@ -11,7 +11,7 @@
       <name type="personal">
          <namePart>Jacob, Gregor.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -73,37 +73,37 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85009564">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85009564">
          <topic>Austenite</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/821374">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/821374">
          <topic>Austenite</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85025350">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85025350">
          <topic>Chromium</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/859964">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/859964">
          <topic>Chromium</topic>
       </subject>
       <subject authority="lcsh">
          <topic>Heat treatment</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85106225">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85106225">
          <topic>Precipitation hardening</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1074956">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1074956">
          <topic>Precipitation hardening</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85127793">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85127793">
          <topic>Stainless steel</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1733221">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1733221">
          <topic>Stainless steel</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85081619">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85081619">
          <topic>Martensite</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1010809">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1010809">
          <topic>Martensite</topic>
       </subject>
       <subject>

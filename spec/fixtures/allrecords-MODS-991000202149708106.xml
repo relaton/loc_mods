@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Characterization of airborne nanoparticle released from consumer
                 products</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n84098896">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n84098896">
          <namePart>Persily, Andrew K.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84098896</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9542-3318">
+      <name type="personal" xlink:href="(orcid)0000-0002-9542-3318">
          <namePart>Persily, Andrew K.</namePart>
          <nameIdentifier>(orcid)0000-0002-9542-3318</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015061183">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2015061183">
          <namePart>Lo, James.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015061183</nameIdentifier>
       </name>
@@ -23,11 +23,11 @@
       <name type="personal">
          <namePart>Poppendieck, Dustin.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-3682-0321">
+      <name type="personal" xlink:href="(orcid)0000-0002-3682-0321">
          <namePart>Sung, Lipiin.</namePart>
          <nameIdentifier>(orcid)0000-0002-3682-0321</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -79,22 +79,22 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85089689">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85089689">
          <topic>Nanoparticles</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1032624">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1032624">
          <topic>Nanoparticles</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh88006884">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh88006884">
          <topic>Consumer goods</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/876326">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/876326">
          <topic>Consumer goods</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009006740">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2009006740">
          <topic>Interior painting</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1748738">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1748738">
          <topic>Interior painting</topic>
       </subject>
       <subject>

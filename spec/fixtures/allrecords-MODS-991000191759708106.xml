@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Center for Materials Science metallurgy division technical activities
@@ -11,22 +11,22 @@
       <name type="personal">
          <namePart>Testardi, L. R.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n78053449">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n78053449">
          <namePart>Ugiansky, G. M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n78053449</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Kuriyama, M.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098890">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n84098890">
          <namePart>Manning, J. R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n84098890</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82090367">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82090367">
          <namePart>Ruff, Arthur W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82090367</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86031820">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86031820">
          <namePart>Bhansali, K. J. (Kirit J.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86031820</nameIdentifier>
       </name>
@@ -36,11 +36,11 @@
       <name type="personal">
          <namePart>Lashmore, D. S.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85346478">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85346478">
          <namePart>Wadley, H. N. G. (Haydn N. G.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85346478</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

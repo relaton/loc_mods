@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Fire resilience of a steel-concrete composite floor system
@@ -10,27 +10,27 @@
       <name type="personal" usage="primary">
          <namePart>Ramesh, Selvarajah.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-9525-6767">
+      <name type="personal" xlink:href="(orcid)0000-0002-9525-6767">
          <namePart>Ramesh, Selvarajah</namePart>
          <nameIdentifier>(orcid)0000-0002-9525-6767</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-1951-2746">
+      <name type="personal" xlink:href="(orcid)0000-0003-1951-2746">
          <namePart>Choe, Lisa</namePart>
          <nameIdentifier>(orcid)0000-0003-1951-2746</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6049-7560">
+      <name type="personal" xlink:href="(orcid)0000-0002-6049-7560">
          <namePart>Hoehler, Matthew</namePart>
          <nameIdentifier>(orcid)0000-0002-6049-7560</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1138-0307">
+      <name type="personal" xlink:href="(orcid)0000-0002-1138-0307">
          <namePart>Bundy, Matthew</namePart>
          <nameIdentifier>(orcid)0000-0002-1138-0307</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-5344-9878">
+      <name type="personal" xlink:href="(orcid)0000-0002-5344-9878">
          <namePart>Bryant, Rodney</namePart>
          <nameIdentifier>(orcid)0000-0002-5344-9878</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0799-3418">
+      <name type="personal" xlink:href="(orcid)0000-0002-0799-3418">
          <namePart>Torres, Giovanni</namePart>
          <nameIdentifier>(orcid)0000-0002-0799-3418</nameIdentifier>
       </name>

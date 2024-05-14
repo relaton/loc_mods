@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standardization of packages</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010948">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010948">
          <namePart>Campbell, Carlos.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022010948</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n80079483">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n80079483">
          <namePart>Kyrk, Hazel,</namePart>
          <namePart type="date">1886-1957</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n80079483</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010957">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010957">
          <namePart>William, R. C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022010957</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010952">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010952">
          <namePart>Algeo, J. S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022010952</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010943">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010943">
          <namePart>Cosby, Charles R.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022010943</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010967">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010967">
          <namePart>Fitzgerald, F. F.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022010967</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010950">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022010950">
          <namePart>Pisciotta, Alex.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022010950</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

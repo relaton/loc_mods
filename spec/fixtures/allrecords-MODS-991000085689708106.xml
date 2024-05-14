@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Cost analysis for computer communications</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n50009898">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n50009898">
          <namePart>Blanc, Robert P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50009898</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50009898">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50009898">
          <namePart>Blanc, Robert P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50009898</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -48,26 +48,26 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99004947">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99004947">
          <topic>Data transmission systems</topic>
          <topic>Costs</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/887996">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/887996">
          <topic>Data transmission systems</topic>
          <topic>Costs</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/887993">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/887993">
          <topic>Data transmission systems</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99004947">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99004947">
          <topic>Computer networks</topic>
          <topic>Costs</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872306">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872306">
          <topic>Computer networks</topic>
          <topic>Costs</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/872297">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/872297">
          <topic>Computer networks</topic>
       </subject>
       <location>

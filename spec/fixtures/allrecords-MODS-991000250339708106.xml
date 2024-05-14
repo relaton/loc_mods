@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Office of Law Enforcement Standards</title>
          <subTitle>programs, activities, and accomplishments</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no91025820">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no91025820">
          <namePart>Electronics and Electrical Engineering Laboratory (National Institute
                 of Standards and Technology)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no91025820</nameIdentifier>
@@ -13,7 +13,7 @@
       <name type="personal">
          <namePart>Electronics and Electrical Engineering Laboratory.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -49,26 +49,26 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99002086">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99002086">
          <topic>Police</topic>
          <topic>Equipment and supplies</topic>
          <topic>Standards</topic>
          <geographic>United States</geographic>
          <topic>Periodicals</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1068441">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1068441">
          <topic>Police</topic>
          <topic>Equipment and supplies</topic>
          <topic>Standards</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1058072">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1058072">
          <topic>Periodicals</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1068438">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1068438">
          <topic>Police</topic>
          <topic>Equipment and supplies</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
          <geographic>United States</geographic>
       </subject>
       <location>

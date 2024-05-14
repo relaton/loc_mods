@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standard reference materials</title>
          <subTitle>boric acid; isotopic, and assay standard reference
                 materials</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021149495">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021149495">
          <namePart>Champion, C. E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021149495</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n83016031">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n83016031">
          <namePart>Marinenko, G.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n83016031</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022079505">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022079505">
          <namePart>Sappenfield, K. M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022079505</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021149470">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021149470">
          <namePart>Catanzaro, Edward J.,</namePart>
          <namePart type="date">1933-2007</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021149470</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88649775">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88649775">
          <namePart>Shields, William R.,</namePart>
          <namePart type="date">1926-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88649775</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

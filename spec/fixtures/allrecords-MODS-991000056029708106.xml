@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Standard reference materials</title>
          <subTitle>a users' guide to NIST SRM 2084</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002034281">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nr2002034281">
          <namePart>Phillips, Steven Dale.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nr2002034281</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022079543">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022079543">
          <namePart>Sawyer, D. S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022079543</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n87864462">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n87864462">
          <namePart>Ward, David E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n87864462</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n96014680">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n96014680">
          <namePart>Caskey, G. W.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n96014680</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

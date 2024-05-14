@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Further development of a conceptual framework for assessing
                 resilience at the community scale</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2016050368">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2016050368">
          <namePart>Kwasinski, Alexis,</namePart>
          <namePart type="date">1970-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2016050368</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2016050368">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2016050368">
          <namePart>Kwasinski, Alexis,</namePart>
          <namePart type="date">1970-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2016050368</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88648336">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88648336">
          <namePart>Trainor, Joseph.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88648336</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Francis, Royce.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012122249">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2012122249">
          <namePart>Chen, Cynthia,</namePart>
          <namePart type="date">1969-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012122249</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022046325">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022046325">
          <namePart>Lavelle, Francis M.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022046325</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -86,7 +86,7 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2013066011">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2013066011">
          <name type="personal">
             <namePart>Hansen, Ed.</namePart>
          </name>
@@ -94,28 +94,28 @@
             <title>Shelter</title>
          </titleInfo>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh86006788">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh86006788">
          <topic>Resilience (Personality trait)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1095573">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1095573">
          <topic>Resilience (Personality trait)</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029195">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85029195">
          <topic>Communities</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1430092">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1430092">
          <topic>Communities</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85062603">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85062603">
          <topic>Housing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/962245">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/962245">
          <topic>Housing</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040989">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85040989">
          <topic>Education</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/902499">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/902499">
          <topic>Education</topic>
       </subject>
       <subject authority="lcsh">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>The impact of material composition on ignitability and fire growth.
@@ -10,23 +10,23 @@
       <name type="personal" usage="primary">
          <namePart>Leventon, Isaac.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-8835-8087">
+      <name type="personal" xlink:href="(orcid)0000-0002-8835-8087">
          <namePart>Leventon, Isaac T.</namePart>
          <nameIdentifier>(orcid)0000-0002-8835-8087</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-6279-5908">
+      <name type="personal" xlink:href="(orcid)0000-0002-6279-5908">
          <namePart>Heck, Michael V.</namePart>
          <nameIdentifier>(orcid)0000-0002-6279-5908</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1135-1274">
+      <name type="personal" xlink:href="(orcid)0000-0002-1135-1274">
          <namePart>McGrattan, Kevin B.</namePart>
          <nameIdentifier>(orcid)0000-0002-1135-1274</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-1138-0307">
+      <name type="personal" xlink:href="(orcid)0000-0002-1138-0307">
          <namePart>Bundy, Matthew F.</namePart>
          <nameIdentifier>(orcid)0000-0002-1138-0307</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-2264-0490">
+      <name type="personal" xlink:href="(orcid)0000-0003-2264-0490">
          <namePart>Davis, Rick D.</namePart>
          <nameIdentifier>(orcid)0000-0003-2264-0490</nameIdentifier>
       </name>

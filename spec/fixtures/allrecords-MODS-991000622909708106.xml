@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>2023 NIST summary of U.S. legal metrology activities</title>
@@ -7,18 +7,18 @@
       <name type="personal" usage="primary">
          <namePart>Warfield, Lisa.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0003-0576-8572">
+      <name type="personal" xlink:href="(orcid)0000-0003-0576-8572">
          <namePart>Warfield, Lisa.</namePart>
          <nameIdentifier>(orcid)0000-0003-0576-8572</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0001-8651-8326">
+      <name type="personal" xlink:href="(orcid)0000-0001-8651-8326">
          <namePart>Lippa, Katrice.</namePart>
          <nameIdentifier>(orcid)0000-0001-8651-8326</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Konijnenburg, Jan.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0006-8082-2726">
+      <name type="personal" xlink:href="(orcid)0009-0006-8082-2726">
          <namePart>Minnich, Loren.</namePart>
          <nameIdentifier>(orcid)0009-0006-8082-2726</nameIdentifier>
       </name>
@@ -28,7 +28,7 @@
       <name type="personal">
          <namePart>Williams, Juana.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0006-7396-155X">
+      <name type="personal" xlink:href="(orcid)0009-0006-7396-155X">
          <namePart>McGuire, John.</namePart>
          <nameIdentifier>(orcid)0009-0006-7396-155X</nameIdentifier>
       </name>

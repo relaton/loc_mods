@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Reference Material 8634</title>
@@ -18,23 +18,23 @@
       <name type="personal">
          <namePart>Steffens, Kristen.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2009000375">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/nb2009000375">
          <namePart>Carrier, Michael.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/nb2009000375</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no99062227">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no99062227">
          <namePart>Montgomery, Christopher.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no99062227</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79124531">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79124531">
          <namePart>Ritchie, Nicholas.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79124531</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n2007202655">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n2007202655">
          <namePart>Lu, Zeng.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n2007202655</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2012096740">
          <namePart>Material Measurement Laboratory (U.S.).</namePart>
          <namePart>Information Technology Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2012096740</nameIdentifier>

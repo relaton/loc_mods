@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Seabird tissue archival and monitoring project</title>
          <subTitle>egg collections and analytical results for 2002-2005</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020089896">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020089896">
          <namePart>Schuur, Stacy.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020089896</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020089896">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020089896">
          <namePart>Schuur, Stacy.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020089896</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020089910">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020089910">
          <namePart>Becker, Susan C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020089910</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020090052">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020090052">
          <namePart>Day, Russell D.,</namePart>
          <namePart type="date">1974-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020090052</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020089963">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020089963">
          <namePart>Ellisor, Michael B.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020089963</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020089867">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020089867">
          <namePart>Guichard, Aurore.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020089867</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020090120">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020090120">
          <namePart>Moors, Amanda J.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020090120</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020090062">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020090062">
          <namePart>Point, David,</namePart>
          <namePart type="date">1975-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020090062</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003078510">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003078510">
          <namePart>Pugh, Rebecca S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003078510</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n81139896">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n81139896">
          <namePart>Roseneau, D. G.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n81139896</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

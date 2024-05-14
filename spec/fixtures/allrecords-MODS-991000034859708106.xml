@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Final report, National Institute of Standards and Technology (NIST)
@@ -7,28 +7,28 @@
          <subTitle>technical investigation of the May 22, 2011 tornado in Joplin,
                 Missouri</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2011141182">
          <namePart>Kuligowski, Erica D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2011141182</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022049516">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022049516">
          <namePart>Lombardo, Franklin T.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022049516</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no98084569">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no98084569">
          <namePart>Phan, Long T. (Long Thanh),</namePart>
          <namePart type="date">1958-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no98084569</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113177">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021113177">
          <namePart>Levitan, Marc L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021113177</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82208378">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82208378">
          <namePart>Jorgensen, David P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82208378</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2015040956</nameIdentifier>
@@ -66,15 +66,15 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh89007072">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh89007072">
          <topic>Buildings</topic>
          <topic>Performance</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/841117">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/841117">
          <topic>Buildings</topic>
          <topic>Performance</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n80094148">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/n80094148">
          <geographic>Joplin (Mo.)</geographic>
       </subject>
       <location>

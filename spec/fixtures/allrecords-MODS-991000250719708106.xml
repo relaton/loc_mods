@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Distribution of earthquake input energy in structures</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2003077705">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2003077705">
          <namePart>Khashaee, Payam.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003077705</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003077705">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003077705">
          <namePart>Khashaee, Payam.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003077705</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n89648293">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n89648293">
          <namePart>Mohraz, Bijan.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n89648293</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003083235">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003083235">
          <namePart>Sadek, Fahim.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003083235</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n50049233">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n50049233">
          <namePart>Lew, H. S. (Hai Sang)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n50049233</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n85099473">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n85099473">
          <namePart>Gross, John L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n85099473</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -65,11 +65,11 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017774">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017774">
          <topic>Buildings</topic>
          <topic>Earthquake effects</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/841003">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/841003">
          <topic>Buildings</topic>
          <topic>Earthquake effects</topic>
       </subject>

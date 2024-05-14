@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Effects of JPEG 2000 image compression on 1000 ppi fingerprint
                 imagery</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020043056">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2020043056">
          <namePart>Orandi, Shahram.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020043056</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020043056">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020043056">
          <namePart>Orandi, Shahram.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020043056</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085991">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020085991">
          <namePart>Libert, John M.,</namePart>
          <namePart type="date">1947-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020085991</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020148735">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020148735">
          <namePart>Grantham, John D.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020148735</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020148737">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020148737">
          <namePart>Ko, Kenneth.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020148737</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020149183">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020149183">
          <namePart>Wood, Stephen S.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020149183</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020098846">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020098846">
          <namePart>Wu, Jin Chu.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020098846</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2011180823">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2011180823">
          <namePart>Information Technology Laboratory (National Institute of Standards
                 and Technology).</namePart>
          <namePart>Information Access Division.</namePart>

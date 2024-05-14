@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Sensitivity analysis of installation faults on heat pump performance
 </title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022001138">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022001138">
          <namePart>Domanski, Piotr A.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022001138</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022028213">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022028213">
          <namePart>Henderson, Hugh I. (Hugh Irvin),</namePart>
          <namePart type="date">1960-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022028213</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003078668">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2003078668">
          <namePart>Payne, W. Vance.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2003078668</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no2015040956">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Engineering Laboratory.</namePart>
          <namePart>Energy and Environment Division.</namePart>
@@ -56,16 +56,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017734">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85017734">
          <topic>Building laws</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/840692">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/840692">
          <topic>Building laws</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85129198">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85129198">
          <topic>Structural engineering</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1135658">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1135658">
          <topic>Structural engineering</topic>
       </subject>
       <location>

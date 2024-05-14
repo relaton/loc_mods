@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Advanced Technology Program motor vehicle manufacturing technology
                 public workshop</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n86110362">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n86110362">
          <namePart>Boudreaux, J. C.,</namePart>
          <namePart type="date">1944-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86110362</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n86110362">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n86110362">
          <namePart>Boudreaux, J. C.,</namePart>
          <namePart type="date">1944-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n86110362</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022047724">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022047724">
          <namePart>Lettieri, Thomas R. (Thomas Robert),</namePart>
          <namePart type="date">1952-</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022047724</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>
@@ -56,37 +56,37 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001964">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001964">
          <topic>Motor vehicle industry</topic>
          <topic>Technological innovations</topic>
          <geographic>United States</geographic>
          <topic>Congresses</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1027706">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1027706">
          <topic>Motor vehicle industry</topic>
          <topic>Technological innovations</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/875219">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/875219">
          <topic>Congresses and conventions</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1027695">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1027695">
          <topic>Motor vehicle industry</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001964">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001964">
          <topic>Motor vehicles</topic>
          <topic>Design and construction</topic>
          <topic>Technological innovations</topic>
          <geographic>United States</geographic>
          <topic>Congresses</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1027760">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1027760">
          <topic>Motor vehicles</topic>
          <topic>Design and construction</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1145002">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1145002">
          <topic>Technological innovations</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
          <geographic>United States</geographic>
       </subject>
       <location>

@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Estimated accuracy of calibration of some membrane-type LNG transport
                 tanks</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021008386">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/no2021008386">
          <namePart>Haight, W. C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021008386</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021008386">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021008386">
          <namePart>Haight, W. C.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021008386</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Hocken, R. J.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021023894">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021023894">
          <namePart>Borchardt, Bruce.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021023894</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n88132650">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n88132650">
          <namePart>Carroll, C. L.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88132650</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Hartsock, R. G..</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n93065129">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n93065129">
          <namePart>Reeve, C. P.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n93065129</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82209312">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82209312">
          <namePart>Scire, F. E. (Fredric E.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82209312</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Veale, R. C.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>

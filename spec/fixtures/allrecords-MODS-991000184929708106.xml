@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>On the convergence of cyclic linear iterations for symmetric and
                 nearly symmetric matrices, II</title>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n82215460">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n82215460">
          <namePart>Ostrowski, A. M. (Alexander Markowich),</namePart>
          <namePart type="date">1893-1986</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82215460</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n82215460">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n82215460">
          <namePart>Ostrowski, A. M. (Alexander Markowich),</namePart>
          <namePart type="date">1893-1986</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n82215460</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n79021148">
          <namePart>United States.</namePart>
          <namePart>National Bureau of Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79021148</nameIdentifier>
@@ -52,16 +52,16 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85131435">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh85131435">
          <topic>Symmetric matrices</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1140805">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1140805">
          <topic>Symmetric matrices</topic>
       </subject>
       <location>
          <url displayLabel="electronic resource" usage="primary display">https://doi.org/10.6028/NBS.RPT.1759</url>
       </location>
-      <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="series" xlink:href="https://id.loc.gov/authorities/names/no2008092611">
+      <relatedItem type="series" xlink:href="https://id.loc.gov/authorities/names/no2008092611">
          <titleInfo>
             <title>NBS report</title>
             <partNumber>1759</partNumber>

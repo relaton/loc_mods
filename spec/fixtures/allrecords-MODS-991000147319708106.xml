@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Providing NIST supervisors with a continuous learning program
@@ -7,11 +7,11 @@
          <subTitle>building the next generation 7 special study group project, March
                 2010-October 2010 final report</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79138012">
+      <name type="personal" usage="primary" xlink:href="https://id.loc.gov/authorities/names/n79138012">
          <namePart>Griffith, David.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79138012</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n79138012">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n79138012">
          <namePart>Griffith, David.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n79138012</nameIdentifier>
       </name>
@@ -21,7 +21,7 @@
       <name type="personal">
          <namePart>Herman, Joy.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n95070655">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n95070655">
          <namePart>Jackson, Andrew.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n95070655</nameIdentifier>
       </name>
@@ -31,14 +31,14 @@
       <name type="personal">
          <namePart>Kimball, Donna.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/n93049216">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/n93049216">
          <namePart>Wallace, William E.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n93049216</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Weiss, Brian A.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.)</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/n88112126</nameIdentifier>
       </name>

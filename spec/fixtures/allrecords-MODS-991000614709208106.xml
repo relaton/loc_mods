@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Laser tracker interim testing per the ASME B89.4.19-2021 and ISO
@@ -8,19 +8,19 @@
       <name type="personal" usage="primary">
          <namePart>Motta de Souza, Marcos.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0006-0564-902X">
+      <name type="personal" xlink:href="(orcid)0009-0006-0564-902X">
          <namePart>Motta de Souza, Marcos</namePart>
          <nameIdentifier>(orcid)0009-0006-0564-902X</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-0313-9708">
+      <name type="personal" xlink:href="(orcid)0000-0002-0313-9708">
          <namePart>Muralikrishnan, Bala</namePart>
          <nameIdentifier>(orcid)0000-0002-0313-9708</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2953-6322">
+      <name type="personal" xlink:href="(orcid)0000-0002-2953-6322">
          <namePart>Lee, Vincent</namePart>
          <nameIdentifier>(orcid)0000-0002-2953-6322</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0009-2407-6708">
+      <name type="personal" xlink:href="(orcid)0009-0009-2407-6708">
          <namePart>Sawyer, Daniel</namePart>
          <nameIdentifier>(orcid)0009-0009-2407-6708</nameIdentifier>
       </name>

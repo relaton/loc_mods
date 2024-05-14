@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Laboratory recognition process for Project 25 compliance assessment
@@ -14,11 +14,11 @@
       <name type="personal">
          <namePart>Thiessen, Andrew.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no89014333">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no89014333">
          <namePart>Telecommunications Industry Association.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no89014333</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/no94000125">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/no94000125">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Office of Law Enforcement Standards.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no94000125</nameIdentifier>
@@ -56,59 +56,59 @@
       <note>Title from PDF title page (viewed April 2, 2009).</note>
       <note type="numbering">Each new edition supersedes the previous edition.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001300">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001300">
          <topic>Testing laboratories</topic>
          <topic>Standards</topic>
          <geographic>United States</geographic>
          <genre>Handbooks, manuals, etc</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1148261">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1148261">
          <topic>Testing laboratories</topic>
          <topic>Standards</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1148251">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1148251">
          <topic>Testing laboratories</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001300">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001300">
          <topic>Public safety radio service</topic>
          <topic>Communication systems</topic>
          <topic>Standards</topic>
          <genre>Handbooks, manuals, etc</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1082939">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1082939">
          <topic>Public safety radio service</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1146038">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1146038">
          <topic>Telecommunication systems</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001300">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001300">
          <topic>Radio</topic>
          <topic>Transmitters and transmission</topic>
          <topic>Standards</topic>
          <genre>Handbooks, manuals, etc</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087161">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1087161">
          <topic>Radio</topic>
          <topic>Transmitters and transmission</topic>
          <topic>Standards</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1087157">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1087157">
          <topic>Radio</topic>
          <topic>Transmitters and transmission</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001300">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh99001300">
          <topic>Wireless communication systems</topic>
          <topic>Standards</topic>
          <genre>Handbooks, manuals, etc</genre>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1176223">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1176223">
          <topic>Wireless communication systems</topic>
          <topic>Standards</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1176209">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1176209">
          <topic>Wireless communication systems</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1204155">
          <geographic>United States</geographic>
       </subject>
       <location>

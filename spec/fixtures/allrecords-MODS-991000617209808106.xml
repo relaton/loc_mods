@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <title>Safeguarding international science</title>
@@ -8,23 +8,23 @@
       <name type="personal" usage="primary">
          <namePart>Strouse, Gregory F.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0003-6462-6846">
+      <name type="personal" xlink:href="(orcid)0009-0003-6462-6846">
          <namePart>Strouse, Gregory F.</namePart>
          <nameIdentifier>(orcid)0009-0003-6462-6846</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0003-4711-7177">
+      <name type="personal" xlink:href="(orcid)0009-0003-4711-7177">
          <namePart>Saundry, Claire M.</namePart>
          <nameIdentifier>(orcid)0009-0003-4711-7177</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0002-6098-5852">
+      <name type="personal" xlink:href="(orcid)0009-0002-6098-5852">
          <namePart>Wood, Timothy.</namePart>
          <nameIdentifier>(orcid)0009-0002-6098-5852</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0009-0003-4205-7689">
+      <name type="personal" xlink:href="(orcid)0009-0003-4205-7689">
          <namePart>Bennett, Philip A.</namePart>
          <nameIdentifier>(orcid)0009-0003-4205-7689</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="(orcid)0000-0002-2183-7008">
+      <name type="personal" xlink:href="(orcid)0000-0002-2183-7008">
          <namePart>Bedner, Mary.</namePart>
          <nameIdentifier>(orcid)0000-0002-2183-7008</nameIdentifier>
       </name>

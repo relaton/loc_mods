@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
 <mods version="3.7">
       <titleInfo>
          <nonSort xml:space="preserve">A  </nonSort>
@@ -8,26 +8,26 @@
          <subTitle>evaluating the effects of hazard mitigation actions on structure
                 ignitions</subTitle>
       </titleInfo>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139790">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2021139790">
          <namePart>Maranghides, Alexander.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2021139790</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022056787">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022056787">
          <namePart>McNamara, Derek.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022056787</nameIdentifier>
       </name>
       <name type="personal">
          <namePart>Mell, William.</namePart>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022072835">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2022072835">
          <namePart>Trook, Jason.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2022072835</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020055891">
+      <name type="personal" xlink:href="https://id.loc.gov/authorities/names/no2020055891">
          <namePart>Toman, Blaza.</namePart>
          <nameIdentifier>https://id.loc.gov/authorities/names/no2020055891</nameIdentifier>
       </name>
-      <name xmlns:xlink="http://www.w3.org/1999/xlink" type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
+      <name type="corporate" xlink:href="https://id.loc.gov/authorities/names/n88112126">
          <namePart>National Institute of Standards and Technology (U.S.).</namePart>
          <namePart>Fire Research Division, Statistical Engieering Division, Engineering
                 Laboratory.</namePart>
@@ -66,15 +66,15 @@
       <note type="bibliography">Includes bibliographical references.</note>
       <note type="system details">Mode of access: World Wide Web.</note>
       <note type="system details">Systems requirements: Adobe Acrobat PDF reader.</note>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2007077546">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/names/no2007077546">
          <name type="corporate">
             <namePart>Firewise Communities.</namePart>
          </name>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010006912">
+      <subject authority="lcsh" xlink:href="https://id.loc.gov/authorities/subjects/sh2010006912">
          <topic>Wildland-urban interface</topic>
       </subject>
-      <subject xmlns:xlink="http://www.w3.org/1999/xlink" authority="fast" xlink:href="https://id.worldcat.org/fast/1762420">
+      <subject authority="fast" xlink:href="https://id.worldcat.org/fast/1762420">
          <topic>Wildland-urban interface</topic>
       </subject>
       <location>
