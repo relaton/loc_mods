@@ -14,8 +14,8 @@ module LocMods
       namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "schemaLocation", to: :schema_location,
-        namespace: "http://www.w3.org/2001/XMLSchema-instance",
-        prefix: "xsi"
+                                      namespace: "http://www.w3.org/2001/XMLSchema-instance",
+                                      prefix: "xsi"
 
       map_element "mods", to: :mods
     end

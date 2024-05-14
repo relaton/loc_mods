@@ -5,7 +5,6 @@ require "shale"
 require_relative "extent"
 require_relative "form"
 require_relative "physical_description_note"
-require_relative "string_plus_language"
 
 module LocMods
   class PhysicalDescription < Shale::Mapper

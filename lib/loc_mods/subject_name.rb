@@ -5,7 +5,6 @@ require "shale"
 require_relative "identifier"
 require_relative "name_part"
 require_relative "role"
-require_relative "string_plus_language"
 
 module LocMods
   class SubjectName < Shale::Mapper

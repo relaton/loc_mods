@@ -6,7 +6,6 @@ require_relative "date"
 require_relative "date_other"
 require_relative "place"
 require_relative "publisher"
-require_relative "string_plus_language_plus_authority"
 require_relative "edition"
 
 module LocMods

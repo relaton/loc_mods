@@ -6,7 +6,6 @@ require_relative "enumeration_and_chronology"
 require_relative "form"
 require_relative "item_identifier"
 require_relative "note"
-require_relative "string_plus_language"
 
 module LocMods
   class CopyInformation < Shale::Mapper

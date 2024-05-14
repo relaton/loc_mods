@@ -50,7 +50,6 @@ module LocMods
 
     xml do
       root "mods"
-      # namespace "http://www.loc.gov/mods/v3", nil
       namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "ID", to: :id

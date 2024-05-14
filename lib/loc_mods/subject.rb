@@ -6,7 +6,6 @@ require_relative "cartographics"
 require_relative "genre"
 require_relative "geographic_code"
 require_relative "hierarchical_geographic"
-require_relative "string_plus_language_plus_authority"
 require_relative "subject_name"
 require_relative "subject_title_info"
 require_relative "temporal"
@@ -41,8 +40,8 @@ module LocMods
       namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "href", to: :href,
-        namespace: "http://www.w3.org/1999/xlink",
-        prefix: "xlink"
+                            namespace: "http://www.w3.org/1999/xlink",
+                            prefix: "xlink"
 
       map_attribute "ID", to: :id
       map_attribute "authority", to: :authority

@@ -2,8 +2,6 @@
 
 require "shale"
 
-require_relative "string_plus_language"
-
 module LocMods
   class SubjectTitleInfo < Shale::Mapper
     attribute :id, Shale::Type::Value

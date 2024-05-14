@@ -2,8 +2,6 @@
 
 require "shale"
 
-require_relative "string_plus_language"
-
 module LocMods
   class StringPlusLanguagePlusAuthority < Shale::Mapper
     attribute :content, Shale::Type::String

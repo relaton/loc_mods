@@ -2,12 +2,11 @@
 
 require "shale"
 
-require_relative "string_plus_language_plus_supplied"
-
 module LocMods
-  class Edition < LocMods::StringPlusLanguagePlusSupplied
+  # LocMods::StringPlusLanguagePlusSupplied
+  class Edition < Shale::Mapper
     attribute :content, Shale::Type::String
-    attribute :supplied, Shale::Type::Value
+    attribute :supplied, Shale::Type::String
 
     xml do
       root "edition"

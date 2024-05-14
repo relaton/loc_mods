@@ -3,7 +3,6 @@
 require "shale"
 
 require_relative "cartographic_extension"
-require_relative "string_plus_language"
 
 module LocMods
   class Cartographics < Shale::Mapper

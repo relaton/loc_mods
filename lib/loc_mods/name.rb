@@ -6,7 +6,6 @@ require_relative "alternative_name"
 require_relative "identifier"
 require_relative "name_part"
 require_relative "role"
-require_relative "string_plus_language"
 
 module LocMods
   class Name < Shale::Mapper
@@ -37,8 +36,8 @@ module LocMods
       namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "href", to: :href,
-        namespace: "http://www.w3.org/1999/xlink",
-        prefix: "xlink"
+                            namespace: "http://www.w3.org/1999/xlink",
+                            prefix: "xlink"
 
       map_attribute "ID", to: :id
       map_attribute "authority", to: :authority
