@@ -23,16 +23,23 @@ URI.open(NIST_MODS_URL) do |u|
 end
 
 puts "Parsing #{allrecords_path.relative_path_from(__dir__)}..."
-document = Nokogiri::XML(File.open(allrecords_path))
+document = Nokogiri::XML(
+  File.read(allrecords_path)
+    .gsub(' xmlns:xlink="http://www.w3.org/1999/xlink" ', ' ')
+  )
 
 ns = {
   "xmlns" => "http://www.loc.gov/mods/v3",
   "xmlns:xsi" => "http://www.w3.org/2001/XMLSchema-instance"
 }
 
+# TODO: We delete `xmlns:xlink="http://www.w3.org/1999/xlink"` in the collection
+# and return it here, because it is meant to be put at the root instead of
+# the children.
 document.xpath("//xmlns:mods", ns).each do |record|
   new_doc = Nokogiri::XML(<<~EOF
     <modsCollection xmlns="http://www.loc.gov/mods/v3"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
     </modsCollection>
