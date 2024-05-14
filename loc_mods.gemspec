@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Library of Congress MODS / MADS parser"
   spec.description   = "Library of Congress MODS / MADS parser"
-  spec.homepage      = "https://github.com/relaton/loc-mods"
+  spec.homepage      = "https://github.com/relaton/loc_mods"
   spec.license       = "BSD-2-Clause"
 
   # spec.extra_rdoc_files = %w[docs/README.adoc LICENSE]
