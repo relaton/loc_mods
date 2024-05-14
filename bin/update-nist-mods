@@ -13,8 +13,8 @@ require "open-uri"
 
 NIST_MODS_URL = "https://github.com/usnistgov/NIST-Tech-Pubs/releases/latest/download/allrecords-MODS.xml"
 
-dirname = __dir__.join("../spec/fixtures")
-allrecords_path = __dir__.join("../references/allrecords-MODS.xml")
+dirname = Pathname.new(__dir__).join("../spec/fixtures")
+allrecords_path = Pathname.new(__dir__).join("../references/allrecords-MODS.xml")
 
 puts "Downloading latest NIST MODS file from #{NIST_MODS_URL}"
 URI.open(NIST_MODS_URL) do |u|
