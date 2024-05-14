@@ -3,7 +3,7 @@
 require_relative "lib/loc_mods/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "loc-mods"
+  spec.name = "loc_mods"
   spec.version = LocMods::VERSION
   spec.authors = ["Ribose Inc."]
   spec.email = ["open.source@ribose.com"]
