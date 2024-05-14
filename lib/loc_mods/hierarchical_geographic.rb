@@ -6,7 +6,6 @@ require_relative "area"
 require_relative "city_section"
 require_relative "hierarchical_part"
 require_relative "region"
-require_relative "string_plus_language"
 
 module LocMods
   class HierarchicalGeographic < Shale::Mapper

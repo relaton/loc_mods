@@ -2,8 +2,6 @@
 
 require "shale"
 
-require_relative "string_plus_language"
-
 module LocMods
   class ExtentDefinition < Shale::Mapper
     attribute :unit, Shale::Type::String

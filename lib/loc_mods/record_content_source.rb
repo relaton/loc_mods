@@ -1,4 +1,6 @@
-require 'shale'
+# frozen_string_literal: true
+
+require "shale"
 
 module LocMods
   class RecordContentSource < Shale::Mapper

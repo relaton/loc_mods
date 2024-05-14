@@ -5,7 +5,6 @@ require "shale"
 require_relative "cartographic_extension"
 require_relative "holding_simple"
 require_relative "physical_location"
-require_relative "string_plus_language"
 require_relative "url"
 
 module LocMods
