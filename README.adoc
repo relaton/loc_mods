@@ -12,6 +12,8 @@ This gem is developed using the MODS 3.7 XSD schema.
 
 == Usage
 
+=== Ruby API
+
 [source,ruby]
 ----
 require 'loc_mods'
@@ -24,12 +26,55 @@ LocMods::Collection.from_xml(File.read("spec/fixtures/record_1.xml"))
 LocMods::Collection.from_xml(File.read("reference/allrecords-MODS.xml"))
 ----
 
+=== Command line interface
+
+LocMods provides a command-line interface (CLI) for various operations. The main
+executable is `loc-mods`.
+
+==== Detect duplicates
+
+The `detect-duplicates` command allows you to find duplicate MODS records based
+on using a "primary ID" that is their DOI (Digital Object Identifier).
+
+Usage:
+
+[source,shell]
+----
+$ loc-mods detect-duplicates [OPTIONS] <file_or_directory_path>
+----
+
+Options:
+
+* `-r, --recursive`: Search for MODS files recursively in subdirectories.
+* `-v, --verbose`: Display more detailed output.
+* `-o, --output FILE`: Write the results to a file instead of stdout.
+
+Example:
+
+[source,shell]
+----
+$ loc-mods detect-duplicates -r -v /path/to/mods/files
+----
+
+This command will:
+
+. Search for MODS XML files in the specified directory (and subdirectories if `-r` is used).
+. Parse each MODS file and extract the DOI.
+. Group records with the same DOI.
+. For each group of duplicates:
+.. Display the shared DOI.
+.. List the filenames of the duplicate records.
+.. Show a detailed comparison of the differences between the records.
+
+The output will highlight differences, removed elements, and missing elements
+between the duplicate records, helping you identify discrepancies in the
+metadata.
+
 == Testing
 
 [source,sh]
 ----
 bin/update-nist-mods
-
 ----
 
 == License
