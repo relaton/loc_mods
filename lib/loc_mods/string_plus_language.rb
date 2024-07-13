@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 module LocMods
-  class StringPlusLanguage < Shale::Mapper
+  class StringPlusLanguage < BaseMapper
     attribute :content, Shale::Type::String
     attribute :lang, Shale::Type::String
     attribute :script, Shale::Type::String

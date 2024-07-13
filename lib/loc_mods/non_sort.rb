@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 module LocMods
-  class NonSort < Shale::Mapper
+  class NonSort < BaseMapper
     attribute :content, Shale::Type::String
     attribute :space, Shale::Type::String
 

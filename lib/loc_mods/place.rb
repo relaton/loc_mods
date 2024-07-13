@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "place_term"
 
 module LocMods
-  class Place < Shale::Mapper
+  class Place < BaseMapper
     attribute :supplied, Shale::Type::Value
     attribute :place_term, PlaceTerm, collection: true
 

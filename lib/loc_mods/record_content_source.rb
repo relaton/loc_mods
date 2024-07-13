@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 module LocMods
-  class RecordContentSource < Shale::Mapper
+  class RecordContentSource < BaseMapper
     attribute :authority, Shale::Type::String
     attribute :content, Shale::Type::String
 

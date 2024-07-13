@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "cartographics"
 require_relative "genre"
@@ -12,7 +12,7 @@ require_relative "temporal"
 require_relative "occupation"
 
 module LocMods
-  class Subject < Shale::Mapper
+  class Subject < BaseMapper
     attribute :id, Shale::Type::Value
     attribute :authority, Shale::Type::String
     attribute :authority_uri, Shale::Type::Value

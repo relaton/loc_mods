@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 module LocMods
-  class Url < Shale::Mapper
+  class Url < BaseMapper
     attribute :content, Shale::Type::Value
     attribute :date_last_accessed, Shale::Type::String
     attribute :display_label, Shale::Type::String

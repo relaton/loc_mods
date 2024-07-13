@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "area"
 require_relative "city_section"
@@ -8,7 +8,7 @@ require_relative "hierarchical_part"
 require_relative "region"
 
 module LocMods
-  class HierarchicalGeographic < Shale::Mapper
+  class HierarchicalGeographic < BaseMapper
     attribute :authority, Shale::Type::String
     attribute :authority_uri, Shale::Type::Value
     attribute :value_uri, Shale::Type::Value

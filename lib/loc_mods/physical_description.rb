@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "extent"
 require_relative "form"
 require_relative "physical_description_note"
 
 module LocMods
-  class PhysicalDescription < Shale::Mapper
+  class PhysicalDescription < BaseMapper
     attribute :lang, Shale::Type::String
     attribute :script, Shale::Type::String
     attribute :transliteration, Shale::Type::String

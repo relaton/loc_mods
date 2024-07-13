@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "copy_information"
 
 module LocMods
-  class HoldingSimple < Shale::Mapper
+  class HoldingSimple < BaseMapper
     attribute :copy_information, CopyInformation, collection: true
 
     xml do

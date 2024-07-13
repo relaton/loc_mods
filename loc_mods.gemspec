@@ -8,10 +8,10 @@ Gem::Specification.new do |spec|
   spec.authors = ["Ribose Inc."]
   spec.email = ["open.source@ribose.com"]
 
-  spec.summary       = "Library of Congress MODS / MADS parser"
-  spec.description   = "Library of Congress MODS / MADS parser"
-  spec.homepage      = "https://github.com/relaton/loc_mods"
-  spec.license       = "BSD-2-Clause"
+  spec.summary = "Library of Congress MODS / MADS parser"
+  spec.description = "Library of Congress MODS / MADS parser"
+  spec.homepage = "https://github.com/relaton/loc_mods"
+  spec.license = "BSD-2-Clause"
 
   # spec.extra_rdoc_files = %w[docs/README.adoc LICENSE]
   # Specify which files should be added to the gem when it is released.
@@ -33,6 +33,7 @@ Gem::Specification.new do |spec|
   # spec.add_runtime_dependency "liquid", "~> 5"
   spec.add_runtime_dependency "nokogiri"
   spec.add_runtime_dependency "shale"
+  spec.add_runtime_dependency "thor"
 
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec"

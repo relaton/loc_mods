@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "enumeration_and_chronology"
 require_relative "form"
@@ -8,7 +8,7 @@ require_relative "item_identifier"
 require_relative "note"
 
 module LocMods
-  class CopyInformation < Shale::Mapper
+  class CopyInformation < BaseMapper
     attribute :form, Form
     attribute :sub_location, Shale::Type::String, collection: true
     attribute :shelf_locator, Shale::Type::String, collection: true

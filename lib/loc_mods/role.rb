@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "role_term"
 
 module LocMods
-  class Role < Shale::Mapper
+  class Role < BaseMapper
     attribute :role_term, RoleTerm, collection: true
 
     xml do

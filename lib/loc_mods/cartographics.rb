@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "cartographic_extension"
 
 module LocMods
-  class Cartographics < Shale::Mapper
+  class Cartographics < BaseMapper
     attribute :authority, Shale::Type::String
     attribute :authority_uri, Shale::Type::Value
     attribute :value_uri, Shale::Type::Value

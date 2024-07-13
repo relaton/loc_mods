@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 module LocMods
-  class Publisher < Shale::Mapper
+  class Publisher < BaseMapper
     attribute :content, Shale::Type::String
     attribute :authority, Shale::Type::String
     attribute :authority_uri, Shale::Type::Value

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "abstract"
 require_relative "access_condition"
@@ -24,7 +24,7 @@ require_relative "title_info"
 require_relative "type_of_resource"
 
 module LocMods
-  class Record < Shale::Mapper
+  class Record < BaseMapper
     attribute :id, Shale::Type::Value
     attribute :version, Shale::Type::String
     attribute :abstract, Abstract, collection: true

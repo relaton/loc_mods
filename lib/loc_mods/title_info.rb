@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 require_relative "non_sort"
 
 module LocMods
-  class TitleInfo < Shale::Mapper
+  class TitleInfo < BaseMapper
     attribute :type, Shale::Type::String
     attribute :other_type, Shale::Type::Value
     attribute :supplied, Shale::Type::Value
