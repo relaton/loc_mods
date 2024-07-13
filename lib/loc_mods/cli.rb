@@ -3,7 +3,7 @@ require "thor"
 require "loc_mods"
 
 module LocMods
-  class CLI < Thor
+  class Cli < Thor
     desc "detect-duplicates PATH...", "Detect duplicate records in MODS XML files or directories"
 
     def detect_duplicates(*paths)
