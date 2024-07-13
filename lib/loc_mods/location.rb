@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "cartographic_extension"
 require_relative "holding_simple"
@@ -8,7 +8,7 @@ require_relative "physical_location"
 require_relative "url"
 
 module LocMods
-  class Location < Shale::Mapper
+  class Location < BaseMapper
     attribute :lang, Shale::Type::String
     attribute :script, Shale::Type::String
     attribute :transliteration, Shale::Type::String

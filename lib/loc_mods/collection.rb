@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "record"
 
 module LocMods
-  class Collection < Shale::Mapper
+  class Collection < BaseMapper
     attribute :mods, Record, collection: true
     attribute :schema_location, Shale::Type::String
 

@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 module LocMods
-  class Date < Shale::Mapper
+  class Date < BaseMapper
     attribute :content, Shale::Type::String
     attribute :encoding, Shale::Type::String
     attribute :qualifier, Shale::Type::String

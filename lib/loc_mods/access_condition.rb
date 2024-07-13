@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 module LocMods
-  class AccessCondition < Shale::Mapper
+  class AccessCondition < BaseMapper
     attribute :content, Shale::Type::String
     attribute :display_label, Shale::Type::String
     attribute :lang, Shale::Type::String

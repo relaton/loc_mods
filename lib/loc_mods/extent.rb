@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 module LocMods
-  class Extent < Shale::Mapper
+  class Extent < BaseMapper
     attribute :content, Shale::Type::String
     attribute :unit, Shale::Type::Value
 

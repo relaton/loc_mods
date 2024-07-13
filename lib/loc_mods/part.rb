@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "date"
 require_relative "detail"
@@ -8,7 +8,7 @@ require_relative "extent_definition"
 require_relative "text"
 
 module LocMods
-  class Part < Shale::Mapper
+  class Part < BaseMapper
     attribute :id, Shale::Type::Value
     attribute :type, Shale::Type::String
     attribute :order, Shale::Type::Integer

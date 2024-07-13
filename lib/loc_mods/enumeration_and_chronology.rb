@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 module LocMods
-  class EnumerationAndChronology < Shale::Mapper
+  class EnumerationAndChronology < BaseMapper
     attribute :content, Shale::Type::String
     attribute :unit_type, Shale::Type::String
 

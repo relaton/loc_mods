@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "date"
 require_relative "language"
@@ -9,7 +9,7 @@ require_relative "record_identifier"
 require_relative "record_content_source"
 
 module LocMods
-  class RecordInfo < Shale::Mapper
+  class RecordInfo < BaseMapper
     attribute :lang, Shale::Type::String
     attribute :script, Shale::Type::String
     attribute :transliteration, Shale::Type::String

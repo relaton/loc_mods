@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 require_relative "abstract"
 require_relative "access_condition"
@@ -23,7 +23,7 @@ require_relative "title_info"
 require_relative "type_of_resource"
 
 module LocMods
-  class RelatedItem < Shale::Mapper
+  class RelatedItem < BaseMapper
     attribute :type, Shale::Type::String
     attribute :other_type, Shale::Type::String
     attribute :other_type_auth, Shale::Type::String

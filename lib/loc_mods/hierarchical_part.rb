@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "shale"
+require_relative "base_mapper"
 
 module LocMods
-  class HierarchicalPart < Shale::Mapper
+  class HierarchicalPart < BaseMapper
     attribute :content, Shale::Type::String
     attribute :level, Shale::Type::Value
     attribute :period, Shale::Type::Value
