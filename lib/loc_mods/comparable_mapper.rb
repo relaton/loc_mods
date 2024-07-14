@@ -1,11 +1,11 @@
+# frozen_string_literal: true
+
 # lib/loc_mods/comparable_mapper.rb
 
 module LocMods
-
   # Enable comparison of two class models solely based on attribute values in
   # a recursive manner.
   module ComparableMapper
-
     # TODO: Implement Comparable
     # include Comparable
     # def <=>(other)
@@ -18,7 +18,7 @@ module LocMods
     def eql?(other)
       other.class == self.class &&
         self.class.attributes.all? do |attr|
-          self.send(attr) == other.send(attr)
+          send(attr) == other.send(attr)
         end
     end
 
@@ -35,7 +35,7 @@ module LocMods
       # pp self.class.attributes.keys
 
       self.class.attributes.each_key do |attr|
-        self_value = self.respond_to?(attr) ? self.send(attr) : nil
+        self_value = respond_to?(attr) ? send(attr) : nil
         other_value = other.respond_to?(attr) ? other.send(attr) : nil
 
         # puts "Debugging: Comparing attribute '#{attr}'"
@@ -100,7 +100,7 @@ module LocMods
       if self_array.size != other_array.size
         differences[:_array_size_difference] = Comparison.new(
           original: self_array.size,
-          updated: other_array.size,
+          updated: other_array.size
         )
       end
 

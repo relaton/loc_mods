@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # lib/loc_mods/cli.rb
 require "thor"
 require "loc_mods"
@@ -81,9 +83,7 @@ module LocMods
           next
         end
 
-        unless value.is_a?(Hash)
-          raise "Differences must be in form of a Hash"
-        end
+        raise "Differences must be in form of a Hash" unless value.is_a?(Hash)
 
         # This is not array, end here
         next unless value.keys.any? do |k|
@@ -129,7 +129,7 @@ module LocMods
 
     def format_path(path)
       path.map.with_index do |part, index|
-        if index == 0
+        if index.zero?
           part.to_s
         elsif part.is_a?(Integer)
           "[#{part}]"
