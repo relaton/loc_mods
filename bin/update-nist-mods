@@ -25,19 +25,19 @@ end
 puts "Parsing #{allrecords_path.relative_path_from(__dir__)}..."
 document = Nokogiri::XML(
   File.read(allrecords_path)
-    .gsub(' xmlns:xlink="http://www.w3.org/1999/xlink" ', " "),
+    .gsub(' xmlns:xlink="http://www.w3.org/1999/xlink" ', " ")
 )
 
 ns = {
   "xmlns" => "http://www.loc.gov/mods/v3",
-  "xmlns:xsi" => "http://www.w3.org/2001/XMLSchema-instance",
+  "xmlns:xsi" => "http://www.w3.org/2001/XMLSchema-instance"
 }
 
 # TODO: We delete `xmlns:xlink="http://www.w3.org/1999/xlink"` in the collection
 # and return it here, because it is meant to be put at the root instead of
 # the children.
 document.xpath("//xmlns:mods", ns).each do |record|
-  new_doc = Nokogiri::XML(<<~EOF,
+  new_doc = Nokogiri::XML(<<~EOF
     <modsCollection xmlns="http://www.loc.gov/mods/v3"
                   xmlns:xlink="http://www.w3.org/1999/xlink"
                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -51,7 +51,7 @@ document.xpath("//xmlns:mods", ns).each do |record|
   new_xml = new_doc.to_xml(
     pretty: true,
     declaration: true,
-    encoding: "utf-8",
+    encoding: "utf-8"
   )
 
   # "<identifier>" can be multiple or it may not exist.
