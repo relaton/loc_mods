@@ -23,33 +23,34 @@ module LocMods
       records_by_url = {}
       all_records.each do |record|
         urls = record[:record].location.flat_map { |loc| loc.url.map(&:content) }.compact
-        if urls.any?
-          urls.each do |url|
-            records_by_url[url] ||= []
-            records_by_url[url] << record
-          end
-        else
+        unless urls.any?
           puts "Warning: Record without URL found in file: #{record[:file]}"
+          next
+        end
+
+        urls.each do |url|
+          records_by_url[url] ||= []
+          records_by_url[url] << record
         end
       end
 
       duplicate_count = 0
       records_by_url.each do |url, records|
-        if records.size > 1
-          duplicate_count += 1
-          puts "Duplicate set ##{duplicate_count} found for URL: #{url}"
-          records.combination(2).each_with_index do |(record1, record2), index|
-            puts "  Comparison #{index + 1}:"
-            puts "  File 1: #{record1[:file]}"
-            puts "  File 2: #{record2[:file]}"
-            differences = record1[:record].compare(record2[:record])
-            if differences
-              puts "  ----"
-              print_differences(differences)
-              puts "  ----"
-            end
-            puts "\n"
+        next unless records.size > 1
+
+        duplicate_count += 1
+        puts "Duplicate set ##{duplicate_count} found for URL: #{url}"
+        records.combination(2).each_with_index do |(record1, record2), index|
+          puts "  Comparison #{index + 1}:"
+          puts "  File 1: #{record1[:file]}"
+          puts "  File 2: #{record2[:file]}"
+          differences = record1[:record].compare(record2[:record])
+          if differences
+            puts "  ----"
+            print_differences(differences)
+            puts "  ----"
           end
+          puts "\n"
         end
       end
     end
@@ -65,21 +66,65 @@ module LocMods
     end
 
     def print_differences(differences, prefix = "", path = [])
+      if differences.is_a?(Comparison)
+        print_difference(differences, path)
+        return
+      end
+
+      # Differences is a Hash here
       differences.each do |key, value|
+        # puts "key #{key}, value #{value}"
         current_path = path + [key]
-        if value.is_a?(Hash) && value.keys.all? { |k| k.is_a?(Integer) }
-          value.each do |index, sub_value|
-            print_differences(sub_value, prefix, current_path + [index])
+        # This is a comparison
+        if value.is_a?(Comparison)
+          print_difference(value, path)
+          next
+        end
+
+        unless value.is_a?(Hash)
+          raise "Differences must be in form of a Hash"
+        end
+
+        # This is not array, end here
+        next unless value.keys.any? do |k|
+          k.is_a?(Integer) || k == :_array_size_difference
+        end
+
+        # if value[:_array_size_difference]
+        #   puts "  #{format_path(current_path)} [_array_size_difference]:"
+        #   puts "    Record 1: #{format_value(value[:_array_size_difference].original)}"
+        #   puts "    Record 2: #{format_value(value[:_array_size_difference].updated)}"
+        #   puts
+        # end
+
+        value.each do |subkey, subvalue|
+          # if [:self, :other].include?(subkey)
+          #   raise "Subkey is self or other"
+          # end
+          # puts "subkey (#{subkey})"
+          # puts "subvalue #{subvalue}, prefix #{prefix}, current_path + [subkey] #{current_path + [subkey]}"
+
+          if subkey.is_a?(Integer)
+            print_differences(subvalue, prefix, current_path + [subkey])
+          else
+            if subvalue.is_a?(Comparison)
+              print_difference(subvalue, current_path + [subkey])
+              next
+            end
+
+            raise "In an array diff but not an Integer!"
           end
-        elsif value.is_a?(Hash) && (value[:self] || value[:other])
-          puts "  #{format_path(current_path)}:"
-          puts "  #{prefix}  Record 1: #{format_value(value[:self])}"
-          puts "  #{prefix}  Record 2: #{format_value(value[:other])}"
-          puts
-        elsif value.is_a?(Hash)
-          print_differences(value, prefix, current_path)
         end
       end
+    end
+
+    def print_difference(value, current_path)
+      return unless value.original || value.updated
+
+      puts "  #{format_path(current_path)}:"
+      puts "    Record 1: #{format_value(value.original)}"
+      puts "    Record 2: #{format_value(value.updated)}"
+      puts
     end
 
     def format_path(path)
@@ -95,7 +140,14 @@ module LocMods
     end
 
     def format_value(value)
-      value.nil? ? "(nil)" : "\"#{value}\""
+      case value
+      when nil, ComparableNil
+        "(nil)"
+      when String
+        "\"#{value}\""
+      else
+        value.to_s
+      end
     end
   end
 end

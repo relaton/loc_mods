@@ -1,30 +1,42 @@
 # lib/loc_mods/comparable_mapper.rb
 
 module LocMods
+
+  # Enable comparison of two class models solely based on attribute values in
+  # a recursive manner.
   module ComparableMapper
-    # def self.included(base)
-    #   base.extend(ClassMethods)
+
+    # TODO: Implement Comparable
+    # include Comparable
+    # def <=>(other)
+    #   attributes.foo <=> other.attributes.foo
+    # end
+    # def inspect
+    #   @foo
     # end
 
-    # module ClassMethods
-    #   def attribute_mapping
-    #     @attribute_mapping ||= attributes.to_h do |name, attribute|
-    #       [name, attribute.type]
-    #     end
-    #   end
-    # end
+    def eql?(other)
+      other.class == self.class &&
+        self.class.attributes.all? do |attr|
+          self.send(attr) == other.send(attr)
+        end
+    end
+
+    alias == eql?
+
+    def hash
+      ([self.class] + self.class.attributes.map(&:hash)).hash
+    end
 
     def compare(other)
-      return {} unless other.is_a?(self.class)
-
       differences = {}
 
       # puts "Debugging: Attributes for #{self.class.name}"
       # pp self.class.attributes.keys
 
       self.class.attributes.each_key do |attr|
-        self_value = self.send(attr)
-        other_value = other.send(attr)
+        self_value = self.respond_to?(attr) ? self.send(attr) : nil
+        other_value = other.respond_to?(attr) ? other.send(attr) : nil
 
         # puts "Debugging: Comparing attribute '#{attr}'"
         # puts "  Self value: #{self_value.inspect}"
@@ -52,14 +64,14 @@ module LocMods
       case self_value
       when Array
         # puts "compare_values case 1"
-        compare_arrays(self_value, other_value)
-      when Shale::Mapper
+        compare_arrays(self_value, other_value || [])
+      when ComparableMapper
         # puts "compare_values case 2"
         self_value.compare(other_value)
       else
         if self_value != other_value
           # puts "compare_values case 3"
-          { self: self_value, other: other_value }
+          Comparison.new(original: self_value, updated: other_value)
         end
       end
     end
@@ -69,25 +81,27 @@ module LocMods
       max_length = [self_array.size, other_array.size].max
 
       max_length.times do |index|
-        self_item = self_array[index]
-        other_item = other_array[index]
+        self_item = self_array[index] || ComparableNil.new
+        other_item = other_array[index] || ComparableNil.new
 
-        if index >= self_array.size
-          compared = compare_values(other_item, nil)
-          differences[index] = { self: compared[:other], other: compared[:self] }
-        elsif index >= other_array.size
-          differences[index] = compare_values(self_item, nil)
-        else
-          compared = compare_values(self_item, other_item)
-          differences[index] = compared if compared
-        end
+        compared = compare_values(self_item, other_item)
+        differences[index] = compared if compared
+
+        # if index >= self_array.size
+        #   puts "case 1 #{compared}"
+        #   # differences[index] = compared
+        # elsif index >= other_array.size
+        #   puts "case 2.1 #{self_item}"
+        #   puts "case 2.2 #{compared}"
+        #   # differences[index] = compared
+        # end
       end
 
       if self_array.size != other_array.size
-        differences[:array_size_difference] = {
-          self: self_array.size,
-          other: other_array.size,
-        }
+        differences[:_array_size_difference] = Comparison.new(
+          original: self_array.size,
+          updated: other_array.size,
+        )
       end
 
       differences.empty? ? nil : differences
