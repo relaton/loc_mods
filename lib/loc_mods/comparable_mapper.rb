@@ -65,6 +65,10 @@ module LocMods
       when Array
         # puts "compare_values case 1"
         compare_arrays(self_value, other_value || [])
+      when NilClass, ComparableNil
+        unless [NilClass, ComparableNil].include?(other_value.class)
+          Comparison.new(original: self_value, updated: other_value.to_xml)
+        end
       when ComparableMapper
         # puts "compare_values case 2"
         self_value.compare(other_value)
