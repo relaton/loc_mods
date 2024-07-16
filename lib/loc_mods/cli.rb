@@ -67,7 +67,7 @@ module LocMods
       end
     end
 
-    def print_differences(differences, prefix = "", path = [])
+    def print_differences(differences, path = [])
       if differences.is_a?(Comparison)
         print_difference(differences, path)
         return
@@ -79,7 +79,7 @@ module LocMods
         current_path = path + [key]
         # This is a comparison
         if value.is_a?(Comparison)
-          print_difference(value, path)
+          print_difference(value, current_path)
           next
         end
 
@@ -105,7 +105,7 @@ module LocMods
           # puts "subvalue #{subvalue}, prefix #{prefix}, current_path + [subkey] #{current_path + [subkey]}"
 
           if subkey.is_a?(Integer)
-            print_differences(subvalue, prefix, current_path + [subkey])
+            print_differences(subvalue, current_path + [subkey])
           else
             if subvalue.is_a?(Comparison)
               print_difference(subvalue, current_path + [subkey])
@@ -122,8 +122,8 @@ module LocMods
       return unless value.original || value.updated
 
       puts "  #{format_path(current_path)}:"
-      puts "    Record 1: #{format_value(value.original)}"
-      puts "    Record 2: #{format_value(value.updated)}"
+      puts "    Record 1: #{format_value(value.original, '(no value)')}"
+      puts "    Record 2: #{format_value(value.updated, '(removed)')}"
       puts
     end
 
@@ -139,10 +139,10 @@ module LocMods
       end.join
     end
 
-    def format_value(value)
+    def format_value(value, nil_output = "(nil)")
       case value
       when nil, ComparableNil
-        "(nil)"
+        nil_output
       when String
         "\"#{value}\""
       else
