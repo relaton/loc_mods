@@ -7,6 +7,9 @@ require "loc_mods"
 module LocMods
   class Cli < Thor
     desc "detect-duplicates PATH...", "Detect duplicate records in MODS XML files or directories"
+    method_option :show_unchanged, type: :boolean, default: false, desc: "Show unchanged attributes in the diff output"
+    method_option :highlight_diff, type: :boolean, default: false, desc: "Highlight only the differences"
+    method_option :color, type: :string, enum: %w[auto on off], default: "auto", desc: "Use colors in the diff output (auto, on, off)"
 
     def detect_duplicates(*paths)
       all_records = []
@@ -46,12 +49,7 @@ module LocMods
           puts "  Comparison #{index + 1}:"
           puts "  File 1: #{record1[:file]}"
           puts "  File 2: #{record2[:file]}"
-          differences = record1[:record].compare(record2[:record])
-          if differences
-            puts "  ----"
-            print_differences(differences)
-            puts "  ----"
-          end
+          print_differences(record1[:record], record2[:record], options[:show_unchanged], options[:highlight_diff], color_enabled?)
           puts "\n"
         end
       end
@@ -67,87 +65,44 @@ module LocMods
       end
     end
 
-    def print_differences(differences, prefix = "", path = [])
-      if differences.is_a?(Comparison)
-        print_difference(differences, path)
-        return
-      end
+    def print_differences(record1, record2, show_unchanged, highlight_diff, use_colors)
+      diff_score, diff_tree = LocMods::BaseMapper.diff_with_score(record1, record2, show_unchanged: show_unchanged, highlight_diff: highlight_diff, use_colors: use_colors)
+      similarity_percentage = (1 - diff_score) * 100
 
-      # Differences is a Hash here
-      differences.each do |key, value|
-        # puts "key #{key}, value #{value}"
-        current_path = path + [key]
-        # This is a comparison
-        if value.is_a?(Comparison)
-          print_difference(value, path)
-          next
-        end
-
-        raise "Differences must be in form of a Hash" unless value.is_a?(Hash)
-
-        # This is not array, end here
-        next unless value.keys.any? do |k|
-          k.is_a?(Integer) || k == :_array_size_difference
-        end
-
-        # if value[:_array_size_difference]
-        #   puts "  #{format_path(current_path)} [_array_size_difference]:"
-        #   puts "    Record 1: #{format_value(value[:_array_size_difference].original)}"
-        #   puts "    Record 2: #{format_value(value[:_array_size_difference].updated)}"
-        #   puts
-        # end
-
-        value.each do |subkey, subvalue|
-          # if [:self, :other].include?(subkey)
-          #   raise "Subkey is self or other"
-          # end
-          # puts "subkey (#{subkey})"
-          # puts "subvalue #{subvalue}, prefix #{prefix}, current_path + [subkey] #{current_path + [subkey]}"
-
-          if subkey.is_a?(Integer)
-            print_differences(subvalue, prefix, current_path + [subkey])
-          else
-            if subvalue.is_a?(Comparison)
-              print_difference(subvalue, current_path + [subkey])
-              next
-            end
-
-            raise "In an array diff but not an Integer!"
-          end
-        end
-      end
+      puts "  Differences:"
+      puts diff_tree
+      puts "  Similarity score: #{similarity_percentage.round(2)}%"
     end
 
-    def print_difference(value, current_path)
-      return unless value.original || value.updated
-
-      puts "  #{format_path(current_path)}:"
-      puts "    Record 1: #{format_value(value.original)}"
-      puts "    Record 2: #{format_value(value.updated)}"
-      puts
-    end
-
-    def format_path(path)
-      path.map.with_index do |part, index|
-        if index.zero?
-          part.to_s
-        elsif part.is_a?(Integer)
-          "[#{part}]"
-        else
-          ".#{part}"
-        end
-      end.join
-    end
-
-    def format_value(value)
-      case value
-      when nil, ComparableNil
-        "(nil)"
-      when String
-        "\"#{value}\""
+    def color_enabled?
+      case options[:color]
+      when "on"
+        true
+      when "off"
+        false
       else
-        value.to_s
+        supports_color?
       end
+    end
+
+    def supports_color?
+      return false unless STDOUT.tty?
+
+      if RbConfig::CONFIG["host_os"] =~ /mswin|mingw|cygwin/
+        return true if ENV["ANSICON"]
+        return true if ENV["ConEmuANSI"] == "ON"
+        return true if ENV["TERM"] == "xterm"
+      end
+
+      return true if ENV["COLORTERM"]
+
+      term = ENV["TERM"]
+      return false if term.nil? || term.empty?
+
+      color_terms = ["ansi", "color", "console", "cygwin", "gnome", "konsole", "kterm",
+                     "linux", "msys", "putty", "rxvt", "screen", "tmux", "vt100", "xterm"]
+
+      color_terms.any? { |ct| term.include?(ct) }
     end
   end
 end
