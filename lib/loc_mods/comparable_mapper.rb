@@ -87,6 +87,7 @@ module LocMods
 
       def colorize(text, color)
         return text unless color
+
         color_codes = { red: 31, green: 32, blue: 34 }
         "\e[#{color_codes[color]}m#{text}\e[0m"
       end
@@ -102,7 +103,8 @@ module LocMods
       # @param obj2 [Object] The second object to compare
       # @param options [Hash] Options for diff generation
       def initialize(obj1, obj2, **options)
-        @obj1, @obj2 = obj1, obj2
+        @obj1 = obj1
+        @obj2 = obj2
         @show_unchanged = options.fetch(:show_unchanged, false)
         @highlight_diff = options.fetch(:highlight_diff, false)
         @use_colors = options.fetch(:use_colors, true)
@@ -123,12 +125,13 @@ module LocMods
       # Calculates the normalized diff score
       # @return [Float] The normalized diff score
       def calculate_diff_score
-        total_score, total_attributes = 0, 0
+        total_score = 0
+        total_attributes = 0
         traverse_diff do |_, _, value1, value2, _|
           total_score += calculate_attribute_score(value1, value2)
           total_attributes += 1
         end
-        total_attributes > 0 ? total_score / total_attributes : 0
+        total_attributes.positive? ? total_score / total_attributes : 0
       end
 
       private
@@ -139,6 +142,7 @@ module LocMods
       # @return [String] The colored text
       def colorize(text, color)
         return text unless @use_colors
+
         color_codes = { red: 31, green: 32, blue: 34 }
         "\e[#{color_codes[color]}m#{text}\e[0m"
       end
@@ -177,7 +181,7 @@ module LocMods
         elsif value1.is_a?(Array) && value2.is_a?(Array)
           calculate_array_score(value1, value2)
         else
-          value1.class == value2.class ? 0.5 : 1
+          value1.instance_of?(value2.class) ? 0.5 : 1
         end
       end
 
@@ -211,8 +215,10 @@ module LocMods
       # @return [String] Formatted value
       def format_value(value)
         case value
-        when nil then "(nil)"
-        when String then "(String) \"#{value}\""
+        when nil
+          "(nil)"
+        when String
+          "(String) \"#{value}\""
         when Array
           if value.empty?
             "(Array) 0 items"
@@ -220,9 +226,12 @@ module LocMods
             items = value.map { |item| format_value(item) }.join(", ")
             "(Array) [#{items}]"
           end
-        when Hash then "(Hash) #{value.keys.length} keys"
-        when ComparableMapper then "(#{value.class})"
-        else "(#{value.class}) #{value}"
+        when Hash
+          "(Hash) #{value.keys.length} keys"
+        when ComparableMapper
+          "(#{value.class})"
+        else
+          "(#{value.class}) #{value}"
         end
       end
 
@@ -233,7 +242,7 @@ module LocMods
       # @param value2 [Object] The value of the attribute in the second object
       # @param is_last [Boolean] Whether this is the last attribute in the list
       # @return [String] Formatted diff output for the attribute
-      def format_attribute_diff(name, type, value1, value2, is_last)
+      def format_attribute_diff(name, type, value1, value2, _is_last)
         return if value1 == value2 && !@show_unchanged
 
         node = Tree.new("#{name} (#{obj1.class.attributes[name].collection? ? "collection" : type_name(type)}):")
@@ -256,7 +265,7 @@ module LocMods
         array2 = [] if array2.nil?
         max_length = [array1.length, array2.length].max
 
-        if max_length == 0
+        if max_length.zero?
           parent_node.content += " (nil)"
           return
         end
@@ -265,19 +274,21 @@ module LocMods
           item1 = array1[index]
           item2 = array2[index]
 
-          if item1 == item2
-            format_single_value(item1, parent_node, "[#{index + 1}] (#{type_name(item1.class)})") if @show_unchanged
+          next if item1 == item2 && !@show_unchanged
+
+          prefix = item2.nil? ? "- " : (item1.nil? ? "+ " : "")
+          color = item2.nil? ? :red : (item1.nil? ? :green : nil)
+          type = item1&.class || item2&.class
+
+          node = Tree.new("#{prefix}[#{index + 1}] (#{type_name(type)})", color: color)
+          parent_node.add_child(node)
+
+          if item1.nil?
+            format_diff_item(item2, :green, node)
+          elsif item2.nil?
+            format_diff_item(item1, :red, node)
           else
-            prefix = item2.nil? ? "- " : (item1.nil? ? "+ " : "")
-            node = Tree.new("#{prefix}[#{index + 1}] (#{type_name(item1&.class || item2&.class)})", color: item2.nil? ? :red : (item1.nil? ? :green : nil))
-            parent_node.add_child(node)
-            if item1.nil?
-              format_diff_item(item2, :green, node)
-            elsif item2.nil?
-              format_diff_item(item1, :red, node)
-            else
-              format_value_tree(item1, item2, node, "")
-            end
+            format_value_tree(item1, item2, node, "")
           end
         end
       end
@@ -287,7 +298,7 @@ module LocMods
       # @param is_last [Boolean] Whether this is the last item in the current level
       # @param index [Integer] The index of the removed item
       # @return [String] Formatted output for the removed item
-      def format_removed_item(item, parent_node)
+      def format_removed_item(item, _parent_node)
         format_diff_item(item, :red)
       end
 
@@ -296,7 +307,7 @@ module LocMods
       # @param is_last [Boolean] Whether this is the last item in the current level
       # @param index [Integer] The index of the added item
       # @return [String] Formatted output for the added item
-      def format_added_item(item, parent_node)
+      def format_added_item(item, _parent_node)
         format_diff_item(item, :green)
       end
 
@@ -309,21 +320,21 @@ module LocMods
       # @return [String] Formatted output for the diff item
       def format_diff_item(item, color, parent_node)
         if item.is_a?(ComparableMapper)
-          format_comparable_mapper(item, parent_node, color)
-        else
-          parent_node.add_child(Tree.new(format_value(item), color: color))
+          return format_comparable_mapper(item, parent_node, color)
         end
+
+        parent_node.add_child(Tree.new(format_value(item), color: color))
       end
 
       # Formats the content of an object for diff output
       # @param obj [Object] The object to format
       # @return [String] Formatted content of the object
       def format_object_content(obj)
-        if obj.is_a?(ComparableMapper)
-          obj.class.attributes.map { |attr, _| "#{attr}: #{format_value(obj.send(attr))}" }.join("\n")
-        else
-          format_value(obj)
-        end
+        return format_value(obj) unless obj.is_a?(ComparableMapper)
+
+        obj.class.attributes.map do |attr, _|
+          "#{attr}: #{format_value(obj.send(attr))}"
+        end.join("\n")
       end
 
       # Formats and colors the content for diff output
@@ -334,7 +345,7 @@ module LocMods
       def format_colored_content(content, color, is_last)
         lines = content.split("\n")
         lines.map.with_index do |line, index|
-          if index == 0
+          if index.zero?
             "" # Skip the first line as it's already been output
           else
             prefix = index == lines.length - 1 && is_last ? "└── " : "├── "
@@ -361,9 +372,9 @@ module LocMods
       # @param obj2 [Object] The second object
       # @return [String] Formatted attributes of the objects
       def format_object_attributes(obj1, obj2, parent_node)
-        obj1.class.attributes.each do |attr, _|
+        obj1.class.attributes.each_key do |attr|
           value1 = obj1.send(attr)
-          value2 = obj2 ? obj2.send(attr) : nil
+          value2 = obj2&.send(attr)
 
           attr_type = obj1.class.attributes[attr].collection? ? "collection" : type_name(obj1.class.attributes[attr])
 
@@ -383,10 +394,18 @@ module LocMods
       # @param type_info [String, nil] Additional type information
       # @return [String] Formatted value tree
       def format_value_tree(value1, value2, parent_node, label, type_info = nil)
+        return if value1 == value2 && !@show_unchanged
+
         if value1 == value2
+          if @show_unchanged
+            return format_single_value(
+                     value1,
+                     parent_node,
+                     "#{label}#{type_info ? " (#{type_info})" : ""}"
+                   )
+          end
+
           return if @highlight_diff
-          return format_single_value(value1, parent_node, "#{label}#{type_info ? " (#{type_info})" : ""}") if @show_unchanged
-          return
         end
 
         case value1
