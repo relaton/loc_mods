@@ -9,7 +9,8 @@ module LocMods
     desc "detect-duplicates PATH...", "Detect duplicate records in MODS XML files or directories"
     method_option :show_unchanged, type: :boolean, default: false, desc: "Show unchanged attributes in the diff output"
     method_option :highlight_diff, type: :boolean, default: false, desc: "Highlight only the differences"
-    method_option :color, type: :string, enum: %w[auto on off], default: "auto", desc: "Use colors in the diff output (auto, on, off)"
+    method_option :color, type: :string, enum: %w[auto on off], default: "auto",
+                          desc: "Use colors in the diff output (auto, on, off)"
 
     def detect_duplicates(*paths)
       all_records = []
@@ -49,7 +50,13 @@ module LocMods
           puts "  Comparison #{index + 1}:"
           puts "  File 1: #{record1[:file]}"
           puts "  File 2: #{record2[:file]}"
-          print_differences(record1[:record], record2[:record], options[:show_unchanged], options[:highlight_diff], color_enabled?)
+          print_differences(
+            record1[:record],
+            record2[:record],
+            options[:show_unchanged],
+            options[:highlight_diff],
+            color_enabled?
+          )
           puts "\n"
         end
       end
@@ -66,7 +73,14 @@ module LocMods
     end
 
     def print_differences(record1, record2, show_unchanged, highlight_diff, use_colors)
-      diff_score, diff_tree = LocMods::BaseMapper.diff_with_score(record1, record2, show_unchanged: show_unchanged, highlight_diff: highlight_diff, use_colors: use_colors)
+      diff_score, diff_tree = LocMods::BaseMapper.diff_with_score(
+        record1,
+        record2,
+        show_unchanged: show_unchanged,
+        highlight_diff: highlight_diff,
+        use_colors: use_colors,
+        indent: "  ",
+      )
       similarity_percentage = (1 - diff_score) * 100
 
       puts "  Differences:"
@@ -86,7 +100,7 @@ module LocMods
     end
 
     def supports_color?
-      return false unless STDOUT.tty?
+      return false unless $stdout.tty?
 
       if RbConfig::CONFIG["host_os"] =~ /mswin|mingw|cygwin/
         return true if ENV["ANSICON"]
@@ -99,8 +113,8 @@ module LocMods
       term = ENV["TERM"]
       return false if term.nil? || term.empty?
 
-      color_terms = ["ansi", "color", "console", "cygwin", "gnome", "konsole", "kterm",
-                     "linux", "msys", "putty", "rxvt", "screen", "tmux", "vt100", "xterm"]
+      color_terms = %w[ansi color console cygwin gnome konsole kterm
+                       linux msys putty rxvt screen tmux vt100 xterm]
 
       color_terms.any? { |ct| term.include?(ct) }
     end
