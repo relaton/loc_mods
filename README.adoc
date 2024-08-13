@@ -28,15 +28,44 @@ LocMods::Collection.from_xml(File.read("reference/allrecords-MODS.xml"))
 
 === Command line interface
 
-LocMods provides a command-line interface (CLI) for various operations. The main
-executable is `loc-mods`.
+LocMods provides a command-line interface (CLI) for various operations.
+
+The main executable is `loc-mods`.
+
+[source,shell]
+----
+Commands:
+  loc-mods detect-duplicates PATH...  # Detect duplicate records in MODS XML files or directories
+  loc-mods help [COMMAND]             # Describe available commands or one specific command
+----
+
+
+
 
 ==== Detect duplicates
 
 The `detect-duplicates` command allows you to find duplicate MODS records based
 on using a "primary ID" that is their DOI (Digital Object Identifier).
 
+NOTE: The library assumes that every record has a DOI. If that is not the case,
+another way to setting the primary key needs to be defined.
+
 Usage:
+
+[source,shell]
+----
+Usage:
+  loc-mods detect-duplicates PATH...
+
+Options:
+  [--show-unchanged], [--no-show-unchanged] # Show unchanged attributes in the diff output
+                                            # Default: false
+  [--highlight-diff], [--no-highlight-diff] # Highlight only the differences
+                                            # Default: false
+  [--color=COLOR]                           # Use colors in the diff output (auto, on, off)
+                                            # Default: auto
+                                            # Possible values: auto, on, off
+----
 
 [source,shell]
 ----
@@ -45,15 +74,28 @@ $ loc-mods detect-duplicates [OPTIONS] <file_or_directory_path>
 
 Options:
 
-* `-r, --recursive`: Search for MODS files recursively in subdirectories.
-* `-v, --verbose`: Display more detailed output.
-* `-o, --output FILE`: Write the results to a file instead of stdout.
+`--show-unchanged`::
+(default: `false`)
+Show attributes of both objects even when they were not changed.
+
+`--highlight-diff`::
+(default: `false`)
+Highlight values only when they differ between two records.
+
+`--color=COLOR`::
+(default: `auto`) Use colors in the diff output. Values:
+
+`auto`::: the CLI will detect whether the terminal supports colors and display
+with colors if it does.
+`on`::: the CLI will always display with colors.
+`off`::: the CLI will never display with colors.
+
 
 Example:
 
 [source,shell]
 ----
-$ loc-mods detect-duplicates -r -v /path/to/mods/files
+$ loc-mods detect-duplicates  /path/to/mods/files
 ----
 
 This command will:
