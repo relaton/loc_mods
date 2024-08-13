@@ -45,6 +45,7 @@ module LocMods
             format_attribute_diff(name, type, value1, value2, is_last)
           end
         end
+
         @root_tree.to_s
       end
 
@@ -55,7 +56,8 @@ module LocMods
       # @return [Array<Float, String>] An array containing the normalized diff score and the diff tree
       def diff_with_score(obj1, obj2, **options)
         context = DiffContext.new(obj1, obj2, **options)
-        [context.calculate_diff_score, context.diff_tree]
+        indent = options[:indent] || ""
+        [context.calculate_diff_score, context.diff_tree(indent)]
       end
     end
 
@@ -115,11 +117,11 @@ module LocMods
 
       # Generates a diff tree between the two objects
       # @return [String] A string representation of the diff tree
-      def diff_tree
+      def diff_tree(indent = "")
         traverse_diff do |name, type, value1, value2, is_last|
           format_attribute_diff(name, type, value1, value2, is_last)
         end
-        @root_tree.to_s
+        @root_tree.to_s(indent)
       end
 
       # Calculates the normalized diff score
