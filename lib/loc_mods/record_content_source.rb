@@ -4,8 +4,8 @@ require_relative "base_mapper"
 
 module LocMods
   class RecordContentSource < BaseMapper
-    attribute :authority, Shale::Type::String
-    attribute :content, Shale::Type::String
+    attribute :authority, :string
+    attribute :content, :string
 
     xml do
       root "RecordContentSource"

@@ -5,10 +5,10 @@ require_relative "base_mapper"
 module LocMods
   # LocMods::StringPlusLanguagePlusAuthority
   class Occupation < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :authority, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
+    attribute :content, :string
+    attribute :authority, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
 
     xml do
       root "occupation"

@@ -6,7 +6,7 @@ require_relative "place_term"
 
 module LocMods
   class Place < BaseMapper
-    attribute :supplied, Shale::Type::Value
+    attribute :supplied, :string
     attribute :place_term, PlaceTerm, collection: true
 
     xml do

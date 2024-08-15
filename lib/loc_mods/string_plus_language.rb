@@ -4,10 +4,10 @@ require_relative "base_mapper"
 
 module LocMods
   class StringPlusLanguage < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
+    attribute :content, :string
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
 
     xml do
       root "nonSort"

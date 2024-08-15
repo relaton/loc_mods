@@ -4,11 +4,11 @@ require_relative "base_mapper"
 
 module LocMods
   class Note < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :type, Shale::Type::String
-    attribute :id, Shale::Type::String
-    attribute :script, Shale::Type::String
+    attribute :content, :string
+    attribute :display_label, :string
+    attribute :type, :string
+    attribute :id, :string
+    attribute :script, :string
 
     xml do
       root "note"

@@ -4,8 +4,8 @@ require_relative "base_mapper"
 
 module LocMods
   class RecordIdentifier < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :source, Shale::Type::String
+    attribute :content, :string
+    attribute :source, :string
 
     xml do
       root "recordIdentifier"

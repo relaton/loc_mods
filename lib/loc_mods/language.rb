@@ -7,13 +7,13 @@ require_relative "script_term"
 
 module LocMods
   class Language < BaseMapper
-    attribute :object_part, Shale::Type::String
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
-    attribute :usage, Shale::Type::Value
+    attribute :object_part, :string
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
+    attribute :alt_rep_group, :string
+    attribute :usage, :string
     attribute :language_term, LanguageTerm, collection: true
     attribute :script_term, ScriptTerm, collection: true
 

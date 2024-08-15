@@ -5,26 +5,26 @@ require_relative "non_sort"
 
 module LocMods
   class TitleInfo < BaseMapper
-    attribute :type, Shale::Type::String
-    attribute :other_type, Shale::Type::Value
-    attribute :supplied, Shale::Type::Value
-    attribute :alt_rep_group, Shale::Type::String
-    attribute :alt_format, Shale::Type::Value
-    attribute :content_type, Shale::Type::String
-    attribute :name_title_group, Shale::Type::String
-    attribute :usage, Shale::Type::Value
-    attribute :id, Shale::Type::Value
-    attribute :authority, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :title, Shale::Type::String, collection: true
-    attribute :sub_title, Shale::Type::String, collection: true
-    attribute :part_number, Shale::Type::String, collection: true
-    attribute :part_name, Shale::Type::String, collection: true
+    attribute :type, :string
+    attribute :other_type, :string
+    attribute :supplied, :string
+    attribute :alt_rep_group, :string
+    attribute :alt_format, :string
+    attribute :content_type, :string
+    attribute :name_title_group, :string
+    attribute :usage, :string
+    attribute :id, :string
+    attribute :authority, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
+    attribute :title, :string, collection: true
+    attribute :sub_title, :string, collection: true
+    attribute :part_number, :string, collection: true
+    attribute :part_name, :string, collection: true
     attribute :non_sort, NonSort, collection: true
 
     xml do

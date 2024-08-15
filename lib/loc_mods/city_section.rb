@@ -7,7 +7,7 @@ require_relative "hierarchical_part"
 module LocMods
   class CitySection < BaseMapper
     attribute :content, HierarchicalPart
-    attribute :city_section_type, Shale::Type::Value
+    attribute :city_section_type, :string
 
     xml do
       root "citySection"

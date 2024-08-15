@@ -4,12 +4,12 @@ require_relative "base_mapper"
 
 module LocMods
   class Identifier < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :type, Shale::Type::String
-    attribute :type_uri, Shale::Type::Value
-    attribute :invalid, Shale::Type::Value
-    attribute :alt_rep_group, Shale::Type::String
+    attribute :content, :string
+    attribute :display_label, :string
+    attribute :type, :string
+    attribute :type_uri, :string
+    attribute :invalid, :string
+    attribute :alt_rep_group, :string
 
     xml do
       root "nameIdentifier"

@@ -1,12 +1,11 @@
 # frozen_string_literal: true
 
-# lib/loc_mods/base_mapper.rb
-require "shale"
+require "lutaml/model"
 require_relative "comparable_mapper"
 
 module LocMods
   # Base class for all object definitions
-  class BaseMapper < Shale::Mapper
+  class BaseMapper < Lutaml::Model::Serializable
     include ComparableMapper
   end
 

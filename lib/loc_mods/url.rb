@@ -4,12 +4,12 @@ require_relative "base_mapper"
 
 module LocMods
   class Url < BaseMapper
-    attribute :content, Shale::Type::Value
-    attribute :date_last_accessed, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :note, Shale::Type::String
-    attribute :access, Shale::Type::String
-    attribute :usage, Shale::Type::String
+    attribute :content, :string
+    attribute :date_last_accessed, :string
+    attribute :display_label, :string
+    attribute :note, :string
+    attribute :access, :string
+    attribute :usage, :string
 
     xml do
       root "url"

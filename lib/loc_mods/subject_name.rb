@@ -8,20 +8,20 @@ require_relative "role"
 
 module LocMods
   class SubjectName < BaseMapper
-    attribute :type, Shale::Type::String
-    attribute :id, Shale::Type::Value
-    attribute :authority, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
+    attribute :type, :string
+    attribute :id, :string
+    attribute :authority, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
     attribute :name_part, NamePart, collection: true
-    attribute :display_form, Shale::Type::String, collection: true
-    attribute :affiliation, Shale::Type::String, collection: true
+    attribute :display_form, :string, collection: true
+    attribute :affiliation, :string, collection: true
     attribute :role, Role, collection: true
-    attribute :description, Shale::Type::String, collection: true
+    attribute :description, :string, collection: true
     attribute :name_identifier, Identifier, collection: true
 
     xml do

@@ -4,20 +4,20 @@ require_relative "base_mapper"
 
 module LocMods
   class SubjectTitleInfo < BaseMapper
-    attribute :id, Shale::Type::Value
-    attribute :authority, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :type, Shale::Type::String
-    attribute :title, Shale::Type::String, collection: true
-    attribute :sub_title, Shale::Type::String, collection: true
-    attribute :part_number, Shale::Type::String, collection: true
-    attribute :part_name, Shale::Type::String, collection: true
-    attribute :non_sort, Shale::Type::String, collection: true
+    attribute :id, :string
+    attribute :authority, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
+    attribute :type, :string
+    attribute :title, :string, collection: true
+    attribute :sub_title, :string, collection: true
+    attribute :part_number, :string, collection: true
+    attribute :part_name, :string, collection: true
+    attribute :non_sort, :string, collection: true
 
     xml do
       root "subjectTitleInfo"

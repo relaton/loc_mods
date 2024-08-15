@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-# lib/loc_mods/cli.rb
 require "thor"
 require "loc_mods"
 

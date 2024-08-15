@@ -25,8 +25,8 @@ require_relative "type_of_resource"
 
 module LocMods
   class Record < BaseMapper
-    attribute :id, Shale::Type::Value
-    attribute :version, Shale::Type::String
+    attribute :id, :string
+    attribute :version, :string
     attribute :abstract, Abstract, collection: true
     attribute :access_condition, AccessCondition, collection: true
     attribute :classification, Classification, collection: true

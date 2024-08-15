@@ -7,7 +7,7 @@ require_relative "hierarchical_part"
 module LocMods
   class Area < BaseMapper
     attribute :content, HierarchicalPart
-    attribute :area_type, Shale::Type::Value
+    attribute :area_type, :string
 
     xml do
       root "area"

@@ -4,11 +4,11 @@ require_relative "base_mapper"
 
 module LocMods
   class Detail < BaseMapper
-    attribute :type, Shale::Type::String
-    attribute :level, Shale::Type::Integer
-    attribute :number, Shale::Type::String, collection: true
-    attribute :caption, Shale::Type::String, collection: true
-    attribute :title, Shale::Type::String, collection: true
+    attribute :type, :string
+    attribute :level, :integer
+    attribute :number, :string, collection: true
+    attribute :caption, :string, collection: true
+    attribute :title, :string, collection: true
 
     xml do
       root "detail"

@@ -6,12 +6,12 @@ require_relative "cartographic_extension"
 
 module LocMods
   class Cartographics < BaseMapper
-    attribute :authority, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
-    attribute :scale, Shale::Type::String
-    attribute :projection, Shale::Type::String
-    attribute :coordinates, Shale::Type::String, collection: true
+    attribute :authority, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
+    attribute :scale, :string
+    attribute :projection, :string
+    attribute :coordinates, :string, collection: true
     attribute :cartographic_extension, CartographicExtension, collection: true
 
     xml do

@@ -4,10 +4,10 @@ require_relative "base_mapper"
 
 module LocMods
   class GeographicCode < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
-    attribute :authority, Shale::Type::String
+    attribute :content, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
+    attribute :authority, :string
 
     xml do
       root "geographicCode"

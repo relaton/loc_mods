@@ -4,8 +4,8 @@ require_relative "base_mapper"
 
 module LocMods
   class Extent < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :unit, Shale::Type::Value
+    attribute :content, :string
+    attribute :unit, :string
 
     xml do
       root "extent"
