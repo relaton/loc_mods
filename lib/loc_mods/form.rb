@@ -4,9 +4,9 @@ require_relative "base_mapper"
 
 module LocMods
   class Form < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :type, Shale::Type::String
-    attribute :authority, Shale::Type::String
+    attribute :content, :string
+    attribute :type, :string
+    attribute :authority, :string
 
     xml do
       root "form"

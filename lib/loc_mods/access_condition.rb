@@ -4,15 +4,15 @@ require_relative "base_mapper"
 
 module LocMods
   class AccessCondition < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :type, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
-    attribute :alt_format, Shale::Type::Value
-    attribute :content_type, Shale::Type::String
+    attribute :content, :string
+    attribute :display_label, :string
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :type, :string
+    attribute :alt_rep_group, :string
+    attribute :alt_format, :string
+    attribute :content_type, :string
 
     xml do
       root "accessCondition"

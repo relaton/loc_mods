@@ -10,18 +10,18 @@ require_relative "record_content_source"
 
 module LocMods
   class RecordInfo < BaseMapper
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
+    attribute :alt_rep_group, :string
     attribute :record_content_source, RecordContentSource, collection: true
     attribute :record_creation_date, Date, collection: true
     attribute :record_change_date, Date, collection: true
     attribute :record_identifier, RecordIdentifier, collection: true
     attribute :language_of_cataloging, Language, collection: true
-    attribute :record_origin, Shale::Type::String, collection: true
-    attribute :description_standard, Shale::Type::String, collection: true
+    attribute :record_origin, :string, collection: true
+    attribute :description_standard, :string, collection: true
     attribute :record_info_note, RecordInfoNote, collection: true
 
     xml do

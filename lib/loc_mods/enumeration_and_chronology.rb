@@ -4,8 +4,8 @@ require_relative "base_mapper"
 
 module LocMods
   class EnumerationAndChronology < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :unit_type, Shale::Type::String
+    attribute :content, :string
+    attribute :unit_type, :string
 
     xml do
       root "enumerationAndChronology"

@@ -4,13 +4,13 @@ require_relative "base_mapper"
 
 module LocMods
   class TableOfContents < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :type, Shale::Type::String
-    attribute :shareable, Shale::Type::Value
-    attribute :alt_rep_group, Shale::Type::String
-    attribute :alt_format, Shale::Type::Value
-    attribute :content_type, Shale::Type::String
+    attribute :content, :string
+    attribute :display_label, :string
+    attribute :type, :string
+    attribute :shareable, :string
+    attribute :alt_rep_group, :string
+    attribute :alt_format, :string
+    attribute :content_type, :string
 
     xml do
       root "tableOfContents"

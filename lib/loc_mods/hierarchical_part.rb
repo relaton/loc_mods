@@ -4,12 +4,12 @@ require_relative "base_mapper"
 
 module LocMods
   class HierarchicalPart < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :level, Shale::Type::Value
-    attribute :period, Shale::Type::Value
-    attribute :authority, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
+    attribute :content, :string
+    attribute :level, :string
+    attribute :period, :string
+    attribute :authority, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
 
     xml do
       root "territory"

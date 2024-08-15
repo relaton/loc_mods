@@ -13,18 +13,18 @@ require_relative "occupation"
 
 module LocMods
   class Subject < BaseMapper
-    attribute :id, Shale::Type::Value
-    attribute :authority, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
-    attribute :usage, Shale::Type::Value
-    attribute :topic, Shale::Type::String, collection: true
-    attribute :geographic, Shale::Type::String, collection: true
+    attribute :id, :string
+    attribute :authority, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
+    attribute :alt_rep_group, :string
+    attribute :usage, :string
+    attribute :topic, :string, collection: true
+    attribute :geographic, :string, collection: true
     attribute :temporal, Temporal, collection: true
     attribute :title_info, SubjectTitleInfo, collection: true
     attribute :name, SubjectName, collection: true
@@ -33,7 +33,7 @@ module LocMods
     attribute :cartographics, Cartographics, collection: true
     attribute :occupation, Occupation, collection: true
     attribute :genre, Genre, collection: true
-    attribute :href, Shale::Type::String
+    attribute :href, :string
 
     xml do
       root "subject"

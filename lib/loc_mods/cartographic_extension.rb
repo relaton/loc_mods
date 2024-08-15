@@ -4,8 +4,8 @@ require_relative "base_mapper"
 
 module LocMods
   class CartographicExtension < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :display_label, Shale::Type::String
+    attribute :content, :string
+    attribute :display_label, :string
 
     xml do
       root "cartographicExtension"

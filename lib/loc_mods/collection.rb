@@ -7,7 +7,7 @@ require_relative "record"
 module LocMods
   class Collection < BaseMapper
     attribute :mods, Record, collection: true
-    attribute :schema_location, Shale::Type::String
+    attribute :schema_location, :string
 
     xml do
       root "modsCollection"

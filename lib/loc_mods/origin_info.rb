@@ -10,12 +10,12 @@ require_relative "edition"
 
 module LocMods
   class OriginInfo < BaseMapper
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
-    attribute :event_type, Shale::Type::String
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
+    attribute :alt_rep_group, :string
+    attribute :event_type, :string
     attribute :place, Place, collection: true
     attribute :publisher, Publisher, collection: true
     attribute :date_issued, Date, collection: true
@@ -26,8 +26,8 @@ module LocMods
     attribute :copyright_date, Date, collection: true
     attribute :date_other, DateOther, collection: true
     attribute :edition, Edition, collection: true
-    attribute :issuance, Shale::Type::String, collection: true
-    attribute :frequency, Shale::Type::String, collection: true
+    attribute :issuance, :string, collection: true
+    attribute :frequency, :string, collection: true
 
     xml do
       root "originInfo"

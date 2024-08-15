@@ -9,13 +9,13 @@ require_relative "url"
 
 module LocMods
   class Location < BaseMapper
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
+    attribute :alt_rep_group, :string
     attribute :physical_location, PhysicalLocation, collection: true
-    attribute :shelf_locator, Shale::Type::String, collection: true
+    attribute :shelf_locator, :string, collection: true
     attribute :url, Url, collection: true
     attribute :holding_simple, HoldingSimple
     attribute :holding_external, CartographicExtension

@@ -1,14 +1,15 @@
 # frozen_string_literal: true
 
-require_relative "loc_mods/version"
+require "lutaml/model"
+
+Lutaml::Model::Config.configure do |config|
+  require "lutaml/model/xml_adapter/nokogiri_adapter"
+  config.xml_adapter = Lutaml::Model::XmlAdapter::NokogiriAdapter
+end
 
 module LocMods
   class Error < StandardError; end
-  # Your code goes here...
 end
 
-require "shale"
-require "shale/adapter/nokogiri"
-Shale.xml_adapter = Shale::Adapter::Nokogiri
-
+require_relative "loc_mods/version"
 require_relative "loc_mods/collection"

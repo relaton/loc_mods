@@ -7,9 +7,9 @@ require_relative "date"
 module LocMods
   class Temporal < BaseMapper
     attribute :content, Date
-    attribute :authority, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
+    attribute :authority, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
 
     xml do
       root "temporal"

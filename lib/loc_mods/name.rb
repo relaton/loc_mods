@@ -9,27 +9,27 @@ require_relative "role"
 
 module LocMods
   class Name < BaseMapper
-    attribute :id, Shale::Type::Value
-    attribute :authority, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
-    attribute :name_title_group, Shale::Type::String
-    attribute :usage, Shale::Type::String
-    attribute :type, Shale::Type::String
+    attribute :id, :string
+    attribute :authority, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
+    attribute :alt_rep_group, :string
+    attribute :name_title_group, :string
+    attribute :usage, :string
+    attribute :type, :string
     attribute :name_part, NamePart, collection: true
-    attribute :display_form, Shale::Type::String, collection: true
-    attribute :affiliation, Shale::Type::String, collection: true
+    attribute :display_form, :string, collection: true
+    attribute :affiliation, :string, collection: true
     attribute :role, Role, collection: true
-    attribute :description, Shale::Type::String, collection: true
+    attribute :description, :string, collection: true
     attribute :name_identifier, Identifier, collection: true
     attribute :alternative_name, AlternativeName, collection: true
-    attribute :etal, Shale::Type::String
-    attribute :href, Shale::Type::String
+    attribute :etal, :string
+    attribute :href, :string
 
     xml do
       root "name"

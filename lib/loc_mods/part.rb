@@ -9,14 +9,14 @@ require_relative "text"
 
 module LocMods
   class Part < BaseMapper
-    attribute :id, Shale::Type::Value
-    attribute :type, Shale::Type::String
-    attribute :order, Shale::Type::Integer
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
+    attribute :id, :string
+    attribute :type, :string
+    attribute :order, :integer
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
+    attribute :alt_rep_group, :string
     attribute :detail, Detail, collection: true
     attribute :extent, ExtentDefinition, collection: true
     attribute :date, Date, collection: true

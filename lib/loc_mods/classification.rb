@@ -4,12 +4,12 @@ require_relative "base_mapper"
 
 module LocMods
   class Classification < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :edition, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
-    attribute :usage, Shale::Type::Value
-    attribute :generator, Shale::Type::String
+    attribute :content, :string
+    attribute :edition, :string
+    attribute :display_label, :string
+    attribute :alt_rep_group, :string
+    attribute :usage, :string
+    attribute :generator, :string
 
     xml do
       root "classification"

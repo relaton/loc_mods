@@ -4,8 +4,8 @@ require_relative "base_mapper"
 
 module LocMods
   class NonSort < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :space, Shale::Type::String
+    attribute :content, :string
+    attribute :space, :string
 
     xml do
       root "nonSort"

@@ -4,12 +4,12 @@ require_relative "base_mapper"
 
 module LocMods
   class Date < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :encoding, Shale::Type::String
-    attribute :qualifier, Shale::Type::String
-    attribute :point, Shale::Type::String
-    attribute :key_date, Shale::Type::Value
-    attribute :calendar, Shale::Type::String
+    attribute :content, :string
+    attribute :encoding, :string
+    attribute :qualifier, :string
+    attribute :point, :string
+    attribute :key_date, :string
+    attribute :calendar, :string
 
     xml do
       root "recordChangeDate"

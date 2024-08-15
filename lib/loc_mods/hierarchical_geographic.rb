@@ -9,13 +9,13 @@ require_relative "region"
 
 module LocMods
   class HierarchicalGeographic < BaseMapper
-    attribute :authority, Shale::Type::String
-    attribute :authority_uri, Shale::Type::Value
-    attribute :value_uri, Shale::Type::Value
+    attribute :authority, :string
+    attribute :authority_uri, :string
+    attribute :value_uri, :string
     attribute :extra_terrestrial_area, HierarchicalPart, collection: true
     attribute :continent, HierarchicalPart, collection: true
     attribute :country, HierarchicalPart, collection: true
-    attribute :province, Shale::Type::String, collection: true
+    attribute :province, :string, collection: true
     attribute :region, Region, collection: true
     attribute :state, HierarchicalPart, collection: true
     attribute :territory, HierarchicalPart, collection: true

@@ -5,8 +5,8 @@ require_relative "base_mapper"
 module LocMods
   # LocMods::StringPlusLanguagePlusSupplied
   class Edition < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :supplied, Shale::Type::String
+    attribute :content, :string
+    attribute :supplied, :string
 
     xml do
       root "edition"

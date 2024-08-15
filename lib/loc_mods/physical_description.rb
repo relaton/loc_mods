@@ -8,16 +8,16 @@ require_relative "physical_description_note"
 
 module LocMods
   class PhysicalDescription < BaseMapper
-    attribute :lang, Shale::Type::String
-    attribute :script, Shale::Type::String
-    attribute :transliteration, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
+    attribute :lang, :string
+    attribute :script, :string
+    attribute :transliteration, :string
+    attribute :display_label, :string
+    attribute :alt_rep_group, :string
     attribute :form, Form, collection: true
-    attribute :reformatting_quality, Shale::Type::String, collection: true
-    attribute :internet_media_type, Shale::Type::String, collection: true
+    attribute :reformatting_quality, :string, collection: true
+    attribute :internet_media_type, :string, collection: true
     attribute :extent, Extent, collection: true
-    attribute :digital_origin, Shale::Type::String, collection: true
+    attribute :digital_origin, :string, collection: true
     attribute :note, PhysicalDescriptionNote, collection: true
 
     xml do

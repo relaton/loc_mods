@@ -10,9 +10,9 @@ require_relative "note"
 module LocMods
   class CopyInformation < BaseMapper
     attribute :form, Form
-    attribute :sub_location, Shale::Type::String, collection: true
-    attribute :shelf_locator, Shale::Type::String, collection: true
-    attribute :electronic_locator, Shale::Type::String, collection: true
+    attribute :sub_location, :string, collection: true
+    attribute :shelf_locator, :string, collection: true
+    attribute :electronic_locator, :string, collection: true
     attribute :note, Note, collection: true
     attribute :enumeration_and_chronology, EnumerationAndChronology,
               collection: true

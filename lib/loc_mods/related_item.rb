@@ -24,13 +24,13 @@ require_relative "type_of_resource"
 
 module LocMods
   class RelatedItem < BaseMapper
-    attribute :type, Shale::Type::String
-    attribute :other_type, Shale::Type::String
-    attribute :other_type_auth, Shale::Type::String
-    attribute :other_type_auth_uri, Shale::Type::String
-    attribute :other_type_uri, Shale::Type::String
-    attribute :display_label, Shale::Type::String
-    attribute :id, Shale::Type::Value
+    attribute :type, :string
+    attribute :other_type, :string
+    attribute :other_type_auth, :string
+    attribute :other_type_auth_uri, :string
+    attribute :other_type_uri, :string
+    attribute :display_label, :string
+    attribute :id, :string
     attribute :abstract, Abstract, collection: true
     attribute :access_condition, AccessCondition, collection: true
     attribute :classification, Classification, collection: true
@@ -51,7 +51,7 @@ module LocMods
     attribute :target_audience, TargetAudience, collection: true
     attribute :title_info, TitleInfo, collection: true
     attribute :type_of_resource, TypeOfResource, collection: true
-    attribute :href, Shale::Type::String
+    attribute :href, :string
 
     xml do
       root "relatedItem"

@@ -4,12 +4,12 @@ require_relative "base_mapper"
 
 module LocMods
   class TypeOfResource < BaseMapper
-    attribute :content, Shale::Type::String
-    attribute :collection, Shale::Type::Value
-    attribute :manuscript, Shale::Type::Value
-    attribute :display_label, Shale::Type::String
-    attribute :alt_rep_group, Shale::Type::String
-    attribute :usage, Shale::Type::Value
+    attribute :content, :string
+    attribute :collection, :string
+    attribute :manuscript, :string
+    attribute :display_label, :string
+    attribute :alt_rep_group, :string
+    attribute :usage, :string
 
     xml do
       root "typeOfResource"
