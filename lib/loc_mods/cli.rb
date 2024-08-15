@@ -78,7 +78,7 @@ module LocMods
         show_unchanged: show_unchanged,
         highlight_diff: highlight_diff,
         use_colors: use_colors,
-        indent: "  ",
+        indent: "  "
       )
       similarity_percentage = (1 - diff_score) * 100
 

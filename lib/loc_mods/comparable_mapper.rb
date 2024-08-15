@@ -278,8 +278,16 @@ module LocMods
 
           next if item1 == item2 && !@show_unchanged
 
-          prefix = item2.nil? ? "- " : (item1.nil? ? "+ " : "")
-          color = item2.nil? ? :red : (item1.nil? ? :green : nil)
+          prefix = if item2.nil?
+                     "- "
+                   else
+                     (item1.nil? ? "+ " : "")
+                   end
+          color = if item2.nil?
+                    :red
+                  else
+                    (item1.nil? ? :green : nil)
+                  end
           type = item1&.class || item2&.class
 
           node = Tree.new("#{prefix}[#{index + 1}] (#{type_name(type)})", color: color)
@@ -321,9 +329,7 @@ module LocMods
       # @param prefix [String] The prefix to use for the item (+ or -)
       # @return [String] Formatted output for the diff item
       def format_diff_item(item, color, parent_node)
-        if item.is_a?(ComparableMapper)
-          return format_comparable_mapper(item, parent_node, color)
-        end
+        return format_comparable_mapper(item, parent_node, color) if item.is_a?(ComparableMapper)
 
         parent_node.add_child(Tree.new(format_value(item), color: color))
       end
@@ -401,10 +407,10 @@ module LocMods
         if value1 == value2
           if @show_unchanged
             return format_single_value(
-                     value1,
-                     parent_node,
-                     "#{label}#{type_info ? " (#{type_info})" : ""}"
-                   )
+              value1,
+              parent_node,
+              "#{label}#{type_info ? " (#{type_info})" : ""}"
+            )
           end
 
           return if @highlight_diff
