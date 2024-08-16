@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "date"
 require_relative "date_other"
@@ -9,7 +9,7 @@ require_relative "publisher"
 require_relative "edition"
 
 module LocMods
-  class OriginInfo < BaseMapper
+  class OriginInfo < Lutaml::Model::Serializable
     attribute :lang, :string
     attribute :script, :string
     attribute :transliteration, :string

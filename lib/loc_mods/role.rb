@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "role_term"
 
 module LocMods
-  class Role < BaseMapper
+  class Role < Lutaml::Model::Serializable
     attribute :role_term, RoleTerm, collection: true
 
     xml do

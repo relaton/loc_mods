@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "enumeration_and_chronology"
 require_relative "form"
@@ -8,7 +8,7 @@ require_relative "item_identifier"
 require_relative "note"
 
 module LocMods
-  class CopyInformation < BaseMapper
+  class CopyInformation < Lutaml::Model::Serializable
     attribute :form, Form
     attribute :sub_location, :string, collection: true
     attribute :shelf_locator, :string, collection: true

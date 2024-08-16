@@ -72,13 +72,13 @@ module LocMods
     end
 
     def print_differences(record1, record2, show_unchanged, highlight_diff, use_colors)
-      diff_score, diff_tree = LocMods::BaseMapper.diff_with_score(
+      diff_score, diff_tree = Lutaml::Model::Serialize.diff_with_score(
         record1,
         record2,
         show_unchanged: show_unchanged,
         highlight_diff: highlight_diff,
         use_colors: use_colors,
-        indent: "  "
+        indent: "  ",
       )
       similarity_percentage = (1 - diff_score) * 100
 

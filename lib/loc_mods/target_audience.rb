@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 module LocMods
-  class TargetAudience < BaseMapper
+  class TargetAudience < Lutaml::Model::Serializable
     attribute :content, :string
     attribute :display_label, :string
     attribute :alt_rep_group, :string

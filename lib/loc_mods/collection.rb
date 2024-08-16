@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "record"
 
 module LocMods
-  class Collection < BaseMapper
+  class Collection < Lutaml::Model::Serializable
     attribute :mods, Record, collection: true
     attribute :schema_location, :string
 

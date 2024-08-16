@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "cartographics"
 require_relative "genre"
@@ -12,7 +12,7 @@ require_relative "temporal"
 require_relative "occupation"
 
 module LocMods
-  class Subject < BaseMapper
+  class Subject < Lutaml::Model::Serializable
     attribute :id, :string
     attribute :authority, :string
     attribute :authority_uri, :string

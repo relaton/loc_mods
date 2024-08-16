@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "copy_information"
 
 module LocMods
-  class HoldingSimple < BaseMapper
+  class HoldingSimple < Lutaml::Model::Serializable
     attribute :copy_information, CopyInformation, collection: true
 
     xml do
