@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 module LocMods
-  class StringPlusLanguage < BaseMapper
+  class StringPlusLanguage < Lutaml::Model::Serializable
     attribute :content, :string
     attribute :lang, :string
     attribute :script, :string

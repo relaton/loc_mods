@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "cartographic_extension"
 
 module LocMods
-  class Cartographics < BaseMapper
+  class Cartographics < Lutaml::Model::Serializable
     attribute :authority, :string
     attribute :authority_uri, :string
     attribute :value_uri, :string

@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 module LocMods
-  class PlaceTerm < BaseMapper
+  class PlaceTerm < Lutaml::Model::Serializable
     attribute :content, :string
     attribute :authority_uri, :string
     attribute :value_uri, :string

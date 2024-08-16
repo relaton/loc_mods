@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "hierarchical_part"
 
 module LocMods
-  class Area < BaseMapper
+  class Area < Lutaml::Model::Serializable
     attribute :content, HierarchicalPart
     attribute :area_type, :string
 

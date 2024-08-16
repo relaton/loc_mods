@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "area"
 require_relative "city_section"
@@ -8,7 +8,7 @@ require_relative "hierarchical_part"
 require_relative "region"
 
 module LocMods
-  class HierarchicalGeographic < BaseMapper
+  class HierarchicalGeographic < Lutaml::Model::Serializable
     attribute :authority, :string
     attribute :authority_uri, :string
     attribute :value_uri, :string

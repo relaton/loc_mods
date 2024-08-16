@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 module LocMods
-  class Extent < BaseMapper
+  class Extent < Lutaml::Model::Serializable
     attribute :content, :string
     attribute :unit, :string
 

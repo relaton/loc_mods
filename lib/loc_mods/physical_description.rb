@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "extent"
 require_relative "form"
 require_relative "physical_description_note"
 
 module LocMods
-  class PhysicalDescription < BaseMapper
+  class PhysicalDescription < Lutaml::Model::Serializable
     attribute :lang, :string
     attribute :script, :string
     attribute :transliteration, :string

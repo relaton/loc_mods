@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 
 require_relative "cartographic_extension"
 require_relative "holding_simple"
@@ -8,7 +8,7 @@ require_relative "physical_location"
 require_relative "url"
 
 module LocMods
-  class Location < BaseMapper
+  class Location < Lutaml::Model::Serializable
     attribute :lang, :string
     attribute :script, :string
     attribute :transliteration, :string

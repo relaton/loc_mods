@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "base_mapper"
+require "lutaml/model"
 require_relative "non_sort"
 
 module LocMods
-  class TitleInfo < BaseMapper
+  class TitleInfo < Lutaml::Model::Serializable
     attribute :type, :string
     attribute :other_type, :string
     attribute :supplied, :string
