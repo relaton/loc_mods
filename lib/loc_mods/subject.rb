@@ -36,7 +36,7 @@ module LocMods
     attribute :href, :string
 
     xml do
-      root "subject"
+      root "subject", ordered: true
       namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "href", to: :href,
