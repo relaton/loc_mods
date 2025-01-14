@@ -49,7 +49,7 @@ module LocMods
     attribute :type_of_resource, TypeOfResource, collection: true
 
     xml do
-      root "mods"
+      root "mods", ordered: true
       namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "ID", to: :id

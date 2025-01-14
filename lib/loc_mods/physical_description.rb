@@ -21,7 +21,7 @@ module LocMods
     attribute :note, PhysicalDescriptionNote, collection: true
 
     xml do
-      root "physicalDescription"
+      root "physicalDescription", ordered: true
       namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "lang", to: :lang

@@ -30,7 +30,7 @@ module LocMods
     attribute :frequency, :string, collection: true
 
     xml do
-      root "originInfo"
+      root "originInfo", ordered: true
       namespace "http://www.loc.gov/mods/v3", nil
 
       map_attribute "lang", to: :lang
