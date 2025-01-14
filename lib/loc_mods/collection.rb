@@ -7,7 +7,6 @@ require_relative "record"
 module LocMods
   class Collection < Lutaml::Model::Serializable
     attribute :mods, Record, collection: true
-    attribute :schema_location, :string
 
     xml do
       root "modsCollection"
