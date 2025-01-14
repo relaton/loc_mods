@@ -10,11 +10,11 @@ RSpec.describe LocMods::Collection do
   # as of 2024-05-03
 
   SKIP_IDS = [
-    "allrecords-MODS-991000197019708106",
+    "allrecords-MODS-991000197019708106"
   ].freeze
 
   # TODO: removing limits to test all records
-  limit = 50000
+  limit = 50_000
   Dir.glob("spec/fixtures/allrecords-MODS-*.xml").each do |f|
     limit -= 1
     break if limit == 0
@@ -28,7 +28,7 @@ RSpec.describe LocMods::Collection do
       output = LocMods::Collection.from_xml(input).to_xml(
         pretty: true,
         declaration: true,
-        encoding: "utf-8",
+        encoding: "utf-8"
       )
 
       expect(output).to be_analogous_with(input)
