@@ -12,8 +12,8 @@ module LocMods
     attribute :value_uri, :string
 
     xml do
-      root "temporal"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "temporal"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "authority", to: :authority

@@ -11,8 +11,8 @@ module LocMods
     attribute :script, :string
 
     xml do
-      root "note"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "note"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "displayLabel", to: :display_label

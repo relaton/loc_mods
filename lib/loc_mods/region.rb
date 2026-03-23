@@ -10,8 +10,8 @@ module LocMods
     attribute :region_type, :string
 
     xml do
-      root "region"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "region"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "regionType", to: :region_type

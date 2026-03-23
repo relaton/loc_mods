@@ -10,8 +10,8 @@ module LocMods
     attribute :area_type, :string
 
     xml do
-      root "area"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "area"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "areaType", to: :area_type

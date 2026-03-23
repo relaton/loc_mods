@@ -9,8 +9,8 @@ module LocMods
     attribute :supplied, :string
 
     xml do
-      root "edition"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "edition"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "supplied", to: :supplied

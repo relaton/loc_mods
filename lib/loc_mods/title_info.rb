@@ -28,8 +28,8 @@ module LocMods
     attribute :non_sort, NonSort, collection: true
 
     xml do
-      root "titleInfo"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "titleInfo"
+      namespace Namespace
 
       map_attribute "type", to: :type
       map_attribute "otherType", to: :other_type

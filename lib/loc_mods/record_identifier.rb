@@ -8,8 +8,8 @@ module LocMods
     attribute :source, :string
 
     xml do
-      root "recordIdentifier"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "recordIdentifier"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "source", to: :source

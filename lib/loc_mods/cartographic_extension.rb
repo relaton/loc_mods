@@ -8,8 +8,8 @@ module LocMods
     attribute :display_label, :string
 
     xml do
-      root "cartographicExtension"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "cartographicExtension"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "displayLabel", to: :display_label

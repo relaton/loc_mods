@@ -25,8 +25,8 @@ module LocMods
     attribute :name_identifier, Identifier, collection: true
 
     xml do
-      root "subjectName"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "subjectName"
+      namespace Namespace
 
       map_attribute "type", to: :type
       map_attribute "ID", to: :id

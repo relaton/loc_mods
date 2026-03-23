@@ -10,8 +10,8 @@ module LocMods
     attribute :city_section_type, :string
 
     xml do
-      root "citySection"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "citySection"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "citySectionType", to: :city_section_type

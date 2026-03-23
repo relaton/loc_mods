@@ -10,8 +10,8 @@ module LocMods
     attribute :value_uri, :string
 
     xml do
-      root "publisher"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "publisher"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "authority", to: :authority

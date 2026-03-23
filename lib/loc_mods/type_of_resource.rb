@@ -12,8 +12,8 @@ module LocMods
     attribute :usage, :string
 
     xml do
-      root "typeOfResource"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "typeOfResource"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "collection", to: :collection

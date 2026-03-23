@@ -51,11 +51,11 @@ module LocMods
     attribute :target_audience, TargetAudience, collection: true
     attribute :title_info, TitleInfo, collection: true
     attribute :type_of_resource, TypeOfResource, collection: true
-    attribute :href, :string
+    attribute :href, XlinkHref
 
     xml do
-      root "relatedItem"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "relatedItem"
+      namespace Namespace
 
       map_attribute "type", to: :type
       map_attribute "otherType", to: :other_type
@@ -64,9 +64,7 @@ module LocMods
       map_attribute "otherTypeURI", to: :other_type_uri
       map_attribute "displayLabel", to: :display_label
       map_attribute "ID", to: :id
-      map_attribute "href", to: :href,
-                            namespace: "http://www.w3.org/1999/xlink",
-                            prefix: "xlink"
+      map_attribute "href", to: :href
 
       map_element "abstract", to: :abstract
       map_element "accessCondition", to: :access_condition

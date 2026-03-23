@@ -12,8 +12,8 @@ module LocMods
     attribute :usage, :string
 
     xml do
-      root "url"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "url"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "dateLastAccessed", to: :date_last_accessed

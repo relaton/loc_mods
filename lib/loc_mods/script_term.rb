@@ -8,8 +8,8 @@ module LocMods
     attribute :type, :string
 
     xml do
-      root "scriptTerm"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "scriptTerm"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "type", to: :type

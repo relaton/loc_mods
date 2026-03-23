@@ -13,8 +13,8 @@ module LocMods
     attribute :generator, :string
 
     xml do
-      root "classification"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "classification"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "authority", to: :authority

@@ -5,9 +5,12 @@ require "loc_mods"
 
 module LocMods
   class Cli < Thor
-    desc "detect-duplicates PATH...", "Detect duplicate records in MODS XML files or directories"
-    method_option :show_unchanged, type: :boolean, default: false, desc: "Show unchanged attributes in the diff output"
-    method_option :highlight_diff, type: :boolean, default: false, desc: "Highlight only the differences"
+    desc "detect-duplicates PATH...",
+         "Detect duplicate records in MODS XML files or directories"
+    method_option :show_unchanged, type: :boolean, default: false,
+                                   desc: "Show unchanged attributes in the diff output"
+    method_option :highlight_diff, type: :boolean, default: false,
+                                   desc: "Highlight only the differences"
     method_option :color, type: :string, enum: %w[auto on off], default: "auto",
                           desc: "Use colors in the diff output (auto, on, off)"
 
@@ -27,7 +30,9 @@ module LocMods
 
       records_by_url = {}
       all_records.each do |record|
-        urls = record[:record].location.flat_map { |loc| loc.url.map(&:content) }.compact
+        urls = record[:record].location.flat_map do |loc|
+          loc.url.map(&:content)
+        end.compact
         unless urls.any?
           puts "Warning: Record without URL found in file: #{record[:file]}"
           next
@@ -54,7 +59,7 @@ module LocMods
             record2[:record],
             options[:show_unchanged],
             options[:highlight_diff],
-            color_enabled?
+            color_enabled?,
           )
           puts "\n"
         end
@@ -71,14 +76,15 @@ module LocMods
       end
     end
 
-    def print_differences(record1, record2, show_unchanged, highlight_diff, use_colors)
+    def print_differences(record1, record2, show_unchanged, highlight_diff,
+use_colors)
       diff_score, diff_tree = Lutaml::Model::Serialize.diff_with_score(
         record1,
         record2,
         show_unchanged: show_unchanged,
         highlight_diff: highlight_diff,
         use_colors: use_colors,
-        indent: "  "
+        indent: "  ",
       )
       similarity_percentage = (1 - diff_score) * 100
 
@@ -101,7 +107,7 @@ module LocMods
     def supports_color?
       return false unless $stdout.tty?
 
-      if RbConfig::CONFIG["host_os"] =~ /mswin|mingw|cygwin/
+      if /mswin|mingw|cygwin/.match?(RbConfig::CONFIG["host_os"])
         return true if ENV["ANSICON"]
         return true if ENV["ConEmuANSI"] == "ON"
         return true if ENV["TERM"] == "xterm"
@@ -109,7 +115,7 @@ module LocMods
 
       return true if ENV["COLORTERM"]
 
-      term = ENV["TERM"]
+      term = ENV.fetch("TERM", nil)
       return false if term.nil? || term.empty?
 
       color_terms = %w[ansi color console cygwin gnome konsole kterm

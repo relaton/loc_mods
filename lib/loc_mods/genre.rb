@@ -12,8 +12,8 @@ module LocMods
     attribute :authority, :string
 
     xml do
-      root "genre"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "genre"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "type", to: :type

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-require "loc_mods"
-require "xml-c14n"
+require_relative "../lib/loc_mods"
+require "canon"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
@@ -16,3 +16,6 @@ RSpec.configure do |config|
 end
 
 require "lutaml/model"
+Lutaml::Model::Config.configure do |config|
+  config.xml_adapter_type = :nokogiri
+end

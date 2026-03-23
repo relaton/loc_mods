@@ -9,8 +9,8 @@ module LocMods
     attribute :copy_information, CopyInformation, collection: true
 
     xml do
-      root "holdingSimple"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "holdingSimple"
+      namespace Namespace
 
       map_element "copyInformation", to: :copy_information
     end

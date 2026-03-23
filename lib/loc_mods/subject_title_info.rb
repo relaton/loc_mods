@@ -20,8 +20,8 @@ module LocMods
     attribute :non_sort, :string, collection: true
 
     xml do
-      root "subjectTitleInfo"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "subjectTitleInfo"
+      namespace Namespace
 
       map_attribute "ID", to: :id
       map_attribute "authority", to: :authority

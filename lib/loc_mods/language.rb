@@ -18,8 +18,8 @@ module LocMods
     attribute :script_term, ScriptTerm, collection: true
 
     xml do
-      root "languageOfCataloging"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "languageOfCataloging"
+      namespace Namespace
 
       map_attribute "objectPart", to: :object_part
       map_attribute "lang", to: :lang

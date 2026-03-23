@@ -15,8 +15,8 @@ module LocMods
     attribute :content_type, :string
 
     xml do
-      root "accessCondition"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "accessCondition"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "displayLabel", to: :display_label

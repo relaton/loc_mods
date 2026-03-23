@@ -19,8 +19,8 @@ module LocMods
     attribute :item_identifier, ItemIdentifier, collection: true
 
     xml do
-      root "copyInformation"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "copyInformation"
+      namespace Namespace
 
       map_element "form", to: :form
       map_element "subLocation", to: :sub_location

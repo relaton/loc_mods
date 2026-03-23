@@ -33,15 +33,14 @@ module LocMods
     attribute :cartographics, Cartographics, collection: true
     attribute :occupation, Occupation, collection: true
     attribute :genre, Genre, collection: true
-    attribute :href, :string
+    attribute :href, XlinkHref
 
     xml do
-      root "subject", ordered: true
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "subject"
+      ordered
+      namespace Namespace
 
-      map_attribute "href", to: :href,
-                            namespace: "http://www.w3.org/1999/xlink",
-                            prefix: "xlink"
+      map_attribute "href", to: :href
 
       map_attribute "ID", to: :id
       map_attribute "authority", to: :authority
