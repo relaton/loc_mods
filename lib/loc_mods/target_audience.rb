@@ -10,8 +10,8 @@ module LocMods
     attribute :alt_rep_group, :string
 
     xml do
-      root "targetAudience"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "targetAudience"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "authority", to: :authority

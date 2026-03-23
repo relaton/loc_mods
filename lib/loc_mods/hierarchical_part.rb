@@ -12,8 +12,8 @@ module LocMods
     attribute :value_uri, :string
 
     xml do
-      root "territory"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "territory"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "level", to: :level

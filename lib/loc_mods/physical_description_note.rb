@@ -11,8 +11,8 @@ module LocMods
     attribute :id, :string
 
     xml do
-      root "physicalDescriptionNote"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "physicalDescriptionNote"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "displayLabel", to: :display_label

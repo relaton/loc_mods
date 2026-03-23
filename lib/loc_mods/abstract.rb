@@ -13,8 +13,8 @@ module LocMods
     attribute :content_type, :string
 
     xml do
-      root "abstract"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "abstract"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "displayLabel", to: :display_label

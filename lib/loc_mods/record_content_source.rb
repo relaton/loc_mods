@@ -8,7 +8,7 @@ module LocMods
     attribute :content, :string
 
     xml do
-      root "RecordContentSource"
+      element "RecordContentSource"
       map_content to: :content
 
       map_attribute "authority", to: :authority

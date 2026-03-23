@@ -29,15 +29,13 @@ module LocMods
     attribute :name_identifier, Identifier, collection: true
     attribute :alternative_name, AlternativeName, collection: true
     attribute :etal, :string
-    attribute :href, :string
+    attribute :href, XlinkHref
 
     xml do
-      root "name"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "name"
+      namespace Namespace
 
-      map_attribute "href", to: :href,
-                            namespace: "http://www.w3.org/1999/xlink",
-                            prefix: "xlink"
+      map_attribute "href", to: :href
 
       map_attribute "ID", to: :id
       map_attribute "authority", to: :authority

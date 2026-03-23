@@ -11,8 +11,8 @@ module LocMods
     attribute :value_uri, :string
 
     xml do
-      root "occupation"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "occupation"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "authority", to: :authority

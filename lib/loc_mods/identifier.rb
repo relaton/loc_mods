@@ -12,8 +12,8 @@ module LocMods
     attribute :alt_rep_group, :string
 
     xml do
-      root "nameIdentifier"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "nameIdentifier"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "displayLabel", to: :display_label

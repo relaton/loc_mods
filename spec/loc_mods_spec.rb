@@ -2,6 +2,6 @@
 
 RSpec.describe LocMods::Collection do
   it "has a version number" do
-    expect(LocMods::VERSION).not_to be nil
+    expect(LocMods::VERSION).not_to be_nil
   end
 end

@@ -26,8 +26,8 @@ module LocMods
     attribute :area, Area, collection: true
 
     xml do
-      root "hierarchicalGeographic"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "hierarchicalGeographic"
+      namespace Namespace
 
       map_attribute "authority", to: :authority
       map_attribute "authorityURI", to: :authority_uri

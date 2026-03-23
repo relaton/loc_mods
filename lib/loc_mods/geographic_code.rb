@@ -10,8 +10,8 @@ module LocMods
     attribute :authority, :string
 
     xml do
-      root "geographicCode"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "geographicCode"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "authorityURI", to: :authority_uri

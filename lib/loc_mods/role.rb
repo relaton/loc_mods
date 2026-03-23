@@ -9,8 +9,8 @@ module LocMods
     attribute :role_term, RoleTerm, collection: true
 
     xml do
-      root "role"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "role"
+      namespace Namespace
 
       map_element "roleTerm", to: :role_term
     end

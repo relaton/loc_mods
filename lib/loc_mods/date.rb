@@ -12,8 +12,8 @@ module LocMods
     attribute :calendar, :string
 
     xml do
-      root "recordChangeDate"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "recordChangeDate"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "encoding", to: :encoding

@@ -15,8 +15,8 @@ module LocMods
     attribute :cartographic_extension, CartographicExtension, collection: true
 
     xml do
-      root "cartographics"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "cartographics"
+      namespace Namespace
 
       map_attribute "authority", to: :authority
       map_attribute "authorityURI", to: :authority_uri

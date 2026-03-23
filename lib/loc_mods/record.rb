@@ -49,8 +49,9 @@ module LocMods
     attribute :type_of_resource, TypeOfResource, collection: true
 
     xml do
-      root "mods", ordered: true
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "mods"
+      ordered
+      namespace Namespace
 
       map_attribute "ID", to: :id
       map_attribute "version", to: :version

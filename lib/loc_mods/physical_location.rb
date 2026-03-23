@@ -9,8 +9,8 @@ module LocMods
     attribute :type, :string
 
     xml do
-      root "physicalLocation"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "physicalLocation"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "displayLabel", to: :display_label

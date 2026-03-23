@@ -21,8 +21,9 @@ module LocMods
     attribute :note, PhysicalDescriptionNote, collection: true
 
     xml do
-      root "physicalDescription", ordered: true
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "physicalDescription"
+      ordered
+      namespace Namespace
 
       map_attribute "lang", to: :lang
       map_attribute "script", to: :script

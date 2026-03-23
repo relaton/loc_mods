@@ -9,8 +9,8 @@ module LocMods
     attribute :authority, :string
 
     xml do
-      root "form"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "form"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "type", to: :type

@@ -10,8 +10,8 @@ module LocMods
     attribute :transliteration, :string
 
     xml do
-      root "nonSort"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "nonSort"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "lang", to: :lang

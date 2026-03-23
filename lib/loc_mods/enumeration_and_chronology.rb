@@ -8,8 +8,8 @@ module LocMods
     attribute :unit_type, :string
 
     xml do
-      root "enumerationAndChronology"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "enumerationAndChronology"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "unitType", to: :unit_type

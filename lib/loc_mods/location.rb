@@ -21,8 +21,8 @@ module LocMods
     attribute :holding_external, CartographicExtension
 
     xml do
-      root "location"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "location"
+      namespace Namespace
 
       map_attribute "lang", to: :lang
       map_attribute "script", to: :script

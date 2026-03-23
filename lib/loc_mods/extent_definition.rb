@@ -11,8 +11,8 @@ module LocMods
     attribute :list, :string
 
     xml do
-      root "extentDefinition"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "extentDefinition"
+      namespace Namespace
 
       map_attribute "unit", to: :unit
       map_element "start", to: :start

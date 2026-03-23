@@ -23,8 +23,8 @@ module LocMods
     attribute :text, Text, collection: true
 
     xml do
-      root "part"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "part"
+      namespace Namespace
 
       map_attribute "ID", to: :id
       map_attribute "type", to: :type

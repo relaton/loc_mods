@@ -9,8 +9,8 @@ module LocMods
     attribute :mods, Record, collection: true
 
     xml do
-      root "modsCollection"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "modsCollection"
+      namespace Namespace
 
       map_element "mods", to: :mods
     end

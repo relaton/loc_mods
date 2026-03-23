@@ -8,8 +8,8 @@ module LocMods
     attribute :unit, :string
 
     xml do
-      root "extent"
-      namespace "http://www.loc.gov/mods/v3", nil
+      element "extent"
+      namespace Namespace
 
       map_content to: :content
       map_attribute "unit", to: :unit
