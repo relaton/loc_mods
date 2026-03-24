@@ -119,6 +119,22 @@ metadata.
 bin/update-nist-mods
 ----
 
+=== Running tests
+
+Run all tests:
+
+[source,sh]
+----
+bundle exec rake spec
+----
+
+Run a single test by description:
+
+[source,sh]
+----
+bundle exec rspec spec/loc_mods/collection_spec.rb --example "991000197019708106"
+----
+
 == License
 
 Copyright Ribose.
