@@ -10,10 +10,8 @@ RSpec.describe LocMods::Collection do
   # as of 2024-05-03
 
   SKIP_IDS = [
-    # Bug in lutaml-model: empty <topic/> elements lost on round-trip due to
-    # element_order tracking in ordered_applier.rb not respecting render_empty.
-    # See: docs/bugreports/BUGREPORT_element_order_render_empty.md
-    "allrecords-MODS-991000197019708106",
+    # empty <topic/> elements preserved via render_empty: :as_blank (fixed in lutaml-model + loc_mods)
+    # "allrecords-MODS-991000197019708106",
   ].freeze
 
   # TODO: removing limits to test all records

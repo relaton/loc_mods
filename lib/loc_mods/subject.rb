@@ -55,7 +55,7 @@ module LocMods
 
       map_element "name", to: :name
       map_element "titleInfo", to: :title_info
-      map_element "topic", to: :topic
+      map_element "topic", to: :topic, render_empty: :as_blank
       map_element "geographic", to: :geographic
       map_element "temporal", to: :temporal
       map_element "geographicCode", to: :geographic_code
