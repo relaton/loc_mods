@@ -34,6 +34,7 @@ module LocMods
   autoload :Language, "loc_mods/language.rb"
   autoload :LanguageTerm, "loc_mods/language_term.rb"
   autoload :Location, "loc_mods/location.rb"
+  autoload :MarcCodeLookup, "loc_mods/marc_code_lookup.rb"
   autoload :Name, "loc_mods/name.rb"
   autoload :Namespace, "loc_mods/namespace.rb"
   autoload :NamePart, "loc_mods/name_part.rb"

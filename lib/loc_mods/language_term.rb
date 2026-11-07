@@ -4,6 +4,8 @@ require "lutaml/model"
 
 module LocMods
   class LanguageTerm < Lutaml::Model::Serializable
+    include MarcCodeLookup
+
     attribute :content, :string
     attribute :authority_uri, :string
     attribute :value_uri, :string
