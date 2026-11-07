@@ -26,6 +26,34 @@ LocMods::Collection.from_xml(File.read("spec/fixtures/record_1.xml"))
 LocMods::Collection.from_xml(File.read("reference/allrecords-MODS.xml"))
 ----
 
+=== MARC 21 code lookup
+
+`RoleTerm`, `PlaceTerm`, `LanguageTerm` and `GeographicCode` can look up a
+coded value in the MARC 21 code lists of the
+https://github.com/relaton/loc_marc[`loc_marc`] gem.
+The `authority` attribute selects the code list:
+
+|===
+| `authority` | Code list
+
+| `marcrelator` | https://www.loc.gov/marc/relators/[MARC Code List for Relators]
+| `marccountry` | https://www.loc.gov/marc/countries/[MARC Code List for Countries]
+| `marcgac` | https://www.loc.gov/marc/geoareas/[MARC Code List for Geographic Areas]
+| `iso639-2b` | https://www.loc.gov/marc/languages/[MARC Code List for Languages]
+|===
+
+[source,ruby]
+----
+term = LocMods::RoleTerm.from_xml(
+  '<roleTerm xmlns="http://www.loc.gov/mods/v3" type="code" authority="marcrelator">aut</roleTerm>'
+)
+term.code_info        # => {code: "aut", description: "Author", deprecated: false}
+term.code_description # => "Author"
+----
+
+The methods return `nil` for a `type="text"` term, for an authority without a
+MARC code list, and for an unknown code.
+
 === Command line interface
 
 LocMods provides a command-line interface (CLI) for various operations.

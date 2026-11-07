@@ -30,6 +30,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.required_ruby_version = ">= 2.7.0"
 
+  spec.add_dependency "loc_marc", "~> 0.2"
   spec.add_dependency "lutaml-model", "~> 0.8.0"
   spec.add_dependency "nokogiri"
   spec.add_dependency "thor"
