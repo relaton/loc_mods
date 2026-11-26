@@ -32,7 +32,6 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "loc_marc", "~> 0.2"
   spec.add_dependency "lutaml-model", "~> 0.8.0"
-  spec.add_dependency "nokogiri"
   spec.add_dependency "thor"
 
   spec.metadata["homepage_uri"] = spec.homepage
